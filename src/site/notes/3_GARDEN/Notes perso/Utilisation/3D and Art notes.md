@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/3_GARDEN/Notes perso/Utilisation/3D and Art notes/","tags":["utilisation","gardenEntry"],"dg-note-properties":{"MOC":null,"Projets":null,"tags":["utilisation","gardenEntry"],"creation date":"2025-08-07","banner":"https://cdnb.artstation.com/p/assets/images/images/091/343/305/large/flavio-hoffe-f-hoffe-week-05-01.jpg?1756518472"}}
 ---
 
+# 3D and Art notes
 
 > [!quote] Bienvenue sur ce site qui regroupe toutes mes notes de cours (et plus) dans le domaine de l'*art* et de la *3D* 
 > 
