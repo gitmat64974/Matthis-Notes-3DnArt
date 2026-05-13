@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/LIGHTING/","tags":["MOC","gardenEntry"],"dg-note-properties":{"tags":["MOC","gardenEntry"],"MOC":["[[3D]]"],"source":null,"banner":"cinematic lighting","aliases":["L'éclairage au cinéma"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/LIGHTING/","tags":["MOC"],"dg-note-properties":{"tags":["MOC"],"MOC":["[[3D]]"],"source":null,"banner":"cinematic lighting","aliases":["L'éclairage au cinéma"]}}
 ---
 
 
