@@ -45,6 +45,7 @@ views:
 
 - [[1_PROJETS/FFE/01_PRE_PRODUCTION/Documentation/FFE Le Sitariste - SYMBOLES|FFE Le Sitariste - SYMBOLES]]
 
+- [[3_GARDEN/Notes permanentes/Histoire de l'architecture en Inde|Histoire de l'architecture en Inde]]
 - [[3_GARDEN/Notes permanentes/Théâtre en Inde|Théâtre en Inde]]
 - [[3_GARDEN/Notes permanentes/Vêtements en Inde|Vêtements en Inde]]
 
