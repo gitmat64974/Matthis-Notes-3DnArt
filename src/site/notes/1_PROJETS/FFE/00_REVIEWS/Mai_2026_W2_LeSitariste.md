@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projets/ffe/00-reviews/mai-2026-w2-le-sitariste/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/1_PROJETS/FFE/00_REVIEWS/Mai_2026_W2_LeSitariste/","dg-note-properties":{}}
 ---
 
 
