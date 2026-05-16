@@ -2,10 +2,7 @@
 {"dg-publish":true,"permalink":"/1_PROJETS/FFE/01_PRE_PRODUCTION/FFE Le Sitariste - 00 PRE PRODUCTION/","dg-note-properties":{"MOC":null,"tags":null,"status":"En cours","weight":10,"type":"Projet","creation date":"2026-04-04","Startdate":"2026-04-04","endDate":"2026-06-04","tn_and_checkbox_tasks":0,"tn_and_checkbox_tasks_completed":0,"banner":"![plan_final.png](/img/user/Pi%C3%A8ces%20jointes/plan_final.png)","Personnes":["Matthis","Julie","Nerys","Ludo","Brayane","Enzo","Raphael","Berenice","Hugo","Elliot","Titouan"]}}
 ---
 
-# Suivi
 
-
-- [ ] test
 ## Weekly reviews
 
 
