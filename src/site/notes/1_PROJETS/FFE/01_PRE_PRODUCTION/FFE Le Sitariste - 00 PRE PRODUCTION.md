@@ -43,9 +43,12 @@ views:
 
 ## Documentation
 
+- [[1_PROJETS/FFE/01_PRE_PRODUCTION/Documentation/FFE Le Sitariste - SYMBOLES|FFE Le Sitariste - SYMBOLES]]
 
+- [[3_GARDEN/Notes permanentes/Théâtre en Inde|Théâtre en Inde]]
+- [[3_GARDEN/Notes permanentes/Vêtements en Inde|Vêtements en Inde]]
 
-
+- [[3_GARDEN/Notes permanentes/Mythologie hindoue|Mythologie hindoue]]
 
 
 ## Départements de pré production
