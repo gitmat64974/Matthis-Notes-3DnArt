@@ -20,12 +20,7 @@
 - [[3_GARDEN/MOCs/HISTOIRE DE L'ART|HISTOIRE DE L'ART]]
 - [[3_GARDEN/MOCs/BD|BD]]
 
-
-| [[3_GARDEN/MOCs/DRAMATURGIE|DRAMATURGIE]] | [[3_GARDEN/MOCs/SEMIOLOGIE|SEMIOLOGIE]] | [[3_GARDEN/MOCs/ANALYSE FILMIQUE|ANALYSE FILMIQUE]] | [[3_GARDEN/MOCs/HISTOIRE DU CINEMA|HISTOIRE DU CINEMA]] | [[3_GARDEN/MOCs/HISTOIRE DE L'ART|HISTOIRE DE L'ART]] | [[3_GARDEN/MOCs/BD|BD]] |
-| --------------- | -------------- | -------------------- | ---------------------- | --------------------- | ------ |
-|                 |                |                      |                        |                       |        |
-
-
+---
 
 ## Pré production :
 
@@ -36,29 +31,34 @@
 - [[3_GARDEN/MOCs/ANATOMIE ARTISTIQUE|ANATOMIE ARTISTIQUE]]
 - [[3_GARDEN/MOCs/DESSIN|DESSIN]]
 
+---
 ## Production :
 
+- [[3_GARDEN/MOCs/MODELISATION|MODELISATION]]
+- [[3_GARDEN/MOCs/RIG|RIG]]
+- [[3_GARDEN/MOCs/ANIMATION|ANIMATION]]
 
-| [[3_GARDEN/MOCs/MODELISATION|MODELISATION]] | [[3_GARDEN/MOCs/RIG|RIG]] | [[3_GARDEN/MOCs/ANIMATION|ANIMATION]] |
-| ---------------- | ------- | ------------- |
+- [[3_GARDEN/MOCs/LIGHTING|LIGHTING]]
+- [[3_GARDEN/MOCs/SHADING TEXTURING|SHADING TEXTURING]]
 
-| [[3_GARDEN/MOCs/MODELISATION|MODELISATION]] | [[3_GARDEN/MOCs/LIGHTING|LIGHTING]] | [[3_GARDEN/MOCs/SHADING TEXTURING|SHADING TEXTURING]] |
-| ---------------- | ------------ | --------------------- |
+- [[3_GARDEN/MOCs/HOUDINI|HOUDINI]]
+- [[3_GARDEN/MOCs/GROOM|GROOM]]
+- [[3_GARDEN/MOCs/CFX|CFX]]
 
-
-| [[3_GARDEN/MOCs/HOUDINI|HOUDINI]] | [[3_GARDEN/MOCs/GROOM|GROOM]] | [[3_GARDEN/MOCs/CFX|CFX]] |     |
-| ----------- | --------- | ------- | --- |
-
-
+---
 
 ## Post production :
 
 - [[3_GARDEN/MOCs/COMPOSITING|COMPOSITING]]
 
+---
 ## Logiciels 
 
+- [[3_GARDEN/MOCs/HOUDINI|HOUDINI]]
+- [[3_GARDEN/MOCs/ZBRUSH|ZBRUSH]]
 - [[3_GARDEN/MOCs/MARI|MARI]]
 - [[3_GARDEN/MOCs/SUBSTANCE PAINTER|SUBSTANCE PAINTER]]
-- [[3_GARDEN/MOCs/HOUDINI|HOUDINI]]
-- 
+- [[3_GARDEN/MOCs/SUBSTANCE DESIGNER|SUBSTANCE DESIGNER]]
+- [[3_GARDEN/MOCs/PHOTOSHOP|PHOTOSHOP]]
+- [[3_GARDEN/MOCs/AFFINITY|AFFINITY]]
 
