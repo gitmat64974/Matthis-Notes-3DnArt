@@ -53,6 +53,9 @@ Playlist de FlippedNormals :
 [[3_GARDEN/Notes permanentes/MARI Projects et MARI Archives|MARI Projects et MARI Archives]]
 [[3_GARDEN/Notes permanentes/MARI, setup de l'UI|MARI, setup de l'UI]]
 
+Export etc
+
+[[3_GARDEN/Notes permanentes/Channels dans MARI|Channels dans MARI]]
 ## Skin texturing
 
 [[3_GARDEN/Notes permanentes/Skin texturing MARI|Skin texturing MARI]]
