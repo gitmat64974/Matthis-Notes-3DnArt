@@ -4,36 +4,6 @@
 
 ![](https://pbs.twimg.com/media/GzTsgvDa4AU826O.jpg)
 
----
-
-> [!success]+ Derniers cours Houdini : 
-> 
->  | File                                                                                 | Date de création  | Contenu brut |
-> | ------------------------------------------------------------------------------------ | ----------------- | ------------ |
-> | [[3_GARDEN/Notes littéraires/Cours Houdini semaine 14|Cours Houdini semaine 14]] | January 23, 2026  | false        |
-> | [[3_GARDEN/Notes littéraires/Cours Houdini semaine 13|Cours Houdini semaine 13]] | January 18, 2026  | false        |
-> | [[3_GARDEN/Notes littéraires/Cours Houdini semaine 12|Cours Houdini semaine 12]] | January 12, 2026  | true         |
-> | [[3_GARDEN/Notes littéraires/Cours Houdini semaine 10|Cours Houdini semaine 10]] | January 05, 2026  | false        |
-> | [[3_GARDEN/Notes littéraires/Cours Houdini semaine 8|Cours Houdini semaine 8]]   | November 24, 2025 | true         |
-> 
-{ .block-language-dataview}
-> 
-
----
-
-> [!tip]+ Derniers cours CFX : 
-> 
->  | File                                                           | Date de création  | Contenu brut |
-> | -------------------------------------------------------------- | ----------------- | ------------ |
-> | [[3_GARDEN/Notes littéraires/13e cours CFX|13e cours CFX]] | February 13, 2026 | false        |
-> | [[3_GARDEN/Notes littéraires/11e cours CFX|11e cours CFX]] | January 23, 2026  | false        |
-> | [[3_GARDEN/Notes littéraires/10e cours CFX|10e cours CFX]] | January 16, 2026  | false        |
-> 
-{ .block-language-dataview}
-> 
-
----
-
 # Définition
 
 
@@ -78,10 +48,14 @@ Houdini est très utilisé par les grands studios d'effets spéciaux comme Walt 
 > #### Rendering avec renderman dans solaris
 > [meshmenstudi](https://youtube.com/@meshmenstudio?si=QeGUB7sUuXzYuHFQ)
 
-# MOC
+
+## Interface et compréhension générale du logiciel
 
 
 - [[3_GARDEN/Notes permanentes/Raccourcis Houdini|Raccourcis Houdini]]
+
+[[3_GARDEN/Notes permanentes/Interface générale Houdini|Interface générale Houdini]] (notes en vrac)
+
 
 ## Modélisation procédurale 
 
