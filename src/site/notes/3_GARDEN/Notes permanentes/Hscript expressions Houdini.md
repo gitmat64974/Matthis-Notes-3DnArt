@@ -28,7 +28,53 @@ Les incontournables :
 Il y a 9 types différents : X, Y, Z _ MIN, MAX, SIZE -> ex ``D_XMIN`` ou ``D_YMAX`` ou ``D_ZSIZE`` etc
 -> Min et max sont des plans donc des positions et pas des calculs de longueur comme size
 
+#### Variables globales de lecture
 
+|Variable|Équivalent VEX (`@`)|Description|
+|---|---|---|
+|`$F`|—|Frame courante (entier). La plus utilisée, notamment pour numéroter des rendus.|
+|`$FF`|`@Frame`|Frame courante en virgule flottante (précis, utile en sous-frame / motion blur).|
+|`$T`|`@Time`|Temps courant en secondes = `($F-1)/$FPS`.|
+|`$FPS`|—|Images par seconde définies dans la barre de lecture.|
+|`$FSTART` / `$FEND`|—|Première / dernière frame de l'animation.|
+|`$NFRAMES`|—|Nombre total de frames = `$FEND - $FSTART + 1`.|
+|`$TSTART` / `$TEND` / `$TLENGTH`|
+
+#### Référencement de canaux
+
+- `ch()` → renvoie un nombre (int/float).
+- `chs()` → renvoie une chaîne de caractères.
+- `chramp()` → renvoie la valeur d'un paramètre rampe à une position donnée (0 à 1).
+
+Clic droit sur le paramètre source → _Copy Parameter_, puis clic droit sur le paramètre cible → _Paste Relative Reference_ : Houdini écrit le `ch("...")` correct tout seul.
+
+#### Nombres aléatoires et remapping 
+
+
+```text
+rand(seed)          # nombre pseudo-aléatoire entre 0 et 1
+rand($F)            # change à chaque frame
+rand($PT)           # change à chaque point (dans un Point SOP)
+rand($PT * 10)      # une autre valeur aléatoire décorrélée de la précédente
+```
+
+`rand()` renvoie toujours le même nombre pour la même seed. Pour avoir des valeurs différentes par point/frame/canal, il faut varier la seed (multiplier, additionner un offset...).
+```text
+# Couleur aléatoire différente par primitive, stable dans le temps
+rand($PR)            # Rouge
+rand($PR * 10)        # Vert
+rand($PR * 100)       # Bleu
+```
+
+Remapper une plage 0-1 vers autre chose :
+
+```text
+fit01(rand($F), 2, 8)          # aléatoire entre 2 et 8
+fit10(0.3, 5, 20)               # inverse le sens : 15.5
+fit(3, 1, 4, 5, 20)              # remapping général : 15
+```
+
+Pour une plage symétrique -X à X : `rand(seed) * (2*X) - X`.
 
 
 ## Références
