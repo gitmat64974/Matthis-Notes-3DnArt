@@ -59,6 +59,9 @@ Houdini est très utilisé par les grands studios d'effets spéciaux comme Walt 
 
 ## Modélisation procédurale 
 
+[[3_GARDEN/Notes permanentes/Différence point et vertex|Différence point et vertex]]
+
+
 [[3_GARDEN/Notes permanentes/Boolean Houdini|Boolean Houdini]]
 [[3_GARDEN/Notes permanentes/Récupérer les hard edges dans Houdini|Récupérer les hard edges dans Houdini]]
 
@@ -73,7 +76,9 @@ Houdini est très utilisé par les grands studios d'effets spéciaux comme Walt 
 #### Applicatifs 
 
 [[3_GARDEN/Notes permanentes/Mode corde procedurale Houdini|Mode corde procedurale Houdini]]
+[[3_GARDEN/Notes permanentes/Mode chaine procedurale Houdini|Mode chaine procedurale Houdini]] 
 [[3_GARDEN/Notes permanentes/Procedural plants and flowers Houdini|Procedural plants and flowers Houdini]]
+[[3_GARDEN/Notes permanentes/Mode procedurale escaliers Houdini|Mode procedurale escaliers Houdini]]
 
 ---
 
@@ -137,7 +142,7 @@ Scatterring : [[3_GARDEN/Notes permanentes/Scattering Houdini|Scattering Houdini
 
 [[3_GARDEN/Notes permanentes/KineFX x Simulations|KineFX x Simulations]]
 
-## Crowd
+## Crowd (foules)
 
 [[3_GARDEN/Notes permanentes/Crowd|Crowd]]
 [[3_GARDEN/Notes permanentes/Crowd Houdini|Crowd Houdini]]
@@ -182,3 +187,9 @@ Scatterring : [[3_GARDEN/Notes permanentes/Scattering Houdini|Scattering Houdini
 [[3_GARDEN/Notes permanentes/Ocean Houdini|Ocean Houdini]]
 
 [[3_GARDEN/Notes permanentes/Rain dans houdini|Rain dans houdini]]
+
+
+## Code et expression
+
+[[3_GARDEN/Notes permanentes/VEX|VEX]]
+[[3_GARDEN/Notes permanentes/Hscript expressions Houdini|Hscript expressions Houdini]]
