@@ -80,6 +80,11 @@ Houdini est très utilisé par les grands studios d'effets spéciaux comme Walt 
 [[3_GARDEN/Notes permanentes/Procedural plants and flowers Houdini|Procedural plants and flowers Houdini]]
 [[3_GARDEN/Notes permanentes/Mode procedurale escaliers Houdini|Mode procedurale escaliers Houdini]]
 
+
+#### Végétation
+
+[[Ivy generator Houdini|Ivy generator Houdini]]
+
 ---
 
 ## Dynamiques et simulations
@@ -165,6 +170,9 @@ Scatterring : [[3_GARDEN/Notes permanentes/Scattering Houdini|Scattering Houdini
 - [[3_GARDEN/Notes permanentes/Construction d’un Set dans Houdini|Construction d’un Set dans Houdini]]
 - [[3_GARDEN/Notes permanentes/Layout Node Solaris|Layout Node Solaris]]
 
+#### Shading
+
+[[3_GARDEN/Notes permanentes/Auto assign materials Solaris|Auto assign materials Solaris]]
 
 #### Généralités
 
@@ -179,6 +187,12 @@ Scatterring : [[3_GARDEN/Notes permanentes/Scattering Houdini|Scattering Houdini
 [[3_GARDEN/Notes permanentes/Render threads optimization Karma|Render threads optimization Karma]]
 
 [[3_GARDEN/Notes permanentes/Export camera Houdini|Export camera Houdini]]
+
+
+
+---
+
+
 
 ## Autres 
 
