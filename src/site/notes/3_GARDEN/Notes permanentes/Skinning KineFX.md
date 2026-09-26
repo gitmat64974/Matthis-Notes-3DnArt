@@ -8,13 +8,13 @@
 
 Pour la création de joints : [[3_GARDEN/Notes permanentes/Skeleton KineFX|Skeleton KineFX]]
 
-#### Skin / Capture
+#### Skinning / Capture
 
 [Skin capture - Houdini documentation](https://www.sidefx.com/docs/houdini/character/kinefx/capture.html)
 
 Lors du skinning (appelé plutôt capture dans Houdini), Houdini vient créer des tétrahèdres temporaires qui remplissent tout l'intérieur de la modé, ce qui permet de skinner par correspondance intérieur et pas selon la surface. Par exemple un point sur la jambe droite n'aura aucun risque d'être influencé par un joint de la jambe gauche car le chemin intérieur entre jambe gauche et droite est très long alors que les points sont très proches en surface
 
-Le skinning se fait principalement via le node <font color="#9bbb59">jointcapturebiharmonics</font> (skinning automatique) et le <font color="#9bbb59">jointcapturepaint</font> (correction ou création manuelle du skinning)
+Le skinning se fait principalement via le node <font color="#9bbb59">jointcapturebiharmonics</font> (skinning automatique qui est une bonne base) et le <font color="#9bbb59">jointcapturepaint</font> (correction ou création manuelle du skinning)
 
 Setup de base avec le <font color="#9bbb59">jointcapturebiharmonics</font> : 
 
