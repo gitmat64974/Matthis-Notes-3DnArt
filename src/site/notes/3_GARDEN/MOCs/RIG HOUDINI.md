@@ -87,6 +87,9 @@ Pour animer ensuite :
 - [[3_GARDEN/Notes permanentes/APEX Ragdoll|APEX Ragdoll]]
 - [[3_GARDEN/Notes permanentes/Houdini motion mixer|Houdini motion mixer]]
 
+Tips utiles d'anim : 
+- [[3_GARDEN/Notes permanentes/Animation stepping Houdini|Animation stepping Houdini]]
+
 ---
 
 # Appropriation et réflexions 
