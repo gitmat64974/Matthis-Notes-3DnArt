@@ -23,17 +23,6 @@ Il suffit de drag and drop les éléments du component catalog directement sur l
 On peut éditer les joints sur la version grisée de gauche (translate, rotate, scale) et les controleurs s'updateront sur la version de droite
 On peut également bouger les controleurs de la version de droite pour tester et appuyer sur N pour reset les transformations (on peut également cocher skin preview dans le node autorigbuilder : cela va créer un skinning temporaire très léger et vraiment pas terrible qui sert uniquement de preview. Pour le vrai skinning voir [[3_GARDEN/Notes permanentes/Skinning KineFX|Skinning KineFX]])
 
-
-> [!info] APEX Configure controls : Changer la taille / forme etc des controleurs : 
-> On peut ajouter en suivant un node APEX configurecontrols 
-> le fonctionnement du node est très intuitif : On ajoute un control config, on sélectionne les controleurs dans le viewport puis on appuie sur le plus à droite pour les ajouter à une modif de config. Puis menu déroulant pour les config
-> 
-> ![Capture d'écran 2026-09-26 180705.png](/img/user/Pi%C3%A8ces%20jointes/Capture%20d'%C3%A9cran%202026-09-26%20180705.png)
-> 
-> A noter qu'avec ce node on peut aussi définir des limits : limit de translation, d'angle de rotation etc 
-
-
-
 ---
 
 Si on a déjà des joints : 
@@ -45,8 +34,37 @@ Node APEX Pack character :
 *Il fait l'équivalent du pack folder + autorig component*
 Cliquer sur Add FK and Bone deform components
 
+### Plus précisément dans le viewport du autorig builder
 
 
+2 Vues : 
+- Grise (*à gauche*): guide c'est là qu'on configure les choses
+- Preview (à droite): la preview du rig sur le model
+
+
+#### Vue guide
+
+Là, si on clic sur le gear icone à côté d'un component qu'on vient de mettre, on peut tout customizer (taille, forme, couleur, fonctions, etc) et on peut encore plus customizer en appuyant sur G avec les paramètres de la partie Controls 
+
+![](https://i.imgur.com/iceZZ0Z.png)
+
+C'est là qu'on va quasiment tout gérer
+
+> [!tip]+ Parenter les poles vector
+> Il est intéressant de parenter les poles vector au controleur qui gère l'orientation de la géo (pelvis, ou chest etc). 
+> Dans les parameters controls il suffit d'aller dans parent -> Pole Vector et de rentrer le nom du controleur qu'on veut comme parent
+
+
+
+> [!info] APEX Configure controls : Changer la taille / forme etc des controleurs : 
+> On peut ajouter en suivant un node APEX configurecontrols 
+> le fonctionnement du node est très intuitif : On ajoute un control config, on sélectionne les controleurs dans le viewport puis on appuie sur le plus à droite pour les ajouter à une modif de config. Puis menu déroulant pour les config
+> 
+> ![Capture d'écran 2026-09-26 180705.png](/img/user/Pi%C3%A8ces%20jointes/Capture%20d'%C3%A9cran%202026-09-26%20180705.png)
+> 
+> A noter qu'avec ce node on peut aussi définir des limits : limit de translation, d'angle de rotation, de valeur min et max etc 
+
+---
 
 ## Références
 
