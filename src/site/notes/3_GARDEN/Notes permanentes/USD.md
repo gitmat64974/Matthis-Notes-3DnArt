@@ -11,26 +11,24 @@ En réalité ce n’est pas à proprement parler un format mais c'est plutôt un
 
 USD veut dire *Universal Scene description* : Qu’importe le moteur de rendu, l’USD est une description de scène universelle
 
-Intérêt de l'USD : 
-- Le partage de fichiers dans de grandes productions est extrêmement plus efficace car on a un seul type de fichier pour tout, qui en plus est non propriétaire donc potentiellement compatible avec tout. 
-- On peut faire des références à l’infini. Ce qui fait que les fichiers peuvent être extrêmement petits (quelques ko), référençant constamment en chaîne des choses sur le disque. Tout est cloisonné en plein de petits bouts. 
+> [!success]+ Intérêt de l'USD : 
+> - Le partage de fichiers dans de grandes productions est extrêmement plus efficace car on a un seul type de fichier pour tout, qui en plus est non propriétaire donc potentiellement compatible avec tout. 
+> - On peut faire des références à l’infini. Ce qui fait que les fichiers peuvent être extrêmement petits (quelques ko), référençant constamment en chaîne des choses sur le disque. Tout est cloisonné en plein de petits bouts. 
 
-C’était un format propriétaire de Pixar qu’ils ont révisé en open source en 2016 
-C’est une évolution du RIB. 
+On voit donc avec tout ça l'importance d'une organisation très solide avec nommage ultra carré
 
 Dans l’USD, tout est stocké sur le disque 
 - Tout doit être disponible sur le disque, utilisable depuis n’importe quel logiciel ou même sans (juste en ligne de commande pour lancer des rendus sur des farms par exemple)
 
 
-Un autre énorme avantage : 
+Petit historique : 
+L'usd était un format propriétaire de Pixar qu’ils ont révisé en open source en 2016. C’est une évolution du RIB. 
 
 
-Il faut donc être bien carré sur l’organisation et le nommage 
-
-
-
+---
 
 ## Références
+
 
 - [[3_GARDEN/Notes permanentes/Créer un asset USD dans Houdini|Créer un asset USD dans Houdini]]
 
