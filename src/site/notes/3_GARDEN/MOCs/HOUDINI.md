@@ -2,9 +2,10 @@
 {"dg-publish":true,"permalink":"/3_GARDEN/MOCs/HOUDINI/","tags":["MOC"],"dg-note-properties":{"tags":["MOC"],"MOC":["[[3D]]","[[MODELISATION]]","[[ART]]"],"Source":null,"creation date":"2025-02-02"}}
 ---
 
-![](https://pbs.twimg.com/media/GzTsgvDa4AU826O.jpg)
+![](https://cdn.biunivoca.com/production/images/posts/01KTXGFZS72BHS3BX0JGK4HS7P.jpeg?)
 
-# Définition
+
+# Le logiciel
 
 
 Le logiciel Houdini est un outil d'animation 3D très puissant développé par la société SideFX, reconnu principalement pour sa capacité à créer des effets visuels complexes pour le cinéma, la télévision, les jeux vidéo, la réalité virtuelle et l'architecture. Sa particularité réside dans son système procédural nodal : chaque action dans la création est stockée dans un nœud (node) et ces nœuds sont connectés entre eux pour former des réseaux modifiables à tout moment, permettant ainsi un contrôle extraordinaire et une grande flexibilité dans la création d'effets visuels, d'animations, et de simulations dynamiques (fluide, fumée, feu, destruction, etc.)
@@ -43,20 +44,49 @@ Houdini est très utilisé par les grands studios d'effets spéciaux comme Walt 
 > - [I Learned How To Fake Water Exactly Like Hollywood - YouTube](https://youtu.be/qdvNNm1kNu4?si=oFNpfCZJYuZ7eVGp)
 > - [I Remade Avatar Water VFX in 100 Hours - YouTube](https://youtu.be/YtqtpbXyTZs?si=AEZ2pT2Z0cTmkley)
 > 
-> Site pour apprendre le VEX (partagé par Sophia) : [Joy of Vex - Houdini and CG tips](https://tokeru.com/cgwiki/JoyOfVex.html)
+> Site pour apprendre le VEX : [Joy of Vex - Houdini and CG tips](https://tokeru.com/cgwiki/JoyOfVex.html)
 > 
 > #### Rendering avec renderman dans solaris
 > [meshmenstudi](https://youtube.com/@meshmenstudio?si=QeGUB7sUuXzYuHFQ)
 
-
+---
 ## Interface et compréhension générale du logiciel
 
+Premiers pas dans Houdini : 
+Quelques vidéos utiles : 
+- [Introduction to Houdini - First steps for beginners](https://youtu.be/WQL1i5mJiaI?si=a4qHqNzWmzMQmIht)
+- [Beginner Friendly Houdini: How I wish I had learned it - Lesson 01 - YouTube](https://youtu.be/5JppllkCw00?si=is9I7ONG2NivyK0V)
 
-- [[3_GARDEN/Notes permanentes/Raccourcis Houdini|Raccourcis Houdini]]
+> [!success]+ Comment penser Houdini
+> Il ne faut pas penser en termes de nodes, c’est le plus gros moyen d’être perdu
+> 
+> Houdini c'est de la **Géométrie** et des **Données** associées à cette géométrie (*où cette géométrie est dans l'espace, est ce qu'elle a une direction, une vitesse, comment est elle orientée etc etc*) 
+> Tout le principe d'Houdini c'est de venir transformer de la géométrie en fonction de certaines données
+> Il ne faut pas se demander de quels nodes j’ai besoin mais plutôt de quelles données j’ai besoin et comment je dois les transformer
+> 
+> Ces fameuses données dans Houdini ce sont les attributs
 
-[[3_GARDEN/Notes permanentes/Interface générale Houdini|Interface générale Houdini]] (notes en vrac)
+utile : *[[3_GARDEN/Notes permanentes/Raccourcis Houdini les plus utiles|Raccourcis Houdini les plus utiles]]*
 
 
+> [!tip]+ Variables d'environnement Houdini
+> Houdini possède des variables d'environnements qui permettent très facilement de travailler en chemin relatif
+> Les deux principales sont : 
+> - **$HIP** : Le dossier où se trouve le fichier Houdini actuel
+> - **$JOB** : Un Dossier défini spécifiquement. C'est généralement le dossier général de production (*Par exemple le dossier de prod du film FFE*)
+> 
+> Ces deux variables permettent de venir référencer dynamiquement tout type de fichier sans avoir à rentrer manuellement el chemin absolu à chaque fois
+
+
+
+#### Attributs
+
+[[3_GARDEN/Notes permanentes/Attributs Houdini|Attributs Houdini]]
+- [[3_GARDEN/Notes permanentes/Attribut Curveu|Attribut Curveu]]
+
+
+
+---
 ## Modélisation procédurale 
 
 [[3_GARDEN/Notes permanentes/Différence point et vertex|Différence point et vertex]]
@@ -67,9 +97,7 @@ Houdini est très utilisé par les grands studios d'effets spéciaux comme Walt 
 
 [[3_GARDEN/Notes permanentes/Node Sort|Node Sort]]
 [[3_GARDEN/Notes permanentes/Up Vector Houdini|Up Vector Houdini]]
-[[3_GARDEN/Notes permanentes/Attributs Houdini|Attributs Houdini]]
 
-[[3_GARDEN/Notes permanentes/Attribut Curveu|Attribut Curveu]]
 [[3_GARDEN/Notes permanentes/Node group Houdini|Node group Houdini]]
 [[3_GARDEN/Notes permanentes/HDA|HDA]]
 
@@ -83,7 +111,7 @@ Houdini est très utilisé par les grands studios d'effets spéciaux comme Walt 
 
 #### Végétation
 
-[[Ivy generator Houdini|Ivy generator Houdini]]
+[[3_GARDEN/Notes permanentes/Ivy generator Houdini|Ivy generator Houdini]]
 
 ---
 
@@ -122,8 +150,17 @@ Houdini est très utilisé par les grands studios d'effets spéciaux comme Walt 
 
 [[3_GARDEN/Notes permanentes/Houdini muscle simulation|Houdini muscle simulation]]
 
+### MPM Simulations
+
+[[3_GARDEN/Notes permanentes/MPM Solver|MPM Solver]] 
+
 ---
 
+## Grooming
+
+Tout est ici : [[3_GARDEN/MOCs/GROOM|GROOM]]
+
+---
 ## Environnements
 
 [[3_GARDEN/Notes permanentes/Houdini Heighfields|Houdini Heighfields]]
@@ -140,9 +177,9 @@ Scatterring : [[3_GARDEN/Notes permanentes/Scattering Houdini|Scattering Houdini
 
 ## Rigging
 
-[[3_GARDEN/Notes permanentes/Rig Houdini|Rig Houdini]]
-- [[3_GARDEN/Notes permanentes/Autorig builder Houdini|Autorig builder Houdini]]
-- [[3_GARDEN/Notes permanentes/Skinning Houdini|Skinning Houdini]]
+[[3_GARDEN/MOCs/RIG HOUDINI|RIG HOUDINI]]
+- [[3_GARDEN/Notes permanentes/APEX Autorig builder|APEX Autorig builder]]
+- [[3_GARDEN/Notes permanentes/Skinning KineFX|Skinning KineFX]]
 
 
 [[3_GARDEN/Notes permanentes/KineFX x Simulations|KineFX x Simulations]]
@@ -156,7 +193,7 @@ Scatterring : [[3_GARDEN/Notes permanentes/Scattering Houdini|Scattering Houdini
 
 ---
 
-## Rendering Solaris
+## Rendering dans Solaris
 
 
 #### L'USD
@@ -192,7 +229,12 @@ Scatterring : [[3_GARDEN/Notes permanentes/Scattering Houdini|Scattering Houdini
 
 ---
 
+## Code et expression
 
+[[3_GARDEN/Notes permanentes/VEX|VEX]]
+[[3_GARDEN/Notes permanentes/Hscript expressions Houdini|Hscript expressions Houdini]]
+
+---
 
 ## Autres 
 
@@ -203,7 +245,4 @@ Scatterring : [[3_GARDEN/Notes permanentes/Scattering Houdini|Scattering Houdini
 [[3_GARDEN/Notes permanentes/Rain dans houdini|Rain dans houdini]]
 
 
-## Code et expression
-
-[[3_GARDEN/Notes permanentes/VEX|VEX]]
-[[3_GARDEN/Notes permanentes/Hscript expressions Houdini|Hscript expressions Houdini]]
+---
