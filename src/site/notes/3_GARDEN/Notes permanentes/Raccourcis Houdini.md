@@ -8,6 +8,7 @@ Raccourci d’UI : Shift S -> Changer le style des connections des noeuds.
 
 - **L** : Réorganiser les noeuds automatiquement
 - **D** : Pour ouvrir les display options dans le viewport (permet notamment d'augmenter le "floating gnomon size").,
+- **R** sur un node : voir son résultat
 - **Espace + H** : Pour centrer le viewport.,
 - **Espace + F ou G** : Aussi pour centrer le viewport.,
 - **W et / ou Shift + W** : Pour le wireframe.,
