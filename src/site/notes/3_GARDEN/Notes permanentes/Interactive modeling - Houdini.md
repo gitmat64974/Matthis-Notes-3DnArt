@@ -40,6 +40,13 @@ Le principe est que plusieurs raccourcis ou activations dans le viewport vont ve
 > Dans le viewport chercher edge loop ou polysplit
 
 
+
+> [!NOTE]+ PolyDraw
+> Cela va appeler le node topobuild
+> Node très puissant qui permet de faire en un node ce que fait à la fois le quaddraw et le multicut de MAYA
+> 
+
+
 ---
 
 
