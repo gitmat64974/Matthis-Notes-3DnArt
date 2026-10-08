@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Lattice - Houdini/","tags":["note_permanente"],"dg-note-properties":{"MOC":null,"source":null,"Projets":null,"tags":["note_permanente"],"creation date":null,"aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Lattice - Houdini/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[HOUDINI]]","[[MODELISATION]]","[[RIG HOUDINI]]"],"source":["Houdini doc"],"Projets":null,"tags":["note_permanente"],"creation date":null,"aliases":null}}
 ---
 
 ## La note 
@@ -19,6 +19,7 @@ C'est très simple :
 
 ## Références
 
+Pour aller plus loin : lattice deformer dans APEX -> [Lattice Deform Rig Component in Houdini APEX](https://www.andreaskj.com/lattice-deform-rig-component-in-houdini-apex/)
 
 > [!example]- Flashcards
 > ...
