@@ -28,6 +28,31 @@ Les archives de ces conférences sont la meilleure source d'informations de haut
     
 - **FMX (fmx.de) :** Une grande conférence européenne (en Allemagne) dédiée à l'animation et aux VFX. Les présentations abordent souvent l'aspect "pipeline" et la gestion de production.
 
+---
+
+### Les blogs techniques des grands studios (Tech Blogs)
+
+Plusieurs grands studios publient directement les détails de leur R&D (Recherche et Développement) et de leur architecture logicielle pour attirer les talents et partager avec la communauté.
+
+- **Pixar Animation Studios  :** Pixar publie ses documents de recherche technique, ses notes de production et l'évolution de son logiciel de rendu (RenderMan) et du format USD (Universal Scene Description), devenu un standard de l'industrie.
+	- [TECHNOLOGY LIBRARIES — Pixar Animation Studios](https://www.pixar.com/technology-libraries)
+	- [Pixar Library](https://research.pixar.com/)
+    
+- **Sony Pictures Imageworks (opensource.imageworks.com) :** Ils partagent souvent les défis techniques rencontrés sur des films comme _Spider-Man: Into the Spider-Verse_ et sont très actifs dans le développement de formats open source (comme OpenColorIO).
+	- [Publication Library Page \| Sony Pictures Imageworks](https://www.imageworks.com/technology/publications)
+	- [Open Source Landing Page \| Sony Pictures Imageworks](https://www.imageworks.com/technology/opensource)
+    
+- **Disney Animation  :** Ils partagent des "Tech Papers" sur leurs innovations (comme le moteur de rendu Hyperion développé pour _Big Hero 6_), des dataset et des soft opensource
+	- [Disney Animation Technology](https://www.disneyanimation.com/technology/)
+    
+---
+### Les chaînes YouTube spécialisées
+
+Si vous préférez le format vidéo, certaines chaînes excellent dans le décryptage technique :
+
+- **Corridor Crew (série "VFX Artists React") :** Bien qu'ils fassent de l'entertainment, ils invitent souvent des professionnels de l'industrie qui expliquent techniquement comment certains plans de films d'animation ou de VFX ont été réalisés (logiciels, techniques de simulation).
+    
+- Les chaînes officielles des logiciels : **Autodesk (Maya), SideFX (Houdini), ou Epic Games (Unreal Engine)** publient souvent des "Customer Stories" ou des "Tech Talks" où les studios invités expliquent comment ils ont utilisé le logiciel dans leur pipeline pour un film précis.
 ## Références
 
 
