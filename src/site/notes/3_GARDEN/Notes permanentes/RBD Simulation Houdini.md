@@ -3,7 +3,7 @@
 ---
 
 ## La note 
-
+ 
 > [!info]+ Comment la fracture et la destruction fonctionne dans Houdini
 > La plupart des outils de fracture d'Houdini prennent en charge un flux de travail _de pré-fracture_ , où la géométrie est décomposée en morceaux dans SOP, ces morceaux étant maintenus ensemble par _des contraintes de collage_ . La pré-fracture offre un contrôle artistique total sur l'apparence de la destruction
 > 
@@ -47,7 +47,7 @@ Le nœud RBD Material Fracture utilise ces nœuds de niveau inférieur en intern
 |![](https://www.sidefx.com/docs/houdini/icons/SOP/voronoifracture.svg)|[Fracture de Voronoi](https://www.sidefx.com/docs/houdini/nodes/sop/voronoifracture.html "Fractionne la géométrie d'entrée en effectuant une décomposition de Voronoi de l'espace autour des points de la cellule d'entrée")|La géométrie est fracturée par la création de cellules à partir de points dispersés à l'intérieur de la géométrie.|
 |![](https://www.sidefx.com/docs/houdini/icons/SOP/explodedview.svg)|[Vue éclatée](https://www.sidefx.com/docs/houdini/nodes/sop/explodedview.html "Écarte la géométrie du centre pour créer une vue éclatée.")|Éloigne les pièces les unes des autres (en fonction de leur connectivité ou `name`de leurs attributs). Ce nœud est utile pour visualiser la forme des pièces.|
 
-#### Méthode plus bas niveau 
+#### Méthodes plus bas niveau 
 
 ##### Voronoi fracture
 
