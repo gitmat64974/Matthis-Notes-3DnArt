@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/RBD Cluster/","tags":["note_permanente"],"dg-note-properties":{"MOC":null,"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-26","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/RBD Cluster/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[HOUDINI]]","[[3_GARDEN/Notes permanentes/RBD Simulation Houdini|RBD Simulation Houdini]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-26","aliases":null}}
 ---
 
 ## La note 
