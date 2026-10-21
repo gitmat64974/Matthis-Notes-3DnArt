@@ -56,6 +56,8 @@ Cours Udemy NextTut complet pour débutant : [Learn to Sculpt Creatures in Zbrus
 
 [[3_GARDEN/Notes permanentes/Zbrush, isoler un partie d'un mesh|Zbrush, isoler un partie d'un mesh]]
 
+[[3_GARDEN/Notes permanentes/Decimate Zbrush|Decimate Zbrush]]
+
 ## Organic sculpt
 
 [[3_GARDEN/Notes permanentes/Zspheres Zbrush|Zspheres Zbrush]] -> Pour faire les grosses formes rapidement, quick sketch
