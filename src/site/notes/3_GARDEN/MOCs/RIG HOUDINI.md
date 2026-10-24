@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/RIG HOUDINI/","tags":["MOC"],"dg-note-properties":{"MOC":["[[HOUDINI]]","[[RIG]]"],"source":["Houdini doc"],"tags":["MOC"],"creation date":"2026-09-26","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/RIG HOUDINI/","tags":["MOC"],"dg-note-properties":{"MOC":["[[HOUDINI]]","[[3_GARDEN/MOCs/RIG|RIG]]"],"source":["Houdini doc"],"tags":["MOC"],"creation date":"2026-09-26","aliases":null}}
 ---
 
 
@@ -11,7 +11,7 @@
 
 ---
 *La page de présentation de sidefx : [Rigging \| SideFX](https://www.sidefx.com/products/whats-new-in-h21/rigging/)*
-
+*Guide de transition depuis MAYA : [Maya™ transition guide for character and animation](https://www.sidefx.com/docs/houdini/character/kinefx/mayatransitionguide.html)*
 
 <span style="background:rgba(240, 107, 5, 0.2)">Le rigging dans Houdini se fait via le framework APEX qui est une surcouche de KineFX, le système de rig plus ancien d'houdini</span>
 
@@ -47,12 +47,24 @@ Je repack le personnage puis part en animation avec le node scene animate
 > 
 >  | File                                                                                                                                                                                                   | creation-date      | tags                                               |
 > | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ | -------------------------------------------------- |
+> | [[3_GARDEN/Notes littéraires/RIG & ANIMATE A STYLIZED CRAB - Houdini learning course - APEX|RIG & ANIMATE A STYLIZED CRAB - Houdini learning course - APEX]]                                       | July 20, 2026      | <ul><li>note_litteraire</li></ul>                  |
 > | [[3_GARDEN/Notes littéraires/Note litt, playlist vidéos sur APEX Houdini|Note litt, playlist vidéos sur APEX Houdini]]                                                                             | February 08, 2026  | <ul><li>note_litteraire</li><li>en_cours</li></ul> |
 > | [[3_GARDEN/Notes littéraires/Exploring facial rigging techniques in KineFXAPEX - Houdini 21 - Carlos Valcárcel|Exploring facial rigging techniques in KineFXAPEX - Houdini 21 - Carlos Valcárcel]] | September 27, 2026 | <ul><li>note_litteraire</li><li>en_cours</li></ul> |
-> | [[3_GARDEN/Notes littéraires/RIG & ANIMATE A STYLIZED CRAB - Houdini learning course - APEX|RIG & ANIMATE A STYLIZED CRAB - Houdini learning course - APEX]]                                       | July 20, 2026      | <ul><li>note_litteraire</li></ul>                  |
+> | [[3_GARDEN/Notes littéraires/Double Jump Academy - Master Rigging APEX in Houdini|Double Jump Academy - Master Rigging APEX in Houdini]]                                                           | October 15, 2026   | <ul><li>note_litteraire</li><li>en_cours</li></ul> |
 > 
 { .block-language-dataview}
 > 
+
+---
+
+## Principes de rig généraux 
+
+Voir [[3_GARDEN/MOCs/RIG|RIG]] (plus axé Rig Maya bien sur)
+
+[[3_GARDEN/Notes permanentes/Joint (rig)|Joint (rig)]]
+- [[3_GARDEN/Notes permanentes/Joints rig bidep|Joints rig bidep]]
+
+[[3_GARDEN/Notes permanentes/Orient Joints|Orient Joints]]
 
 ---
 ### Kine FX 
