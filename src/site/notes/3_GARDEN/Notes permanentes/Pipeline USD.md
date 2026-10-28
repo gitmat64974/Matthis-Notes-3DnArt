@@ -4,9 +4,14 @@
 
 ## La note 
 
+#### Version simplifiée : 
+
+![Capture d'écran 2026-10-28 092810.png](/img/user/Pi%C3%A8ces%20jointes/Capture%20d'%C3%A9cran%202026-10-28%20092810.png)
+
+#### En détail : 
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/excalidraw/USD Pipeline Schema/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -52,7 +57,7 @@ Anim shot précisions :
 
 On importe en dur les caméras, et on garde uniquement celle liée à notre shot. On importe en référence le layout master, et on importe en référence le rig. On fait l'animation des personnages et des props et si on veut déplacer les items ou modules autour des personnages, on crée un layer usd, et on modifie ce dernier. Ainsi, on pourra exporter uniquement les modifications apportées à notre fichier. C'est le fichier layout edit  
 CFX 
-publish CFX 
+PBH CFX 
 USD 
 PBH cam shot 
 USD 
@@ -92,6 +97,7 @@ PRODUCTION
 
 
 </div></div>
+
 
 
 ## Références
