@@ -24,6 +24,13 @@
 3. **Instancer** : On met chaque variant comme Prototype primitive puis on met le prototype index en mode random : les variants sont randomize sur les points. *Pour encore plus de contrôle, on peut bien sur gérer le randomize avec un attribute randomize name sur les points en SOP, à l'intérieur de l'instancer ou en externe*. 
 4. **Set Variant** : Si on veut précisément changer le variant d'une instance précisément après coup
 
+### 3. Layout
+
+Le node Layout permet un placement d'asset très user friendly (différents brushs etc). 
+On peut soit ``set variant`` en random par la suite ou référencer chaque variant dans l'asset catalog du node
+
+---
+
 ## Références
 
 
