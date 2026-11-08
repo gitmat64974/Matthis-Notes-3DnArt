@@ -8,6 +8,9 @@
 
 ### AOVs
 
+Node ``renderman render settings`` section rendervars : là on peut setup tous les AOVS "classiques" 
+
+Si besoin d'AOVs custom, de LPEs etc, on peut mettre un node avant celui là : Node ``Render Vars`` ou le Node ``Additionnal Render Vars``
 
 ---
 
@@ -24,6 +27,11 @@ Références :
 
 ### Render Layers
 
+Il suffit simplement de séparer le network : 
+
+![](https://i.imgur.com/eleD8Q5.png)
+
+Pour rendre tous les USD Render ROP en même temps : [[3_GARDEN/Notes permanentes/TOPs Rendering - Solaris|TOPs Rendering - Solaris]]
 
 ---
 
