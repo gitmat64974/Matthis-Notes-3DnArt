@@ -60,6 +60,15 @@ On met à jour une ref à chaque fois qu'un nouveau publish de l'asset est publi
 
 ### Alembic merge
 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+## La note 
+
+
 ![Pasted image 20260215222011.png](/img/user/Pi%C3%A8ces%20jointes/Pasted%20image%2020260215222011.png)
 
 
@@ -97,6 +106,26 @@ Attention aux namespaces à l’import : lors de l’import de l’abc, il faut 
 > - Importez l’alembic en cochant “merge”
 
     
+
+
+## Références
+
+
+> [!example]- Flashcards
+> ...
+
+
+
+
+## Liens 
+
+
+
+
+
+
+</div></div>
+
 
 
 
