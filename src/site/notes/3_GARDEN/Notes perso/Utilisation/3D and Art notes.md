@@ -9,6 +9,7 @@
 > 
 > Vous pouvez l'explorer avec le [[3_GARDEN/Notes permanentes/Pipeline de production en animation|pipe de prod]] suivant ou en recherchant directement (en haut à droite ou ctrl + k) : 
 
+
 ---
 
 ## Scénario, analyse et histoire :
@@ -44,6 +45,12 @@
 - [[3_GARDEN/MOCs/HOUDINI|HOUDINI]]
 - [[3_GARDEN/MOCs/GROOM|GROOM]]
 - [[3_GARDEN/MOCs/CFX|CFX]]
+
+
+| [[3_GARDEN/MOCs/SOLARIS|SOLARIS]] | [[3_GARDEN/MOCs/USD|USD]] |
+| ----------- | ------- |
+| [[3_GARDEN/MOCs/HOUDINI|HOUDINI]] |         |
+
 
 ---
 
