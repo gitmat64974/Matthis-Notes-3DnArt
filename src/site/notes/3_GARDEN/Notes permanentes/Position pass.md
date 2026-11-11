@@ -1,11 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Position pass/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[COMPOSITING]]"],"source":["https://youtu.be/n4YyanHkHEs"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-11","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Position pass/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[COMPOSITING]]"],"source":["https://youtu.be/n4YyanHkHEs"],"Projets":["[[Recherches - Stylised rendering - FFE]]"],"tags":["note_permanente"],"creation date":"2026-11-11","aliases":null}}
 ---
 
 ## La note 
 
 ### Qu'est ce qu'une position pass
 
+Une **Position Pass** (souvent appelée _World Position Pass_ ou _Point Position Pass_) est une passe de rendu où la couleur de chaque pixel représente ses coordonnées spatiales (X, Y, Z) dans la scène 3D.
+
+Lorsqu'on active le calcule de cette passe, le moteur de rendu encode la position géométrique exacte de la surface visible dans les canaux de couleur de l'image :
+- **Canal Rouge (R)** = Position sur l'axe X (gauche / droite)
+- **Canal Vert (G)** = Position sur l'axe Y (haut / bas)
+- **Canal Bleu (B)** = Position sur l'axe Z (profondeur)
 
 ---
 ### Utiliser une position pass
