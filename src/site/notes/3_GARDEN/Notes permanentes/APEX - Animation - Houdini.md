@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/APEX - Animation - Houdini/","tags":["note_permanente","en_cours"],"ctime":"2026-03-21T20:44:45.572+01:00","mtime":"2026-11-22T22:07:56.109+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/ANIMATION]]"],"source":null,"Projets":null,"tags":["note_permanente","en_cours"],"creation date":"2026-02-12","aliases":["APEX Animation Houdini"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/APEX - Animation - Houdini/","tags":["note_permanente","en_cours"],"ctime":"2026-03-21T20:44:45.572+01:00","mtime":"2026-11-23T00:50:18.820+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/ANIMATION]]"],"source":null,"Projets":null,"tags":["note_permanente","en_cours"],"creation date":"2026-02-12","aliases":["APEX Animation Houdini"]}}
 ---
 
 ## La note 
@@ -15,34 +15,51 @@ Le [[3_GARDEN/Notes permanentes/Node\|Node]] principal d'animation d'un rig APEX
 > ***Scene add character*** : Ajouter le perso à la scene APEX d'animation. Nommer le node pour nommer le perso : important pour la propreté et la clarté
 > ***Scene animate*** : pour animer le perso dans le framework APEX 
 
+
+### Bases
+
+![](https://i.imgur.com/ebvfhHz.png)
+
+Lorsqu'on est sur un scene animate, on peut appuyer sur entrée et mettre le viewport en full screen (ctrl + B) car on n'a besoin de rien d'autre pour animer.
+
+***Poser une clé d'anim : K***
+
+Interface : 
+- En bas à gauche sont les **paramètres globaux d'animation** (FPS, audio etc)
+- L'icone avec des sliders à gauche de la timeline : Ouvre la toolbar contenant la **tweenmachine** et bien d'autres sliders utiles à l'anim
+- l'Icone avec des curves à droite de la timeline : ouvre le "**graph editor**" (appelé animation editor dans Houdini)
+- La fenêtre à droite dans le viewport : **fenêtre principale** pour tout ce qui va être sélection, layers, paramètres, valeurs etc etc
+	- en bas de cette fenêtre : un bouton pour ouvrir le **picker**
+
+
+> [!tips]+ Tips généraux : 
+> - Sélection de controles : en appuyant sur ctrl lors d'une translation ou rotate ou scale de plusieurs controles, c'est le pivot du dernier controle sélectionné qui gère la transformation. Super pratique pour faire du posing complexe sans setup de contraintes
+> 
+> -> [Working in the animate state](https://www.sidefx.com/docs/houdini/character/kinefx/animatestate.html) 
+
+
+#### Copier coller des poses
+
+Ctrl C / Ctrl V : copier coller la world position d'un controleur sur un autre
+Ctrl C / Ctrl Shift V : copier coller la relative position d'un controleur sur un autre
+
 ---
-### Sélection sets
 
+### Mirror mode
 
-Ouvrir le paneau APEX selection sets, ou utiliser le petit widget dans le viewport appelé selection sets
+Petite icone en haut du viewport
 
-<u><font color="#8064a2">Créer un set :</font></u> 
-selectionner des controleurs dans le viewport, clic droit -> set from selection
-Il y a plusieurs icones sur le set : désactiver la visibilité du perso, du set, etc
+- **Shift clic dessus** : mirror le controleur opposé au controleur sélectionné
+- **Clic dessus** : Mode mirror où bouger le controleur sélectionné fait bouger son opposé. Echap pour appliquer le mirror
 
-On peut aussi créer des folders, avec des empty layers, et on drag and drop d'autres sets dedans
-
-<u><font color="#9bbb59">Mirror les sets</font> : </u>
-toolbar du panneau de selection sets -> mirror -> mirror selected sets (on a également les 2 outils d'edit pour editer le naming et les patterns)
-
-<u><font color="#d99694">Export sets : </font></u>
-file -> export sets to file 
-Cela va permettre de pouvoir les réutiliser et pas avoir à les refaire from scratch à chaque fois
-
-Pinner un set va permettre de toujours mettre des clés sur ses controleurs, meme s'il ne sont pas sélectionnés. Très utile lorsqu'on est au blocking et que l'on veut être sur que chaque pose clé soit bien keyée. 
 
 ---
-### Motion path
+### Sélection et layers
 
-Ctrl + G dans le viewport pour avoir la petite fenetre des Animate settings
--> Motion path -> Bind (unbind pour l'enlever)
+- [[3_GARDEN/Notes permanentes/Houdini Apex Selection Sets\|Houdini Apex Selection Sets]]
+- [[3_GARDEN/Notes permanentes/Houdini Apex animation layers\|Houdini Apex animation layers]]
 
-Là on peut voir le motion path du controleur sélectionné et bouger n'importe quelle clé sur le motion path, meme si on est pas à la position de cette clé dans la timeline. 
+
 
 ---
 ### Constraints
@@ -55,16 +72,18 @@ Ctrl H pour enlever une constraint
 
 Pas oublier de bake les keys sinon on va perdre l'anim
 
+-> [Constraints](https://www.sidefx.com/docs/houdini/character/kinefx/animatestateconstraints.html)
+
 ---
+### Motion path
 
-### Mirror mode
+Ctrl + G dans le viewport pour avoir la petite fenetre des Animate settings
+-> Motion path -> Bind (unbind pour l'enlever)
 
-Petite icone en haut du viewport
-
-- **Shift clic dessus** : mirror le controleur opposé au controleur sélectionné
-- **Clic dessus** : Mode mirror où bouger le controleur sélectionné fait bouger son opposé. Echap pour appliquer le mirror
+Là on peut voir le motion path du controleur sélectionné et bouger n'importe quelle clé sur le motion path, meme si on est pas à la position de cette clé dans la timeline. 
 
 
+---
 ---
 
 ### Pose Tools
@@ -79,6 +98,16 @@ Par défaut, on est sur le mode de base, le mode animate
 > - **Full body IK** : un homme pour faire du posing et de l'édition d'anim rapide avec le solver Full body IK, ou tout le corps devient un IK
 > - **Secondary motion** : pour appliquer des mouvement secondaires (overlap par exemple) à des controleurs en fonction d'un controleur "driver"
 
+#### Locators
+
+Dans le mode locator, on peut créer des locators en venir transformer en FK les controleurs que l'on veut en fonction de ces locators
+
+1. Placer la souris là où on veut que le locator soit puis appuyer sur H. Le locator est créé. On peut le bouger en cliquant dessus ensuite
+2. Sélectionner les contrôleurs qu'on veut bouger puis le locator puis Ctrl Shift en rotation
+
+On peut également parenter des locators ou faire d'autres opérations plus complexes : [Posing in the animate state](https://www.sidefx.com/docs/houdini/character/kinefx/animatestateposing.html)
+
+---
 #### Dynamic motion
 
 Ajoute une trajectoire physique automatiquement à un objet qui possède seulement des poses clés : 
