@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Alembic Merge/","tags":["note_permanente","plante"],"dg-note-properties":{"MOC":["[[ANIMATION]]","[[Pipeline de production en animation]]"],"source":null,"Projets":["[[Projet fil rouge]]"],"tags":["note_permanente","plante"],"creation date":"2026-02-04","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Alembic Merge/","tags":["note_permanente","plante"],"ctime":"2026-11-08T22:09:12.956+01:00","mtime":"2026-11-08T22:10:05.747+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ANIMATION]]","[[3_GARDEN/Notes permanentes/Pipeline de production en animation]]"],"source":null,"Projets":["[[6_ARCHIVES/Projets/3D4/Projet fil rouge]]"],"tags":["note_permanente","plante"],"creation date":"2026-02-04","aliases":null}}
 ---
 
 ## La note 

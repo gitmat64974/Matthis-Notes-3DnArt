@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Automatisation rotation des roues, Rig/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[RIG]]"],"source":["notes Julie"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-12-12","aliases":["rotation des roues automatique en fonction de la translation du véhicule, rig maya"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Automatisation rotation des roues, Rig/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:44.350+01:00","mtime":"2025-12-12T12:13:09.745+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/RIG]]"],"source":["notes Julie"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-12-12","aliases":["rotation des roues automatique en fonction de la translation du véhicule, rig maya"]}}
 ---
 
 ## La note 

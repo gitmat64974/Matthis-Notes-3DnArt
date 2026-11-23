@@ -1,12 +1,27 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Copernicus (Houdini)/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[HOUDINI]]","[[COMPOSITING]]","[[SHADING TEXTURING]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-02-20","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Copernicus (Houdini)/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:50.966+01:00","mtime":"2026-11-11T19:35:53.738+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/COMPOSITING]]","[[3_GARDEN/MOCs/SHADING TEXTURING]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-02-20","aliases":null}}
 ---
 
 ## La note 
 
 
+[[3_GARDEN/Notes permanentes/Copernicus grunges\|Copernicus grunges]]
+
+[[3_GARDEN/Notes permanentes/Adjacency Copernicus\|Adjacency Copernicus]]
+
+[[3_GARDEN/Notes permanentes/Compositing brush stylisation with Copernicus\|Compositing brush stylisation with Copernicus]]
 
 
+#### Tips Copernicus
+
+###### Le 3D output flag
+
+Cela permet avec le raccourci X de switch entre vue 2D et 3D dans cops avec n'importe quel node en visualisation :
+1. Selectionner le node de géo dans cop (sop import par exemple). Il faut que cette géo n'ai pas de matériau assigné
+2. Appuyer sur X pour mettre le 3D output flag (sortie orange)
+3. Aller sur n'importe quel autre node et mettre le display flag
+
+-> [Working with Copernicus nodes](https://www.sidefx.com/docs/houdini/copernicus/working_with_cops.html)
 
 ## Références
 

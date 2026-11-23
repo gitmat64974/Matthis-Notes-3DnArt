@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/ZBRUSH/","tags":["MOC"],"dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/3D|3D]]","[[3_GARDEN/MOCs/MODELISATION|MODELISATION]]","[[3_GARDEN/MOCs/SHADING TEXTURING|SHADING TEXTURING]]"],"source":null,"Projets":null,"tags":["MOC"],"creation date":"2025-08-12","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/ZBRUSH/","tags":["MOC"],"ctime":"2026-05-02T23:08:53.863+02:00","mtime":"2026-07-17T16:38:19.321+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/MODELISATION]]","[[3_GARDEN/MOCs/SHADING TEXTURING]]"],"source":null,"Projets":null,"tags":["MOC"],"creation date":"2025-08-12","aliases":null}}
 ---
 
 # Définition
 
-MOC : [[3_GARDEN/MOCs/MODELISATION|MODELISATION]] [[3_GARDEN/MOCs/3D|3D]] [[3_GARDEN/MOCs/SHADING TEXTURING|SHADING TEXTURING]] [[3_GARDEN/Notes permanentes/Sculpt (3D)|Sculpt (3D)]]
+MOC : [[3_GARDEN/MOCs/MODELISATION\|MODELISATION]] [[3_GARDEN/MOCs/3D\|3D]] [[3_GARDEN/MOCs/SHADING TEXTURING\|SHADING TEXTURING]] [[3_GARDEN/Notes permanentes/Sculpt (3D)\|Sculpt (3D)]]
 Source : 
 Projet : 
 Tags : #note_permanente 
@@ -44,31 +44,31 @@ Cours Udemy NextTut complet pour débutant : [Learn to Sculpt Creatures in Zbrus
 
 ## Bases
 
-[[3_GARDEN/Notes permanentes/Bases d'utilisation de Zbrush|Bases d'utilisation de Zbrush]] 
-[[3_GARDEN/Notes permanentes/Principaux raccourcis clavier ZBRUSH|Principaux raccourcis clavier ZBRUSH]]
-[[3_GARDEN/Notes permanentes/Pinceaux Zbrush|Pinceaux Zbrush]]
-[[3_GARDEN/Notes permanentes/Worflow MAYA, Zbrush et Substance painter|Worflow MAYA, Zbrush et Substance painter]]
+[[3_GARDEN/Notes permanentes/Bases d'utilisation de Zbrush\|Bases d'utilisation de Zbrush]] 
+[[3_GARDEN/Notes permanentes/Principaux raccourcis clavier ZBRUSH\|Principaux raccourcis clavier ZBRUSH]]
+[[3_GARDEN/Notes permanentes/Pinceaux Zbrush\|Pinceaux Zbrush]]
+[[3_GARDEN/Notes permanentes/Worflow MAYA, Zbrush et Substance painter\|Worflow MAYA, Zbrush et Substance painter]]
 
 
-[[3_GARDEN/Notes permanentes/Zremesher|Zremesher]]
+[[3_GARDEN/Notes permanentes/Zremesher\|Zremesher]]
 
-[[3_GARDEN/Notes permanentes/Zbrush PolyPaint|Zbrush PolyPaint]] 
+[[3_GARDEN/Notes permanentes/Zbrush PolyPaint\|Zbrush PolyPaint]] 
 
-[[3_GARDEN/Notes permanentes/Zbrush, isoler un partie d'un mesh|Zbrush, isoler un partie d'un mesh]]
+[[3_GARDEN/Notes permanentes/Zbrush, isoler un partie d'un mesh\|Zbrush, isoler un partie d'un mesh]]
 
-[[3_GARDEN/Notes permanentes/Decimate Zbrush|Decimate Zbrush]]
+[[3_GARDEN/Notes permanentes/Decimate Zbrush\|Decimate Zbrush]]
 
 ## Organic sculpt
 
-[[3_GARDEN/Notes permanentes/Zspheres Zbrush|Zspheres Zbrush]] -> Pour faire les grosses formes rapidement, quick sketch
-[[3_GARDEN/Notes permanentes/Creature sculpting|Creature sculpting]]
+[[3_GARDEN/Notes permanentes/Zspheres Zbrush\|Zspheres Zbrush]] -> Pour faire les grosses formes rapidement, quick sketch
+[[3_GARDEN/Notes permanentes/Creature sculpting\|Creature sculpting]]
 
-[[3_GARDEN/Notes permanentes/Skin details Zbrush|Skin details Zbrush]]
+[[3_GARDEN/Notes permanentes/Skin details Zbrush\|Skin details Zbrush]]
 
 
 ## UVs
 
-[[3_GARDEN/Notes permanentes/UVs dans Zbrush|UVs dans Zbrush]]
+[[3_GARDEN/Notes permanentes/UVs dans Zbrush\|UVs dans Zbrush]]
 
 
 

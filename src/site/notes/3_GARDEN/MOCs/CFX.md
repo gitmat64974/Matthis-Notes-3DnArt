@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/CFX/","tags":["MOC"],"dg-note-properties":{"MOC":["[[HOUDINI]]","[[3D]]"],"source":["[[Cours CFX ESMA]]"],"Projets":null,"tags":["MOC"],"creation date":"2025-11-21","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/CFX/","tags":["MOC"],"ctime":"2026-05-02T16:25:58.628+02:00","mtime":"2026-04-25T08:47:36.848+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/3D]]"],"source":["[[3_GARDEN/Notes littéraires/Cours CFX ESMA]]"],"Projets":null,"tags":["MOC"],"creation date":"2025-11-21","aliases":null}}
 ---
 
 ---
@@ -8,18 +8,18 @@
 > 
 >  | File                                                           | Date de création  | Contenu brut |
 > | -------------------------------------------------------------- | ----------------- | ------------ |
-> | [[3_GARDEN/Notes littéraires/13e cours CFX|13e cours CFX]] | February 13, 2026 | false        |
-> | [[3_GARDEN/Notes littéraires/11e cours CFX|11e cours CFX]] | January 23, 2026  | false        |
-> | [[3_GARDEN/Notes littéraires/10e cours CFX|10e cours CFX]] | January 16, 2026  | false        |
-> | [[3_GARDEN/Notes littéraires/9e cours CFX|9e cours CFX]]   | January 09, 2026  | true         |
-> | [[3_GARDEN/Notes littéraires/8e cours CFX|8e cours CFX]]   | December 19, 2025 | false        |
-> | [[3_GARDEN/Notes littéraires/7e Cours CFX|7e Cours CFX]]   | December 12, 2025 | false        |
-> | [[3_GARDEN/Notes littéraires/6e cours CFX|6e cours CFX]]   | December 05, 2025 | false        |
-> | [[3_GARDEN/Notes littéraires/5e cours CFX|5e cours CFX]]   | November 28, 2025 | false        |
-> | [[3_GARDEN/Notes littéraires/4e cours CFX|4e cours CFX]]   | November 07, 2025 | false        |
-> | [[3_GARDEN/Notes littéraires/3e cours CFX|3e cours CFX]]   | October 24, 2025  | false        |
-> | [[3_GARDEN/Notes littéraires/2e cours CFX|2e cours CFX]]   | October 17, 2025  | true         |
-> | [[3_GARDEN/Notes littéraires/1er cours CFX|1er cours CFX]] | October 10, 2025  | false        |
+> | [[3_GARDEN/Notes littéraires/13e cours CFX\|13e cours CFX]] | February 13, 2026 | false        |
+> | [[3_GARDEN/Notes littéraires/11e cours CFX\|11e cours CFX]] | January 23, 2026  | false        |
+> | [[3_GARDEN/Notes littéraires/10e cours CFX\|10e cours CFX]] | January 16, 2026  | false        |
+> | [[3_GARDEN/Notes littéraires/9e cours CFX\|9e cours CFX]]   | January 09, 2026  | false        |
+> | [[3_GARDEN/Notes littéraires/8e cours CFX\|8e cours CFX]]   | December 19, 2025 | false        |
+> | [[3_GARDEN/Notes littéraires/7e Cours CFX\|7e Cours CFX]]   | December 12, 2025 | false        |
+> | [[3_GARDEN/Notes littéraires/6e cours CFX\|6e cours CFX]]   | December 05, 2025 | false        |
+> | [[3_GARDEN/Notes littéraires/5e cours CFX\|5e cours CFX]]   | November 28, 2025 | false        |
+> | [[3_GARDEN/Notes littéraires/4e cours CFX\|4e cours CFX]]   | November 07, 2025 | false        |
+> | [[3_GARDEN/Notes littéraires/3e cours CFX\|3e cours CFX]]   | October 24, 2025  | false        |
+> | [[3_GARDEN/Notes littéraires/2e cours CFX\|2e cours CFX]]   | October 17, 2025  | false        |
+> | [[3_GARDEN/Notes littéraires/1er cours CFX\|1er cours CFX]] | October 10, 2025  | false        |
 > 
 { .block-language-dataview}
 > 
@@ -30,11 +30,11 @@
 # MOC
 ---
 
-[[3_GARDEN/Notes permanentes/Wrangle d’animation périodique|Wrangle d’animation périodique]]
+[[3_GARDEN/Notes permanentes/Wrangle d’animation périodique\|Wrangle d’animation périodique]]
 
-[[3_GARDEN/Notes permanentes/Node point deform|Node point deform]]
-[[3_GARDEN/Notes permanentes/Node group Houdini|Node group Houdini]]
-[[3_GARDEN/Notes permanentes/HDA|HDA]]
+[[3_GARDEN/Notes permanentes/Node point deform\|Node point deform]]
+[[3_GARDEN/Notes permanentes/Node group Houdini\|Node group Houdini]]
+[[3_GARDEN/Notes permanentes/HDA\|HDA]]
 
 ---
 ## Workflow simulation de tissu
@@ -52,15 +52,15 @@
 
 ## La note 
 
-Pour simuler notamment du cloth dans Houdini, on ne doit pas avoir d'épaisseur, on doit avoir un maillage en triangles, pas d'UVs etc (voir notamment : [[3_GARDEN/Notes permanentes/Import export clean Houdini|Import export clean Houdini]])
+Pour simuler notamment du cloth dans Houdini, on ne doit pas avoir d'épaisseur, on doit avoir un maillage en triangles, pas d'UVs etc (voir notamment : [[3_GARDEN/Notes permanentes/Import export clean Houdini\|Import export clean Houdini]])
 
 On simule donc sur un proxy puis on vient réappliquer la déformation sur le mesh d'origine
 
 ---
 #### 1. Création du proxy et simulation
 
-1. Importation et préparation du proxy : [[3_GARDEN/Notes permanentes/Import export clean Houdini|Import export clean Houdini]]
-2. Simulation : [[3_GARDEN/Notes permanentes/Simulation de tissu dans Houdini|Simulation de tissu dans Houdini]] 
+1. Importation et préparation du proxy : [[3_GARDEN/Notes permanentes/Import export clean Houdini\|Import export clean Houdini]]
+2. Simulation : [[3_GARDEN/Notes permanentes/Simulation de tissu dans Houdini\|Simulation de tissu dans Houdini]] 
 
 ---
 
@@ -106,24 +106,24 @@ On simule donc sur un proxy puis on vient réappliquer la déformation sur le me
 
 
 Voir aussi : 
-- [[3_GARDEN/Notes permanentes/File Cache|File Cache]]
-- [[3_GARDEN/Notes permanentes/Node Attribute VOP|VOP]]
+- [[3_GARDEN/Notes permanentes/File Cache\|File Cache]]
+- [[3_GARDEN/Notes permanentes/Node Attribute VOP\|VOP]]
 
 
-[[3_GARDEN/Notes permanentes/Simulation de tissu dans Houdini|Simulation de tissu dans Houdini]]
-	[[3_GARDEN/Notes permanentes/File Cache|File Cache]]
+[[3_GARDEN/Notes permanentes/Simulation de tissu dans Houdini\|Simulation de tissu dans Houdini]]
+	[[3_GARDEN/Notes permanentes/File Cache\|File Cache]]
 
-[[3_GARDEN/Notes permanentes/Node Attribute VOP|Node Attribute VOP]]
+[[3_GARDEN/Notes permanentes/Node Attribute VOP\|Node Attribute VOP]]
 
 ---
 
 ## Groom 
 
-Voir : [[3_GARDEN/MOCs/GROOM|GROOM]]
+Voir : [[3_GARDEN/MOCs/GROOM\|GROOM]]
 
 ---
 
 ## Crowd
 
-[[3_GARDEN/Notes permanentes/Crowd|Crowd]]
-[[3_GARDEN/Notes permanentes/Crowd Houdini|Crowd Houdini]]
+[[3_GARDEN/Notes permanentes/Crowd\|Crowd]]
+[[3_GARDEN/Notes permanentes/Crowd Houdini\|Crowd Houdini]]

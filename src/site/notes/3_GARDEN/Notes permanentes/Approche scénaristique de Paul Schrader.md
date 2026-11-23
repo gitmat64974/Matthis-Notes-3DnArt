@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Approche scénaristique de Paul Schrader/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[DRAMATURGIE]]"],"source":["[[1er cours scénario 3d4]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-09-23","aliases":["Approche scénaristique par la description des problèmes personnels"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Approche scénaristique de Paul Schrader/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:33.297+01:00","mtime":"2026-03-14T11:37:03.530+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/1er cours scénario 3d4]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-09-23","aliases":["Approche scénaristique par la description des problèmes personnels"]}}
 ---
 
 ## La note 

@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Adjacency Copernicus/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[HOUDINI]]","[[Copernicus (Houdini)]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-09-21","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Adjacency Copernicus/","tags":["note_permanente"],"ctime":"2026-09-21T21:37:37.728+02:00","mtime":"2026-09-21T23:20:03.148+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/Notes permanentes/Copernicus (Houdini)]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-09-21","aliases":null}}
 ---
 
 ## La note 
 
 > [!summary] Concept Clé
 > 
-> Dans **Copernicus** (le moteur 2D/3D GPU de texturing et compositing de [[3_GARDEN/MOCs/HOUDINI|Houdini]]), le système d’**Adjacency** résout le problème classique des ==coutures d'UV== (_texture seams_) lors du traitement d'images sur des géométries 3D.
+> Dans **Copernicus** (le moteur 2D/3D GPU de texturing et compositing de [[3_GARDEN/MOCs/HOUDINI\|Houdini]]), le système d’**Adjacency** résout le problème classique des ==coutures d'UV== (_texture seams_) lors du traitement d'images sur des géométries 3D.
 > 
 >   
 
@@ -27,7 +27,9 @@ Le flux de travail repose sur une connexion réseau spécifique dans Copernicus 
 - **Utilisation** : Ce câble spécifique est ensuite branché dans les nœuds Copernicus compatibles pour propager de manière fluide les valeurs d'un îlot à l'autre.
 
 
-#### 🧰 Nœuds et applications clés
+#### 🧰 Nœuds et applications
+
+![Capture d'écran 2026-09-21 231947.png](/img/user/Pi%C3%A8ces%20jointes/Capture%20d'%C3%A9cran%202026-09-21%20231947.png)
 
 L'Adjacency Cable débloque l'utilisation de plusieurs nœuds dédiés à la continuité de surface :
 

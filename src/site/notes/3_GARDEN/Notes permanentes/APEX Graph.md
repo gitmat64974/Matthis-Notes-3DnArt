@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/APEX Graph/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[HOUDINI]]","[[RIG]]","[[RIG HOUDINI]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-09-29","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/APEX Graph/","tags":["note_permanente"],"ctime":"2026-09-29T18:30:52.101+02:00","mtime":"2026-10-15T23:32:15.353+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/RIG]]","[[3_GARDEN/MOCs/RIG HOUDINI]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-09-29","aliases":null}}
 ---
 
 ## La note 
@@ -18,6 +18,7 @@ Petite explication de ce qu'on voit :
 - Chaque joint est représenté avec un transform objet parenté à un autre
 - SetpointTransforms : Le node qui créer le système fk basique
 - Bonedeformation : Le node qui qui déforme la géo avec le skeleton
+- Output : on voit que ce qui sort à la fin du graph est la shape et le skeleton. ***Donc tout le système Apex récupère le skeleton et la shape en entrée, les modifie, et en produit de nouvelles formes en sortie***. Tout le rig dans Houdini n'est donc que de la géométrie
 
 *Pour voir le graph APEX on peut mettre un node apex graph après tout le setup d'autorig builder et ou components et ouvrir le APEX Network view panel*
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Cryptomatte/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[COMPOSITING]]"],"source":["[[Cours compositing Rebuild Shot (insecte 3D2)]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-05-01","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Cryptomatte/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:23.120+01:00","mtime":"2026-10-03T11:56:50.855+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITING]]"],"source":["[[3_GARDEN/Notes littéraires/Cours compositing Rebuild Shot (insecte 3D2)]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-05-01","aliases":null}}
 ---
 
 
@@ -7,7 +7,7 @@
 
 ![Capture d'écran 2025-04-30 234712.png](/img/user/Pi%C3%A8ces%20jointes/Capture%20d'%C3%A9cran%202025-04-30%20234712.png)
 
-Le Cryptomatte est une pass ([[3_GARDEN/Notes permanentes/AOV|AOV]]) qui permet la génération de Mattes à partir de sélections de géométries. Il est calculé dès lors que l’on lance le BatchRender, et qu’un “pxrCryptomatte” (*ou autre selon le moterud de rendu : par exemple unreal -> [[3_GARDEN/Notes permanentes/Render passes unreal|Render passes unreal]]*) est setupé dans la section “Features/SampleFilters” des RenderSettings 
+Le Cryptomatte est une pass ([[3_GARDEN/Notes permanentes/AOV\|AOV]]) qui permet la génération de Mattes à partir de sélections de géométries. Il est calculé dès lors que l’on lance le BatchRender, et qu’un “pxrCryptomatte” (*ou autre selon le moterud de rendu : par exemple unreal -> [[3_GARDEN/Notes permanentes/Render passes unreal\|Render passes unreal]]*) est setupé dans la section “Features/SampleFilters” des RenderSettings 
 
 Chaque objet de la scène 3D aura une valeur linéaire float3 (=RGB) unique qui lui sera attribuée. 
 Dans NUKE, à l’aide du node “Cryptomatte”, il est possible de faire des sélections de plusieurs de ces valeurs, qui permettront de générer un Matte pour chaque objet ainsi sélectionné : 

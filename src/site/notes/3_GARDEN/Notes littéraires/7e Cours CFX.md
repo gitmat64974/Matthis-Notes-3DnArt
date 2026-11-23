@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/7e Cours CFX/","tags":["note_litteraire","cours"],"dg-note-properties":{"MOC":["[[HOUDINI]]","[[CFX]]"],"source":["[[Cours CFX ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2025-12-12"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/7e Cours CFX/","tags":["note_litteraire","cours"],"ctime":"2026-03-21T20:44:12.452+01:00","mtime":"2025-12-12T17:33:56.962+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/CFX]]"],"source":["[[3_GARDEN/Notes littéraires/Cours CFX ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2025-12-12"}}
 ---
 
 
@@ -26,13 +26,13 @@ En ayant la geo selectionnée, dans le shelf Hair Utils cliquer sur **create gui
 ![](https://i.imgur.com/pOyYqKQ.png)
 
 
-La création de masques se fait par des [[3_GARDEN/Notes permanentes/Attribute paint|Attribute paint]] dans la geo (Ce qui permet de peindre les masks sur des points (et pas des UVs comme sur Maya))
+La création de masques se fait par des [[3_GARDEN/Notes permanentes/Attribute paint\|Attribute paint]] dans la geo (Ce qui permet de peindre les masks sur des points (et pas des UVs comme sur Maya))
 
 
 > [!abstract]+ Gérer la density
 > ---
 > 
-> Créer un [[3_GARDEN/Notes permanentes/Attribute paint|Attribute paint]] dans la geo et peindre là où on veut que les poils soient
+> Créer un [[3_GARDEN/Notes permanentes/Attribute paint\|Attribute paint]] dans la geo et peindre là où on veut que les poils soient
 Bien rename l'attribute (qui s'appelle *mask* de base) en *density*
 > 
 > ---

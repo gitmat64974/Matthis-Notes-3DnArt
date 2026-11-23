@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1_PROJETS/FFE/00_REVIEWS/Mai_2026_W2_LeSitariste/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/1_PROJETS/FFE/00_REVIEWS/Mai_2026_W2_LeSitariste/","ctime":"2026-05-11T20:28:18.083+02:00","mtime":"2026-05-26T00:11:11.360+02:00","dg-note-properties":{"objectifs atteints":true}}
 ---
 
 
@@ -55,6 +55,8 @@ Voix pour le gars qui fait l'annonce : Grosse grosse voix bien grave
 3. Estab boutique
 4. Il se voit lui même
 5. Sitar qui tombe et se brise
+
+
 
 
 

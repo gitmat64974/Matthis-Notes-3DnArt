@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Architecture de Claude Code/","tags":["note_permanente","architecture","claude_code","système"],"dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/INFORMATIQUE|INFORMATIQUE]]"],"source":["Documentation officielle Claude Code","Analyse du répertoire ~/.claude/","Configuration personnelle de Matthis"],"Projets":null,"tags":["note_permanente","architecture","claude_code","système"],"creation date":20260404,"aliases":["Claude Code Architecture","Claude Code Internals","Claude Code Configuration","Claude Code System"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Architecture de Claude Code/","tags":["note_permanente","architecture","claude_code","système"],"ctime":"2026-04-05T11:32:31.295+02:00","mtime":"2026-10-29T18:42:50.514+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/INFORMATIQUE]]"],"source":["Documentation officielle Claude Code","Analyse du répertoire ~/.claude/","Configuration personnelle de Matthis"],"Projets":null,"tags":["note_permanente","architecture","claude_code","système"],"creation date":20260404,"aliases":["Claude Code Architecture","Claude Code Internals","Claude Code Configuration","Claude Code System"]}}
 ---
 
 
@@ -1242,9 +1242,9 @@ Comprendre son architecture permet d'**exploiter pleinement son potentiel** et d
 
 ## Liens
 
-- [[3_GARDEN/Notes permanentes/Claude code|Claude code]] : Note générale d'introduction
-- [[3_GARDEN/Notes permanentes/Claude skills|Claude skills]] : Détail des skills installés chez Matthis
-- [[3_GARDEN/Notes permanentes/Claude Agent Teams|Claude Agent Teams]] : Système d'agents multiples
-- [[3_GARDEN/Notes permanentes/Claude x Ollama|Claude x Ollama]] : Intégration modèles locaux
-- [[3_GARDEN/MOCs/IA|IA]] : MOC Intelligence Artificielle
-- [[3_GARDEN/MOCs/INFORMATIQUE|INFORMATIQUE]] : MOC Informatique générale
+- [[3_GARDEN/Notes permanentes/Claude code\|Claude code]] : Note générale d'introduction
+- [[3_GARDEN/Notes permanentes/Skills - Agents IA\|Skills - Agents IA]] : Détail des skills installés chez Matthis
+- [[3_GARDEN/Notes permanentes/Claude Agent Teams\|Claude Agent Teams]] : Système d'agents multiples
+- [[3_GARDEN/Notes permanentes/Claude x Ollama\|Claude x Ollama]] : Intégration modèles locaux
+- [[3_GARDEN/MOCs/IA\|IA]] : MOC Intelligence Artificielle
+- [[3_GARDEN/MOCs/INFORMATIQUE\|INFORMATIQUE]] : MOC Informatique générale

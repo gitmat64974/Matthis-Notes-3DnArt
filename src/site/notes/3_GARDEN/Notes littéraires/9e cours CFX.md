@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/9e cours CFX/","tags":["note_litteraire","cours","A_traiter"],"dg-note-properties":{"MOC":["[[CFX]]","[[HOUDINI]]"],"source":["[[Cours CFX ESMA]]"],"Projets":null,"tags":["note_litteraire","cours","A_traiter"],"creation date":"2026-01-09"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/9e cours CFX/","tags":["note_litteraire","cours"],"ctime":"2026-03-21T20:44:11.629+01:00","mtime":"2026-07-17T16:36:12.932+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/CFX]]","[[3_GARDEN/MOCs/HOUDINI]]"],"source":["[[3_GARDEN/Notes littéraires/Cours CFX ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2026-01-09"}}
 ---
 
 

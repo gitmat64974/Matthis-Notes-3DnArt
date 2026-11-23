@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/Cours Houdini semaine 2/","tags":["note_litteraire","cours","A_traiter"],"dg-note-properties":{"MOC":["[[HOUDINI]]"],"source":["[[Cours houdini ESMA]]"],"Projets":null,"tags":["note_litteraire","cours","A_traiter"],"creation date":"2025-09-29"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/Cours Houdini semaine 2/","tags":["note_litteraire","cours","A_traiter"],"ctime":"2026-03-21T20:44:15.050+01:00","mtime":"2025-10-06T22:08:28.979+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["[[3_GARDEN/Notes littéraires/Cours houdini ESMA]]"],"Projets":null,"tags":["note_litteraire","cours","A_traiter"],"creation date":"2025-09-29"}}
 ---
 
 
@@ -22,7 +22,7 @@ Shift + Clic sur un paramètre
 
 ---
 
-Voronoi : [[3_GARDEN/Notes permanentes/Voronoi|Voronoi]]
+Voronoi : [[3_GARDEN/Notes permanentes/Voronoi\|Voronoi]]
 
 ---
 

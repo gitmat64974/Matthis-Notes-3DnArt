@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Camera mapping/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[COMPOSITING]]"],"source":["#cours [[Cours de compositing ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-02-27","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Camera mapping/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:32.176+01:00","mtime":"2026-10-28T09:36:11.594+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITING]]"],"source":["#cours [[Cours de compositing ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-02-27","aliases":null}}
 ---
 
 

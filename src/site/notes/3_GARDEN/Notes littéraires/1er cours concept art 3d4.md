@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/1er cours concept art 3d4/","tags":["note_litteraire","A_traiter","#cours"],"dg-note-properties":{"MOC":["[[CONCEPT ART]]"],"source":["[[Cours de concept art ESMA]]"],"Projets":null,"tags":["note_litteraire","A_traiter","#cours"],"creation date":"2025-09-24"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/1er cours concept art 3d4/","tags":["note_litteraire","A_traiter","#cours"],"ctime":"2026-03-21T20:44:13.345+01:00","mtime":"2025-10-23T14:54:51.294+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/CONCEPT ART]]"],"source":["[[3_GARDEN/Notes littéraires/Cours de concept art ESMA]]"],"Projets":null,"tags":["note_litteraire","A_traiter","#cours"],"creation date":"2025-09-24"}}
 ---
 
 
 
-[[3_GARDEN/Notes permanentes/Concept 2D vers modélisation 3D|Concept 2D vers modélisation 3D]]
+[[3_GARDEN/Notes permanentes/Concept 2D vers modélisation 3D\|Concept 2D vers modélisation 3D]]
 
 ---
 
@@ -54,7 +54,7 @@ De manière plus générale :
 3. Choix d'une puis Mise en volume
 4. Documentation
 5. Trait final
-6. Rendering -> [[3_GARDEN/Notes permanentes/Process character digital painting|Process character digital painting]]
+6. Rendering -> [[3_GARDEN/Notes permanentes/Process character digital painting\|Process character digital painting]]
 
 De 1 à 4 : sans aucunes refs
 

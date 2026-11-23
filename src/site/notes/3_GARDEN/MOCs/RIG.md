@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/RIG/","tags":["MOC"],"dg-note-properties":{"aliases":["RIGGING"],"MOC":["[[3_GARDEN/MOCs/RIG|RIG]]","[[3D]]"],"tags":["MOC"],"Source":["[[Notes de cours de rigging d'élèves au dessus, traité par ChatGPT]]"],"creation date":"2024-09-30"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/RIG/","tags":["MOC"],"ctime":"2026-05-02T23:05:57.301+02:00","mtime":"2026-10-24T13:08:15.377+02:00","dg-note-properties":{"aliases":["RIGGING"],"MOC":["[[3_GARDEN/MOCs/RIG]]","[[3_GARDEN/MOCs/3D]]"],"tags":["MOC"],"Source":["[[3_GARDEN/Notes littéraires/Notes de cours de rigging d'élèves au dessus, traité par ChatGPT]]"],"creation date":"2024-09-30"}}
 ---
 
 ![](https://cdn.fastpixel.io/fp/ret_img+v_948d+q_lossy+to_webp/aaagameartstudio.com%2Fwp-content%2Fuploads%2F2023%2F08%2Frigging-in-3d-animation-character-rigging.jpg)
@@ -49,10 +49,10 @@ L’idée du rigging est tout ce qui concerne l’amélioration de l’expérien
 
 # MOC
 
-Le rigging se superpose aux autres étapes du [[3_GARDEN/Notes permanentes/Pipeline de production en animation|Pipeline de production en animation]] : 
-- **Modélisation** : Création de la géométrie du personnage ou de l’objet. [[3_GARDEN/MOCs/MODELISATION|MODELISATION]]
+Le rigging se superpose aux autres étapes du [[3_GARDEN/Notes permanentes/Pipeline de production en animation\|Pipeline de production en animation]] : 
+- **Modélisation** : Création de la géométrie du personnage ou de l’objet. [[3_GARDEN/MOCs/MODELISATION\|MODELISATION]]
 - **Rigging** : Application des contrôleurs et des squelettes sur les modèles.
-- **Animation** : Utilisation du rig pour donner vie au modèle. [[3_GARDEN/MOCs/ANIMATION|ANIMATION]]
+- **Animation** : Utilisation du rig pour donner vie au modèle. [[3_GARDEN/MOCs/ANIMATION\|ANIMATION]]
 
 
 On a 3 types d'informations dans un rig notamment dans kinefx : 
@@ -67,12 +67,12 @@ Et les controleurs qui viennent gérer la déformation des joints
 
 ## Principes de rig généraux 
 
-Voir [[3_GARDEN/MOCs/RIG|RIG]] (plus axé Rig Maya bien sur)
+Voir [[3_GARDEN/MOCs/RIG\|RIG]] (plus axé Rig Maya bien sur)
 
-[[3_GARDEN/Notes permanentes/Joint (rig)|Joint (rig)]]
-- [[3_GARDEN/Notes permanentes/Joints rig bidep|Joints rig bidep]]
+[[3_GARDEN/Notes permanentes/Joint (rig)\|Joint (rig)]]
+- [[3_GARDEN/Notes permanentes/Joints rig bidep\|Joints rig bidep]]
 
-[[3_GARDEN/Notes permanentes/Orient Joints|Orient Joints]]
+[[3_GARDEN/Notes permanentes/Orient Joints\|Orient Joints]]
 
 ---
 ## Rig dans Maya 
@@ -81,18 +81,18 @@ Voir [[3_GARDEN/MOCs/RIG|RIG]] (plus axé Rig Maya bien sur)
 
 Cours 3D2 : 
 
-[[3_GARDEN/Notes littéraires/Cours skinning rig biped 3D2|Cours skinning rig biped 3D2]]
-[[3_GARDEN/Notes littéraires/Cours controleurs rig biped 3D2|Cours controleurs rig biped 3D2]]
+[[3_GARDEN/Notes littéraires/Cours skinning rig biped 3D2\|Cours skinning rig biped 3D2]]
+[[3_GARDEN/Notes littéraires/Cours controleurs rig biped 3D2\|Cours controleurs rig biped 3D2]]
 
 Notes en Vrac : 
 
-[[3_GARDEN/Notes permanentes/Wrinkle Map|Wrinkle Map]] 
+[[3_GARDEN/Notes permanentes/Wrinkle Map\|Wrinkle Map]] 
 
-[[3_GARDEN/Notes permanentes/Matrice (Rig)|Matrice (Rig)]] 
+[[3_GARDEN/Notes permanentes/Matrice (Rig)\|Matrice (Rig)]] 
 
 ---
 
 ## Rig dans Houdini
 
-[[3_GARDEN/MOCs/RIG HOUDINI|RIG HOUDINI]]
+[[3_GARDEN/MOCs/RIG HOUDINI\|RIG HOUDINI]]
 

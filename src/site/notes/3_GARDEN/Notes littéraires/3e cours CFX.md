@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/3e cours CFX/","tags":["note_litteraire","cours"],"dg-note-properties":{"MOC":["[[HOUDINI]]","[[CFX]]"],"source":["[[Cours CFX ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2025-10-24"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/3e cours CFX/","tags":["note_litteraire","cours"],"ctime":"2026-03-21T20:44:18.253+01:00","mtime":"2025-12-12T17:45:09.625+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/CFX]]"],"source":["[[3_GARDEN/Notes littéraires/Cours CFX ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2025-10-24"}}
 ---
 
 ## File Cache

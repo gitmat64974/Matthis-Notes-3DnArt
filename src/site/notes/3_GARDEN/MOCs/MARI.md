@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/MARI/","tags":["MOC"],"dg-note-properties":{"MOC":["[[3D]]","[[SHADING TEXTURING]]"],"source":null,"Projets":null,"tags":["MOC"],"creation date":"2025-10-24","aliases":null,"banner":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcgworld.jp%2Fflashnews%2Fassets_c%2F2024%2F12%2FMari71-01-thumb-1280x720-63627.jpg&f=1&nofb=1&ipt=3f292c2714a0717554e78b55d6a2a5db7c9d30883c50c3f2297e7575b59d95bf"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/MARI/","tags":["MOC"],"ctime":"2026-03-21T20:44:17.687+01:00","mtime":"2026-07-17T16:40:03.186+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/SHADING TEXTURING]]"],"source":null,"Projets":null,"tags":["MOC"],"creation date":"2025-10-24","aliases":null,"banner":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcgworld.jp%2Fflashnews%2Fassets_c%2F2024%2F12%2FMari71-01-thumb-1280x720-63627.jpg&f=1&nofb=1&ipt=3f292c2714a0717554e78b55d6a2a5db7c9d30883c50c3f2297e7575b59d95bf"}}
 ---
 
 # Définition
@@ -17,7 +17,7 @@
 Mari est principalement utilsé pour les assets principaux. 
 Mais c’est donc un logiciel moins utilisé que Substance painter et designer 
 
-Mari ne calcule que ce qui est dans le viewport -> Permet d’afficher des énormes assets et d’énormes map sans problème, contrairement à [[3_GARDEN/MOCs/SUBSTANCE PAINTER|SUBSTANCE PAINTER]] 
+Mari ne calcule que ce qui est dans le viewport -> Permet d’afficher des énormes assets et d’énormes map sans problème, contrairement à [[3_GARDEN/MOCs/SUBSTANCE PAINTER\|SUBSTANCE PAINTER]] 
 
 Très bonnes vidéos d'intro à MARI : 
 - [Introduction to Mari for Complete Beginners - 1 Hour Quick Start Guide - YouTube](https://youtu.be/AcpwyNun0oo?si=g4DH3koDpWEggTtH)
@@ -50,14 +50,16 @@ Playlist de FlippedNormals :
 
 ## UI et setup
 
-[[3_GARDEN/Notes permanentes/MARI Projects et MARI Archives|MARI Projects et MARI Archives]]
-[[3_GARDEN/Notes permanentes/MARI, setup de l'UI|MARI, setup de l'UI]]
+[[3_GARDEN/Notes permanentes/MARI Projects et MARI Archives\|MARI Projects et MARI Archives]]
+[[3_GARDEN/Notes permanentes/MARI, setup de l'UI\|MARI, setup de l'UI]]
 
 Export etc
 
-[[3_GARDEN/Notes permanentes/Channels dans MARI|Channels dans MARI]]
+[[3_GARDEN/Notes permanentes/Channels dans MARI\|Channels dans MARI]]
 ## Skin texturing
 
-[[3_GARDEN/Notes permanentes/Skin texturing MARI|Skin texturing MARI]]
-[[3_GARDEN/Notes permanentes/MARI - Procedural Skin Imperfection|MARI - Procedural Skin Imperfection]]
+[[3_GARDEN/Notes permanentes/Node Paint MARI\|Node Paint MARI]]
+
+[[3_GARDEN/Notes permanentes/Skin texturing MARI\|Skin texturing MARI]]
+[[3_GARDEN/Notes permanentes/MARI - Procedural Skin Imperfection\|MARI - Procedural Skin Imperfection]]
 

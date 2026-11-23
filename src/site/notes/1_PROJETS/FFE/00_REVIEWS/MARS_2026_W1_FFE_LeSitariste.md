@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1_PROJETS/FFE/00_REVIEWS/MARS_2026_W1_FFE_LeSitariste/","dg-note-properties":{"objectifs atteints":true}}
+{"dg-publish":true,"permalink":"/1_PROJETS/FFE/00_REVIEWS/MARS_2026_W1_FFE_LeSitariste/","ctime":"2026-04-08T00:55:28.419+02:00","mtime":"2026-05-02T23:17:56.327+02:00","dg-note-properties":{"objectifs atteints":true}}
 ---
 
 ## Objectifs
@@ -130,7 +130,7 @@ Danger très fort dès le départ : tous ses ancêtres à 26 se suicidaient -> �
 Si il échoue : Il faut que ce soit très négatif pour lui et pour nous
 -> créer une forte épée de Damoclès dès le départ 
 -> Montrer vraiment l'enjeu
--> Utiliser le [[3_GARDEN/Notes permanentes/Préparation-paiement|fusil de Tchekhov]] sur tous les signes dès le début
+-> Utiliser le [[3_GARDEN/Notes permanentes/Préparation-paiement\|fusil de Tchekhov]] sur tous les signes dès le début
 
 Pistes pour le sitariste : 
 - Insister sur le fait que c'est tous les 5 ans

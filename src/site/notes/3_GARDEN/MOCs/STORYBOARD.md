@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/STORYBOARD/","tags":["MOC"],"dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/CINEMA|CINEMA]]"],"source":["[[3_GARDEN/Notes littéraires/Les techniques du storyboard ou scénarimage|Les techniques du storyboard ou scénarimage]]"],"creation date":"2024-08-28","tags":["MOC"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/STORYBOARD/","tags":["MOC"],"ctime":"2026-03-21T20:44:16.250+01:00","mtime":"2026-04-06T00:00:36.000+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/Notes permanentes/CINEMA]]"],"source":["[[3_GARDEN/Notes littéraires/Les techniques du storyboard ou scénarimage]]"],"creation date":"2024-08-28","tags":["MOC"]}}
 ---
 
 ---
 
 # Définition
 
-MOC :  [[3_GARDEN/MOCs/STORYBOARD|STORYBOARD]]  [[3_GARDEN/MOCs/CINEMA|CINEMA]]
-Source : [[3_GARDEN/Notes littéraires/Les techniques du storyboard ou scénarimage|Les techniques du storyboard ou scénarimage]]
+MOC :  [[3_GARDEN/MOCs/STORYBOARD\|STORYBOARD]]  [[3_GARDEN/Notes permanentes/CINEMA\|CINEMA]]
+Source : [[3_GARDEN/Notes littéraires/Les techniques du storyboard ou scénarimage\|Les techniques du storyboard ou scénarimage]]
 Projet : 
 Tags : #note_permanente
 Date : 2024-08-28
@@ -43,8 +43,8 @@ Sites d'exemples :
 - [Pinterest - France](https://fr.pinterest.com/search/pins/?q=storyboard&rs=typed)
 # MOC
 
-Il s'appuie sur le cadrage et la [[3_GARDEN/Notes permanentes/Eléments de composition récurrents au cinéma|composition]], voir [[3_GARDEN/MOCs/COMPOSITION PICTURALE|COMPOSITION PICTURALE]], ainsi que sur les mouvements de caméra (voir les [[3_GARDEN/Notes permanentes/Mouvements de caméra|Mouvements de caméra]])
-l'[[3_GARDEN/Notes permanentes/Animatic|Animatic]] est la mise en mouvement du storyboard
+Il s'appuie sur le cadrage et la [[3_GARDEN/Notes permanentes/Eléments de composition récurrents au cinéma\|composition]], voir [[3_GARDEN/MOCs/COMPOSITION PICTURALE\|COMPOSITION PICTURALE]], ainsi que sur les mouvements de caméra (voir les [[3_GARDEN/Notes permanentes/Mouvements de caméra\|Mouvements de caméra]])
+l'[[3_GARDEN/Notes permanentes/Animatic\|Animatic]] est la mise en mouvement du storyboard
 
 
-[[3_GARDEN/Notes permanentes/Approche diagrammatique du storyboard|Approche diagrammatique du storyboard]] 
+[[3_GARDEN/Notes permanentes/Approche diagrammatique du storyboard\|Approche diagrammatique du storyboard]] 

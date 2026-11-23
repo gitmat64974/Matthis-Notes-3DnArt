@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Documents affinity/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[AFFINITY]]"],"source":["[[Playlist 11, cours affinity Esma 3d1a]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-02-28","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Documents affinity/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:36.818+01:00","mtime":"2026-06-07T16:00:31.371+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/AFFINITY]]"],"source":["[[3_GARDEN/Notes littéraires/Playlist 11, cours affinity Esma 3d1a]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-02-28","aliases":null}}
 ---
 
 

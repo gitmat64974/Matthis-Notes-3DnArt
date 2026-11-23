@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Evolution du crane avec âge/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[ANATOMIE ARTISTIQUE]]"],"source":["[[Anatomy of Facial Expressions]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-11-19","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Evolution du crane avec âge/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:27.014+01:00","mtime":"2026-04-24T17:43:18.693+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ANATOMIE ARTISTIQUE]]"],"source":["[[Media_DB/Books/Anatomy of Facial Expressions]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-11-19","aliases":null}}
 ---
 
 

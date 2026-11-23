@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/3e cours scénario 3D4/","tags":["note_litteraire","cours"],"dg-note-properties":{"MOC":["[[DRAMATURGIE]]"],"source":["[[Cours de scénario ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2025-10-13"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/3e cours scénario 3D4/","tags":["note_litteraire","cours"],"ctime":"2026-03-21T20:44:11.496+01:00","mtime":"2025-10-15T11:56:09.175+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/Cours de scénario ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2025-10-13"}}
 ---
 
 
-- [[3_GARDEN/Notes permanentes/Prémisse (scénario)|Prémisse (scénario)]]
-- [[TaskNotes/Tasks/Synopsis|Synopsis]]
+- [[3_GARDEN/Notes permanentes/Prémisse (scénario)\|Prémisse (scénario)]]
+- [[TaskNotes/Archive/Synopsis\|Synopsis]]
 
 #### Dossier FFE
 
@@ -23,14 +23,14 @@ Page 3 :
 - Synopsis développé et fermé (police 12, ne pas préciser le numéro de version)
 
 Page 4: 
-- Note d’intention (->[[3_GARDEN/Notes permanentes/Note d'intention d'un scénario|Note d'intention d'un scénario]])
+- Note d’intention (->[[3_GARDEN/Notes permanentes/Note d'intention d'un scénario\|Note d'intention d'un scénario]])
 
 Page 5: Boîte noire
-- [[3_GARDEN/Notes permanentes/Prémisse (scénario)|Prémisse (scénario)]]
+- [[3_GARDEN/Notes permanentes/Prémisse (scénario)\|Prémisse (scénario)]]
 - Thématique principale
 - Ligne thématique
 - Incident déclencheur
-- Si transformation du personnage -> déclinez les 4 étapes de Yves Lavandier ([[3_GARDEN/Notes permanentes/Les types de transformation de personnages|les 3 arcs de transformation de personnage]])
+- Si transformation du personnage -> déclinez les 4 étapes de Yves Lavandier ([[3_GARDEN/Notes permanentes/Les types de transformation de personnages\|les 3 arcs de transformation de personnage]])
 	1. *Trait de caractère de base* 
 	2. *Cause du changement*
 	3. *Moment de bascule*

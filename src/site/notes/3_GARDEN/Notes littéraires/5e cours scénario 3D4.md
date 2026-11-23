@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-garden/notes-litteraires/5e-cours-scenario-3-d4/","tags":["note_litteraire","cours"],"dg-note-properties":{"MOC":["[[DRAMATURGIE]]"],"source":["[[Cours de scénario ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2025-10-20"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/5e cours scénario 3D4/","tags":["note_litteraire","cours"],"ctime":"2026-03-21T20:44:12.532+01:00","mtime":"2026-05-13T23:19:41.962+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/Cours de scénario ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2025-10-20"}}
 ---
 
 
@@ -25,8 +25,8 @@ Dynamique
 > 	- Sur l’intention principale
 > 
 > -> Pour se faire on peut utiliser plusieurs outils : 
-> - Prémisse ([[3_GARDEN/Notes permanentes/Prémisse (scénario)|Prémisse (scénario)]])
-> - Synopsis court ([[TaskNotes/Tasks/Synopsis#Synopsis court (ouvert)|Synopsis#Synopsis court (ouvert)]])
+> - Prémisse ([[3_GARDEN/Notes permanentes/Prémisse (scénario)\|Prémisse (scénario)]])
+> - Synopsis court ([[TaskNotes/Archive/Synopsis#Synopsis court (ouvert)\|Synopsis#Synopsis court (ouvert)]])
 > - Tagline
 > - Accroche perso, intentions 
 

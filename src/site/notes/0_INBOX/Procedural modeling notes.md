@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0_INBOX/Procedural modeling notes/","dg-note-properties":{"aliases":["notes modelisation procedural"]}}
+{"dg-publish":true,"permalink":"/0_INBOX/Procedural modeling notes/","ctime":"2026-07-17T16:25:19.336+02:00","mtime":"2026-10-20T22:49:40.194+02:00","dg-note-properties":{"aliases":["notes modelisation procedural"]}}
 ---
 
 
@@ -29,6 +29,10 @@ Permet d'automatiquement aligner les normals d'une curve selon sa direction
 
 Node transform avec dans attributes N au lieu de * permet de rotate uniquement les normales
 
+## Gestion des normales
+
+Node polyframe permet de définir les attributs de repères de coordonnées (normales, tangent etc)
+
 # Opérations géométriques de base
 
 ### PolyBevel
@@ -49,6 +53,18 @@ Permet de faire plusieurs déformations basiques de manière procedurales :
 
 Points split : permet de séparer les faces d'une géo
 
+### Clip
+
+Permet de cut une géo 
+
+Pour qu'il cut en fonction d'un pourcentage de la bounding box : 
+Expression suivante dans le origin Y(ici ça cut à 70%) : ``bbox(0, D_YMIN) + (bbox(0, D_YSIZE) * 0.7)``
+
+#### Sub D modeling specific
+
+##### Crease node
+
+Permet de crease les edges selectionnées ou le group sélectionné
 
 # Création de masks
 
@@ -128,15 +144,4 @@ A noter qu'on peut faire des booleans en mode seam pour extraire uniquement une 
 
 
 # Tips plus advanced
-
-### Randomiser dans un foreach
-
-Il faut créer un attribute randomize "rand" avant le foreach
-
-Puis dans la seed d'un node qui la comporte (un point jitter par exemple), rentrer cette expression qui va randomize la seed en fonction des itérations du foreach : 
-
-```C
-point("../foreach_begin4/", 0, "rand", 0)
-```
-
 

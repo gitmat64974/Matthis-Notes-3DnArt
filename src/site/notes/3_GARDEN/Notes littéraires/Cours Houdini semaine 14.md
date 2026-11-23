@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/Cours Houdini semaine 14/","tags":["note_litteraire","cours"],"dg-note-properties":{"MOC":["[[HOUDINI]]"],"source":["[[Cours houdini ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2026-01-23"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/Cours Houdini semaine 14/","tags":["note_litteraire","cours"],"ctime":"2026-03-21T20:44:13.136+01:00","mtime":"2026-01-23T09:07:54.173+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["[[3_GARDEN/Notes littéraires/Cours houdini ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2026-01-23"}}
 ---
 
 
@@ -122,7 +122,7 @@ En les visualisant temporairement :
 
 #### RBD Configure
 
-La première étape de configuration se trouve dans le [[3_GARDEN/Notes permanentes/RBD configure|RBD configure]] (voir la note)
+La première étape de configuration se trouve dans le [[3_GARDEN/Notes permanentes/RBD configure\|RBD configure]] (voir la note)
 
 #### RBD Constraint from rules :
 

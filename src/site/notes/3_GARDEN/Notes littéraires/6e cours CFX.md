@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/6e cours CFX/","tags":["note_litteraire","cours"],"dg-note-properties":{"MOC":["[[HOUDINI]]"],"source":["[[Cours CFX ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2025-12-05"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/6e cours CFX/","tags":["note_litteraire","cours"],"ctime":"2026-03-21T20:44:17.606+01:00","mtime":"2025-12-12T17:47:00.913+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["[[3_GARDEN/Notes littéraires/Cours CFX ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2025-12-05"}}
 ---
 
 
@@ -77,9 +77,9 @@ marche aussi avec un nuage de points au lieu de polygons en entrée : vdb from p
 Après avoir bien préparé les curves pour la simu (voir plus haut, surtout le group expression pour l'attach), on vient les simuler. 
 
 > [!abstract]+ Vellum solver et constraints
-> On utilise aussi le [[3_GARDEN/Notes permanentes/Simulation de tissu dans Houdini|Vellum Solver]]
+> On utilise aussi le [[3_GARDEN/Notes permanentes/Simulation de tissu dans Houdini\|Vellum Solver]]
 > Avec dans le vellum constraint le mode hair
-> Et un autre vellum constraint en attach to geo avec les group pin hair et le group de la geo d'attache (*voir [[3_GARDEN/Notes permanentes/Simulation de tissu dans Houdini|Simulation de tissu dans Houdini]] pour plus de détail sur l'attach to geometry*)
+> Et un autre vellum constraint en attach to geo avec les group pin hair et le group de la geo d'attache (*voir [[3_GARDEN/Notes permanentes/Simulation de tissu dans Houdini\|Simulation de tissu dans Houdini]] pour plus de détail sur l'attach to geometry*)
 
 
 

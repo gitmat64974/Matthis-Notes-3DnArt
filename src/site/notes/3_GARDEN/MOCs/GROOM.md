@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/GROOM/","tags":["MOC"],"dg-note-properties":{"tags":["MOC"],"banner":"tiger"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/GROOM/","tags":["MOC"],"ctime":"2026-05-02T23:07:41.688+02:00","mtime":"2026-11-05T21:40:53.899+01:00","dg-note-properties":{"tags":["MOC"],"banner":"tiger"}}
 ---
 
 
@@ -7,7 +7,7 @@
 
 # Définition
 
-Tout ce qui concerne les poils, la fourrure, le cheveux etc en [[3_GARDEN/MOCs/3D|3D]]. 
+Tout ce qui concerne les poils, la fourrure, le cheveux etc en [[3_GARDEN/MOCs/3D\|3D]]. 
 #### 4 composantes du poil
 
 1. Longueur
@@ -29,19 +29,21 @@ A ces composantes s'ajoutent les clump (mèches), noise, curl etc
 
 # Ressources
 
-- [XGen Interactive Grooming Tutorial for Beginners: Groom a Tuxedo Cat! \[Sub. English, Vo. 日本語\] - YouTube](https://youtu.be/x0w4XpZqSCA?si=cnb_h0fFOxBHwyqi)
+- [XGen Interactive Grooming Tutorial for Beginners: Groom a Tuxedo Cat!  - YouTube](https://youtu.be/x0w4XpZqSCA?si=cnb_h0fFOxBHwyqi)
+- Importer des Guides Xgen dans Houdini : [IMPORT GUIDES #maya TO #houdini - YouTube](https://youtu.be/Cq7NPlrbx4g)
 # MOC
 
 ## Groom dans Houdini
 
 > [!tip] Le process complet de groom dans houdini : 
-> [[3_GARDEN/Notes permanentes/Process de Groom Houdini|Process de Groom Houdini]]
-> [[3_GARDEN/Notes permanentes/Groom rendering Houdini|Groom rendering Houdini]]
+> [[3_GARDEN/Notes permanentes/Process de Groom Houdini\|Process de Groom Houdini]]
+> [[3_GARDEN/Notes permanentes/Groom simulation workflow Houdini\|Groom simulation workflow Houdini]]
+> [[3_GARDEN/Notes permanentes/Groom rendering Houdini\|Groom rendering Houdini]]
 
-[[3_GARDEN/Notes permanentes/Queue de cheval groom houdini|Queue de cheval groom houdini]]
+[[3_GARDEN/Notes permanentes/Queue de cheval groom houdini\|Queue de cheval groom houdini]]
 
 > [!example]- Méthode plutôt adaptée pour faire des tentacules etc (sorte de groom détourné) :
-> [[3_GARDEN/Notes permanentes/Groom Houdini méthode lines pour vellum solver|Groom Houdini méthode lines pour vellum solver]]
+> [[3_GARDEN/Notes permanentes/Groom Houdini méthode lines pour vellum solver\|Groom Houdini méthode lines pour vellum solver]]
 
 
 ---
@@ -49,13 +51,13 @@ A ces composantes s'ajoutent les clump (mèches), noise, curl etc
 
 ## Groom dans Xgen (Maya)
 
-Dans Maya, on utilise [[3_GARDEN/Notes permanentes/Xgen|Xgen]] 
+Dans Maya, on utilise [[3_GARDEN/Notes permanentes/Xgen\|Xgen]] 
 
-[[3_GARDEN/Notes permanentes/Méthodologie grooming xgen interactive|Méthodologie grooming xgen interactive]] 
-[[3_GARDEN/Notes permanentes/Clump CG Groom|Clump CG Groom]] 
-[[3_GARDEN/Notes permanentes/GuideCurves (Groom)|GuideCurves (Groom)]] 
-[[3_GARDEN/Notes permanentes/Mask Xgen|Mask Xgen]] 
+[[3_GARDEN/Notes permanentes/Méthodologie grooming xgen interactive\|Méthodologie grooming xgen interactive]] 
+[[3_GARDEN/Notes permanentes/Clump CG Groom\|Clump CG Groom]] 
+[[3_GARDEN/Notes permanentes/GuideCurves (Groom)\|GuideCurves (Groom)]] 
+[[3_GARDEN/Notes permanentes/Mask Xgen\|Mask Xgen]] 
 
-[[3_GARDEN/Notes permanentes/Animate Fur Xgen|Animate Fur Xgen]] 
+[[3_GARDEN/Notes permanentes/Animate Fur Xgen\|Animate Fur Xgen]] 
 
 

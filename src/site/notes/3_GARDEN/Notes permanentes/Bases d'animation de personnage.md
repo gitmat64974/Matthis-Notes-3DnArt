@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Bases d'animation de personnage/","tags":["note_permanente"],"dg-note-properties":{"MOC":null,"source":null,"Projets":null,"tags":["note_permanente"],"creation date":null,"aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Bases d'animation de personnage/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:19.507+01:00","mtime":"2026-04-24T17:43:18.617+02:00","dg-note-properties":{"MOC":null,"source":null,"Projets":null,"tags":["note_permanente"],"creation date":null,"aliases":null}}
 ---
 
 
-[[3_GARDEN/Notes permanentes/MOC|MOC]] : [[3_GARDEN/MOCs/ANIMATION|ANIMATION]]
+[[3_GARDEN/Notes permanentes/MOC\|MOC]] : [[3_GARDEN/MOCs/ANIMATION\|ANIMATION]]
 Source : #video [The ultimate guide to animate any character effortless](https://www.youtube.com/watch?v=8wg0yc7yz_c)
-[[3_GARDEN/Notes permanentes/Projet|Projet]] : 
+[[3_GARDEN/Notes permanentes/Projet\|Projet]] : 
 Tags : #note_permanente 
 Date : 2024-09-23
 
@@ -14,7 +14,7 @@ Date : 2024-09-23
 Il y a 6 étapes : 
 
 1. Starting pose 
-2. Anticipation (généralement à l'opposé du mouvement), voir [[3_GARDEN/Notes permanentes/Les 12 principes de l'animation|Les 12 principes de l'animation]]
+2. Anticipation (généralement à l'opposé du mouvement), voir [[3_GARDEN/Notes permanentes/Les 12 principes de l'animation\|Les 12 principes de l'animation]]
 3. Action : la pose visée
 4. Overshoot : quand l'action va un tout petit peu trop loin qu'elle devrait (par exemple quand on frappe dans le vide, le poing va un tout petit peu plus loin que le point visé). le personnage ou l’objet continue sa trajectoire puis revient à sa position finale
 5. Recoil : force de réaction à l'action 

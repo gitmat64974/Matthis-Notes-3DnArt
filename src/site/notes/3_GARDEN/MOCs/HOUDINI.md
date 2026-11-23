@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/HOUDINI/","tags":["MOC"],"ctime":"2026-05-02T23:07:41.691+02:00","mtime":"2026-11-11T11:29:35.519+01:00","dg-note-properties":{"tags":["MOC"],"MOC":["[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/MODELISATION]]","[[3_GARDEN/MOCs/ART]]"],"Source":null,"creation date":"2025-02-02"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/HOUDINI/","tags":["MOC"],"ctime":"2026-05-02T23:07:41.691+02:00","mtime":"2026-11-23T18:47:14.936+01:00","dg-note-properties":{"tags":["MOC"],"MOC":["[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/MODELISATION]]","[[3_GARDEN/MOCs/ART]]"],"Source":null,"creation date":"2025-02-02"}}
 ---
 
 ![](https://cdn.biunivoca.com/production/images/posts/01KTXGFZS72BHS3BX0JGK4HS7P.jpeg?)
@@ -187,16 +187,27 @@ Scatterring : [[3_GARDEN/Notes permanentes/Scattering Houdini\|Scattering Houdin
 
 [[3_GARDEN/Notes permanentes/Physical placement Solaris\|Physical placement Solaris]]
 
-## Rigging
+---
+
+## Rig et Animation
+
+<u><font color="#b2a2c7">Rig</font> :</u>
 
 [[3_GARDEN/MOCs/RIG HOUDINI\|RIG HOUDINI]]
 - [[3_GARDEN/Notes permanentes/APEX Autorig builder\|APEX Autorig builder]]
 - [[3_GARDEN/Notes permanentes/Skinning KineFX\|Skinning KineFX]]
 
-
 [[3_GARDEN/Notes permanentes/KineFX x Simulations\|KineFX x Simulations]]
 
-## Crowd (foules)
+<u><font color="#f79646">Animation</font> :</u>
+
+[[3_GARDEN/Notes permanentes/APEX - Animation - Houdini\|APEX - Animation - Houdini]]
+- [[3_GARDEN/Notes permanentes/Houdini Apex Selection Sets\|Houdini Apex Selection Sets]]
+- [[3_GARDEN/Notes permanentes/Houdini Apex animation layers\|Houdini Apex animation layers]]
+
+---
+
+## Crowd
 
 [[3_GARDEN/Notes permanentes/Crowd\|Crowd]]
 [[3_GARDEN/Notes permanentes/Crowd Houdini\|Crowd Houdini]]

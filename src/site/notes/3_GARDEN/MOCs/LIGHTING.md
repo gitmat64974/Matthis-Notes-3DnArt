@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/LIGHTING/","tags":["MOC"],"dg-note-properties":{"tags":["MOC"],"MOC":["[[3D]]"],"source":null,"banner":"cinematic lighting","aliases":["L'éclairage au cinéma"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/LIGHTING/","tags":["MOC"],"ctime":"2026-03-21T20:44:17.625+01:00","mtime":"2026-05-13T23:36:26.202+02:00","dg-note-properties":{"tags":["MOC"],"MOC":["[[3_GARDEN/MOCs/3D]]"],"source":null,"banner":"cinematic lighting","aliases":["L'éclairage au cinéma"]}}
 ---
 
 
@@ -8,10 +8,10 @@
 > 
 >  | File                                                                             | Date de création   | Contenu brut |
 > | -------------------------------------------------------------------------------- | ------------------ | ------------ |
-> | [[3_GARDEN/Notes littéraires/4e cours lighting 3D4|4e cours lighting 3D4]]   | October 17, 2025   | true         |
-> | [[3_GARDEN/Notes littéraires/3e cours lighting 3D4|3e cours lighting 3D4]]   | October 10, 2025   | true         |
-> | [[3_GARDEN/Notes littéraires/2e cours lighting 3D4|2e cours lighting 3D4]]   | October 03, 2025   | false        |
-> | [[3_GARDEN/Notes littéraires/1er cours Lighting 3d4|1er cours Lighting 3d4]] | September 26, 2025 | false        |
+> | [[3_GARDEN/Notes littéraires/4e cours lighting 3D4\|4e cours lighting 3D4]]   | October 17, 2025   | false        |
+> | [[3_GARDEN/Notes littéraires/3e cours lighting 3D4\|3e cours lighting 3D4]]   | October 10, 2025   | false        |
+> | [[3_GARDEN/Notes littéraires/2e cours lighting 3D4\|2e cours lighting 3D4]]   | October 03, 2025   | false        |
+> | [[3_GARDEN/Notes littéraires/1er cours Lighting 3d4\|1er cours Lighting 3d4]] | September 26, 2025 | false        |
 > 
 { .block-language-dataview}
 
@@ -163,32 +163,32 @@ En cinéma d'animation 3D, le lighting est réalisé par un "lighting artist", q
 
 ## Lighting, principes artistiques 
 
-*Dans un [[3_GARDEN/Notes permanentes/Pipeline de production en animation|Pipeline de production en animation]], équivaut à la recherche d'idées, la première partie de la pré production*
+*Dans un [[3_GARDEN/Notes permanentes/Pipeline de production en animation\|Pipeline de production en animation]], équivaut à la recherche d'idées, la première partie de la pré production*
 
 > [!quote] Chris Brejon
 > Plus tôt le lighting peut être conçu, plus il peut être impliqué dans le processus de narration
 
-Le premier principe est que l'**on éclaire ce que le spectateur doit regarder**, le [[3_GARDEN/Notes permanentes/Point focal|Point focal]] (voir dans la note comment on le crée). 
+Le premier principe est que l'**on éclaire ce que le spectateur doit regarder**, le [[3_GARDEN/Notes permanentes/Point focal\|Point focal]] (voir dans la note comment on le crée). 
 
-[[3_GARDEN/Notes permanentes/Analyser la lumière|Analyser la lumière]] 
+[[3_GARDEN/Notes permanentes/Analyser la lumière\|Analyser la lumière]] 
 
 ---
 
 ## Lighting 2D 
 
-*Dans un [[3_GARDEN/Notes permanentes/Pipeline de production en animation|Pipeline de production en animation]], équivaut à la validation de la recherche, la deuxième partie de la pré production*
+*Dans un [[3_GARDEN/Notes permanentes/Pipeline de production en animation\|Pipeline de production en animation]], équivaut à la validation de la recherche, la deuxième partie de la pré production*
 
-Voir le moc [[3_GARDEN/MOCs/DESSIN|DESSIN]], notamment cette partie : 
+Voir le moc [[3_GARDEN/MOCs/DESSIN\|DESSIN]], notamment cette partie : 
 
-La base : [[3_GARDEN/Notes permanentes/Bases du rendu de la lumière en dessin|Bases du rendu de la lumière en dessin]]
-Méthode complète : [[3_GARDEN/Notes permanentes/Rendre la lumière en dessin|Rendre la lumière en dessin]]
-	Rendu des textures : [[3_GARDEN/Notes permanentes/Méthodologie pour dessiner toutes les textures|Méthodologie pour dessiner toutes les textures]]
+La base : [[3_GARDEN/Notes permanentes/Bases du rendu de la lumière en dessin\|Bases du rendu de la lumière en dessin]]
+Méthode complète : [[3_GARDEN/Notes permanentes/Rendre la lumière en dessin\|Rendre la lumière en dessin]]
+	Rendu des textures : [[3_GARDEN/Notes permanentes/Méthodologie pour dessiner toutes les textures\|Méthodologie pour dessiner toutes les textures]]
 
 ---
 
 ## Techniques de lighting 3D 
 
-*Dans un [[3_GARDEN/Notes permanentes/Pipeline de production en animation|Pipeline de production en animation]], équivaut à la production*
+*Dans un [[3_GARDEN/Notes permanentes/Pipeline de production en animation\|Pipeline de production en animation]], équivaut à la production*
 
 
 > [!abstract]+ Les 3 départements de production principalement associés au lighting : 
@@ -201,37 +201,37 @@ Méthode complète : [[3_GARDEN/Notes permanentes/Rendre la lumière en dessin|R
 > 
 
 
-*Le lighting pur se fait avant et après le [[3_GARDEN/MOCs/SHADING TEXTURING|SHADING TEXTURING]] et le [[3_GARDEN/Notes permanentes/LookDev|LookDev]]. Avant, c'est le blocking / layout, après c'est le final.* 
+*Le lighting pur se fait avant et après le [[3_GARDEN/MOCs/SHADING TEXTURING\|SHADING TEXTURING]] et le [[3_GARDEN/Notes permanentes/LookDev\|LookDev]]. Avant, c'est le blocking / layout, après c'est le final.* 
 
-- [[3_GARDEN/Notes permanentes/Secrets du photorealisme|Secrets du photorealisme]] 
+- [[3_GARDEN/Notes permanentes/Secrets du photorealisme\|Secrets du photorealisme]] 
 
 Bases physiques : 
-- [[3_GARDEN/Notes permanentes/Oeil|Oeil]]
-- [[3_GARDEN/Notes permanentes/Lumière|Lumière]]
+- [[3_GARDEN/Notes permanentes/Oeil\|Oeil]]
+- [[3_GARDEN/Notes permanentes/Lumière\|Lumière]]
 #### Bases 
-- [[3_GARDEN/Notes permanentes/CG Lights|CG Lights]] 
-- [[3_GARDEN/Notes permanentes/Lighting 3 points|Lighting 3 points]]
-- [[3_GARDEN/Notes permanentes/Température de la lumière|Température de la lumière]]
-- [[3_GARDEN/Notes permanentes/DomeLight|DomeLight]] -> [[3_GARDEN/Notes permanentes/HDRI|HDRI]] 
+- [[3_GARDEN/Notes permanentes/CG Lights\|CG Lights]] 
+- [[3_GARDEN/Notes permanentes/Lighting 3 points\|Lighting 3 points]]
+- [[3_GARDEN/Notes permanentes/Température de la lumière\|Température de la lumière]]
+- [[3_GARDEN/Notes permanentes/DomeLight\|DomeLight]] -> [[3_GARDEN/Notes permanentes/HDRI\|HDRI]] 
 
 - *Voir aussi 
-	- *[[3_GARDEN/Notes permanentes/Principe du rendering CG|Principe du rendering CG]]*
-	- *[[3_GARDEN/MOCs/COLOR MANAGEMENT|COLOR MANAGEMENT]]* 
+	- *[[3_GARDEN/Notes permanentes/Principe du rendering CG\|Principe du rendering CG]]*
+	- *[[3_GARDEN/MOCs/COLOR MANAGEMENT\|COLOR MANAGEMENT]]* 
 
 #### Techniques plus avancées
 
-- [[3_GARDEN/Notes permanentes/Fog CG|Fog CG]]
-- [[3_GARDEN/Notes permanentes/Ombrer seulement certains objets en CG|Ombrer seulement certains objets en CG]] 
-- [[3_GARDEN/Notes permanentes/Enrichir un éclairage CG|Enrichir un éclairage CG]] 
+- [[3_GARDEN/Notes permanentes/Fog CG\|Fog CG]]
+- [[3_GARDEN/Notes permanentes/Ombrer seulement certains objets en CG\|Ombrer seulement certains objets en CG]] 
+- [[3_GARDEN/Notes permanentes/Enrichir un éclairage CG\|Enrichir un éclairage CG]] 
 
 #### Environnement
 
 
-- [[3_GARDEN/Notes permanentes/Faire un lighting d'extérieur|Faire un lighting d'extérieur]]
-- [[3_GARDEN/Notes permanentes/Night lighting unreal engine|Night lighting unreal engine]]
+- [[3_GARDEN/Notes permanentes/Faire un lighting d'extérieur\|Faire un lighting d'extérieur]]
+- [[3_GARDEN/Notes permanentes/Night lighting unreal engine\|Night lighting unreal engine]]
 
 Scatterring : 
-- [[3_GARDEN/Notes permanentes/Mash (MAYA)|MASH]]
+- [[3_GARDEN/Notes permanentes/Mash (MAYA)\|MASH]]
 
 #### Softwares / render engines
 
@@ -240,7 +240,7 @@ Scatterring :
 - Octane
 - Renderman
 - Redshift
-- [[3_GARDEN/MOCs/UNREAL ENGINE|3_GARDEN/MOCs/UNREAL ENGINE]]
+- [[3_GARDEN/MOCs/UNREAL ENGINE\|3_GARDEN/MOCs/UNREAL ENGINE]]
 
 #### Stylised
 
@@ -250,20 +250,20 @@ Scatterring :
 ## Rendering
 
 
-Tout d'abord le [[3_GARDEN/Notes permanentes/Principe du rendering CG|Principe du rendering CG]]
+Tout d'abord le [[3_GARDEN/Notes permanentes/Principe du rendering CG\|Principe du rendering CG]]
 
-- [[3_GARDEN/Notes permanentes/Sampling (rendu 3D)|Sampling (rendu 3D)]]
+- [[3_GARDEN/Notes permanentes/Sampling (rendu 3D)\|Sampling (rendu 3D)]]
 
-- [[3_GARDEN/Notes permanentes/Render Layers|Render Layers]]
-	- [[3_GARDEN/Notes permanentes/Render passes unreal|Render passes unreal]]
+- [[3_GARDEN/Notes permanentes/Render Layers\|Render Layers]]
+	- [[3_GARDEN/Notes permanentes/Render passes unreal\|Render passes unreal]]
 
-[[3_GARDEN/Notes permanentes/Différence Renderman Maya Batch ou RIB Spool type|Différence Renderman Maya Batch ou RIB Spool type]]
+[[3_GARDEN/Notes permanentes/Différence Renderman Maya Batch ou RIB Spool type\|Différence Renderman Maya Batch ou RIB Spool type]]
 #### AOVs et Passes de rendus
 
-- [[3_GARDEN/Notes permanentes/OpenEXR|OpenEXR]]
-- [[3_GARDEN/Notes permanentes/AOV|AOV]]
-	- [[3_GARDEN/Notes permanentes/Shader Lobes|Shader Lobes]]
-	- [[3_GARDEN/Notes permanentes/AOVs Utilitaires|AOVs Utilitaires]]
-	- [[3_GARDEN/Notes permanentes/Cryptomatte|Cryptomatte]]
-- [[3_GARDEN/Notes permanentes/LPE|LPE]] 
+- [[3_GARDEN/Notes permanentes/OpenEXR\|OpenEXR]]
+- [[3_GARDEN/Notes permanentes/AOV\|AOV]]
+	- [[3_GARDEN/Notes permanentes/Shader Lobes\|Shader Lobes]]
+	- [[3_GARDEN/Notes permanentes/AOVs Utilitaires\|AOVs Utilitaires]]
+	- [[3_GARDEN/Notes permanentes/Cryptomatte\|Cryptomatte]]
+- [[3_GARDEN/Notes permanentes/LPE\|LPE]] 
 

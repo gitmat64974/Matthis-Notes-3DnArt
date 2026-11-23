@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/Comfyui video playlist 3d war, la 3d facil/","tags":["note_litteraire"],"dg-note-properties":{"MOC":["[[ComfyUI]]","[[IA]]","[[3D]]"],"source":["https://youtube.com/playlist?list=PLqGABQyVhJJqv3lxSYBYqYh8vQ6_yxZ_g&si=54MBC2lBKA-yVeiu"],"Projets":null,"tags":["note_litteraire"],"creation date":"2025-08-02"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/Comfyui video playlist 3d war, la 3d facil/","tags":["note_litteraire"],"ctime":"2026-03-21T20:44:12.218+01:00","mtime":"2026-02-09T15:28:41.265+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/Notes permanentes/ComfyUI]]","[[3_GARDEN/MOCs/IA]]","[[3_GARDEN/MOCs/3D]]"],"source":["https://youtube.com/playlist?list=PLqGABQyVhJJqv3lxSYBYqYh8vQ6_yxZ_g&si=54MBC2lBKA-yVeiu"],"Projets":null,"tags":["note_litteraire"],"creation date":"2025-08-02"}}
 ---
 
 
@@ -16,7 +16,7 @@
 - Un Lora (***Lo**w **RA**nk adapter*) est un « mini-modèle », plus léger, que l’on ajoute par-dessus un gros modèle généraliste.
 - Il est entraîné sur un petit set d’images (parfois seulement 50) pour injecter un style ou modifier l’output d’un modèle généraliste.
 - Pour activer un Lora dans un prompt, il faut ajouter un « **trigger word** » (mot déclencheur) dans la description pour que ComfyUI applique le style voulu du Lora.
-- Les résultats sont plus variables et dépendent fortement de la qualité du Lora utilisé — ils sont parfois moins cohérents qu’avec un modèle spécialisé ([[Modèle checkpoint|Modèle checkpoint]]), surtout si le set d’entraînement du Lora était petit ou peu varié.
+- Les résultats sont plus variables et dépendent fortement de la qualité du Lora utilisé — ils sont parfois moins cohérents qu’avec un modèle spécialisé ([[Modèle checkpoint\|Modèle checkpoint]]), surtout si le set d’entraînement du Lora était petit ou peu varié.
 - En revanche, les Lora sont rapides à entraîner et à appliquer, ce qui permet de facilement personnaliser ou tester plusieurs styles.
 
 En trouver par exemple sur [Civitai: The Home of Open-Source Generative AI](https://civitai.com/)
@@ -39,7 +39,7 @@ Cependant, même en image-to-image, l’ajout d’un Lora peut provoquer une «�
 
 #### ControlNet
 
-Modèle qui va interpréter l'image entrante via des « préprocesseurs » pour en créer des sortes d'"[[3_GARDEN/Notes permanentes/AOV|AOV]]". 
+Modèle qui va interpréter l'image entrante via des « préprocesseurs » pour en créer des sortes d'"[[3_GARDEN/Notes permanentes/AOV\|AOV]]". 
 
 ![Capture d'écran 2025-08-02 094522.png](/img/user/Pi%C3%A8ces%20jointes/Capture%20d'%C3%A9cran%202025-08-02%20094522.png)
 
@@ -74,7 +74,7 @@ Clic droit sur une image :
 ## CG to AI avec ComfyUI
 
 Mettre son rendu, layout dans un control net et en latent image pour plus de fidélité
-Detect **canny** (pour detect les objets, les ombres donc le lighting etc) et **depth** (on peut aussi mettre sa passe de zdepth, attention à l'inverser): voir [[Controlnet|Controlnet]] 
+Detect **canny** (pour detect les objets, les ombres donc le lighting etc) et **depth** (on peut aussi mettre sa passe de zdepth, attention à l'inverser): voir [[Controlnet\|Controlnet]] 
 
 
 ## Inpainting ComfyUI

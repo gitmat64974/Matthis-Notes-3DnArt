@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/1er cours CFX/","tags":["note_litteraire","cours"],"dg-note-properties":{"MOC":["[[HOUDINI]]","[[CFX]]"],"source":["[[Cours CFX ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2025-10-10"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/1er cours CFX/","tags":["note_litteraire","cours"],"ctime":"2026-03-21T20:44:14.032+01:00","mtime":"2025-12-12T17:45:16.813+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/CFX]]"],"source":["[[3_GARDEN/Notes littéraires/Cours CFX ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2025-10-10"}}
 ---
 
 
@@ -72,7 +72,7 @@ Et un drap que l’on met assez haut et que l’on a duppliqué avec un copy and
 > 
 > Les colider doivent être toujours clean, pas de ngons etc et fermés (pas de trous)
 
-Ajouter du vent : [[3_GARDEN/Notes permanentes/Vent simu cloth Houdini|Vent simu cloth Houdini]]
+Ajouter du vent : [[3_GARDEN/Notes permanentes/Vent simu cloth Houdini\|Vent simu cloth Houdini]]
 #### Paramètres
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F38QtWoWQ7k?si=z7raFethnOBkT5km" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

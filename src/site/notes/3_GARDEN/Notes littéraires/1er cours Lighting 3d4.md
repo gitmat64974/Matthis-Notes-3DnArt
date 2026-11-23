@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/1er cours Lighting 3d4/","tags":["note_litteraire","cours"],"dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/LIGHTING]]"],"source":["[[Cours de lighting rendu ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2025-09-26"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/1er cours Lighting 3d4/","tags":["note_litteraire","cours"],"ctime":"2026-03-21T20:44:17.846+01:00","mtime":"2026-03-30T20:32:02.358+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/LIGHTING]]"],"source":["[[3_GARDEN/Notes littéraires/Cours de lighting rendu ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2025-09-26"}}
 ---
 
 
@@ -10,9 +10,9 @@ Le dernier # sert à ajouter des shots entre les plans si besoin :
 Par exemple si on doit ajouter un shot entre shot 1 et shot 2 : shot 015 (5 parce que c’est exactement au milieu)
 
 ---
-[[3_GARDEN/Notes permanentes/LookDev|LookDev]] 
+[[3_GARDEN/Notes permanentes/LookDev\|LookDev]] 
 
-[[3_GARDEN/Notes permanentes/SSS|SSS]]
+[[3_GARDEN/Notes permanentes/SSS\|SSS]]
 
 
 

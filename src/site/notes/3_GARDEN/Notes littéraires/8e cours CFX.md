@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/8e cours CFX/","tags":["note_litteraire","cours"],"dg-note-properties":{"MOC":["[[CFX]]","[[HOUDINI]]"],"source":["[[Cours CFX ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2025-12-19"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/8e cours CFX/","tags":["note_litteraire","cours"],"ctime":"2026-03-21T20:44:15.702+01:00","mtime":"2025-12-19T17:15:43.750+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/CFX]]","[[3_GARDEN/MOCs/HOUDINI]]"],"source":["[[3_GARDEN/Notes littéraires/Cours CFX ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2025-12-19"}}
 ---
 
 
@@ -25,6 +25,8 @@ Dans le Hair generate :
 - Dans render -> Hair generation -> mettre Use SOP Geometry
 
 Ensuite se mettre dans la renderview, cela va rendre avec mantra
+
+#### Rendering dans Solaris
 
 
 

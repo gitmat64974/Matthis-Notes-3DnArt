@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Channels dans MARI/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[MARI]]"],"source":["[[3e cours lighting 3D4]]"],"Projets":null,"tags":["note_permanente"],"creation date":202607171637,"aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Channels dans MARI/","tags":["note_permanente"],"ctime":"2026-07-17T16:37:54.569+02:00","mtime":"2026-07-17T16:39:08.737+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/MARI]]"],"source":["[[3_GARDEN/Notes littéraires/3e cours lighting 3D4]]"],"Projets":null,"tags":["note_permanente"],"creation date":202607171637,"aliases":null}}
 ---
 
 ## La note 
@@ -19,7 +19,7 @@ Ils sont identifiés toujours par un node blanc aux bords carrés avec le nom du
 > [!tip]
 > Exporter son albédo en 16bit au lieu de 8 si on fait beaucoup de color correct en LookDev 
 
-Voir aussi : [[3_GARDEN/Notes permanentes/Les 2 grands types d’informations en texturing|Les 2 grands types d’informations en texturing]]
+Voir aussi : [[3_GARDEN/Notes permanentes/Les 2 grands types d’informations en texturing\|Les 2 grands types d’informations en texturing]]
 
 En Scalar : cocher dans le node channel : 
 - Raw Data
@@ -30,7 +30,7 @@ Clic droit sur un channel -> resize
 
 Créer un channel : 
 
-Un va créer un channel de displace en rgb (pourquoi ? => Voir [[3_GARDEN/Notes permanentes/Displace#DispRGB|Displace#DispRGB]])
+Un va créer un channel de displace en rgb (pourquoi ? => Voir [[3_GARDEN/Notes permanentes/Displace#DispRGB\|Displace#DispRGB]])
 
 > [!tip]+ Créer le channel : 
 > Clic droit dans le node graph -> channel 

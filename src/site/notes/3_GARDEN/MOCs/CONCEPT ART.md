@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/CONCEPT ART/","tags":["MOC"],"dg-note-properties":{"tags":["MOC"],"MOC":["[[ART]]","[[ANIMATION]]","[[DESSIN]]","[[ILLUSTRATION]]"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/CONCEPT ART/","tags":["MOC"],"ctime":"2026-03-21T20:44:16.964+01:00","mtime":"2026-05-10T16:41:37.899+02:00","dg-note-properties":{"tags":["MOC"],"MOC":["[[3_GARDEN/MOCs/ART]]","[[3_GARDEN/MOCs/ANIMATION]]","[[3_GARDEN/MOCs/DESSIN]]","[[3_GARDEN/MOCs/ILLUSTRATION]]"]}}
 ---
 
 
@@ -9,9 +9,9 @@
 > 
 >  | File                                                                                 | Date de création  | Contenu brut |
 > | ------------------------------------------------------------------------------------ | ----------------- | ------------ |
-> | [[3_GARDEN/Notes littéraires/6e cours concept art|6e cours concept art]]         | November 05, 2025 | true         |
-> | [[3_GARDEN/Notes littéraires/3e cours concept art 3d4|3e cours concept art 3d4]] | October 08, 2025  | true         |
-> | [[3_GARDEN/Notes littéraires/2e cours concept art 3d4|2e cours concept art 3d4]] | October 01, 2025  | false        |
+> | [[3_GARDEN/Notes littéraires/6e cours concept art\|6e cours concept art]]         | November 05, 2025 | true         |
+> | [[3_GARDEN/Notes littéraires/3e cours concept art 3d4\|3e cours concept art 3d4]] | October 08, 2025  | true         |
+> | [[3_GARDEN/Notes littéraires/2e cours concept art 3d4\|2e cours concept art 3d4]] | October 01, 2025  | false        |
 > 
 { .block-language-dataview}
 > 
@@ -56,13 +56,13 @@ Le concept est une étape de pré production dont les catégories sont les suiva
 > - Artistes 
 > 	- Lumière 
 > 		- Technique de représentation de reflets etc : Gustave Caillebotte 
-> 		- [[3_GARDEN/Notes permanentes/Crewdson|Crewdson]]
+> 		- [[3_GARDEN/Notes permanentes/Crewdson\|Crewdson]]
 > 		- Fan Ho
 > 	- Composition d'espaces intérieurs 
 > 		- Walker Evans 
-> 		- [[3_GARDEN/Notes permanentes/Edgar Degas|Edgar Degas]] 
-> 		- [[3_GARDEN/Notes permanentes/Edward Hopper|Edward Hopper]] 
-> 		- [[3_GARDEN/Notes permanentes/Crewdson|Crewdson]]
+> 		- [[3_GARDEN/Notes permanentes/Edgar Degas\|Edgar Degas]] 
+> 		- [[3_GARDEN/Notes permanentes/Edward Hopper\|Edward Hopper]] 
+> 		- [[3_GARDEN/Notes permanentes/Crewdson\|Crewdson]]
 > - Librairies visuelles : 
 > 	- Site pour des références d'anatomie, de vêtements, de chara design, créature design etc etc : [Visual Library](https://characterdesignreferences.com/visual-library)
 > 	- Site pour l'art de films d'animation en particulier : [Art of Animation](https://characterdesignreferences.com/art-of-animation)
@@ -75,7 +75,7 @@ Le concept est une étape de pré production dont les catégories sont les suiva
 
 ## L'intention
 
-[[3_GARDEN/Notes permanentes/Méthodologie générale de création|Méthodologie générale de création]] : 
+[[3_GARDEN/Notes permanentes/Méthodologie générale de création\|Méthodologie générale de création]] : 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/3_GARDEN/Notes permanentes/Méthodologie générale de création/#la-note" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -83,9 +83,9 @@ Le concept est une étape de pré production dont les catégories sont les suiva
 
 ## La note 
 
-1. Concevoir une idée ([[3_GARDEN/Notes permanentes/Recherche d'idées|Recherche d'idées]]) et la formuler clairement, notamment selon une [[3_GARDEN/Notes permanentes/Intentions narrative|Intentions narrative]] et une [[3_GARDEN/Notes permanentes/Intention expressive|Intention expressive]]
+1. Concevoir une idée ([[3_GARDEN/Notes permanentes/Recherche d'idées\|Recherche d'idées]]) et la formuler clairement, notamment selon une [[3_GARDEN/Notes permanentes/Intentions narrative\|Intentions narrative]] et une [[3_GARDEN/Notes permanentes/Intention expressive\|Intention expressive]]
 2. Concevoir sa réalisation concrète (couleurs, lumière, style etc) le plus précisément possible. 
-3. Chercher des références les plus complètes et précises possibles (cette étape peut servir à compléter la précédente). Des références documentaires et artistiques ([[3_GARDEN/Notes permanentes/Références en art|Références en art]], [[3_GARDEN/Notes permanentes/Bons artistes de références|Bons artistes de références]])
+3. Chercher des références les plus complètes et précises possibles (cette étape peut servir à compléter la précédente). Des références documentaires et artistiques ([[3_GARDEN/Notes permanentes/Références en art\|Références en art]], [[3_GARDEN/Notes permanentes/Bons artistes de références\|Bons artistes de références]])
 4. Définir une ou deux références principales de style, de lumière etc 
 5. Commencer à tester des concepts (dessins, speed painting etc) en même temps que la recherche de référence. Cela peut servir à valider ou à tester certaines référence dans son idée
 6. Finaliser les concepts une fois que les références sont complètement définies 
@@ -97,42 +97,42 @@ Le concept est une étape de pré production dont les catégories sont les suiva
 
 #### Principes de design
 
-[[3_GARDEN/Notes permanentes/Lisibilité en design|Lisibilité en design]]
+[[3_GARDEN/Notes permanentes/Lisibilité en design\|Lisibilité en design]]
 ## La stylisation
 
-[[3_GARDEN/Notes permanentes/Stylisation|Stylisation]], qui va de pair avec [[3_GARDEN/Notes permanentes/Analyser un style|Analyser un style]] bien entendu 
-La stylisation s'appuie énormément sur l'[[3_GARDEN/Notes permanentes/Exagération|Exagération]]
+[[3_GARDEN/Notes permanentes/Stylisation\|Stylisation]], qui va de pair avec [[3_GARDEN/Notes permanentes/Analyser un style\|Analyser un style]] bien entendu 
+La stylisation s'appuie énormément sur l'[[3_GARDEN/Notes permanentes/Exagération\|Exagération]]
 
 ## Line et croquis
 
-[[3_GARDEN/Notes permanentes/Line weight|Line weight]]
+[[3_GARDEN/Notes permanentes/Line weight\|Line weight]]
 ## How to paint
 
 #### Matériaux
 
-- [[3_GARDEN/Notes permanentes/Process bois, digital painting|Process bois, digital painting]]
-- [[3_GARDEN/Notes permanentes/Process metal digital painting|Process metal digital painting]]
-- [[3_GARDEN/Notes permanentes/Process verre digital painting|Process verre digital painting]]
-- [[3_GARDEN/Notes permanentes/Peindre le SSS|Peindre le SSS]]
+- [[3_GARDEN/Notes permanentes/Process bois, digital painting\|Process bois, digital painting]]
+- [[3_GARDEN/Notes permanentes/Process metal digital painting\|Process metal digital painting]]
+- [[3_GARDEN/Notes permanentes/Process verre digital painting\|Process verre digital painting]]
+- [[3_GARDEN/Notes permanentes/Peindre le SSS\|Peindre le SSS]]
 
 
 #### Personnage 
 
-- [[3_GARDEN/Notes permanentes/Process character digital painting|Process character digital painting]]
+- [[3_GARDEN/Notes permanentes/Process character digital painting\|Process character digital painting]]
 
 ## Paysages
 
-- [[3_GARDEN/Notes permanentes/Anatomie du paysage|Anatomie du paysage]]
-	- [[3_GARDEN/Notes permanentes/Créer de la profondeur en painting|Créer de la profondeur en painting]]
+- [[3_GARDEN/Notes permanentes/Anatomie du paysage\|Anatomie du paysage]]
+	- [[3_GARDEN/Notes permanentes/Créer de la profondeur en painting\|Créer de la profondeur en painting]]
 
-- [[3_GARDEN/Notes permanentes/Composition d'extérieurs|Composition d'extérieurs]]
+- [[3_GARDEN/Notes permanentes/Composition d'extérieurs\|Composition d'extérieurs]]
 
 #### Process de paint 
 
-- [[3_GARDEN/Notes permanentes/Process rochers digital painting|Process rochers digital painting]]
+- [[3_GARDEN/Notes permanentes/Process rochers digital painting\|Process rochers digital painting]]
 
 
 ## Vaisseaux 
 
-- [[3_GARDEN/Notes permanentes/Designer des vaisseaux|Designer des vaisseaux]]
+- [[3_GARDEN/Notes permanentes/Designer des vaisseaux\|Designer des vaisseaux]]
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/5e cours CFX/","tags":["note_litteraire","cours"],"dg-note-properties":{"MOC":["[[HOUDINI]]","[[CFX]]"],"source":["[[Cours CFX ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2025-11-28"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/5e cours CFX/","tags":["note_litteraire","cours"],"ctime":"2026-03-21T20:44:12.566+01:00","mtime":"2025-12-12T17:45:05.159+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/CFX]]"],"source":["[[3_GARDEN/Notes littéraires/Cours CFX ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2025-11-28"}}
 ---
 
 
@@ -14,7 +14,7 @@
 
 ### Import
 
-On cherche ici à importer correctement une geometrie pour le [[3_GARDEN/Notes permanentes/Appliquer une simu Houdini sur un mesh High poly (avec épaisseur etc)|Setup de simulation Houdini proxy to high poly]]
+On cherche ici à importer correctement une geometrie pour le [[3_GARDEN/Notes permanentes/Appliquer une simu Houdini sur un mesh High poly (avec épaisseur etc)\|Setup de simulation Houdini proxy to high poly]]
 
 
 #### Import alembic
@@ -77,7 +77,7 @@ Convert : pour que chaque primitive soit lue, et pas des primitives packées
 
 ## La note 
 
-Il faut rentrer dans le [[3_GARDEN/Notes permanentes/Simulation de tissu dans Houdini|Vellum Solver]] et ajouter un popwind que l'on branche à l'output FORCE
+Il faut rentrer dans le [[3_GARDEN/Notes permanentes/Simulation de tissu dans Houdini\|Vellum Solver]] et ajouter un popwind que l'on branche à l'output FORCE
 
 ![Pasted image 20251128162221.png](/img/user/Pi%C3%A8ces%20jointes/Pasted%20image%2020251128162221.png)
 
@@ -127,9 +127,9 @@ Il faut rentrer dans le [[3_GARDEN/Notes permanentes/Simulation de tissu dans Ho
 Après avoir bien préparé les curves pour la simu (voir plus haut, surtout le group expression pour l'attach), on vient les simuler. 
 
 > [!abstract]+ Vellum solver et constraints
-> On utilise aussi le [[3_GARDEN/Notes permanentes/Simulation de tissu dans Houdini|Vellum Solver]]
+> On utilise aussi le [[3_GARDEN/Notes permanentes/Simulation de tissu dans Houdini\|Vellum Solver]]
 > Avec dans le vellum constraint le mode hair
-> Et un autre vellum constraint en attach to geo avec les group pin hair et le group de la geo d'attache (*voir [[3_GARDEN/Notes permanentes/Simulation de tissu dans Houdini|Simulation de tissu dans Houdini]] pour plus de détail sur l'attach to geometry*)
+> Et un autre vellum constraint en attach to geo avec les group pin hair et le group de la geo d'attache (*voir [[3_GARDEN/Notes permanentes/Simulation de tissu dans Houdini\|Simulation de tissu dans Houdini]] pour plus de détail sur l'attach to geometry*)
 
 
 
@@ -148,15 +148,15 @@ Après avoir bien préparé les curves pour la simu (voir plus haut, surtout le 
 
 ## La note 
 
-Pour simuler notamment du cloth dans Houdini, on ne doit pas avoir d'épaisseur, on doit avoir un maillage en triangles, pas d'UVs etc (voir notamment : [[3_GARDEN/Notes permanentes/Import export clean Houdini|Import export clean Houdini]])
+Pour simuler notamment du cloth dans Houdini, on ne doit pas avoir d'épaisseur, on doit avoir un maillage en triangles, pas d'UVs etc (voir notamment : [[3_GARDEN/Notes permanentes/Import export clean Houdini\|Import export clean Houdini]])
 
 On simule donc sur un proxy puis on vient réappliquer la déformation sur le mesh d'origine
 
 ---
 #### 1. Création du proxy et simulation
 
-1. Importation et préparation du proxy : [[3_GARDEN/Notes permanentes/Import export clean Houdini|Import export clean Houdini]]
-2. Simulation : [[3_GARDEN/Notes permanentes/Simulation de tissu dans Houdini|Simulation de tissu dans Houdini]] 
+1. Importation et préparation du proxy : [[3_GARDEN/Notes permanentes/Import export clean Houdini\|Import export clean Houdini]]
+2. Simulation : [[3_GARDEN/Notes permanentes/Simulation de tissu dans Houdini\|Simulation de tissu dans Houdini]] 
 
 ---
 

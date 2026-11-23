@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1_PROJETS/FFE/01_PRE_PRODUCTION/FFE Le Sitariste - 00 PRE PRODUCTION/","dg-note-properties":{"MOC":null,"tags":null,"status":"En cours","weight":10,"type":"Projet","creation date":"2026-04-04","Startdate":"2026-04-04","endDate":"2026-06-04","tn_and_checkbox_tasks":0,"tn_and_checkbox_tasks_completed":0,"banner":"![plan_final.png](/img/user/Pi%C3%A8ces%20jointes/plan_final.png)","Personnes":["Matthis","Julie","Nerys","Ludo","Brayane","Enzo","Raphael","Berenice","Hugo","Elliot","Titouan"]}}
+{"dg-publish":true,"permalink":"/1_PROJETS/FFE/01_PRE_PRODUCTION/FFE Le Sitariste - 00 PRE PRODUCTION/","ctime":"2026-04-04T19:07:12.840+02:00","mtime":"2026-05-16T23:17:36.109+02:00","dg-note-properties":{"MOC":null,"tags":null,"status":"En cours","weight":10,"type":"Projet","creation date":"2026-04-04","Startdate":"2026-04-04","endDate":"2026-06-04","tn_and_checkbox_tasks":0,"tn_and_checkbox_tasks_completed":0,"banner":"![[Pièces jointes/plan_final.png]]","Personnes":["Matthis","Julie","Nerys","Ludo","Brayane","Enzo","Raphael","Berenice","Hugo","Elliot","Titouan"]}}
 ---
 
 ---
@@ -42,13 +42,13 @@ views:
 
 ## Documentation
 
-- [[1_PROJETS/FFE/01_PRE_PRODUCTION/Documentation/FFE Le Sitariste - SYMBOLES|FFE Le Sitariste - SYMBOLES]]
+- [[1_PROJETS/FFE/01_PRE_PRODUCTION/Documentation/FFE Le Sitariste - SYMBOLES\|FFE Le Sitariste - SYMBOLES]]
 
-- [[3_GARDEN/Notes permanentes/Histoire de l'architecture en Inde|Histoire de l'architecture en Inde]]
-- [[3_GARDEN/Notes permanentes/Théâtre en Inde|Théâtre en Inde]]
-- [[3_GARDEN/Notes permanentes/Vêtements en Inde|Vêtements en Inde]]
+- [[3_GARDEN/Notes permanentes/Histoire de l'architecture en Inde\|Histoire de l'architecture en Inde]]
+- [[3_GARDEN/Notes permanentes/Théâtre en Inde\|Théâtre en Inde]]
+- [[3_GARDEN/Notes permanentes/Vêtements en Inde\|Vêtements en Inde]]
 
-- [[3_GARDEN/Notes permanentes/Mythologie hindoue|Mythologie hindoue]]
+- [[3_GARDEN/Notes permanentes/Mythologie hindoue\|Mythologie hindoue]]
 
 ---
 

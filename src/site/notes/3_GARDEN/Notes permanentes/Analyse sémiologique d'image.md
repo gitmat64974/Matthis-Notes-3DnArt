@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Analyse sémiologique d'image/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[SEMIOLOGIE]]"],"source":["[[3e cours de sémiologie esma 3d1a]] / [[4e cours de sémiologie esma 3d1a]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2023-10-16","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Analyse sémiologique d'image/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:30.157+01:00","mtime":"2026-04-24T17:43:18.596+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SEMIOLOGIE]]"],"source":["[[3e cours de sémiologie esma 3d1a]] / [[4e cours de sémiologie esma 3d1a]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2023-10-16","aliases":null}}
 ---
 
 
 ## La note
 
-(Pour une version plus synthétique voir l'[[3_GARDEN/Notes permanentes/Analyse de plan|Analyse de plan]]) 
+(Pour une version plus synthétique voir l'[[3_GARDEN/Notes permanentes/Analyse de plan\|Analyse de plan]]) 
 
 1. **Introduction** : présente le support et pose le contexte : 
 	- *Les acteurs de la communication*
@@ -16,28 +16,28 @@
 2. **Argumentaire** 
 	- *Signes iconiques* 
 		- Référents 
-		- Signifiants et leurs signifiés (voir [[3_GARDEN/Notes permanentes/Branches de la sémiologie|Branches de la sémiologie]] )
+		- Signifiants et leurs signifiés (voir [[3_GARDEN/Notes permanentes/Branches de la sémiologie\|Branches de la sémiologie]] )
 			- Sujet
 			- Parure 
 			- Kinésique 
-			- [[3_GARDEN/Notes permanentes/Proxémie|Proxémie]] 
+			- [[3_GARDEN/Notes permanentes/Proxémie\|Proxémie]] 
 			- Décor 
 		- Somme des signifiés 
-	- *Signes plastiques* (voir [[3_GARDEN/Notes permanentes/Signes plastiques|Signes plastiques]]) 
+	- *Signes plastiques* (voir [[3_GARDEN/Notes permanentes/Signes plastiques\|Signes plastiques]]) 
 		- Echelle de plan, angle, cadrage 
 		- Règles, Plans, Lignes directrices, formes géométriques,  
-			- [[3_GARDEN/Notes permanentes/Règles de composition|Règles de composition]] 
-			- [[3_GARDEN/Notes permanentes/Eléments de composition récurrents au cinéma|Eléments de composition récurrents au cinéma]] 
-			- [[3_GARDEN/Notes permanentes/Lignes picturales|Lignes picturales]]  
-			- [[3_GARDEN/Notes permanentes/Motifs et répétitions|Motifs et répétitions]] d'objets
+			- [[3_GARDEN/Notes permanentes/Règles de composition\|Règles de composition]] 
+			- [[3_GARDEN/Notes permanentes/Eléments de composition récurrents au cinéma\|Eléments de composition récurrents au cinéma]] 
+			- [[3_GARDEN/Notes permanentes/Lignes picturales\|Lignes picturales]]  
+			- [[3_GARDEN/Notes permanentes/Motifs et répétitions\|Motifs et répétitions]] d'objets
 		- Couleur (la chroma) 
-		- Lumière (voir [[3_GARDEN/Notes permanentes/Analyser la lumière|Analyser la lumière]] ) 
+		- Lumière (voir [[3_GARDEN/Notes permanentes/Analyser la lumière\|Analyser la lumière]] ) 
 		- Texture 
-			- [[3_GARDEN/Notes permanentes/Motifs et répétitions|Motifs et répétitions]] 
-		- S'il y a de la stylisation : [[3_GARDEN/Notes permanentes/Analyser un style|Analyser un style]] 
+			- [[3_GARDEN/Notes permanentes/Motifs et répétitions\|Motifs et répétitions]] 
+		- S'il y a de la stylisation : [[3_GARDEN/Notes permanentes/Analyser un style\|Analyser un style]] 
 			- Ambiance globale : en dégager une ambiance globale à la fin
 	- *Signes linguistiques* 
-		- Langue, Typo, Emplacement par rapport à l'[[3_GARDEN/Notes permanentes/Image|Image]], figure de style
+		- Langue, Typo, Emplacement par rapport à l'[[3_GARDEN/Notes permanentes/Image\|Image]], figure de style
 		- En déduire le rapport à l'image
 3. **Conclusion** : l'objectif est-il atteint ? Le message est-il passé ? 
 	- *Interprétation* 

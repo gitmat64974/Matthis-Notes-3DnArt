@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Dirt dans substance painter/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[SUBSTANCE PAINTER]]"],"source":["[[Substance painter getting started]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-08-19","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Dirt dans substance painter/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:37.801+01:00","mtime":"2026-04-24T17:43:18.670+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SUBSTANCE PAINTER]]"],"source":["[[3_GARDEN/Notes littéraires/Substance painter getting started]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-08-19","aliases":null}}
 ---
 
 
