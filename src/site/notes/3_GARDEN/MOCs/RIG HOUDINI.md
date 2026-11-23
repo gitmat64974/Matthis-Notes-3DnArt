@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/RIG HOUDINI/","tags":["MOC"],"ctime":"2026-03-21T20:44:45.397+01:00","mtime":"2026-11-15T13:20:13.112+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/RIG]]"],"source":["Houdini doc"],"tags":["MOC"],"creation date":"2026-09-26","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/RIG HOUDINI/","tags":["MOC"],"ctime":"2026-03-21T20:44:45.397+01:00","mtime":"2026-11-23T18:45:37.871+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/RIG]]"],"source":["Houdini doc"],"tags":["MOC"],"creation date":"2026-09-26","aliases":null}}
 ---
 
 
@@ -70,7 +70,7 @@ Voir [[3_GARDEN/MOCs/RIG\|RIG]] (plus axé Rig Maya bien sur)
 ---
 ### Kine FX 
 
-[[3_GARDEN/Notes permanentes/KineFX\|KineFX]] : le système de joints de Houdini
+[[3_GARDEN/Notes permanentes/KineFX\|KineFX]] : le système de joints et de skinning de Houdini
 - [[3_GARDEN/Notes permanentes/Skeleton KineFX\|Skeleton KineFX]] : Comment créer facilement et puissamment des skeleton complets avec KineFX
 - [[3_GARDEN/Notes permanentes/Skinning KineFX\|Skinning KineFX]] : Comment skinner une géo avec son skeleton dans Houdini
 
@@ -91,7 +91,7 @@ Rigging Apex :
 - [[3_GARDEN/Notes permanentes/APEX Blendshapes\|APEX Blendshapes]] : Comment rigger des blendshapes dans APEX et les config dans KineFX au préalable
 - [[3_GARDEN/Notes permanentes/Add Groom to APEX Rig\|Add Groom to APEX Rig]]
 
-[[3_GARDEN/Notes permanentes/APEX Graph\|APEX Graph]]
+[[3_GARDEN/Notes permanentes/APEX Graph\|APEX Graph]] : le graph construit en arrière plan par APEX
 
 [[3_GARDEN/Notes permanentes/APEX Ragdoll\|APEX Ragdoll]]
 
