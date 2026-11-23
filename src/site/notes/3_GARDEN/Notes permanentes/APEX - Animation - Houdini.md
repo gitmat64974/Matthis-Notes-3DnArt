@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/APEX - Animation - Houdini/","tags":["note_permanente","en_cours"],"ctime":"2026-03-21T20:44:45.572+01:00","mtime":"2026-11-23T00:50:18.820+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/ANIMATION]]"],"source":null,"Projets":null,"tags":["note_permanente","en_cours"],"creation date":"2026-02-12","aliases":["APEX Animation Houdini"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/APEX - Animation - Houdini/","tags":["note_permanente","en_cours"],"ctime":"2026-03-21T20:44:45.572+01:00","mtime":"2026-11-23T18:46:14.148+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/ANIMATION]]"],"source":null,"Projets":null,"tags":["note_permanente","en_cours"],"creation date":"2026-02-12","aliases":["APEX Animation Houdini"]}}
 ---
 
 ## La note 
@@ -26,7 +26,7 @@ Lorsqu'on est sur un scene animate, on peut appuyer sur entrée et mettre le vie
 
 Interface : 
 - En bas à gauche sont les **paramètres globaux d'animation** (FPS, audio etc)
-- L'icone avec des sliders à gauche de la timeline : Ouvre la toolbar contenant la **tweenmachine** et bien d'autres sliders utiles à l'anim
+- L'icone avec des sliders à gauche de la timeline : Ouvre la toolbar contenant la **tweenmachine** et bien d'autres sliders utiles à l'anim. La doc de l'animation toolbar : [Animation toolbar](https://www.sidefx.com/docs/houdini/anim/animationtoolbar.html)
 - l'Icone avec des curves à droite de la timeline : ouvre le "**graph editor**" (appelé animation editor dans Houdini)
 - La fenêtre à droite dans le viewport : **fenêtre principale** pour tout ce qui va être sélection, layers, paramètres, valeurs etc etc
 	- en bas de cette fenêtre : un bouton pour ouvrir le **picker**
@@ -151,6 +151,14 @@ Ensuite mettre un apex animate pour récupérer et continuer l'animation (faire 
 
 ---
 ## Références
+
+- [[3_GARDEN/Notes permanentes/APEX Ragdoll\|APEX Ragdoll]]
+- [[3_GARDEN/Notes permanentes/Houdini motion mixer\|Houdini motion mixer]]
+
+Tips utiles d'anim : 
+- [[3_GARDEN/Notes permanentes/Animation stepping Houdini\|Animation stepping Houdini]]
+
+#### Ressources
 
 Workshop complet APEX : [Animation Workshop \| Houdini HIVE Horizon - YouTube](https://youtube.com/playlist?list=PLXNFA1EysfYlYURsnOoPTD1cknWE8VjiQ&si=apPbxlauYDrK2Bef)
 
