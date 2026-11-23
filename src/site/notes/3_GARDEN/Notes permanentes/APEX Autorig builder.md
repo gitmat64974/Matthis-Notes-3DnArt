@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/APEX Autorig builder/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[HOUDINI]]"],"source":["https://youtube.com/playlist?list=PLXNFA1EysfYlkJDYq1tukRbUW02AkQrkF&si=QgL8x2Z15G_z4i6_"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-11-28","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/APEX Autorig builder/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:41.959+01:00","mtime":"2026-11-19T23:39:40.193+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["https://youtube.com/playlist?list=PLXNFA1EysfYlkJDYq1tukRbUW02AkQrkF&si=QgL8x2Z15G_z4i6_"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-11-28","aliases":null}}
 ---
+
 
 ## La note 
 
@@ -21,7 +22,7 @@ Par exemple ici on utilise un auto rig builder pour construire un rig seulement 
 Il suffit de drag and drop les éléments du component catalog directement sur la version grisée à gauche, cela va créer les joints sur la version de gauche et les contrôleurs sur la version de droite (*l'autorig builder affiche 2 versions pour faciliter la construction mais en sortie du node, tout est bien au même endroit dans une seule version*)
 
 On peut éditer les joints sur la version grisée de gauche (translate, rotate, scale) et les controleurs s'updateront sur la version de droite
-On peut également bouger les controleurs de la version de droite pour tester et appuyer sur N pour reset les transformations (on peut également cocher skin preview dans le node autorigbuilder : cela va créer un skinning temporaire très léger et vraiment pas terrible qui sert uniquement de preview. Pour le vrai skinning voir [[3_GARDEN/Notes permanentes/Skinning KineFX|Skinning KineFX]])
+On peut également bouger les controleurs de la version de droite pour tester et appuyer sur N pour reset les transformations (on peut également cocher skin preview dans le node autorigbuilder : cela va créer un skinning temporaire très léger et vraiment pas terrible qui sert uniquement de preview. Pour le vrai skinning voir [[3_GARDEN/Notes permanentes/Skinning KineFX\|Skinning KineFX]])
 
 ---
 
@@ -68,7 +69,7 @@ C'est là qu'on va quasiment tout gérer
 
 ## Références
 
-[[3_GARDEN/MOCs/RIG HOUDINI|RIG HOUDINI]]
+[[3_GARDEN/MOCs/RIG HOUDINI\|RIG HOUDINI]]
 
 Playlist de la chaine YT Houdini : [Intro to Rig Builder - YouTube](https://youtube.com/playlist?list=PLXNFA1EysfYlkJDYq1tukRbUW02AkQrkF&si=QgL8x2Z15G_z4i6_)
 
