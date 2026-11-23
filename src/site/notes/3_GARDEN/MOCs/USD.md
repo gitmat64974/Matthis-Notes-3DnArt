@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/USD/","tags":["note_permanente","MOC"],"dg-note-properties":{"MOC":["[[HOUDINI]]","[[SOLARIS|Solaris]]"],"source":["[[Cours Houdini semaine 3]]"],"Projets":null,"tags":["note_permanente","MOC"],"creation date":"2026-10-26","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/USD/","tags":["note_permanente","MOC"],"ctime":"2026-03-21T20:44:54.918+01:00","mtime":"2026-11-23T18:48:43.846+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/SOLARIS|Solaris]]"],"source":["[[3_GARDEN/Notes littéraires/Cours Houdini semaine 3]]"],"Projets":null,"tags":["note_permanente","MOC"],"creation date":"2026-10-26","aliases":null}}
 ---
 
 
@@ -17,7 +17,7 @@ USD veut dire *Universal Scene description* : Qu’importe le moteur de rendu, l
 
 > [!success]+ Intérêt de l'USD : 
 > - Le partage de fichiers dans de grandes productions est extrêmement plus efficace car on a un seul type de fichier pour tout, qui en plus est non propriétaire donc potentiellement compatible avec tout. 
-> - On peut faire des références à l’infini. Ce qui fait que les fichiers peuvent être extrêmement petits (quelques ko), référençant constamment en chaîne des choses sur le disque. Tout est cloisonné en plein de petits bouts. 
+> - On peut faire des références à l’infini. Ce qui fait que les fichiers peuvent être extrêmement petits (quelques ko), référençant constamment en chaîne des choses sur le disque. Tout est cloisonné en plein de petits bouts. Le procédurale est donc au centre de la philosophie et la propreté et le cloisonnage des étapes est bien plus simple à gérer à de grosses échelles de production
 
 On voit donc avec tout ça l'importance d'une organisation très solide avec nommage ultra carré
 
@@ -32,19 +32,19 @@ L'usd était un format propriétaire de Pixar qu’ils ont révisé en open sour
 # Structure
 
 
-- [[3_GARDEN/Notes permanentes/Créer un asset USD dans Houdini|Créer un asset USD dans Houdini]]
+- [[3_GARDEN/Notes permanentes/Créer un asset USD dans Houdini\|Créer un asset USD dans Houdini]]
 
 *Solaris est un logiciel qui a été construit autour de l’USD*
 
 
 #### USD Asset Creation
 
-- [[3_GARDEN/Notes permanentes/Component Builder|Component Builder]]
-	- [[3_GARDEN/Notes permanentes/Créer des variants avec le component builder|Créer des variants avec le component builder]]
+- [[3_GARDEN/Notes permanentes/Component Builder\|Component Builder]]
+	- [[3_GARDEN/Notes permanentes/Créer des variants avec le component builder\|Créer des variants avec le component builder]]
 
 ### USD set dress et layout
 
-[[3_GARDEN/Notes permanentes/Techniques pour répartir un asset avec des variants dans un set - Solaris|Techniques pour répartir un asset avec des variants dans un set - Solaris]]
+[[3_GARDEN/Notes permanentes/Techniques pour répartir un asset avec des variants dans un set - Solaris\|Techniques pour répartir un asset avec des variants dans un set - Solaris]]
 
 
 # Appropriation et réflexions 
