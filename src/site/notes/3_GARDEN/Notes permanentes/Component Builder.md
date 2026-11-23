@@ -1,0 +1,79 @@
+---
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Component Builder/","tags":["note_permanente"],"ctime":"2026-11-03T20:08:01.964+01:00","mtime":"2026-11-08T21:21:49.058+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/SOLARIS|Solaris]]","[[3_GARDEN/MOCs/USD]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-03","aliases":null}}
+---
+
+## La note 
+
+Le component builder créée un ensemble de nodes nécessaires à la création simple et complète d'un asset USD
+
+![Capture d'écran 2026-11-01 213928.png](/img/user/Pi%C3%A8ces%20jointes/Capture%20d'%C3%A9cran%202026-11-01%20213928.png)
+
+La hiérarchie des fichiers exportés par le component builder : 
+
+![Capture d'écran 2026-11-01 214439.png](/img/user/Pi%C3%A8ces%20jointes/Capture%20d'%C3%A9cran%202026-11-01%20214439.png)
+
+---
+#### Component geometry
+
+3 modes pour importer la géo : 
+- **Internal SOP** : Entrer à l'intérieur pour setup la geo de render, et si on veut la geo proxy et la geo simproxy. ->*Le mode préférable*
+- **File** : fichier référencé
+- **External SOP** : chemin dans un SOPNet externe
+
+La géo va être nommée en fonction du nom qu'on donne au node 
+
+On va donc avoir la possibilité de setup 3 "versions" de la géo : 
+- **default / render** (*Obligatoire*) : Geo de rendu
+- **Proxy** (*Optionnelle*) : Geo allégée pour la rapidité du viewport
+- **SimProxy** (*Optionnelle*) : Si on veut avoir le contrôle sur la géo de proxy utilisée dans les outils de physics de solaris (comme l'edit LOP, le layout LOP etc)
+
+---
+
+#### Component material
+
+Mode auto : 
+Il assigne automatiquement le shader qui vient de la deuxième entrée à la géo qui vient de la première
+
+Le matériau va être nommée en fonction du nom qu'on donne au node 
+
+Mode manuel : 
+S'il y a plusieurs shaders, ou des variants etc on va devoir les assigner à la main
+
+---
+#### Component output
+
+Assez simple, gère tout l'output de l'asset
+
+Thumbnail : permet de générer une image thumbnail de présentation de l'asset (super utile pour les bibliothèques d'asset etc)
+
+
+> [!info]+ Hiérarchie des fichiers d'un asset usd : (par exemple ici un pig_head.usd)
+> - Le pig_head.usd vient charger le payload.usd
+> - Le payload.usd vient charger ensuite le geo.usd et mtl.usd
+
+*A noter qu'on peut rentrer dans le component output pour mettre des nodes spéciaux de traitement comme un rendergeometrysettings pour gérer la subdivision au rendu par exemple*
+
+---
+
+## Références
+
+[[3_GARDEN/Notes permanentes/Créer des variants avec le component builder\|Créer des variants avec le component builder]]
+
+#### Ressources
+
+
+- [USD Asset Workflow in Solaris \| Gingerbread House - YouTube](https://youtu.be/tbzIABrViYg)
+- [Creating USD Assets with Component Builder](https://vimeo.com/639704886?fl=pl&fe=sh)
+
+
+> [!example]- Flashcards
+> ...
+
+
+
+
+## Liens 
+
+
+
+
