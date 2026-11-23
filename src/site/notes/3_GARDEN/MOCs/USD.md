@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/USD/","tags":["note_permanente","MOC"],"ctime":"2026-03-21T20:44:54.918+01:00","mtime":"2026-11-23T23:16:26.607+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/SOLARIS|Solaris]]"],"source":["[[3_GARDEN/Notes littéraires/Cours Houdini semaine 3]]"],"Projets":null,"tags":["note_permanente","MOC"],"creation date":"2026-10-26","aliases":null,"banner":"https://images.unsplash.com/photo-1580477667929-3ef27c684b7a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/USD/","tags":["note_permanente","MOC"],"ctime":"2026-03-21T20:44:54.918+01:00","mtime":"2026-11-23T23:41:05.573+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/SOLARIS|Solaris]]"],"source":["[[3_GARDEN/Notes littéraires/Cours Houdini semaine 3]]"],"Projets":null,"tags":["note_permanente","MOC"],"creation date":"2026-10-26","aliases":null,"banner":"https://images.unsplash.com/photo-1580477667929-3ef27c684b7a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"}}
 ---
 
 # Définition
@@ -28,13 +28,11 @@ On voit donc avec tout ça l'importance d'une organisation très solide avec nom
 Dans l’USD, tout est stocké sur le disque 
 - Tout doit être disponible sur le disque, utilisable depuis n’importe quel logiciel ou même sans (juste en ligne de commande pour lancer des rendus sur des farms par exemple)
 
-#### Terminologie
+#### Terminologie 
 
-**Solaris** : Terme marketing désignant l'ensemble d'outils Houdini dédiés à la création de scènes, à l'éclairage, à la mise en scène et au pipeline. C'est là que nous pouvons effectuer le rendu via les délégateurs Hydra.
-
-**Stage** : Nom du contexte Houdini dans lequel nous utilisons les nœuds LOP propres à Solaris
-
-**LOPs** : Nom désignant l'ensemble des nœuds/outils utilisés pour travailler avec USD sous Solaris.
+**[[3_GARDEN/MOCs/SOLARIS\|SOLARIS]]** : L'ensemble d'outils Houdini dédiés à la création de scènes, à l'éclairage, à la mise en scène et au pipeline. C'est là que nous pouvons effectuer le rendu via les délégateurs Hydra.
+- **Stage** : Nom du contexte Houdini dans lequel nous utilisons les nœuds LOP propres à Solaris
+- **LOPs** : Nom désignant l'ensemble des nœuds/outils utilisés pour travailler avec USD dans Solaris.
 
 #### Formats et Extensions
 
@@ -53,22 +51,25 @@ Dans le cas de l'extension `.usd`, le format est enregistré en Binaire (« Crat
 # Structure
 
 
-[[3_GARDEN/Notes permanentes/Primitive USD\|Primitive USD]]
+[[3_GARDEN/Notes permanentes/Primitive USD\|Primitive USD]] : comment les éléments de l'usd sont classés et organisés
+[[3_GARDEN/MOCs/SOLARIS\|SOLARIS]] : L'espace où on gère tout ce qui est relatif à l'USD dans Houdini
 
-- [[3_GARDEN/Notes permanentes/Créer un asset USD dans Houdini\|Créer un asset USD dans Houdini]]
+### Importation d'éléments dans Solaris
 
-*Solaris est un logiciel qui a été construit autour de l’USD*
-
+[[3_GARDEN/Notes permanentes/Importation dans Solaris\|Importation dans Solaris]] 
 
 #### USD Asset Creation
 
-- [[3_GARDEN/Notes permanentes/Component Builder\|Component Builder]]
+- [[3_GARDEN/Notes permanentes/Component Builder\|Asset USD]]
 	- [[3_GARDEN/Notes permanentes/Créer des variants avec le component builder\|Créer des variants avec le component builder]]
 
 ### USD set dress et layout
 
 [[3_GARDEN/Notes permanentes/Techniques pour répartir un asset avec des variants dans un set - Solaris\|Techniques pour répartir un asset avec des variants dans un set - Solaris]]
 
+#### Annexes
+
+Règles de sélections : [[3_GARDEN/Notes permanentes/Collections & Règles de Sélection en USD\|Collections & Règles de Sélection en USD]]
 
 # Appropriation et réflexions 
 

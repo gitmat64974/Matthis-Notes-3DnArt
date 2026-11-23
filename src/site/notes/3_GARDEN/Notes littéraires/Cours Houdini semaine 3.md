@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/Cours Houdini semaine 3/","tags":["note_litteraire","cours"],"ctime":"2026-03-21T20:44:16.016+01:00","mtime":"2026-10-02T21:39:38.054+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["[[3_GARDEN/Notes littéraires/Cours houdini ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2025-10-06","cssclasses":["clean-embeds"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/Cours Houdini semaine 3/","tags":["note_litteraire","cours"],"ctime":"2026-03-21T20:44:16.016+01:00","mtime":"2026-11-23T23:29:06.281+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["[[3_GARDEN/Notes littéraires/Cours houdini ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2025-10-06","cssclasses":["clean-embeds"]}}
 ---
 
 
@@ -136,23 +136,48 @@ On voit donc avec tout ça l'importance d'une organisation très solide avec nom
 Dans l’USD, tout est stocké sur le disque 
 - Tout doit être disponible sur le disque, utilisable depuis n’importe quel logiciel ou même sans (juste en ligne de commande pour lancer des rendus sur des farms par exemple)
 
+#### Terminologie 
+
+**[[3_GARDEN/MOCs/SOLARIS\|SOLARIS]]** : L'ensemble d'outils Houdini dédiés à la création de scènes, à l'éclairage, à la mise en scène et au pipeline. C'est là que nous pouvons effectuer le rendu via les délégateurs Hydra.
+- **Stage** : Nom du contexte Houdini dans lequel nous utilisons les nœuds LOP propres à Solaris
+- **LOPs** : Nom désignant l'ensemble des nœuds/outils utilisés pour travailler avec USD dans Solaris.
+
+#### Formats et Extensions
+
+Extensions de fichiers usd : 
+
+| **Extension** | **Format**      | **Commentaires**                                                                                                                                                                                                                                                        |
+| ------------- | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **.usd**      | Binaire / ASCII | Le format par défaut, binaire : Ces fichiers offrent des lectures plus rapides et des tailles réduites, mais ne sont pas lisibles par un humain. Ils sont idéaux pour de grandes scènes contenant un nombre élevé d'objets géométriques.                                |
+| **.usda**     | ASCII           | Ces fichiers entraînent des lectures plus lentes et des fichiers plus volumineux, mais présentent l'avantage d'être lisibles par un humain. Ils peuvent être utilisés pour de petites scènes ou des _assets_, et s'avèrent très utiles pour déboguer des problèmes.<br> |
+| **.usdc**     | Binaire         | Format strictement binaire                                                                                                                                                                                                                                              |
+
+
+Dans le cas de l'extension `.usd`, le format est enregistré en Binaire (« Crate ») par défaut. Si vous souhaitez enregistrer votre fichier `.usd` en ASCII, vous devez ajouter le a à l'extension
+
+
 # Structure
 
 
-- [[3_GARDEN/Notes permanentes/Créer un asset USD dans Houdini\|Créer un asset USD dans Houdini]]
+[[3_GARDEN/Notes permanentes/Primitive USD\|Primitive USD]] : comment les éléments de l'usd sont classés et organisés
+[[3_GARDEN/MOCs/SOLARIS\|SOLARIS]] : L'espace où on gère tout ce qui est relatif à l'USD dans Houdini
 
-*Solaris est un logiciel qui a été construit autour de l’USD*
+### Importation d'éléments dans Solaris
 
+[[3_GARDEN/Notes permanentes/Importation dans Solaris\|Importation dans Solaris]] 
 
 #### USD Asset Creation
 
-- [[3_GARDEN/Notes permanentes/Component Builder\|Component Builder]]
+- [[3_GARDEN/Notes permanentes/Component Builder\|Asset USD]]
 	- [[3_GARDEN/Notes permanentes/Créer des variants avec le component builder\|Créer des variants avec le component builder]]
 
 ### USD set dress et layout
 
 [[3_GARDEN/Notes permanentes/Techniques pour répartir un asset avec des variants dans un set - Solaris\|Techniques pour répartir un asset avec des variants dans un set - Solaris]]
 
+#### Annexes
+
+Règles de sélections : [[3_GARDEN/Notes permanentes/Collections & Règles de Sélection en USD\|Collections & Règles de Sélection en USD]]
 
 # Appropriation et réflexions 
 
@@ -184,77 +209,68 @@ Dans l’USD, tout est stocké sur le disque
 ### Créer un asset USD dans Houdini
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/3_GARDEN/Notes permanentes/Créer un asset USD dans Houdini/#la-note" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/3_GARDEN/Notes permanentes/Component Builder/#la-note" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 ## La note 
 
-Créer un LOP Network (On entre dans Solaris)
-Créer ensuite un component builder : script qui va créer les nodes nécessaires à la construction de l'asset USD : 
+Le component builder créée un ensemble de nodes nécessaires à la création simple et complète d'un asset USD : 
 - référencer la géo
 - créer et assigner des shaders
 - exporter l'asset USD
 
-![](https://i.imgur.com/6pryHK2.png)
+![Capture d'écran 2026-11-01 213928.png](/img/user/Pi%C3%A8ces%20jointes/Capture%20d'%C3%A9cran%202026-11-01%20213928.png)
 
-#### Importer la géo 
+La hiérarchie des fichiers exportés par le component builder : 
 
-> [!NOTE]+ Importer la géo : 
-> Dans le node component geometry 2 choix
-> - Internal 
-> 	- Rentrer dans le node et ajouter un object merge avec la geo que l'on connecte à l'output defaut (polyreduce connecté au proxy si on veut aussi)
-> - External
-> 	- Chercher le chemin de la geo
+![Capture d'écran 2026-11-01 214439.png](/img/user/Pi%C3%A8ces%20jointes/Capture%20d'%C3%A9cran%202026-11-01%20214439.png)
 
-Pour différents matériaux assignés à différentes parties de la géométrie : la géo est splittée selon le name. Si le name est le même pour toute la géo alors il n'y a qu'une seule géo etc
+---
+#### Component geometry
 
-> [!tip]+ Faire des variants de géométrie en construisant un asset USD :
-> Il suffit de mettre plusieurs component geo qui seront les variants puis un component geometry variants juste après
-> 
-> ![](https://i.imgur.com/WGOnuDR.png)
-> 
+3 modes pour importer la géo : 
+- **Internal SOP** : Entrer à l'intérieur pour setup la geo de render, et si on veut la geo proxy et la geo simproxy. ->*Le mode préférable*
+- **File** : fichier référencé
+- **External SOP** : chemin dans un SOPNet externe
 
-#### Construire le shader
+La géo va être nommée en fonction du nom qu'on donne au node 
 
-*Note : On peut connecter une dome light temporairement après le component output pour mieux voir le shader que l'on fait*
+On va donc avoir la possibilité de setup 3 "versions" de la géo en mode internal SOP (*le plus simple est d'entrer à l'intérieur du node*) : 
+- **default / render** (*Obligatoire*) : Geo de rendu
+- **Proxy** (*Optionnelle*) : Geo allégée pour la rapidité du viewport
+- **SimProxy** (*Optionnelle*) : Si on veut avoir le contrôle sur la géo de proxy utilisée dans les outils de physics de solaris (comme l'edit LOP, le layout LOP etc)
 
-Construire le shader dans le material library (un peu comme l'hypershade dans maya) 
+---
 
-Setup de base : 
+#### Component material
 
-![Capture11.png](/img/user/Pi%C3%A8ces%20jointes/Capture11.png)
+Construire le shader dans le material library (Souvent un [[3_GARDEN/Notes permanentes/Mtlx Shader\|Mtlx Shader]])
 
-> [!tip]- Node Mtlx Mix pour combiner 2 shaders en fonction d’attributs géométrique
-> - Brancher en fg et bg les textures ou shaders à mixer
-> - Ajouter un node ***MtlX Usd Primvar Reader***
-> 	- Chercher l'attribut et bien régler la signature correspondante 
-> 	- Brancher sa sortie dans le mix du Mtlx Mix
-> 
-> ![](https://i.imgur.com/0kr1Rvh.png)
+Puis le component material va assigner automatiquement le shader qui vient de la deuxième entrée à la géo qui vient de la première
+Le matériau va être nommée en fonction du nom qu'on donne au node 
 
-#### Export de l’asset USD
+Mode manuel : 
+*S'il y a plusieurs shaders, ou des variants etc on va devoir les assigner à la main*
 
-Ça se passe dans le node component output : 
+---
+#### Component output
+
+Assez simple, gère tout l'output de l'asset
 - Root prim : nom de la primitive qui contiendra la geo et les shaders
 - Location dans caching : l'endroit où l'asset sera sauvegardé sur le disque
 - Cliquer sur save to disk
 
-Il y aura toujours un fichier geo, mtl et payload et c’est normal il faut surtout pas les renommer
-- Geo : geo
-- MTL : matériau
-- Payload : référence de la geo et du matériau
+Thumbnail : permet de générer une image thumbnail de présentation de l'asset (super utile pour les bibliothèques d'asset etc)
 
-L’export génère aussi une thumbnail pour l’asset automatiquement 
 
-> [!info]- .usd vs.usda
-> *.usd / .usda : Comme .ma et .mb* 
-> *.usda : beaucoup plus lourd mais fichier lisible dans un éditeur de texte (ASCII)* 
-> ---
-> 
-> PS : le .usdnc : 
-> - usd non commercial → Pas un bon asset USD, fait pour ne pas faire de l’usd propre avec la version nc
+> [!info]+ Hiérarchie des fichiers d'un asset usd : (par exemple ici un pig_head.usd)
+> - Le pig_head.usd vient charger le payload.usd
+> - Le payload.usd vient charger ensuite le geo.usd et mtl.usd
 
+*A noter qu'on peut rentrer dans le component output pour mettre des nodes spéciaux de traitement comme un rendergeometrysettings pour gérer la subdivision au rendu par exemple*
+
+---
 
 
 </div></div>

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Créer des variants avec le component builder/","tags":["note_permanente"],"ctime":"2026-11-03T20:02:00.051+01:00","mtime":"2026-11-23T23:19:47.133+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SOLARIS|Solaris]]","[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/USD]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-03","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Créer des variants avec le component builder/","tags":["note_permanente"],"ctime":"2026-11-03T20:02:00.051+01:00","mtime":"2026-11-23T23:19:59.007+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SOLARIS|Solaris]]","[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/USD]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-03","aliases":null}}
 ---
 
 ## La note 
@@ -12,7 +12,7 @@
 > ![](https://i.imgur.com/WGOnuDR.png)
 > 
 
-
+---
 ### Material Variants
 
 On a juste à créer plusieurs shaders dans le material library puis à faire autant de component material nécessaires
