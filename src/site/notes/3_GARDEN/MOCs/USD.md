@@ -1,17 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/USD/","tags":["note_permanente","MOC"],"ctime":"2026-03-21T20:44:54.918+01:00","mtime":"2026-11-23T19:59:30.226+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/SOLARIS|Solaris]]"],"source":["[[3_GARDEN/Notes littéraires/Cours Houdini semaine 3]]"],"Projets":null,"tags":["note_permanente","MOC"],"creation date":"2026-10-26","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/USD/","tags":["note_permanente","MOC"],"ctime":"2026-03-21T20:44:54.918+01:00","mtime":"2026-11-23T22:46:58.990+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/SOLARIS|Solaris]]"],"source":["[[3_GARDEN/Notes littéraires/Cours Houdini semaine 3]]"],"Projets":null,"tags":["note_permanente","MOC"],"creation date":"2026-10-26","aliases":null}}
 ---
-
-
-# Cartographie
-
 
 # Définition
 
-Qu'est ce que l'USD ?
-C'est un format de fichier assez différent du fbx, obj, abc etc
 
-En réalité ce n’est pas à proprement parler un format mais c'est plutôt une description de scène où on peut stocker n’importe quoi (géo, textures, matériaux, lights, caméras, rendersettings etc)
+> [!quote]+ Yann Pannetier
+> En 2016, le studio Pixar a mis à disposition en open-source son langage de description de scène, l’USD - pour Universal Scene Description, utilisé en production depuis
+> de nombreuses années. 
+> 
+> Ce format permet de stocker tous les types d’informations 3D et surtout d’organiser la chaîne de production (le pipeline) de façon très structurée, dynamique, en facilitant
+> la collaboration entre départements (modeling, lookdev, animation, lighting, rendering).
+> 
+> - C’est un système de layers non-destructif, Chaque fichier USD (car l’USD est aussi un format) est un layer, et peut comporter une “scène” complète où l’on peut importer d’autres fichiers USD.
+> - Un layer est un fichier USD écrit sur le disque. Un Sub-layer est une des composantes de ce layer 
+> 
+
 
 USD veut dire *Universal Scene description* : Qu’importe le moteur de rendu, l’USD est une description de scène universelle
 
@@ -23,11 +27,6 @@ On voit donc avec tout ça l'importance d'une organisation très solide avec nom
 
 Dans l’USD, tout est stocké sur le disque 
 - Tout doit être disponible sur le disque, utilisable depuis n’importe quel logiciel ou même sans (juste en ligne de commande pour lancer des rendus sur des farms par exemple)
-
-
-Petit historique : 
-L'usd était un format propriétaire de Pixar qu’ils ont révisé en open source en 2016. C’est une évolution du RIB. 
-
 
 # Structure
 
