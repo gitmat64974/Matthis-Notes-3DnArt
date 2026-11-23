@@ -218,6 +218,8 @@ La hiérarchie des fichiers exportés par le component builder :
 
 ![Capture d'écran 2026-11-01 214439.png](/img/user/Pi%C3%A8ces%20jointes/Capture%20d'%C3%A9cran%202026-11-01%20214439.png)
 
+*-> [[3_GARDEN/Notes permanentes/Payload\|Payload]]*
+
 ---
 #### Component geometry
 

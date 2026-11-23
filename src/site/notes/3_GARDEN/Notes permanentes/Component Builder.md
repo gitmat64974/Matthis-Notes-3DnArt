@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Component Builder/","tags":["note_permanente"],"ctime":"2026-11-03T20:08:01.964+01:00","mtime":"2026-11-23T23:29:20.834+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/SOLARIS|Solaris]]","[[3_GARDEN/MOCs/USD]]"],"source":["[[3_GARDEN/Notes littéraires/Cours Houdini semaine 3]]","[[3_GARDEN/Notes littéraires/USD - SideFX Course]]"],"Projets":null,"tags":["note_permanente"],"creation date":202510132311,"aliases":["Asset USD"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Component Builder/","tags":["note_permanente"],"ctime":"2026-11-03T20:08:01.964+01:00","mtime":"2026-11-24T00:10:55.158+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/SOLARIS|Solaris]]","[[3_GARDEN/MOCs/USD]]"],"source":["[[3_GARDEN/Notes littéraires/Cours Houdini semaine 3]]","[[3_GARDEN/Notes littéraires/USD - SideFX Course]]"],"Projets":null,"tags":["note_permanente"],"creation date":202510132311,"aliases":["Asset USD"]}}
 ---
 
 ## La note 
@@ -14,6 +14,8 @@ Le component builder créée un ensemble de nodes nécessaires à la création s
 La hiérarchie des fichiers exportés par le component builder : 
 
 ![Capture d'écran 2026-11-01 214439.png](/img/user/Pi%C3%A8ces%20jointes/Capture%20d'%C3%A9cran%202026-11-01%20214439.png)
+
+*-> [[3_GARDEN/Notes permanentes/Payload\|Payload]]*
 
 ---
 #### Component geometry
