@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes perso/Utilisation/3D and Art notes/","tags":["utilisation","gardenEntry"],"ctime":"2026-05-13T20:59:39.948+02:00","mtime":"2026-11-23T19:05:08.331+01:00","dg-note-properties":{"MOC":null,"Projets":null,"tags":["utilisation","gardenEntry"],"creation date":"2025-08-07","banner":null,"banner_y":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes perso/Utilisation/3D and Art notes/","tags":["utilisation","gardenEntry"],"ctime":"2026-05-13T20:59:39.948+02:00","mtime":"2026-11-23T19:13:29.272+01:00","dg-note-properties":{"MOC":null,"Projets":null,"tags":["utilisation","gardenEntry"],"creation date":"2025-08-07","banner":"https://images.unsplash.com/photo-1521706862577-47b053587f91?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"}}
 ---
 
 
