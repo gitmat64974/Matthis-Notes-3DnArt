@@ -1,8 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Créer des variants avec le component builder/","tags":["note_permanente"],"ctime":"2026-11-03T20:02:00.051+01:00","mtime":"2026-11-05T21:36:18.134+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SOLARIS|Solaris]]","[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/USD]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-03","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Créer des variants avec le component builder/","tags":["note_permanente"],"ctime":"2026-11-03T20:02:00.051+01:00","mtime":"2026-11-23T23:19:47.133+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SOLARIS|Solaris]]","[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/USD]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-03","aliases":null}}
 ---
 
 ## La note 
+
+### Geo Variants
+
+> [!tip]+ 
+> Il suffit de mettre plusieurs component geo qui seront les variants puis un component geometry variants juste après
+> 
+> ![](https://i.imgur.com/WGOnuDR.png)
+> 
+
 
 ### Material Variants
 
