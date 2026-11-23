@@ -1,9 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/SOLARIS/","tags":["note_permanente","MOC"],"ctime":"2026-03-21T20:44:32.867+01:00","mtime":"2026-11-23T22:36:29.744+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["Houdini learning"],"Projets":null,"tags":["note_permanente","MOC"],"creation date":"2026-11-05","aliases":["Solaris"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/SOLARIS/","tags":["note_permanente","MOC"],"ctime":"2026-03-21T20:44:32.867+01:00","mtime":"2026-11-23T22:37:48.489+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["Houdini learning"],"Projets":null,"tags":["note_permanente","MOC"],"creation date":"2026-11-05","aliases":["Solaris"]}}
 ---
-
-# Cartographie
-
 
 # Définition
 
@@ -70,29 +67,19 @@ Caméras :
 
 [[3_GARDEN/Notes permanentes/Kernel\|Kernel]]
 
-[[3_GARDEN/Notes permanentes/TOPs Rendering - Solaris\|TOPs Rendering - Solaris]]
-
-[[3_GARDEN/Notes permanentes/USD Render ROP Node\|USD Render ROP Node]]
+[[3_GARDEN/Notes permanentes/Export camera Houdini\|Export camera Houdini]]
 
 [[3_GARDEN/Notes permanentes/ACES Dans Houdini\|ACES Dans Houdini]]
 
 [[3_GARDEN/Notes permanentes/Light Filters Solaris\|Light Filters Solaris]] 
 
+#### Rendering
+
+[[3_GARDEN/Notes permanentes/Hydra - Solaris\|Hydra - Solaris]]
+- [[3_GARDEN/Notes permanentes/TOPs Rendering - Solaris\|TOPs Rendering - Solaris]]
+- [[3_GARDEN/Notes permanentes/USD Render ROP Node\|USD Render ROP Node]]
+
 [[3_GARDEN/Notes permanentes/Render threads optimization Karma\|Render threads optimization Karma]]
-
-[[3_GARDEN/Notes permanentes/Export camera Houdini\|Export camera Houdini]]
-
-
-
-# Appropriation et réflexions 
-
-#### Réflexions
-
-
-#### Essais
-
-
-
 
 
 # Ressources
