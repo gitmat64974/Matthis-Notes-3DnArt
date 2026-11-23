@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes perso/Utilisation/3D and Art notes/","tags":["utilisation","gardenEntry"],"ctime":"2026-05-13T20:59:39.948+02:00","mtime":"2026-11-11T11:46:51.181+01:00","dg-note-properties":{"MOC":null,"Projets":null,"tags":["utilisation","gardenEntry"],"creation date":"2025-08-07"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes perso/Utilisation/3D and Art notes/","tags":["utilisation","gardenEntry"],"ctime":"2026-05-13T20:59:39.948+02:00","mtime":"2026-11-23T19:05:08.331+01:00","dg-note-properties":{"MOC":null,"Projets":null,"tags":["utilisation","gardenEntry"],"creation date":"2025-08-07","banner":null,"banner_y":null}}
 ---
 
 
@@ -48,7 +48,7 @@
 
 
 ---
-
+$$Rendering$$
 
 | [[3_GARDEN/MOCs/SOLARIS\|SOLARIS]] | [[3_GARDEN/MOCs/USD\|USD]] |
 | ----------- | ------- |
