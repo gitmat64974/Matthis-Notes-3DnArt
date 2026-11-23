@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Importation dans Solaris/","tags":["note_permanente"],"ctime":"2026-11-23T23:32:44.724+01:00","mtime":"2026-11-23T23:33:01.805+01:00","dg-note-properties":{"MOC":null,"source":null,"Projets":null,"tags":["note_permanente"],"creation date":null,"aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Importation dans Solaris/","tags":["note_permanente"],"ctime":"2026-11-23T23:32:44.724+01:00","mtime":"2026-11-23T23:35:42.809+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/USD]]","[[3_GARDEN/MOCs/SOLARIS]]"],"source":["[[3_GARDEN/Notes littéraires/USD - SideFX Course]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-23","aliases":null}}
 ---
 
 ## La note 
@@ -25,6 +25,15 @@ Il faut se mettre en mode reference specific primitive pour choisir précisémen
 ### Asset reference
 
 Similaire au node reference mais il peut load en plus les variants d'un asset usd
+
+---
+
+### Importer dans Solaris depuis SOPs
+
+3 façons : 
+- Scene import : façon rapide d'importer tout le context obj. On peut bien entendu filtrer (un objet, uniquement les lights ou les cameras ou les matériaux etc)
+- Sop import : importe une géo depuis un endroit spécifique dans le context obj. Généralement depuis un null ou un output
+- Sop create : permet de créer un réseau géométrique SOP directement dans le stage
 
 ---
 
