@@ -33,6 +33,22 @@
         "src/plugins/heading-folding/styles/heading-folding.css",
         "src/plugins/heading-folding/tests/browser.test.cjs"
       ]
+    },
+    "banners": {
+      "repo": "oleeskild/garden-plugin-banners",
+      "installedVersion": "1.1.0",
+      "installedRef": "v1.1.0",
+      "installedAt": "2026-11-23T18:00:23.491Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/banners/README.md",
+        "src/plugins/banners/garden-plugin.json",
+        "src/plugins/banners/index.js",
+        "src/plugins/banners/screenshot.png",
+        "src/plugins/banners/styles/banners.css",
+        "src/plugins/banners/templates/banner.njk",
+        "src/plugins/banners/templates/head.njk"
+      ]
     }
   }
 }
