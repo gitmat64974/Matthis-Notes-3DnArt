@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/SOLARIS/","tags":["note_permanente","MOC"],"ctime":"2026-03-21T20:44:32.867+01:00","mtime":"2026-11-11T11:29:35.508+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["Houdini learning"],"Projets":null,"tags":["note_permanente","MOC"],"creation date":"2026-11-05","aliases":["Solaris"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/SOLARIS/","tags":["note_permanente","MOC"],"ctime":"2026-03-21T20:44:32.867+01:00","mtime":"2026-11-23T22:36:29.744+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["Houdini learning"],"Projets":null,"tags":["note_permanente","MOC"],"creation date":"2026-11-05","aliases":["Solaris"]}}
 ---
 
 # Cartographie
@@ -7,6 +7,14 @@
 
 # Définition
 
+*Texte de Yann Pannetier*
+
+Solaris est un module d’Houdini basé sur l’USD, développé par SideFx en collaboration étroite avec Pixar/Renderman. Il peut servir à faire du layout, du lookdev, du lighting…
+
+- **SOLARIS** est l’ensemble du système USD implémenté dans Houdini.
+- Il y a plusieurs contexts ( = networks ) dans Houdini. Nous on bosse dans le context stage (ou “LOP network”) prévu pour l’USD. Le Stage est la résultante visuelle d’une composition (empilement) de sublayers.
+- **LOP** (= lighting operator) est le type de noeuds qui traite des layers USD dans Solaris (dans le stage context). Il permet de créer des layers dans le stage. SOP
+(Surface Operators) est le type de noeud qui permet de modifier de la géométrie dans Houdini (dans le Tools context entre autres). On peut passer d’un systeme à l’autre avec des noeuds dédiés
 
 #### Premiers pas avec Solaris
 
