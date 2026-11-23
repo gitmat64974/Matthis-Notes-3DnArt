@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/USD/","tags":["note_permanente","MOC"],"ctime":"2026-03-21T20:44:54.918+01:00","mtime":"2026-11-23T22:46:58.990+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/SOLARIS|Solaris]]"],"source":["[[3_GARDEN/Notes littéraires/Cours Houdini semaine 3]]"],"Projets":null,"tags":["note_permanente","MOC"],"creation date":"2026-10-26","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/USD/","tags":["note_permanente","MOC"],"ctime":"2026-03-21T20:44:54.918+01:00","mtime":"2026-11-23T23:16:26.607+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/SOLARIS|Solaris]]"],"source":["[[3_GARDEN/Notes littéraires/Cours Houdini semaine 3]]"],"Projets":null,"tags":["note_permanente","MOC"],"creation date":"2026-10-26","aliases":null,"banner":"https://images.unsplash.com/photo-1580477667929-3ef27c684b7a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"}}
 ---
 
 # Définition
@@ -28,8 +28,32 @@ On voit donc avec tout ça l'importance d'une organisation très solide avec nom
 Dans l’USD, tout est stocké sur le disque 
 - Tout doit être disponible sur le disque, utilisable depuis n’importe quel logiciel ou même sans (juste en ligne de commande pour lancer des rendus sur des farms par exemple)
 
+#### Terminologie
+
+**Solaris** : Terme marketing désignant l'ensemble d'outils Houdini dédiés à la création de scènes, à l'éclairage, à la mise en scène et au pipeline. C'est là que nous pouvons effectuer le rendu via les délégateurs Hydra.
+
+**Stage** : Nom du contexte Houdini dans lequel nous utilisons les nœuds LOP propres à Solaris
+
+**LOPs** : Nom désignant l'ensemble des nœuds/outils utilisés pour travailler avec USD sous Solaris.
+
+#### Formats et Extensions
+
+Extensions de fichiers usd : 
+
+| **Extension** | **Format**      | **Commentaires**                                                                                                                                                                                                                                                        |
+| ------------- | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **.usd**      | Binaire / ASCII | Le format par défaut, binaire : Ces fichiers offrent des lectures plus rapides et des tailles réduites, mais ne sont pas lisibles par un humain. Ils sont idéaux pour de grandes scènes contenant un nombre élevé d'objets géométriques.                                |
+| **.usda**     | ASCII           | Ces fichiers entraînent des lectures plus lentes et des fichiers plus volumineux, mais présentent l'avantage d'être lisibles par un humain. Ils peuvent être utilisés pour de petites scènes ou des _assets_, et s'avèrent très utiles pour déboguer des problèmes.<br> |
+| **.usdc**     | Binaire         | Format strictement binaire                                                                                                                                                                                                                                              |
+
+
+Dans le cas de l'extension `.usd`, le format est enregistré en Binaire (« Crate ») par défaut. Si vous souhaitez enregistrer votre fichier `.usd` en ASCII, vous devez ajouter le a à l'extension
+
+
 # Structure
 
+
+[[3_GARDEN/Notes permanentes/Primitive USD\|Primitive USD]]
 
 - [[3_GARDEN/Notes permanentes/Créer un asset USD dans Houdini\|Créer un asset USD dans Houdini]]
 
