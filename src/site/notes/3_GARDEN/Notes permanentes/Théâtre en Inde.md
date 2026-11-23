@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Théâtre en Inde/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[INDE]]"],"source":["Perplexity"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-11-29","aliases":null,"banner":"https://www.sangeetnatak.gov.in/public/uploads/events/16425093143295.jpg"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Théâtre en Inde/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:51.952+01:00","mtime":"2026-04-16T09:34:19.880+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/INDE]]"],"source":["Perplexity"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-11-29","aliases":null,"banner":"https://www.sangeetnatak.gov.in/public/uploads/events/16425093143295.jpg"}}
 ---
 
 ## La note 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/RBD Bullet Solver/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[HOUDINI]]"],"source":["Houdini doc"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-26","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/RBD Bullet Solver/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:43.460+01:00","mtime":"2026-01-26T21:10:05.580+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["Houdini doc"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-26","aliases":null}}
 ---
 
 ## La note 

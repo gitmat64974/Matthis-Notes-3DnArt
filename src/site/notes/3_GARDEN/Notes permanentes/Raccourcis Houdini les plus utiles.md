@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Raccourcis Houdini les plus utiles/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[HOUDINI]]"],"source":["[[Cours Houdini semaine 3]]"],"Projets":null,"tags":["note_permanente"],"creation date":202510132311,"aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Raccourcis Houdini les plus utiles/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:20.966+01:00","mtime":"2026-10-14T20:25:48.385+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["[[3_GARDEN/Notes littéraires/Cours Houdini semaine 3]]"],"Projets":null,"tags":["note_permanente"],"creation date":202510132311,"aliases":null}}
 ---
 
 ## La note 
@@ -91,7 +91,7 @@ Créer un node transform à partir du node sélectionné :
 
 
 #### Autres tools et raccourcis : 
-- [[TOOLS/Houdini scripts/Import Textures|Import Textures]]
+- [[TOOLS/Houdini scripts/Import Textures\|Import Textures]]
 
 
 > [!example]- Flashcards

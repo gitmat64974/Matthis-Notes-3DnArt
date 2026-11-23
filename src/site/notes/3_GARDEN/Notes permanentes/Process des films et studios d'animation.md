@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Process des films et studios d'animation/","tags":["note_permanente","plante"],"dg-note-properties":{"MOC":["[[3D]]","[[Pipeline de production en animation]]"],"source":null,"Projets":null,"tags":["note_permanente","plante"],"creation date":"2026-10-12","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Process des films et studios d'animation/","tags":["note_permanente","plante"],"ctime":"2026-10-12T21:31:02.092+02:00","mtime":"2026-10-12T22:02:20.016+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/Notes permanentes/Pipeline de production en animation]]"],"source":null,"Projets":null,"tags":["note_permanente","plante"],"creation date":"2026-10-12","aliases":null}}
 ---
 
 ## La note 
@@ -53,6 +53,7 @@ Si vous préférez le format vidéo, certaines chaînes excellent dans le décry
 - **Corridor Crew (série "VFX Artists React") :** Bien qu'ils fassent de l'entertainment, ils invitent souvent des professionnels de l'industrie qui expliquent techniquement comment certains plans de films d'animation ou de VFX ont été réalisés (logiciels, techniques de simulation).
     
 - Les chaînes officielles des logiciels : **Autodesk (Maya), SideFX (Houdini), ou Epic Games (Unreal Engine)** publient souvent des "Customer Stories" ou des "Tech Talks" où les studios invités expliquent comment ils ont utilisé le logiciel dans leur pipeline pour un film précis.
+
 ## Références
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/VEX/","tags":["note_permanente","en_cours"],"dg-note-properties":{"MOC":["[[HOUDINI]]","[[INFORMATIQUE]]","[[PROGRAMMATION INFORMATIQUE]]"],"source":["https://tokeru.com/cgwiki/JoyOfVex.html"],"Projets":null,"tags":["note_permanente","en_cours"],"creation date":"2025-12-11","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/VEX/","tags":["note_permanente","en_cours"],"ctime":"2026-03-21T20:44:26.967+01:00","mtime":"2026-11-15T00:33:08.661+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/INFORMATIQUE]]","[[3_GARDEN/MOCs/PROGRAMMATION INFORMATIQUE]]"],"source":["https://tokeru.com/cgwiki/JoyOfVex.html"],"Projets":null,"tags":["note_permanente","en_cours"],"creation date":"2025-12-11","aliases":null}}
 ---
 
 ## La note 
@@ -117,8 +117,8 @@ Exemple avec la position pour faire des vagues :
 > 
 
 
-> [!NOTE] distance()
-> Cette fonction mesure la distance entre le point et une valeur donnée : 
+> [!node] distance()
+> Cette fonction mesure la distance entre un point et une position donnée : 
 > ``distance(@P, {1,0,3} );``
 > 
 > *Remplacer lenght par distance dans l'exemple précédent des vagues permet donc donner un point d'origine précis aux vagues plutôt que l'origine du monde*
@@ -131,9 +131,38 @@ Exemple avec la position pour faire des vagues :
 
 #### Modulo et quantisation
 
-[[3_GARDEN/Notes permanentes/Modulo|Modulo]] 
+[[3_GARDEN/Notes permanentes/Modulo\|Modulo]] 
 
-[[3_GARDEN/Notes permanentes/Quantisation|Quantisation]] 
+[[3_GARDEN/Notes permanentes/Quantisation\|Quantisation]] 
+
+
+### Attributs
+
+[[3_GARDEN/Notes permanentes/Attributs Houdini\|Attributs Houdini]]
+
+### Utiliser d'autres géos pour modifier celle qu'on traite
+
+C'est l'utilité des autres input dans un wrangle
+
+#### Fonction minpos
+
+C'est l'équivalent d'un ray : on donne une position du monde et une géo et ça retourne la position sur la géo la plus proche de la position du monde
+
+Donc on donne à la fonction la géo d'influence et sur quel point on veut calculer cette distance (si on veut sur tous : @P)
+Donc en général si la géo d'influence est le second input, la fonction s'utilise comme ça : ``vector pos = minpos(1, @P); ``
+
+On l'utilise souvent avec la fonction distance qui permettra de créer une sorte de falloff autour de la "projection" de l'objet
+
+```C
+vector pos = minpos(1, @P);
+@dist = distance(@P, pos) * chf('falloff');
+```
+
+![](https://i.imgur.com/o6VjW9p.png)
+
+#### Fonction nearpoint
+
+[[3_GARDEN/Notes permanentes/Fonction nearpoint VEX\|Fonction nearpoint VEX]]
 
 #### Fonction point
 
@@ -142,46 +171,200 @@ Exemple avec la position pour faire des vagues :
 Elle permet de ***récupérer un attribut situé sur les points d'une géo en entrée***
 paramètres : (géométrie d'entrée (0 pour la première entrée, 1 pour la deuxième entrée etc), le nom de l'attribut ("orient" par exemple), le point sur lequel regarder l'attribut (0 pour seulement le point 0, ou ptnum pour tous les points))
 
-### Attributs
 
-#### Pseudo attributs 
-
-Ce sont des attributs que Houdini connait de base
-En voici la liste : 
-- P
-- N
-- Cd
-- pscale
-- uv
-- v
-- up
-- orient
-- ptnum
-- primnum
-- vtxnum
-- numpt
-- numprim
-- numvtx
-- age
-- id
-- life
-- Time
-- Timelnc
-- Frame
+> [!tip] raccourci fonction point
+> A noter que si les deux géos en entrée du wrangle on exactement le même ptnum, on peut remplacer la fonction point() par @opinput1_P (-> *input 1 et on récupère la position*)
 
 
-#### Créer ses propres attributs
+> [!example]+ Example : pluie en utilsant les fonction nearpoint, point et distance
+> 
+> ![](https://tokeru.com/cgwiki/assets/Ripples.d_jIud9b.gif)
+> 
+> Scatter 8 points en second input du wrangle
+> 
+> ```C
+>  int pt = nearpoint(1,@P);
+>  vector pos = point(1,'P',pt);
+>  float d = distance(@P, pos);
+>  d *= ch('scale');
+>  d += rand(pt);
+>  d -= @Time;
+>  d %= 1;
+>  @P.y = chramp('pulse',d)*ch('amp');
+> ```
+> 
 
-> [!NOTE]+ En VEX
-> Très simple : ``@monattribut = ...;``
-> On peut aussi spécifier le type de data de l'attribut avant le @ (f pour float, v pour vecteur, s pour string etc) mais ce n'est pas obligatoire
+### Noises
+
+```C
+ @Cd = noise(@P);
+```
+
+To change the scale of noise, multiply @P by a factor:
+
+```C
+ @Cd = noise(@P*ch('scale'));
+```
+
+Or if you want non-linear noise, multiply it by a vector:
+
+```C
+ @Cd = noise(@P*chv('fancyscale'));
+```
+
+If you want to move noise around, add an offset:
+
+```C
+ @Cd = noise(@P+chv('offset'));
+```
+
+Or if you want it animated, give it an animating value, like @Time:
+
+```C
+ @Cd = noise(@P+@Time);
+```
+
+Or combine all those things:
+
+```C
+  @Cd = noise(chv('offset')+@P*chv('fancyscale')+@Time);
+```
+
+![](https://tokeru.com/cgwiki/assets/Joyofvex8_noise.i3TwuznC.gif)
+
+Houdini offers quite a few types of noise, a common alternative is curlnoise:
+
+```C
+  @Cd = curlnoise(@P*chv('fancyscale')+@Time);
+```
+
+While most formats of noise will be happy with a single input, the more advanced noise types take lots of inputs to control their behavior. Eg, this is the help definition for pnoise:
+
+```C
+ pnoise(vector4 xyzt, int px, int py, int pz, int pt);
+```
+
+Dans ces situations, surtout si vous souhaitez tester rapidement différents types de bruit, les vops peuvent constituer l’option la plus rapide. Vous pourriez vouloir combiner du bruit avec des motifs, ou mener des expériences plus libres avec les attributs de noise
+
+---
+### Dot product 
+
+*Produit scalaire*
+
+Il compare les directions des vecteurs : s'ils pointent dans la même direction (c'est-à-dire s'ils sont parallèles), elle renvoie 1 ; s'ils sont perpendiculaires, 0 ; s'ils pointent exactement dans des directions opposées, -1 ; et pour les angles situés entre ces positions extrêmes, la valeur varie progressivement entre 1, 0 et -1.
+
+> [!example]+ Exemple : le lighting 
+> 
+> ```C
+>  @Cd = @N.y;
+> ```
+> 
+> Ce petit code va donner l'impression que la géo est lightée depuis le haut
+> Maintenant si on utilise un angle qu'on définit nous même, on va pouvoir utiliser le dot product : 
+> 
+> ```C
+>  @Cd = dot(@N, chv('angle'));
+> ```
+> Si on veut controler la "light" depuis un point, c'est très simple, on branche un point (add sop) dans la deuxième entrée d'un wrangle et on récupère sa position. Cette position sera le point de comparaison du dot product avec la normal. On n'oublie pas de normalizer la position car la normale est bien normalizée :
+> 
+> ```C
+>  vector pos = point(1,'P',0);
+>  pos = normalize(pos);
+>  @Cd = dot(@N, pos);
+> ```
+> 
+
+### Cross product
+
+*Produit vectoriel*
+
+Le produit vectoriel prend deux vecteurs et génère un troisième vecteur perpendiculaire. Le plus simple est de visualiser cela avec la règle de la main droite : 
+
+![Vector_hand.Y7K_2L7i.png](/img/user/Pi%C3%A8ces%20jointes/Vector_hand.Y7K_2L7i.png)
+
+> [!example]+ Exemples
+> Exemple simple : faire pointer les normales vers une direction donnée : 
+> 
+> ```C
+>  @N = cross(@N, {0,1,0});
+> ```
+> Exemple simple : grooming direction de base
+> *Beaucoup de grooming tools utilisent ça*
+> 
+> On vient faire un double cross product pour d'abord donner une direction aux normales, puis les faire suivre la topo : 
+> 
+> ```C
+> vector tmp = cross(@N, chv('vector'));
+> @N = cross(@N, tmp);
+> ```
+
+### Opérations mathématiques de vecteurs
+
+#### Addition de vecteurs : 
+
+```C
+vector a = chv('a');
+vector b = chv('b');
+@N = a+b;
+```
+
+![](https://www.tokeru.com/cgwiki/assets/Jov9_addvector_simple.CKO7mP-B.gif)
+
+#### Soustraction de vecteurs : 
+
+```C
+vector a = point(0,'P',0);
+vector b = point(1,'P',0);
+
+@N = b-a;
+```
+
+![](https://www.tokeru.com/cgwiki/assets/Jov9_subtract_vectors.VD62G4ew.gif)
+
+
+Exemple : Définir une velocité initale pour une simu d'explosion par exemple
+
+```C
+vector origin = point(1,'P',0);
+@v = @P-origin;
+```
+
+![](https://www.tokeru.com/cgwiki/assets/Jov9_rbd_example.BQXWBlqS.gif)
+
+
+#### Multiplication de vecteurs
+
+```C
+@N *= chv('scalevec');
+```
+
+![](https://www.tokeru.com/cgwiki/assets/Jov9_mult_sphere2.BciO6NDH.gif)
+
+
+### Fonction relpointbbox
+
+Cette fonction trace une bounding box autour de votre forme, définit le coin inférieur gauche à 0,0,0 et le coin supérieur droit à 1,1,1, puis renvoie la position de chaque point par rapport à ce rectangle
+
+Mappé sur la couleur c'est assez visuel, c'est une sorte d'attribut de position relative (`@Cd = relpointbbox(0, @P);`)
+
+Si on veut avoir des gradients top - bottom, ou front - back : 
+
+```C
+ vector bbox = relpointbbox(0,@P);
+ @Cd = bbox.y;
+```
+
+### Conditions
+
+
+
 
 
 ---
 
 ## Références
 
-[[0_INBOX/VEX - cas concrets utiles|VEX - cas concrets utiles]]
+[[0_INBOX/VEX - cas concrets utiles\|VEX - cas concrets utiles]]
 
 ---
 

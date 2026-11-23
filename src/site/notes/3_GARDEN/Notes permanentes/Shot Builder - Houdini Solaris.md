@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Shot Builder - Houdini Solaris/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[USD]]","[[Lighting dans Houdini|Solaris]]","[[HOUDINI]]","[[LIGHTING]]"],"source":["https://youtu.be/xE0M6a7mJKc"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-02","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Shot Builder - Houdini Solaris/","tags":["note_permanente"],"ctime":"2026-11-02T23:40:09.854+01:00","mtime":"2026-11-10T16:37:53.278+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/USD]]","[[3_GARDEN/MOCs/SOLARIS|Solaris]]","[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/LIGHTING]]"],"source":["https://youtu.be/xE0M6a7mJKc"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-02","aliases":null}}
 ---
 
 ## La note 
@@ -7,10 +7,10 @@
 Le ***Shot Builder*** est une boîte à outils de Houdini 21 — uniquement dans le contexte Solaris/LOPs.
 Son but : donner « un pipeline dans une boîte », c'est-à-dire toute l'organisation d'un projet multi-plans : plusieurs shots, plusieurs couches de travail (layout, lookdev, lighting…), plusieurs artistes — tout cela gérable depuis un SEUL fichier Houdini. 
 
-En utilisant le shot Builder, on édite des layers USD ([[USD Layers|USD Layers]]) côte à côte ou en équipe. La numérotation des versions (v1, v2…), le chargement du bon shot à chaque bascule : tout se fait en coulisses. Les artistes travaillent et le pipeline s'organise tout seul.
+En utilisant le shot Builder, on édite des layers USD ([[USD Layers\|USD Layers]]) côte à côte ou en équipe. La numérotation des versions (v1, v2…), le chargement du bon shot à chaque bascule : tout se fait en coulisses. Les artistes travaillent et le pipeline s'organise tout seul.
 
 > [!example]+ Notions en prérequis
-> - [[USD Layers|USD Layers]]
+> - [[USD Layers\|USD Layers]]
 > - Unité (unit) : le bloc de base de la hiérarchie. Souvent un shot (un plan du film), mais ça peut être un asset, un environnement… Chaque type d'unité contient son propre paquet de couches.
 > - project.json : le petit fichier « plan du projet ». Il déclare les types d'unités et les layers de chacune. Toute la structure de dossiers et de fichiers en est déduite.
 > - HPR Resolver : l'asset resolver intégré de SideFX. Une resolver est une boîte noire qui gère les chemins de fichiers : où ranger les exports, quelle version (v1, v2, v3) charger — toujours la plus récente, sauf si vous l'épinglez.
@@ -92,6 +92,8 @@ Résultat dans l'explorateur : un dossier shot_layout.usd contenant la première
 
 PROBLÈME : jusqu'ici tout était identique sur les trois shots, mais on veut souvent une variation par plan (ex. un élément qui n'existe que dans le shot 001). RÉPONSE : Shot Split/Shot Switch — un nœud qui ramifie le réseau en branches, avec un Output Shot Pattern par branche : shot/s001, shot/s002, shot/s003.
 
+On peut également si on veut editer un layer seulement sur un shot (paramètre du `shot layer edit`)
+
 Confort notable : quand on plonge dans une branche, le contexte du haut (shot/s001…) bascule automatiquement sur le bon shot — plus de risque d'éditer le mauvais plan. On reboucle tout sur un seul Shot Output.
 
 #### 5. Ajouter une couche en plein projet
@@ -170,10 +172,18 @@ Par défaut, le node va automatiquement chercher la dernière version (c’est l
 
 Le principe est de préparer une structure de répertoire séparant les données produites par l’équipe et l’assemblage final des shots (*un dossier usd contenant tous les usd à référencer et un dossier sequence contenant chaque shot builder project*)
 
-Voir [[3_GARDEN/Notes permanentes/Pipeline USD|Pipeline USD]] pour un exemple de répertoire qui fonctionne pour cet outil
+Voir [[3_GARDEN/Notes permanentes/Pipeline USD\|Pipeline USD]] pour un exemple de répertoire qui fonctionne pour cet outil
 
 ## Références
 
+#### Ressources
+
+
+- Doc de Yann : [USD Solaris SHOT BUILDER](https://probable-purpose-948.notion.site/USD-Solaris-SHOT-BUILDER-40cfcd19381080bcbd57cbe1aa76edfa)
+- [Houdini ShotBuilder Tutorial – Complete Overview of the Multi-Shot USD Workflow - YouTube](https://youtu.be/xE0M6a7mJKc)
+- [Multi-shot Workflows with Shot Builder \| Crater Studio \| FMX HIVE 2026 - YouTube](https://youtu.be/ZCvsGaPX97E)
+
+Doc : [Shot Builder Tools](https://www.sidefx.com/docs/houdini/solaris/shotbuilder.html)
 
 > [!example]- Flashcards
 > ...

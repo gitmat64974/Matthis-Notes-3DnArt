@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/RBD Simulation Houdini/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[HOUDINI]]"],"source":["Houdini doc"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-23","aliases":["Simulation RBD Houdini","Simulation destruction Houdini"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/RBD Simulation Houdini/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:25.486+01:00","mtime":"2026-10-11T22:25:17.364+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["Houdini doc"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-23","aliases":["Simulation RBD Houdini","Simulation destruction Houdini"]}}
 ---
 
 ## La note 
@@ -68,15 +68,15 @@ Ici on va définir le type de matériau (bois, béton, métal etc) notamment par
 On va également définir (ou redéfinir) comment les différents éléments (pré fracturés par exemple ou autres) sont liés entre eux et s'influencent pour donner par exemple un caractère plus ou moins rigide à un matériau : Ce sont les contraintes
 
 
-Tout cette partie est expliquée ici : [[3_GARDEN/Notes permanentes/RBD, Régler les comportements des éléments|RBD, Régler les comportements des éléments]]
-Pour ajouter plus d'irrégularité on peut utiliser les [[3_GARDEN/Notes permanentes/RBD Cluster|RBD Cluster]]
+Tout cette partie est expliquée ici : [[3_GARDEN/Notes permanentes/RBD, Régler les comportements des éléments\|RBD, Régler les comportements des éléments]]
+Pour ajouter plus d'irrégularité on peut utiliser les [[3_GARDEN/Notes permanentes/RBD Cluster\|RBD Cluster]]
 
 ---
 ### RBD Bullet Solver 
 
 C'est avec ce node que l'on va réellement effectuer la simulation
 
-Plus de détail : [[3_GARDEN/Notes permanentes/RBD Bullet Solver|RBD Bullet Solver]] 
+Plus de détail : [[3_GARDEN/Notes permanentes/RBD Bullet Solver\|RBD Bullet Solver]] 
 
 ---
 
@@ -99,7 +99,7 @@ These are lower-level nodes, many of which are used inside the RBD Material Frac
 
 [Overview](https://www.sidefx.com/docs/houdini/destruction/overview.html)
 
-[[3_GARDEN/Notes permanentes/Explosion en RBD|Explosion en RBD]] 
+[[3_GARDEN/Notes permanentes/Explosion en RBD\|Explosion en RBD]] 
 
 > [!example]- Flashcards
 > ...

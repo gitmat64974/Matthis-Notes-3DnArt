@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Kernel/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[SOLARIS]]","[[HOUDINI]]"],"source":["Recherche agent du 2026-11-11 — doc SideFX : [Karma XPU pre-compiling (H21)](https://www.sidefx.com/docs/houdini/solaris/support/karma_precompile.html)"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-11","aliases":["Karma XPU kernels","Precompile Karma XPU Render Kernels"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Kernel/","tags":["note_permanente"],"ctime":"2026-11-11T11:29:49.769+01:00","mtime":"2026-11-11T11:29:35.498+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SOLARIS]]","[[3_GARDEN/MOCs/HOUDINI]]"],"source":["Recherche agent du 2026-11-11 — doc SideFX : [Karma XPU pre-compiling (H21)](https://www.sidefx.com/docs/houdini/solaris/support/karma_precompile.html)"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-11","aliases":["Karma XPU kernels","Precompile Karma XPU Render Kernels"]}}
 ---
 
 
@@ -88,8 +88,8 @@ Le cache de render kernels **n'est pas invalidé par le contenu de la scène**. 
 
 ## Liens
 
-- [[3_GARDEN/Notes permanentes/LPE|LPE]] — autre brique de knowledge Solaris/Karma liée aux AOVs
-- [[3_GARDEN/Notes permanentes/Render threads optimization Karma|Render threads optimization Karma]] — optimisation d'un autre goulet de rendu Karma
-- [[3_GARDEN/Notes permanentes/Light Filters Solaris|Light Filters Solaris]] — les light filters font partie des *user shaders* compilés à la volée
-- [[3_GARDEN/MOCs/USD|USD]] — Karma rend l'USD produit par Solaris ; le cache de kernels, lui, ne dépend pas du contenu USD
+- [[3_GARDEN/Notes permanentes/LPE\|LPE]] — autre brique de knowledge Solaris/Karma liée aux AOVs
+- [[3_GARDEN/Notes permanentes/Render threads optimization Karma\|Render threads optimization Karma]] — optimisation d'un autre goulet de rendu Karma
+- [[3_GARDEN/Notes permanentes/Light Filters Solaris\|Light Filters Solaris]] — les light filters font partie des *user shaders* compilés à la volée
+- [[3_GARDEN/MOCs/USD\|USD]] — Karma rend l'USD produit par Solaris ; le cache de kernels, lui, ne dépend pas du contenu USD
 - Connexion croisée : même logique de JIT-compilation de kernels que dans l'infographie temps réel (moteurs de jeux qui compilent leurs shaders à l'installation ou en « shader warming », dérivés de la spéculation pipeline) — même cause de « stutter » au premier usage.

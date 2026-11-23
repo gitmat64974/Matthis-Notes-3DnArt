@@ -1,18 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/MYTHE/","tags":["note_permanente"],"dg-note-properties":{"MOC":null,"source":null,"Projets":null,"tags":["note_permanente"],"creation date":null,"aliases":null,"Source":["[[Truby - L'anatomie des histoires - note litt]]","[[L'Anatomie des histoires]]"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/MYTHE/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:30.229+01:00","mtime":"2026-08-18T13:30:36.731+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/GENRES DU CINEMA]]","[[3_GARDEN/Notes permanentes/CINEMA]]","[[3_GARDEN/MOCs/LITTÉRATURE]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":null,"aliases":null,"Source":["[[3_GARDEN/Notes littéraires/Truby - L'anatomie des histoires - note litt]]","[[Media_DB/Books/L'Anatomie des histoires]]"]}}
 ---
 
 
-[[3_GARDEN/Notes permanentes/MOC|MOC]] : [[3_GARDEN/Notes permanentes/CINEMA|CINEMA]] 
-Source : #livre la Bible en questions 
-[[3_GARDEN/Notes permanentes/Projet|Projet]] : 
-Tags : #note_permanente 
-Date : 2024-09-19
-
 ## La note 
 
-Un mythe est un récit complètement fictif, qui au même titre qu'une [[3_GARDEN/Notes permanentes/Légende|Légende]] tente d'expliquer nos origines et nos pratiques sociales, et /ou fait passer un message moral ou spirituel. 
+Un mythe est un récit complètement fictif, qui au même titre qu'une [[3_GARDEN/Notes permanentes/Légende\|Légende]] tente d'expliquer nos origines et nos pratiques sociales, et /ou fait passer un message moral ou spirituel. 
 
+#### Les codes du mythe selon Truby
 
 **Définition :** Premier code narratif de la conscience. Décrit le développement du Moi et les étapes archétypales tout au long de la vie.
 

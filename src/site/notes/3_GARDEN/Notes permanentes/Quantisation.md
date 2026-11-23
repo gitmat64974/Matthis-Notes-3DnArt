@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Quantisation/","tags":["note_permanente"],"dg-note-properties":{"MOC":null,"source":null,"Projets":null,"tags":["note_permanente"],"creation date":null,"aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Quantisation/","tags":["note_permanente","plante"],"ctime":"2026-09-15T15:48:40.434+02:00","mtime":"2026-09-15T15:58:30.628+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/MATHEMATIQUES]]","[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/3D|CG]]"],"source":["joy of vex"],"Projets":null,"tags":["note_permanente","plante"],"creation date":"2026-09-15","aliases":null}}
 ---
 
 ## La note 
@@ -18,13 +18,9 @@ La solution mathématique élégante consiste à **diviser, tronquer, puis remul
 
 Pour forcer une valeur à s'aligner sur une "taille de marche" précise (le facteur $f$), on utilise cette logique :
 
-  
-
 $$V_{\text{quantifié}} = \text{trunc}\left(\frac{V}{f}\right) \times f$$
 
 Imaginons que nous voulons des marches d'une taille de **$0.5$**. Voici comment cette formule transforme différentes valeurs continues pour les grouper sur des paliers :
-
-  
 
 |**Valeur originale (V)**|**1. Diviser (V/0.5)**|**2. Tronquer (trunc)**|**3. Multiplier (×0.5)**|
 |---|---|---|---|
@@ -34,9 +30,7 @@ Imaginons que nous voulons des marches d'une taille de **$0.5$**. Voici comment 
 
 Toutes les valeurs comprises entre $1.0$ et $1.49$ sont "aimantées" sur le palier $1.0$. Dès qu'on atteint $1.5$, on passe à la marche suivante.
 
-  
-
-### Exemple en VEX
+### Exemple en VEX(Houdini)
 
 Voici le code sommaire qu'on pourrait utiliser en VEX
 ```C

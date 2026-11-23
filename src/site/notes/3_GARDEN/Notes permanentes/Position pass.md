@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Position pass/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[COMPOSITING]]"],"source":["https://youtu.be/n4YyanHkHEs"],"Projets":["[[Recherches - Stylised rendering - FFE]]"],"tags":["note_permanente"],"creation date":"2026-11-11","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Position pass/","tags":["note_permanente"],"ctime":"2026-11-11T11:48:46.110+01:00","mtime":"2026-11-11T22:20:40.294+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITING]]"],"source":["https://youtu.be/n4YyanHkHEs"],"Projets":["[[1_PROJETS/FFE/02_PROD/RND/Recherches - Stylised rendering - FFE]]"],"tags":["note_permanente"],"creation date":"2026-11-11","aliases":null}}
 ---
 
 ## La note 
@@ -13,8 +13,14 @@ Lorsqu'on active le calcule de cette passe, le moteur de rendu encode la positio
 - **Canal Vert (G)** = Position sur l'axe Y (haut / bas)
 - **Canal Bleu (B)** = Position sur l'axe Z (profondeur)
 
+Différents cas d'utilisation : 
+- **Masks :** Isoler une zone précise de l'espace 3D (par exemple, créer une sphère de sélection autour d'un personnage) pour lui appliquer une correction colorimétrique, sans avoir besoin de recalculer des masques (ID pass ou Cryptomatte) en 3D.
+- **Relighting :** Couplée à une _Normal Pass_ (qui indique l'orientation des surfaces), la Position Pass permet d'ajouter des lumières virtuelles (Point Light, Spot Light) directement au compositing.
+- **Fog :** Générer du brouillard volumétrique ou de la brume qui interagit avec le volume réel des objets, offrant un résultat plus précis qu'une simple passe de profondeur (Z-Depth).
+- **Projection de textures 3D :** Placer des textures, du texte, du sang ou de la salissure directement sur la géométrie d'un objet après le rendu.
+
 ---
-### Utiliser une position pass
+### Utiliser une position pass (NUKE)
 
 Node position to points : Il va créer un point cloud dans l'espace 3D de Nuke représentant la position de chaque pixel dans l'espace, à partir des données de la position pass
 Inputs : 

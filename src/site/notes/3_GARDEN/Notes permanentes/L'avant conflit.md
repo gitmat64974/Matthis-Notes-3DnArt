@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/L'avant conflit/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[DRAMATURGIE]]"],"source":["[[9e cours scénario, protagoniste, objectif]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-05-04","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/L'avant conflit/","tags":["note_permanente"],"ctime":"2026-05-04T21:44:53.396+02:00","mtime":"2026-05-13T23:22:40.902+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/9e cours scénario, protagoniste, objectif]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-05-04","aliases":null}}
 ---
 
 ## La note 
@@ -16,7 +16,7 @@ Quelques réalisateurs explorent avec brio ce temps de l'avant conflit, en l'ét
 
 Quentin Tarantino est maître dans l’étirement du temps avant que tout bascule. 
 No Country for old men : Anton Chigurh mène en bourrique un employé de station service : [No Country For Old Men - Pile ou Face - YouTube](https://www.youtube.com/watch?v=K3X_bafewEM)
-Voir aussi [[3_GARDEN/Notes permanentes/David Lynch|David Lynch]]
+Voir aussi [[3_GARDEN/Notes permanentes/David Lynch\|David Lynch]]
 
 
 ## Références

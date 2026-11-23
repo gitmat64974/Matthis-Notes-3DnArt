@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Skinning KineFX/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[HOUDINI]]","[[3_GARDEN/MOCs/RIG|RIG]]"],"source":["Houdini doc"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-17","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Skinning KineFX/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:27.732+01:00","mtime":"2026-11-19T08:38:22.176+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/RIG]]"],"source":["Houdini doc"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-17","aliases":null}}
 ---
 
 ## La note 
 
 ---
 
-Pour la création de joints : [[3_GARDEN/Notes permanentes/Skeleton KineFX|Skeleton KineFX]]
+Pour la création de joints : [[3_GARDEN/Notes permanentes/Skeleton KineFX\|Skeleton KineFX]]
 
 #### Skinning / Capture
 
@@ -60,12 +60,17 @@ Puis on skin les parties dures avec le `capturepackedgeo` et les parties molles 
 
 ---
 
+#### Exporter le skinning (avec géo et skeleton)
+
+`ROP Fbx character output` : mettre la skin, les joints rest et les joints animés s'il y en a
+
+---
 
 ## Références
 
-[[3_GARDEN/MOCs/RIG|RIG]]
-- [[3_GARDEN/MOCs/RIG HOUDINI|RIG HOUDINI]]
-	- [[3_GARDEN/Notes permanentes/KineFX|KineFX]]
+[[3_GARDEN/MOCs/RIG\|RIG]]
+- [[3_GARDEN/MOCs/RIG HOUDINI\|RIG HOUDINI]]
+	- [[3_GARDEN/Notes permanentes/KineFX\|KineFX]]
 
 [Houdini KineFX 101: Attach Object To Rig // Capture Packed Geometry - YouTube](https://youtu.be/0XPCNxefOz8?si=urDWg-WFeEqxAp4b)
 

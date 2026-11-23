@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/POP Network/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[HOUDINI]]"],"source":["Houdini doc","[[Cours houdini ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-27","aliases":["Popnet"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/POP Network/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:44.374+01:00","mtime":"2026-10-11T20:48:10.840+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["Houdini doc","[[3_GARDEN/Notes littéraires/Cours houdini ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-27","aliases":["Popnet"]}}
 ---
 
 ## La note 
 
-Le POP Network est une sorte de script pour créer la structure initiale nécessaire à la simulation de particule dans un [[3_GARDEN/Notes permanentes/DOP Houdini|DOP Network]] 
+Le POP Network est une sorte de script pour créer la structure initiale nécessaire à la simulation de particule dans un [[3_GARDEN/Notes permanentes/DOP Houdini\|DOP Network]] 
 
 
 
@@ -62,6 +62,42 @@ Pop replicate : permet de duppliquer les particules et de gérer leur comporteme
 	- Uniform scale : permet de rapprocher ou éloigner les particules dupliquées de leur particule d'origine (sur la capture d'écran le uniform scale est à 0.1)
 
 
+### Exemple 1 : Abstract Dust around object
+
+On entre dans popnet avec un scatter de points sur une géo
+
+![](https://i.imgur.com/PXbwo3u.png)
+
+
+Emission Type : All points
+$F dans la global seed du scatter pour générer des points toutes les frames
+
+##### Gérer les forces : POP Vop avant le merge
+
+On va mettre un curl noise dans un premier temps
+ça fait déjà un bon taff
+
+![](https://i.imgur.com/2GhgUy0.png)
+
+Pour sticker les points à la surface de la géo on va utiliser un SOP Solver juste après le POP Vop
+A l'intérieur on va donc mettre un ray pour projeter les points du pop sur la geo (importer la geo avec un object merge)
+
+On peut rajouter ensuite aussi un popwind pour donner plus de mouvement organique aux particules
+
+![](https://i.imgur.com/tOP1nQp.png)
+
+Ensuite on met un noise pour delete certaines parties et on anim le noise
+on supprime tous les attributs sauf la position puis autre popnet
+
+Le deuxième est bien plus simple on joue un peu avec des pop wind pour avoir un mouvement curlé mais doux
+
+![](https://i.imgur.com/DlRHPhZ.png)
+
+![](https://i.imgur.com/eGrLpti.png)
+
+-
+
+On peut utiliser la vitesse pour colorer les particles par la suite
 
 
 ## Références

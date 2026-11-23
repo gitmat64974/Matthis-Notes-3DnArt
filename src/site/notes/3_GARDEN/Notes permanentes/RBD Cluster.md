@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/RBD Cluster/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[HOUDINI]]","[[3_GARDEN/Notes permanentes/RBD Simulation Houdini|RBD Simulation Houdini]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-26","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/RBD Cluster/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:26.007+01:00","mtime":"2026-10-20T14:38:38.454+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/Notes permanentes/RBD Simulation Houdini]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-26","aliases":null}}
 ---
 
 ## La note 
 
-Cela permet d'ajouter plus d'irrégularité dans une [[3_GARDEN/Notes permanentes/RBD Simulation Houdini|RBD Simulation Houdini]]
+Cela permet d'ajouter plus d'irrégularité dans une [[3_GARDEN/Notes permanentes/RBD Simulation Houdini\|RBD Simulation Houdini]]
 
 2 Manières : 
 - Méthode assez bas niveau

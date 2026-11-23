@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Histoire de l'architecture en Inde/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[INDE]]"],"source":["https://magikindia.com/histoire-de-larchitecte-en-inde/"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-11-29","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Histoire de l'architecture en Inde/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:50.992+01:00","mtime":"2026-04-16T09:32:21.339+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/INDE]]"],"source":["https://magikindia.com/histoire-de-larchitecte-en-inde/"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-11-29","aliases":null}}
 ---
 
 ## La note 
@@ -75,7 +75,7 @@ Les Britanniques développent des styles hybrides comme l’indo‑sarracénique
 
 ## Références
 
-Voir aussi la [[3_GARDEN/Notes permanentes/Garbhagriha|Garbhagriha]], le cœur du temple
+Voir aussi la [[3_GARDEN/Notes permanentes/Garbhagriha\|Garbhagriha]], le cœur du temple
 
 > [!example]- Flashcards
 > ...

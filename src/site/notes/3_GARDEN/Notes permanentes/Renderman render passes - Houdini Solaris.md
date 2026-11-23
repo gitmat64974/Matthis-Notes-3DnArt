@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Renderman render passes - Houdini Solaris/","tags":["note_permanente","plante"],"ctime":"2026-11-09T00:06:36.700+01:00","mtime":"2026-11-12T22:30:26.777+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SOLARIS]]","[[3_GARDEN/MOCs/LIGHTING]]"],"source":null,"Projets":null,"tags":["note_permanente","plante"],"creation date":"2026-11-08","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Renderman render passes - Houdini Solaris/","tags":["note_permanente","plante"],"ctime":"2026-11-08T18:21:59.279+01:00","mtime":"2026-11-19T12:38:59.914+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SOLARIS]]","[[3_GARDEN/MOCs/LIGHTING]]"],"source":null,"Projets":null,"tags":["note_permanente","plante"],"creation date":"2026-11-08","aliases":null}}
 ---
 
 ## La note 
@@ -44,7 +44,7 @@ Il suffit simplement de séparer le network :
 
 ![](https://i.imgur.com/eleD8Q5.png)
 
-Pour que des objets en dehors du layer projettent leurs ombres sur les objets du layer : mettre un `rendergeometrysettings` avant les rendersettings et activer le holdout (onglet trace) sur ces objets projeteurs d'ombres
+Pour que des objets en dehors du layer projettent leurs ombres sur les objets du layer : mettre un `rendergeometrysettings` avant les rendersettings et activer le holdout (onglet trace) sur ces objets projeteurs d'ombres puis désactiver leur visibilité à la cam et à l'indirect dans Renderman / Visibility
 
 Pour rendre tous les USD Render ROP en même temps : [[3_GARDEN/Notes permanentes/TOPs Rendering - Solaris\|TOPs Rendering - Solaris]]
 

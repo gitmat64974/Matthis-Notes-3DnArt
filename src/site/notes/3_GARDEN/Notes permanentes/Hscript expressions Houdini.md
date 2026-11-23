@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Hscript expressions Houdini/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[HOUDINI]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-09-04","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Hscript expressions Houdini/","tags":["note_permanente"],"ctime":"2026-09-04T23:19:21.382+02:00","mtime":"2026-10-05T18:39:47.829+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-09-04","aliases":null}}
 ---
 
 ## La note 
@@ -30,15 +30,15 @@ Il y a 9 types différents : X, Y, Z _ MIN, MAX, SIZE -> ex ``D_XMIN`` ou ``D_YM
 
 #### Variables globales de lecture
 
-|Variable|Équivalent VEX (`@`)|Description|
-|---|---|---|
-|`$F`|—|Frame courante (entier). La plus utilisée, notamment pour numéroter des rendus.|
-|`$FF`|`@Frame`|Frame courante en virgule flottante (précis, utile en sous-frame / motion blur).|
-|`$T`|`@Time`|Temps courant en secondes = `($F-1)/$FPS`.|
-|`$FPS`|—|Images par seconde définies dans la barre de lecture.|
-|`$FSTART` / `$FEND`|—|Première / dernière frame de l'animation.|
-|`$NFRAMES`|—|Nombre total de frames = `$FEND - $FSTART + 1`.|
-|`$TSTART` / `$TEND` / `$TLENGTH`|
+| Variable                         | Équivalent VEX (`@`) | Description                                                                      |
+| -------------------------------- | -------------------- | -------------------------------------------------------------------------------- |
+| `$F`                             | —                    | Frame courante (entier). La plus utilisée, notamment pour numéroter des rendus.  |
+| `$FF`                            | `@Frame`             | Frame courante en virgule flottante (précis, utile en sous-frame / motion blur). |
+| `$T`                             | `@Time`              | Temps courant en secondes = `($F-1)/$FPS`.                                       |
+| `$FPS`                           | —                    | Images par seconde définies dans la barre de lecture.                            |
+| `$FSTART` / `$FEND`              | —                    | Première / dernière frame de l'animation.                                        |
+| `$NFRAMES`                       | —                    | Nombre total de frames = `$FEND - $FSTART + 1`.                                  |
+| `$TSTART` / `$TEND` / `$TLENGTH` |                      |                                                                                  |
 
 #### Référencement de canaux
 

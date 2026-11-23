@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Mythologie hindoue/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[HISTOIRE]]"],"source":["Perplexity"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-11-27","aliases":["Mythologie indienne"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Mythologie hindoue/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:31.640+01:00","mtime":"2026-05-16T23:04:25.637+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HISTOIRE]]","[[3_GARDEN/MOCs/INDE]]"],"source":["Perplexity"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-11-27","aliases":["Mythologie indienne"]}}
 ---
 
 ## La note 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Lattice - Houdini/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[HOUDINI]]","[[MODELISATION]]","[[RIG HOUDINI]]"],"source":["Houdini doc"],"Projets":null,"tags":["note_permanente"],"creation date":null,"aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Lattice - Houdini/","tags":["note_permanente"],"ctime":"2026-10-08T22:43:35.167+02:00","mtime":"2026-10-08T22:46:32.614+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/MODELISATION]]","[[3_GARDEN/MOCs/RIG HOUDINI]]"],"source":["Houdini doc"],"Projets":null,"tags":["note_permanente"],"creation date":null,"aliases":null}}
 ---
 
 ## La note 

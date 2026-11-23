@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Node group Houdini/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[HOUDINI]]"],"source":["[[Cours CFX ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-11-21","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Node group Houdini/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:20.232+01:00","mtime":"2026-06-18T00:27:34.993+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["[[3_GARDEN/Notes littéraires/Cours CFX ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-11-21","aliases":null}}
 ---
 
 ## La note 

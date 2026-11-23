@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Up Vector Houdini/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[HOUDINI]]"],"source":["https://www.sidefx.com/forum/topic/25503/?page=1#post-118173"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-29","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Up Vector Houdini/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:40.034+01:00","mtime":"2026-06-18T00:26:54.810+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["https://www.sidefx.com/forum/topic/25503/?page=1#post-118173"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-29","aliases":null}}
 ---
 
 ## La note 

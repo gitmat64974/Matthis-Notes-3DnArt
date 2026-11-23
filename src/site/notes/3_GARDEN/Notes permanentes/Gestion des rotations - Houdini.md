@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Gestion des rotations - Houdini/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[HOUDINI]]","[[MODELISATION]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-09-22","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Gestion des rotations - Houdini/","tags":["note_permanente"],"ctime":"2026-09-22T07:50:15.323+02:00","mtime":"2026-09-23T17:59:11.521+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/MODELISATION]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-09-22","aliases":null}}
 ---
 
 ## La note 
+
+---
 
 #### Normales
 
@@ -14,19 +16,23 @@ Donc les normales définissent comment l'axe z des instances va s'orienter
 
 ==Normales = Axe Z orientation==
 
+---
+
 #### Up vector
 
 Le vecteur up (à créer généralement) va aligner l'axe y des instances à son orientation
 
 ==Up = Axe Y orientation==
 
-L'un des problèmes qu'on va rencontrer si on utilise seulement ces des vecteurs (N et up) pour gérer les rotations est le [[3_GARDEN/Notes permanentes/Gimbal lock|Gimbal lock]]
+L'un des problèmes qu'on va rencontrer si on utilise seulement ces des vecteurs (N et up) pour gérer les rotations est le [[3_GARDEN/Notes permanentes/Gimbal lock\|Gimbal lock]]
+
+---
 
 #### Quaternion orient
 
 L'attribut orient est l'attribut par excellence qui Houdini priorise pour gérer toutes les rotations (*Si N, up et orient existent, N et up seront ignorés*)
 
-C'est un [[3_GARDEN/Notes permanentes/Quaternion|quaternion]], c'est à dire un vecteur à 4 dimensions
+C'est un [[3_GARDEN/Notes permanentes/Quaternion\|quaternion]], c'est à dire un vecteur à 4 dimensions
 
 
 > [!success]+ Créer l'attribut orient à partir de N et up
@@ -38,6 +44,8 @@ C'est un [[3_GARDEN/Notes permanentes/Quaternion|quaternion]], c'est à dire un 
 > p@orient = quaternion(m);
 > ```
 > 
+
+---
 
 #### Rotate l'orient selon un de ses axes
 
@@ -71,6 +79,8 @@ vector4 rotation_quaternion_z = quaternion(radians(rotation.z), {0,0,1});
 @orient = qmultiply(@orient, rotation_quaternion_z);
 ```
 
+---
+
 #### Blend entre 2 quaternions
 
 Imaginons que l'on a 2 rotations différentes d'un quaternion et qu'on veut blend entre les 2 
@@ -89,13 +99,15 @@ p@orient = slerp(@orient, second_rotation, chf('blend'));
 Le blend ici est uniforme, mais on peut très bien le remplacer par un autre attribut custom (en float)
 Imaginons qu'on ait défini un attribut custom appelé intensity qui vaut un sur une partie de la géo et 0 sur l'autre. Si on remplace le `chf('blend)` par cet attribut intensity, le blend se fera uniquement là où l'intensity est à 1
 
+---
+
 
 ## Références
 
 
 #### Ressources
 
-
+[Orientation Attributes: Instancing Part 1 - Handy Houdini Tips - YouTube](https://youtu.be/Im_t2PJtTuI?si=yQMy9LlHQEfGmPhC)
 [Particle rotations in Houdini (how to rotate orient) - YouTube](https://youtu.be/gmN76ZeObsA?si=o1rh87rESv2IICIC)
 
 

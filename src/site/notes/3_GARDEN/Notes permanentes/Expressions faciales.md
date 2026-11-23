@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Expressions faciales/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[DESSIN]]","[[ANATOMIE ARTISTIQUE]]","[[RIG]]","[[ILLUSTRATION]]"],"source":["[[Cours d'illustration ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-09-29","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Expressions faciales/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:35.281+01:00","mtime":"2026-10-25T22:08:19.216+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DESSIN]]","[[3_GARDEN/MOCs/ANATOMIE ARTISTIQUE]]","[[3_GARDEN/MOCs/RIG]]","[[3_GARDEN/MOCs/ILLUSTRATION]]"],"source":["[[3_GARDEN/Notes littéraires/Cours d'illustration ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-09-29","aliases":null}}
 ---
 
 ## La note 
@@ -97,14 +97,14 @@
 ## Références
 
 Toutes : 
-- [[3_GARDEN/Notes permanentes/Sourire|Sourire]]
-- [[3_GARDEN/Notes permanentes/Satisfaction (expression faciale)|Satisfaction (expression faciale)]]
-- [[3_GARDEN/Notes permanentes/Colère (expression faciale)|Colère (expression faciale)]]
-- [[3_GARDEN/Notes permanentes/Rage|Rage]]
-- [[3_GARDEN/Notes permanentes/Surprise|Surprise]]
-- [[3_GARDEN/Notes permanentes/Peur|Peur]]
-- [[3_GARDEN/Notes permanentes/Dégoût|Dégoût]]
-- [[3_GARDEN/Notes permanentes/Tristesse (expression faciale)|Tristesse (expression faciale)]]
+- [[3_GARDEN/Notes permanentes/Sourire\|Sourire]]
+- [[3_GARDEN/Notes permanentes/Satisfaction (expression faciale)\|Satisfaction (expression faciale)]]
+- [[3_GARDEN/Notes permanentes/Colère (expression faciale)\|Colère (expression faciale)]]
+- [[3_GARDEN/Notes permanentes/Rage\|Rage]]
+- [[3_GARDEN/Notes permanentes/Surprise\|Surprise]]
+- [[3_GARDEN/Notes permanentes/Peur\|Peur]]
+- [[3_GARDEN/Notes permanentes/Dégoût\|Dégoût]]
+- [[3_GARDEN/Notes permanentes/Tristesse (expression faciale)\|Tristesse (expression faciale)]]
 
 ## Liens 
 

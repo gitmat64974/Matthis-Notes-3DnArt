@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Stylisation dans Nuke/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[COMPOSITING]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-10-03","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Stylisation dans Nuke/","tags":["note_permanente"],"ctime":"2026-10-03T11:36:27.789+02:00","mtime":"2026-10-03T11:58:14.519+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITING]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-10-03","aliases":null}}
 ---
 
 ## La note 
@@ -26,8 +26,8 @@ Ensuite on va venir grader l'albedo avec ces 3 masques (et des cryptomatte très
 
 **Comment (Pas à pas) :**
 - **Ajustement de la couleur** : Placez un nœud **Grade** directement sous votre passe d'Albedo pour pouvoir modifier facilement la couleur de base des objets.
-- Dans Nuke, utilisez les données [[3_GARDEN/Notes permanentes/Cryptomatte|Cryptomatte]] associées aux matériaux des objets (via un clic gauche sur "Crypto Material").
-- Utilisez un nœud **Shuffle** pour récupérer la couleur spécifique générée par le [[3_GARDEN/Notes permanentes/Cryptomatte|Cryptomatte]] pour l'objet voulu, et envoyez cette information dans le canal Alpha pour obtenir un masque de sélection parfait.
+- Dans Nuke, utilisez les données [[3_GARDEN/Notes permanentes/Cryptomatte\|Cryptomatte]] associées aux matériaux des objets (via un clic gauche sur "Crypto Material").
+- Utilisez un nœud **Shuffle** pour récupérer la couleur spécifique générée par le [[3_GARDEN/Notes permanentes/Cryptomatte\|Cryptomatte]] pour l'objet voulu, et envoyez cette information dans le canal Alpha pour obtenir un masque de sélection parfait.
 
 
 ## Références

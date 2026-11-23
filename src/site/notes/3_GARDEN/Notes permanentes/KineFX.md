@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/KineFX/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[HOUDINI]]","[[RIG]]","[[ANIMATION]]"],"source":["https://youtu.be/k9i_PqjnQds?si=vm_PH3Fd1EsnKoZ4)"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-03-08","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/KineFX/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:27.208+01:00","mtime":"2026-10-11T00:01:42.889+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/RIG]]","[[3_GARDEN/MOCs/ANIMATION]]"],"source":["https://youtu.be/k9i_PqjnQds?si=vm_PH3Fd1EsnKoZ4)"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-03-08","aliases":null}}
 ---
 
 ## La note 
@@ -16,13 +16,13 @@ Ce sont juste des attributs qui définissent comment cette line se comporte
 
 #### Attributs nécessaires pour KineFX
 
-| Name                                                                                                         | P + transform                                                                                                                                                                                    | Vertex order                                                                                                                                                                              |
-| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](https://i.imgur.com/fKXIDXn.png)                                                                         | ![](https://i.imgur.com/xeKJq1x.png)<br>                                                                                                                                                         | ![](https://i.imgur.com/1OC5zqV.png)<br>                                                                                                                                                  |
-| Le name est créé automatiquement avec le node skeleton, et sinon peut être créé facilement avec le rigdoctor | Il faut donc que chaque point ait une matrice de transformation (trans, rot, scale). A noter qu'on peut transformer *orient + pscale* ou *N + up + pscale* en *transform matrix* (voir plus bas) | Les vertex ont toujours un ID (numéro d'identification) et c'est cette ID qui définit la hiérarchie des joints. *Normalement ça marche tout seul automatiquement mais c'est bon à savoir* |
+| Name                                                                                                         | P + transform                                                                                                                                                                                                            | Vertex order                                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](https://i.imgur.com/fKXIDXn.png)                                                                         | ![](https://i.imgur.com/xeKJq1x.png)<br>                                                                                                                                                                                 | ![](https://i.imgur.com/1OC5zqV.png)<br>                                                                                                                                                  |
+| Le name est créé automatiquement avec le node skeleton, et sinon peut être créé facilement avec le rigdoctor | Il faut donc que chaque point ait une matrice de transformation (trans, rot, scale). On peut la créer avec un rig doctor ou en transformant *orient + pscale* ou *N + up + pscale* en *transform matrix* (voir plus bas) | Les vertex ont toujours un ID (numéro d'identification) et c'est cette ID qui définit la hiérarchie des joints. *Normalement ça marche tout seul automatiquement mais c'est bon à savoir* |
 
 
-> [!tip]+ Orient + pscale to Tmatrix : 
+> [!tip]+ Tips : Orient + pscale to Tmatrix : 
 > 
 > ![Capture d'écran 2026-03-08 143950.png](/img/user/Pi%C3%A8ces%20jointes/Capture%20d'%C3%A9cran%202026-03-08%20143950.png)
 > 
@@ -49,7 +49,11 @@ Ce sont juste des attributs qui définissent comment cette line se comporte
 
 ## Références
 
-Pour voir comment utiliser KineFX pour prendre le controle ponctuel de simulations, ou pour les driver : [[3_GARDEN/Notes permanentes/KineFX x Simulations|KineFX x Simulations]]
+Pour voir comment utiliser KineFX pour prendre le controle ponctuel de simulations, ou pour les driver : [[3_GARDEN/Notes permanentes/KineFX x Simulations\|KineFX x Simulations]]
+
+#### Ressources
+
+Cours ultra complet KineFX : [Kinefx 101 – Entagma](https://entagma.com/courses/kinefx-101/)
 
 > [!example]- Flashcards
 > #rig/KineFX

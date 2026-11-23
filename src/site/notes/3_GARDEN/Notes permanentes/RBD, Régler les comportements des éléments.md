@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/RBD, Régler les comportements des éléments/","tags":["note_permanente"],"dg-note-properties":{"MOC":["[[HOUDINI]]"],"source":["[[Cours Houdini semaine 14]]"],"Projets":null,"tags":["note_permanente"],"creation date":202601230907,"aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/RBD, Régler les comportements des éléments/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:37.892+01:00","mtime":"2026-01-26T20:53:29.694+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["[[3_GARDEN/Notes littéraires/Cours Houdini semaine 14]]"],"Projets":null,"tags":["note_permanente"],"creation date":202601230907,"aliases":null}}
 ---
 
 ## La note 
@@ -8,7 +8,7 @@
 
 #### RBD Configure
 
-La première étape de configuration se trouve dans le [[3_GARDEN/Notes permanentes/RBD configure|RBD configure]] (voir la note)
+La première étape de configuration se trouve dans le [[3_GARDEN/Notes permanentes/RBD configure\|RBD configure]] (voir la note)
 
 #### RBD Constraint from rules :
 

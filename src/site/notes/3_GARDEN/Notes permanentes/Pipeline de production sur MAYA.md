@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Pipeline de production sur MAYA/","tags":["note_permanente","en_cours"],"dg-note-properties":{"MOC":["[[3D]]"],"source":"https://docs.google.com/document/d/1koZEXPR5BPJyV1j_J2mAHfWtscxvrqUK-6UkjUEcAm0/edit?tab=t.0","Projets":["[[Projet fil rouge]]"],"tags":["note_permanente","en_cours"],"creation date":"2026-02-10","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Pipeline de production sur MAYA/","tags":["note_permanente","en_cours"],"ctime":"2026-03-21T20:44:20.748+01:00","mtime":"2026-11-08T22:09:09.739+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/3D]]"],"source":"https://docs.google.com/document/d/1koZEXPR5BPJyV1j_J2mAHfWtscxvrqUK-6UkjUEcAm0/edit?tab=t.0","Projets":["[[6_ARCHIVES/Projets/3D4/Projet fil rouge]]"],"tags":["note_permanente","en_cours"],"creation date":"2026-02-10","aliases":null}}
 ---
 
 ## La note 
@@ -61,7 +61,7 @@ On met à jour une ref à chaque fois qu'un nouveau publish de l'asset est publi
 ### Alembic merge
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/3_GARDEN/Notes permanentes/Alembic Merge/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 

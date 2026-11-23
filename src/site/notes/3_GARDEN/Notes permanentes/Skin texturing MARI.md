@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Skin texturing MARI/","tags":["note_permanente"],"dg-note-properties":{"MOC":null,"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2025-10-24","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Skin texturing MARI/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:56.262+01:00","mtime":"2026-05-26T11:02:29.133+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/MARI]]","[[3_GARDEN/MOCs/SHADING TEXTURING]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2025-10-24","aliases":null}}
 ---
 
 ## La note 
 
-Tout d'abord voir comment faire de la [[3_GARDEN/Notes permanentes/Projection dans Mari|Projection dans Mari]]
+Tout d'abord voir comment faire de la [[3_GARDEN/Notes permanentes/Projection dans Mari\|Projection dans Mari]]
 
 ---
 
@@ -26,14 +26,14 @@ On peut commencer par exemple avec des mask pour chaque partie (nez, oeil, oreil
 
 ![](https://i.imgur.com/GAEMOgH.png)
 
-On va utiliser la [[3_GARDEN/Notes permanentes/Projection dans Mari|Projection dans Mari]] pour faire soit une base rapide, soit si de bonnes maps sont utilisées (type texturing xyz), un texturing complet et détaillé
+On va utiliser la [[3_GARDEN/Notes permanentes/Projection dans Mari\|Projection dans Mari]] pour faire soit une base rapide, soit si de bonnes maps sont utilisées (type texturing xyz), un texturing complet et détaillé
 
 
 On peut également utiliser des maps triplanar et des tiles (*grunges, dirt, textures type marbre etc*) pour ajouter de la variété
 
 
 
-[[3_GARDEN/Notes permanentes/MARI - Procedural Skin Imperfection|MARI - Procedural Skin Imperfection]]
+[[3_GARDEN/Notes permanentes/MARI - Procedural Skin Imperfection\|MARI - Procedural Skin Imperfection]]
 
 
 ### Roughness
