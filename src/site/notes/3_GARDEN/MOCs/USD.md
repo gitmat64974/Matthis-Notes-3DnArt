@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/USD/","tags":["note_permanente","MOC"],"ctime":"2026-03-21T20:44:54.918+01:00","mtime":"2026-11-23T23:41:05.573+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/SOLARIS|Solaris]]"],"source":["[[3_GARDEN/Notes littéraires/Cours Houdini semaine 3]]"],"Projets":null,"tags":["note_permanente","MOC"],"creation date":"2026-10-26","aliases":null,"banner":"https://images.unsplash.com/photo-1580477667929-3ef27c684b7a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/USD/","tags":["note_permanente","MOC"],"ctime":"2026-03-21T20:44:54.918+01:00","mtime":"2026-11-24T00:06:17.079+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/SOLARIS|Solaris]]"],"source":["[[3_GARDEN/Notes littéraires/Cours Houdini semaine 3]]"],"Projets":null,"tags":["note_permanente","MOC"],"creation date":"2026-10-26","aliases":null,"banner":"https://images.unsplash.com/photo-1580477667929-3ef27c684b7a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"}}
 ---
 
 # Définition
@@ -54,7 +54,7 @@ Dans le cas de l'extension `.usd`, le format est enregistré en Binaire (« Crat
 [[3_GARDEN/Notes permanentes/Primitive USD\|Primitive USD]] : comment les éléments de l'usd sont classés et organisés
 [[3_GARDEN/MOCs/SOLARIS\|SOLARIS]] : L'espace où on gère tout ce qui est relatif à l'USD dans Houdini
 
-### Importation d'éléments dans Solaris
+#### Importation d'éléments dans Solaris
 
 [[3_GARDEN/Notes permanentes/Importation dans Solaris\|Importation dans Solaris]] 
 
@@ -63,7 +63,7 @@ Dans le cas de l'extension `.usd`, le format est enregistré en Binaire (« Crat
 - [[3_GARDEN/Notes permanentes/Component Builder\|Asset USD]]
 	- [[3_GARDEN/Notes permanentes/Créer des variants avec le component builder\|Créer des variants avec le component builder]]
 
-### USD set dress et layout
+#### USD set dress et layout
 
 [[3_GARDEN/Notes permanentes/Techniques pour répartir un asset avec des variants dans un set - Solaris\|Techniques pour répartir un asset avec des variants dans un set - Solaris]]
 
@@ -71,16 +71,8 @@ Dans le cas de l'extension `.usd`, le format est enregistré en Binaire (« Crat
 
 Règles de sélections : [[3_GARDEN/Notes permanentes/Collections & Règles de Sélection en USD\|Collections & Règles de Sélection en USD]]
 
-# Appropriation et réflexions 
 
-#### Réflexions
-
-
-#### Essais
-
-
-
-
+---
 
 # Ressources
 

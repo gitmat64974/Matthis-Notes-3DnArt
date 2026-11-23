@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/ANALYSE FILMIQUE/","tags":["MOC"],"ctime":"2026-03-21T20:44:14.160+01:00","mtime":"2026-04-06T00:00:45.000+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/Notes permanentes/CINEMA]]"],"tags":["MOC"],"source":["[[3_GARDEN/Notes littéraires/1er et 2e cours analyse filmique esma 3d2]]","https://cafedesimages.fr/education-a-limage/lyceens-au-cinema/analyse-filmique-cours/"],"creation date":"2024-09-30"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/ANALYSE FILMIQUE/","tags":["MOC"],"ctime":"2026-03-21T20:44:14.160+01:00","mtime":"2026-11-24T00:03:06.064+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/Notes permanentes/CINEMA]]"],"tags":["MOC"],"source":["[[3_GARDEN/Notes littéraires/1er et 2e cours analyse filmique esma 3d2]]","https://cafedesimages.fr/education-a-limage/lyceens-au-cinema/analyse-filmique-cours/"],"creation date":"2024-09-30"}}
 ---
 
 ---
 # Définition
 
-![external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fapprendre-le-cinema.fr%2Fwp-content%2Fuploads%2F2016%2F09%2Fvocabulaire-analyse-filmique.001.jpeg&f=1&nofb=1&ipt=334893b675ca43a813a6b5aa29cd662d989421534a6d4afd683b1bb9cedf4d54](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fapprendre-le-cinema.fr%2Fwp-content%2Fuploads%2F2016%2F09%2Fvocabulaire-analyse-filmique.001.jpeg&f=1&nofb=1&ipt=334893b675ca43a813a6b5aa29cd662d989421534a6d4afd683b1bb9cedf4d54)
 
 L’analyse filmique traite une œuvre de l’esprit c’est à dire un produit artificiel imaginé par des humains et destiné à d’autres humains.
 Elle a pour objet la lecture argumentée d’un [[3_GARDEN/Notes permanentes/Film\|Film]], se fondant notamment sur l’examen précis des moyens expressifs du cinéma. 

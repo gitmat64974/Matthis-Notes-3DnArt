@@ -162,7 +162,7 @@ Dans le cas de l'extension `.usd`, le format est enregistré en Binaire (« Crat
 [[3_GARDEN/Notes permanentes/Primitive USD\|Primitive USD]] : comment les éléments de l'usd sont classés et organisés
 [[3_GARDEN/MOCs/SOLARIS\|SOLARIS]] : L'espace où on gère tout ce qui est relatif à l'USD dans Houdini
 
-### Importation d'éléments dans Solaris
+#### Importation d'éléments dans Solaris
 
 [[3_GARDEN/Notes permanentes/Importation dans Solaris\|Importation dans Solaris]] 
 
@@ -171,7 +171,7 @@ Dans le cas de l'extension `.usd`, le format est enregistré en Binaire (« Crat
 - [[3_GARDEN/Notes permanentes/Component Builder\|Asset USD]]
 	- [[3_GARDEN/Notes permanentes/Créer des variants avec le component builder\|Créer des variants avec le component builder]]
 
-### USD set dress et layout
+#### USD set dress et layout
 
 [[3_GARDEN/Notes permanentes/Techniques pour répartir un asset avec des variants dans un set - Solaris\|Techniques pour répartir un asset avec des variants dans un set - Solaris]]
 
@@ -179,16 +179,8 @@ Dans le cas de l'extension `.usd`, le format est enregistré en Binaire (« Crat
 
 Règles de sélections : [[3_GARDEN/Notes permanentes/Collections & Règles de Sélection en USD\|Collections & Règles de Sélection en USD]]
 
-# Appropriation et réflexions 
 
-#### Réflexions
-
-
-#### Essais
-
-
-
-
+---
 
 # Ressources
 
