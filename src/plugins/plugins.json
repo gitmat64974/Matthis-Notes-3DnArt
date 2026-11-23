@@ -12,7 +12,8 @@
         "src/plugins/image-lightbox/garden-plugin.json",
         "src/plugins/image-lightbox/styles/lightbox.scss",
         "src/plugins/image-lightbox/templates/lightbox.njk"
-      ]
+      ],
+      "order": 30
     },
     "heading-folding": {
       "repo": "koltensaccount/garden-plugin-heading-folding",
@@ -32,7 +33,8 @@
         "src/plugins/heading-folding/scripts/check.cjs",
         "src/plugins/heading-folding/styles/heading-folding.css",
         "src/plugins/heading-folding/tests/browser.test.cjs"
-      ]
+      ],
+      "order": 10
     },
     "banners": {
       "repo": "oleeskild/garden-plugin-banners",
@@ -54,7 +56,8 @@
         "height": 220,
         "fade": true,
         "applyToHome": true
-      }
+      },
+      "order": 20
     }
   }
 }
