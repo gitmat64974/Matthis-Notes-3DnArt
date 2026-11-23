@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/HOUDINI/","tags":["MOC"],"dg-note-properties":{"tags":["MOC"],"MOC":["[[3D]]","[[MODELISATION]]","[[ART]]"],"Source":null,"creation date":"2025-02-02"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/HOUDINI/","tags":["MOC"],"ctime":"2026-05-02T23:07:41.691+02:00","mtime":"2026-11-11T11:29:35.519+01:00","dg-note-properties":{"tags":["MOC"],"MOC":["[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/MODELISATION]]","[[3_GARDEN/MOCs/ART]]"],"Source":null,"creation date":"2025-02-02"}}
 ---
 
 ![](https://cdn.biunivoca.com/production/images/posts/01KTXGFZS72BHS3BX0JGK4HS7P.jpeg?)
@@ -66,7 +66,7 @@ Quelques vidéos utiles :
 > 
 > Ces fameuses données dans Houdini ce sont les attributs
 
-utile : *[[3_GARDEN/Notes permanentes/Raccourcis Houdini les plus utiles|Raccourcis Houdini les plus utiles]]*
+utile : *[[3_GARDEN/Notes permanentes/Raccourcis Houdini les plus utiles\|Raccourcis Houdini les plus utiles]]*
 
 
 > [!tip]+ Variables d'environnement Houdini
@@ -75,119 +75,131 @@ utile : *[[3_GARDEN/Notes permanentes/Raccourcis Houdini les plus utiles|Raccour
 > - **$HIP** : Le dossier où se trouve le fichier Houdini actuel
 > - **$JOB** : Un Dossier défini spécifiquement. C'est généralement le dossier général de production (*Par exemple le dossier de prod du film FFE*)
 > 
-> Ces deux variables permettent de venir référencer dynamiquement tout type de fichier sans avoir à rentrer manuellement el chemin absolu à chaque fois
+> Ces deux variables permettent de venir référencer dynamiquement tout type de fichier sans avoir à rentrer manuellement le chemin absolu à chaque fois
 
 
 
 #### Attributs
 
-[[3_GARDEN/Notes permanentes/Attributs Houdini|Attributs Houdini]]
-- [[3_GARDEN/Notes permanentes/Attribut Curveu|Attribut Curveu]]
+[[3_GARDEN/Notes permanentes/Attributs Houdini\|Attributs Houdini]]
+- [[3_GARDEN/Notes permanentes/Attribut Curveu\|Attribut Curveu]]
 
 
 
 ---
+
+## Modélisation manuelle
+
+[[3_GARDEN/Notes permanentes/Interactive modeling - Houdini\|Interactive modeling - Houdini]]
+
 ## Modélisation procédurale 
 
-[[3_GARDEN/Notes permanentes/Différence point et vertex|Différence point et vertex]]
+[[3_GARDEN/Notes permanentes/Différence point et vertex\|Différence point et vertex]]
 
 
-[[3_GARDEN/Notes permanentes/Boolean Houdini|Boolean Houdini]]
-[[3_GARDEN/Notes permanentes/Récupérer les hard edges dans Houdini|Récupérer les hard edges dans Houdini]]
+[[3_GARDEN/Notes permanentes/Boolean Houdini\|Boolean Houdini]]
+[[3_GARDEN/Notes permanentes/Récupérer les hard edges dans Houdini\|Récupérer les hard edges dans Houdini]]
 
-[[3_GARDEN/Notes permanentes/Node Sort|Node Sort]]
-[[3_GARDEN/Notes permanentes/Up Vector Houdini|Up Vector Houdini]]
+[[3_GARDEN/Notes permanentes/Node Sort\|Node Sort]]
+[[3_GARDEN/Notes permanentes/Up Vector Houdini\|Up Vector Houdini]]
 
-[[3_GARDEN/Notes permanentes/Node group Houdini|Node group Houdini]]
-[[3_GARDEN/Notes permanentes/HDA|HDA]]
+[[3_GARDEN/Notes permanentes/Node group Houdini\|Node group Houdini]]
+[[3_GARDEN/Notes permanentes/HDA\|HDA]]
+
+[[3_GARDEN/Notes permanentes/Distance from geometry Houdini\|Distance from geometry Houdini]]
+
+[[3_GARDEN/Notes permanentes/Lattice - Houdini\|Lattice - Houdini]]
+#### UVs
+
+[[3_GARDEN/Notes permanentes/UV - Houdini\|UV - Houdini]]
 
 #### Applicatifs 
 
-[[3_GARDEN/Notes permanentes/Mode corde procedurale Houdini|Mode corde procedurale Houdini]]
-[[3_GARDEN/Notes permanentes/Mode chaine procedurale Houdini|Mode chaine procedurale Houdini]] 
-[[3_GARDEN/Notes permanentes/Procedural plants and flowers Houdini|Procedural plants and flowers Houdini]]
-[[3_GARDEN/Notes permanentes/Mode procedurale escaliers Houdini|Mode procedurale escaliers Houdini]]
+[[3_GARDEN/Notes permanentes/Mode corde procedurale Houdini\|Mode corde procedurale Houdini]]
+[[3_GARDEN/Notes permanentes/Mode chaine procedurale Houdini\|Mode chaine procedurale Houdini]] 
+[[3_GARDEN/Notes permanentes/Procedural plants and flowers Houdini\|Procedural plants and flowers Houdini]]
+[[3_GARDEN/Notes permanentes/Mode procedurale escaliers Houdini\|Mode procedurale escaliers Houdini]]
 
 
 #### Végétation
 
-[[3_GARDEN/Notes permanentes/Ivy generator Houdini|Ivy generator Houdini]]
+[[3_GARDEN/Notes permanentes/Ivy generator Houdini\|Ivy generator Houdini]]
 
 ---
 
 ## Dynamiques et simulations
 
-[[3_GARDEN/Notes permanentes/Solver|Solver]]
-[[3_GARDEN/Notes permanentes/DOP Houdini|DOP Houdini]]
-- [[3_GARDEN/Notes permanentes/POP Network|POP Network]]
+[[3_GARDEN/Notes permanentes/Solver\|Solver]]
+[[3_GARDEN/Notes permanentes/DOP Houdini\|DOP Houdini]]
+- [[3_GARDEN/Notes permanentes/POP Network\|POP Network]]
 
-[[3_GARDEN/Notes permanentes/Structure projets Houdini pour grosses simus|Structure projets Houdini pour grosses simus]]
+[[3_GARDEN/Notes permanentes/Structure projets Houdini pour grosses simus\|Structure projets Houdini pour grosses simus]]
 
 ### Pyro Simulations
 
-[[3_GARDEN/MOCs/FIRE SIMULATIONS HOUDINI|FIRE SIMULATIONS HOUDINI]]
-- [[3_GARDEN/Notes permanentes/Pyro Simulation Houdini|Pyro Simulation Houdini]]
+[[3_GARDEN/MOCs/FIRE SIMULATIONS HOUDINI\|FIRE SIMULATIONS HOUDINI]]
+- [[3_GARDEN/Notes permanentes/Pyro Simulation Houdini\|Pyro Simulation Houdini]]
 
 ### Rigid body simulations (RBD)
 
-[[3_GARDEN/Notes permanentes/RBD Simulation Houdini|RBD Simulation Houdini]]
-- [[3_GARDEN/Notes permanentes/RBD, Régler les comportements des éléments|RBD, Régler les comportements des éléments]]
-	- [[3_GARDEN/Notes permanentes/RBD configure|RBD configure]]
-- [[3_GARDEN/Notes permanentes/RBD Cluster|RBD Cluster]]
-- [[3_GARDEN/Notes permanentes/RBD Bullet Solver|RBD Bullet Solver]]
-- [[3_GARDEN/Notes permanentes/Explosion en RBD|Explosion en RBD]]
+[[3_GARDEN/Notes permanentes/RBD Simulation Houdini\|RBD Simulation Houdini]]
+- [[3_GARDEN/Notes permanentes/RBD, Régler les comportements des éléments\|RBD, Régler les comportements des éléments]]
+	- [[3_GARDEN/Notes permanentes/RBD configure\|RBD configure]]
+- [[3_GARDEN/Notes permanentes/RBD Cluster\|RBD Cluster]]
+- [[3_GARDEN/Notes permanentes/RBD Bullet Solver\|RBD Bullet Solver]]
+- [[3_GARDEN/Notes permanentes/Explosion en RBD\|Explosion en RBD]]
 
-[[3_GARDEN/Notes permanentes/Preventing jitter RBD Houdini|Preventing jitter RBD Houdini]]
+[[3_GARDEN/Notes permanentes/Preventing jitter RBD Houdini\|Preventing jitter RBD Houdini]]
 
 ### Flip simulations
 
-[[3_GARDEN/MOCs/FLUID SIMULATIONS HOUDINI|FLUID SIMULATIONS HOUDINI]]
-- [[3_GARDEN/Notes permanentes/SOP flip simulation|SOP flip simulation]]
-- [[3_GARDEN/Notes permanentes/DOP flip simulation|DOP flip simulation]]
-- [[3_GARDEN/Notes permanentes/Rain dans houdini|Rain dans houdini]]
+[[3_GARDEN/MOCs/FLUID SIMULATIONS HOUDINI\|FLUID SIMULATIONS HOUDINI]]
+- [[3_GARDEN/Notes permanentes/SOP flip simulation\|SOP flip simulation]]
+- [[3_GARDEN/Notes permanentes/DOP flip simulation\|DOP flip simulation]]
+- [[3_GARDEN/Notes permanentes/Rain dans houdini\|Rain dans houdini]]
 
 ### Muscle simulations
 
-[[3_GARDEN/Notes permanentes/Houdini muscle simulation|Houdini muscle simulation]]
+[[3_GARDEN/Notes permanentes/Houdini muscle simulation\|Houdini muscle simulation]]
 
 ### MPM Simulations
 
-[[3_GARDEN/Notes permanentes/MPM Solver|MPM Solver]] 
+[[3_GARDEN/Notes permanentes/MPM Solver\|MPM Solver]] 
 
 ---
 
 ## Grooming
 
-Tout est ici : [[3_GARDEN/MOCs/GROOM|GROOM]]
+Tout est ici : [[3_GARDEN/MOCs/GROOM\|GROOM]]
 
 ---
 ## Environnements
 
-[[3_GARDEN/Notes permanentes/Houdini Heighfields|Houdini Heighfields]]
-- [[3_GARDEN/Notes permanentes/Terrain texturing|Terrain texturing]]
-[[3_GARDEN/Notes permanentes/Houdini labs biome scattering|Houdini labs biome scattering]]
+[[3_GARDEN/Notes permanentes/Houdini Heighfields\|Houdini Heighfields]]
+- [[3_GARDEN/Notes permanentes/Terrain texturing\|Terrain texturing]]
+[[3_GARDEN/Notes permanentes/Houdini labs biome scattering\|Houdini labs biome scattering]]
 
-[[3_GARDEN/Notes permanentes/Houdini tree generation|Houdini tree generation]]
+[[3_GARDEN/Notes permanentes/Houdini tree generation\|Houdini tree generation]]
 
-[[3_GARDEN/Notes permanentes/Procedural environnement asset|Procedural environnement asset]]
+[[3_GARDEN/Notes permanentes/Procedural environnement asset\|Procedural environnement asset]]
 
-Scatterring : [[3_GARDEN/Notes permanentes/Scattering Houdini|Scattering Houdini]]
+Scatterring : [[3_GARDEN/Notes permanentes/Scattering Houdini\|Scattering Houdini]]
 
-[[3_GARDEN/Notes permanentes/Physical placement Solaris|Physical placement Solaris]]
+[[3_GARDEN/Notes permanentes/Physical placement Solaris\|Physical placement Solaris]]
 
 ## Rigging
 
-[[3_GARDEN/MOCs/RIG HOUDINI|RIG HOUDINI]]
-- [[3_GARDEN/Notes permanentes/APEX Autorig builder|APEX Autorig builder]]
-- [[3_GARDEN/Notes permanentes/Skinning KineFX|Skinning KineFX]]
+[[3_GARDEN/MOCs/RIG HOUDINI\|RIG HOUDINI]]
+- [[3_GARDEN/Notes permanentes/APEX Autorig builder\|APEX Autorig builder]]
+- [[3_GARDEN/Notes permanentes/Skinning KineFX\|Skinning KineFX]]
 
 
-[[3_GARDEN/Notes permanentes/KineFX x Simulations|KineFX x Simulations]]
+[[3_GARDEN/Notes permanentes/KineFX x Simulations\|KineFX x Simulations]]
 
 ## Crowd (foules)
 
-[[3_GARDEN/Notes permanentes/Crowd|Crowd]]
-[[3_GARDEN/Notes permanentes/Crowd Houdini|Crowd Houdini]]
+[[3_GARDEN/Notes permanentes/Crowd\|Crowd]]
+[[3_GARDEN/Notes permanentes/Crowd Houdini\|Crowd Houdini]]
 
 
 
@@ -195,35 +207,39 @@ Scatterring : [[3_GARDEN/Notes permanentes/Scattering Houdini|Scattering Houdini
 
 ## Rendering dans Solaris
 
+Solaris c'est tout le système de rendu d'Houdini basé sur l'USD
+Pour y accéder, le plus simple est d'aller dans le context stage
 
 #### L'USD
 
--> [[3_GARDEN/Notes permanentes/USD|USD]]
+-> [[3_GARDEN/MOCs/USD\|USD]]
 
-- [[3_GARDEN/Notes permanentes/Créer un asset USD dans Houdini|Créer un asset USD dans Houdini]]
+- [[3_GARDEN/Notes permanentes/Créer un asset USD dans Houdini\|Créer un asset USD dans Houdini]]
 
 #### Set dressing
 
-- [[3_GARDEN/Notes permanentes/Construction d’un Set dans Houdini|Construction d’un Set dans Houdini]]
-- [[3_GARDEN/Notes permanentes/Layout Node Solaris|Layout Node Solaris]]
+- [[3_GARDEN/Notes permanentes/Construction d’un Set dans Houdini\|Construction d’un Set dans Houdini]]
+- [[3_GARDEN/Notes permanentes/Layout Node Solaris\|Layout Node Solaris]]
 
 #### Shading
 
-[[3_GARDEN/Notes permanentes/Auto assign materials Solaris|Auto assign materials Solaris]]
+[[3_GARDEN/Notes permanentes/Auto assign materials Solaris\|Auto assign materials Solaris]]
 
 #### Généralités
 
-[[3_GARDEN/Notes permanentes/Houdini rendering with TOPs|Houdini rendering with TOPs]]
+[[3_GARDEN/Notes permanentes/Kernel\|Kernel]]
 
-[[3_GARDEN/Notes permanentes/USD Render ROP Node|USD Render ROP Node]]
+[[3_GARDEN/Notes permanentes/TOPs Rendering - Solaris\|TOPs Rendering - Solaris]]
 
-[[3_GARDEN/Notes permanentes/ACES Dans Houdini|ACES Dans Houdini]]
+[[3_GARDEN/Notes permanentes/USD Render ROP Node\|USD Render ROP Node]]
 
-[[3_GARDEN/Notes permanentes/Light Filters Solaris|Light Filters Solaris]] 
+[[3_GARDEN/Notes permanentes/ACES Dans Houdini\|ACES Dans Houdini]]
 
-[[3_GARDEN/Notes permanentes/Render threads optimization Karma|Render threads optimization Karma]]
+[[3_GARDEN/Notes permanentes/Light Filters Solaris\|Light Filters Solaris]] 
 
-[[3_GARDEN/Notes permanentes/Export camera Houdini|Export camera Houdini]]
+[[3_GARDEN/Notes permanentes/Render threads optimization Karma\|Render threads optimization Karma]]
+
+[[3_GARDEN/Notes permanentes/Export camera Houdini\|Export camera Houdini]]
 
 
 
@@ -231,18 +247,18 @@ Scatterring : [[3_GARDEN/Notes permanentes/Scattering Houdini|Scattering Houdini
 
 ## Code et expression
 
-[[3_GARDEN/Notes permanentes/VEX|VEX]]
-[[3_GARDEN/Notes permanentes/Hscript expressions Houdini|Hscript expressions Houdini]]
+[[3_GARDEN/Notes permanentes/VEX\|VEX]]
+[[3_GARDEN/Notes permanentes/Hscript expressions Houdini\|Hscript expressions Houdini]]
 
 ---
 
 ## Autres 
 
-- [[3_GARDEN/Notes permanentes/Flipbook Houdini|Flipbook Houdini]]
+- [[3_GARDEN/Notes permanentes/Flipbook Houdini\|Flipbook Houdini]]
 
-[[3_GARDEN/Notes permanentes/Ocean Houdini|Ocean Houdini]]
+[[3_GARDEN/Notes permanentes/Ocean Houdini\|Ocean Houdini]]
 
-[[3_GARDEN/Notes permanentes/Rain dans houdini|Rain dans houdini]]
+[[3_GARDEN/Notes permanentes/Rain dans houdini\|Rain dans houdini]]
 
 
 ---
