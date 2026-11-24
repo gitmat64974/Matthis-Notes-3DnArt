@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Optimiser ComfyUI/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:36.567+01:00","mtime":"2025-08-15T10:07:05.125+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/Notes permanentes/ComfyUI]]"],"source":["https://youtu.be/8p9myTygHD8?feature=shared"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-08-14","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Optimiser ComfyUI/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.191+01:00","mtime":"2025-08-15T10:07:05.125+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/Notes permanentes/ComfyUI]]"],"source":["https://youtu.be/8p9myTygHD8?feature=shared"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-08-14","aliases":null}}
 ---
 
 ## La note 

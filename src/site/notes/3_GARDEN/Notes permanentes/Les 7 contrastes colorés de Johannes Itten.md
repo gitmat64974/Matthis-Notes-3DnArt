@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Les 7 contrastes colorés de Johannes Itten/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:47.449+01:00","mtime":"2026-04-24T17:43:18.817+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ILLUSTRATION]]","[[3_GARDEN/MOCs/COMPOSITING]]","[[3_GARDEN/MOCs/COMPOSITION PICTURALE]]","[[3_GARDEN/MOCs/COULEUR]]"],"source":["[[1er cours d'illustration esma 3d1a]] / [[Cours de sémiologie ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2023-10-03","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Les 7 contrastes colorés de Johannes Itten/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.815+01:00","mtime":"2026-04-24T17:43:18.817+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ILLUSTRATION]]","[[3_GARDEN/MOCs/COMPOSITING]]","[[3_GARDEN/MOCs/COMPOSITION PICTURALE]]","[[3_GARDEN/MOCs/COULEUR]]"],"source":["[[1er cours d'illustration esma 3d1a]] / [[Cours de sémiologie ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2023-10-03","aliases":null}}
 ---
 
 

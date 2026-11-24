@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Méthode IPCRA/","tags":["note_permanente"],"ctime":"2026-04-04T12:24:04.940+02:00","mtime":"2026-06-04T15:18:39.937+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/IA]]","[[3_GARDEN/MOCs/GESTION DE CONNAISSANCE PERSONNELLES]]"],"source":["[[3_GARDEN/Notes littéraires/Bootcamp IA gratuit perspectives, série de vidéos]]"],"Projets":null,"tags":["note_permanente"],"creation date":202604041129,"aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Méthode IPCRA/","tags":["note_permanente"],"ctime":"2026-04-04T11:29:43.923+02:00","mtime":"2026-06-04T15:18:39.937+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/IA]]","[[3_GARDEN/MOCs/GESTION DE CONNAISSANCE PERSONNELLES]]"],"source":["[[3_GARDEN/Notes littéraires/Bootcamp IA gratuit perspectives, série de vidéos]]"],"Projets":null,"tags":["note_permanente"],"creation date":202604041129,"aliases":null}}
 ---
 
 ## La note 

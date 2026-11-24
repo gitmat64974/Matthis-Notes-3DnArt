@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Le triangle sémiotique/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:31.589+01:00","mtime":"2026-09-22T16:43:49.627+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SEMIOLOGIE]]"],"source":["[[3_GARDEN/Notes littéraires/2e cours de sémiologie esma 3d1a]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2023-10-03","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Le triangle sémiotique/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.792+01:00","mtime":"2026-09-22T16:43:49.627+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SEMIOLOGIE]]"],"source":["[[3_GARDEN/Notes littéraires/2e cours de sémiologie esma 3d1a]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2023-10-03","aliases":null}}
 ---
 
 

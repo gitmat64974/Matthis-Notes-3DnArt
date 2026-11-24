@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Outlines avec Renderman et Nuke/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:53.773+01:00","mtime":"2026-04-24T17:43:18.896+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/LIGHTING]]","[[3_GARDEN/MOCs/SHADING TEXTURING]]"],"source":["#cours [[Cours de lighting rendu ESMA]], cours remplacement Gael Bourdeu"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-04-28","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Outlines avec Renderman et Nuke/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.215+01:00","mtime":"2026-04-24T17:43:18.896+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/LIGHTING]]","[[3_GARDEN/MOCs/SHADING TEXTURING]]"],"source":["#cours [[Cours de lighting rendu ESMA]], cours remplacement Gael Bourdeu"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-04-28","aliases":null}}
 ---
 
 

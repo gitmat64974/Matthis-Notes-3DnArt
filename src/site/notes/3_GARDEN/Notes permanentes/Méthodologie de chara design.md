@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Méthodologie de chara design/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:51.930+01:00","mtime":"2026-04-24T17:43:18.870+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ILLUSTRATION]]","[[3_GARDEN/MOCs/CHARA DESIGN]]"],"source":["[[3_GARDEN/Notes littéraires/2e cours d'illustration esma 3d1a]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2023-10-06","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Méthodologie de chara design/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.075+01:00","mtime":"2026-04-24T17:43:18.870+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ILLUSTRATION]]","[[3_GARDEN/MOCs/CHARA DESIGN]]"],"source":["[[3_GARDEN/Notes littéraires/2e cours d'illustration esma 3d1a]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2023-10-06","aliases":null}}
 ---
 
 

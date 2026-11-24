@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Passages entre les différentes parties d’une composition/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:31.360+01:00","mtime":"2026-04-24T17:43:18.899+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITION PICTURALE]]"],"source":["[[3_GARDEN/Notes littéraires/L'art de la composition et du cadrage]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-12-07","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Passages entre les différentes parties d’une composition/","tags":["note_permanente"],"ctime":"2026-04-06T00:00:39.000+02:00","mtime":"2026-04-24T17:43:18.899+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITION PICTURALE]]"],"source":["[[3_GARDEN/Notes littéraires/L'art de la composition et du cadrage]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-12-07","aliases":null}}
 ---
 
 

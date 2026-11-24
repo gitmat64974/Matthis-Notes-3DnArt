@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Objectif dramatique/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:40.114+01:00","mtime":"2026-04-24T17:43:18.885+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/9e cours scénario, protagoniste, objectif]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-03-11","aliases":["Question dramatique"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Objectif dramatique/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.154+01:00","mtime":"2026-04-24T17:43:18.885+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/9e cours scénario, protagoniste, objectif]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-03-11","aliases":["Question dramatique"]}}
 ---
 
 

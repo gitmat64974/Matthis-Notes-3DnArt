@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Modélisation utilisable en production/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:22.253+01:00","mtime":"2026-04-24T17:43:18.857+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/LIGHTING]]","[[3_GARDEN/MOCs/RIG]]","[[3_GARDEN/MOCs/SHADING TEXTURING]]","[[3_GARDEN/MOCs/MODELISATION]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2024-10-06","aliases":["Clean de modé"],"Source":["[[3_GARDEN/Notes littéraires/Cours de modélisation ESMA]]","[[3_GARDEN/Notes littéraires/1er Cours de rig 3d2]]"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Modélisation utilisable en production/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.021+01:00","mtime":"2026-04-24T17:43:18.857+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/LIGHTING]]","[[3_GARDEN/MOCs/RIG]]","[[3_GARDEN/MOCs/SHADING TEXTURING]]","[[3_GARDEN/MOCs/MODELISATION]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2024-10-06","aliases":["Clean de modé"],"Source":["[[3_GARDEN/Notes littéraires/Cours de modélisation ESMA]]","[[3_GARDEN/Notes littéraires/1er Cours de rig 3d2]]"]}}
 ---
 
 

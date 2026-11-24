@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Matte painting/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:43.860+01:00","mtime":"2026-04-24T17:43:18.849+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/AFFINITY]]"],"source":["[[3_GARDEN/Notes littéraires/Playlist 17, cours Affinity Esma 3d1a]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-02-28","aliases":["DMP","Digital matte painting"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Matte painting/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.978+01:00","mtime":"2026-04-24T17:43:18.849+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/AFFINITY]]"],"source":["[[3_GARDEN/Notes littéraires/Playlist 17, cours Affinity Esma 3d1a]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-02-28","aliases":["DMP","Digital matte painting"]}}
 ---
 
 

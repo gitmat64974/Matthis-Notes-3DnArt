@@ -175,6 +175,7 @@ Les données plus profondes contenues dans l'USD : [[3_GARDEN/Notes permanentes/
 
 #### USD set dress et layout
 
+Une notion extrêmement importante : [[3_GARDEN/Notes permanentes/USD Layers\|USD Layers]]
 [[3_GARDEN/Notes permanentes/Techniques pour répartir un asset avec des variants dans un set - Solaris\|Techniques pour répartir un asset avec des variants dans un set - Solaris]]
 
 #### Annexes

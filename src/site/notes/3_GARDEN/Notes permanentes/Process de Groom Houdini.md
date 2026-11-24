@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Process de Groom Houdini/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:35.687+01:00","mtime":"2026-09-26T20:26:22.175+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/GROOM]]","[[3_GARDEN/MOCs/CFX]]"],"source":["[[3_GARDEN/Notes littéraires/7e Cours CFX]]"],"Projets":null,"tags":["note_permanente"],"creation date":202512121733,"aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Process de Groom Houdini/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.411+01:00","mtime":"2026-09-26T20:26:22.175+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/GROOM]]","[[3_GARDEN/MOCs/CFX]]"],"source":["[[3_GARDEN/Notes littéraires/7e Cours CFX]]"],"Projets":null,"tags":["note_permanente"],"creation date":202512121733,"aliases":null}}
 ---
 
 ## La note 

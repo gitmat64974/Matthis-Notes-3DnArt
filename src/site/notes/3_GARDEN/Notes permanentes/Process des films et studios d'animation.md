@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Process des films et studios d'animation/","tags":["note_permanente","plante"],"ctime":"2026-10-12T21:31:02.092+02:00","mtime":"2026-10-12T22:02:20.016+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/Notes permanentes/Pipeline de production en animation]]"],"source":null,"Projets":null,"tags":["note_permanente","plante"],"creation date":"2026-10-12","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Process des films et studios d'animation/","tags":["note_permanente","plante"],"ctime":"2026-10-13T07:43:39.539+02:00","mtime":"2026-10-12T22:02:20.016+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/Notes permanentes/Pipeline de production en animation]]"],"source":null,"Projets":null,"tags":["note_permanente","plante"],"creation date":"2026-10-12","aliases":null}}
 ---
 
 ## La note 

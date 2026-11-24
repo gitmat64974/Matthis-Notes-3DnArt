@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Langage des formes/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:37.764+01:00","mtime":"2026-04-24T17:43:18.795+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ILLUSTRATION]]","[[3_GARDEN/MOCs/COMPOSITION PICTURALE]]"],"source":["[[1er cours d'illustration esma 3d1a]] / [[L'art de la composition et du cadrage]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2023-10-03","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Langage des formes/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.708+01:00","mtime":"2026-04-24T17:43:18.795+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ILLUSTRATION]]","[[3_GARDEN/MOCs/COMPOSITION PICTURALE]]"],"source":["[[1er cours d'illustration esma 3d1a]] / [[L'art de la composition et du cadrage]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2023-10-03","aliases":null}}
 ---
 
 

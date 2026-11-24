@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/RBD Simulation Houdini/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:25.486+01:00","mtime":"2026-10-11T22:25:17.364+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["Houdini doc"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-23","aliases":["Simulation RBD Houdini","Simulation destruction Houdini"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/RBD Simulation Houdini/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.532+01:00","mtime":"2026-10-11T22:25:17.364+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["Houdini doc"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-23","aliases":["Simulation RBD Houdini","Simulation destruction Houdini"]}}
 ---
 
 ## La note 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Paréidolie/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:46.625+01:00","mtime":"2026-04-24T17:43:18.899+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SEMIOLOGIE]]"],"source":["#cours [[8e cours de sémiologie esma 3d1a (perception de l'image)]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2023-12-10","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Paréidolie/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.230+01:00","mtime":"2026-04-24T17:43:18.899+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SEMIOLOGIE]]"],"source":["#cours [[8e cours de sémiologie esma 3d1a (perception de l'image)]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2023-12-10","aliases":null}}
 ---
 
 

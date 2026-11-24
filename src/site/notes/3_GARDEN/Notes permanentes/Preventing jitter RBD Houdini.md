@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Preventing jitter RBD Houdini/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:36.887+01:00","mtime":"2026-10-20T14:42:50.925+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2025-12-07","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Preventing jitter RBD Houdini/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.364+01:00","mtime":"2026-10-20T14:42:50.925+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2025-12-07","aliases":null}}
 ---
 
 ## La note 

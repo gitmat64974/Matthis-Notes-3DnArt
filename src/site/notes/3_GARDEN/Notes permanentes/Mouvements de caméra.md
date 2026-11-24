@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Mouvements de caméra/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:19.960+01:00","mtime":"2026-04-24T17:43:18.861+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/STORYBOARD]]","[[3_GARDEN/Notes permanentes/CINEMA]]"],"source":["[[Les techniques du storyboard ou scénarimage]] / [[1er et 2e cours analyse filmique esma 3d2]] / [[Cours compositing Rebuild Shot (insecte 3D2)]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-08-28","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Mouvements de caméra/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.037+01:00","mtime":"2026-04-24T17:43:18.861+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/STORYBOARD]]","[[3_GARDEN/Notes permanentes/CINEMA]]"],"source":["[[Les techniques du storyboard ou scénarimage]] / [[1er et 2e cours analyse filmique esma 3d2]] / [[Cours compositing Rebuild Shot (insecte 3D2)]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-08-28","aliases":null}}
 ---
 
 

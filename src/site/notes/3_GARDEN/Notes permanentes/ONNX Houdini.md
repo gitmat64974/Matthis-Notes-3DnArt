@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/ONNX Houdini/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:27.590+01:00","mtime":"2026-02-06T22:24:27.536+01:00","dg-note-properties":{"MOC":null,"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-02-06","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/ONNX Houdini/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.182+01:00","mtime":"2026-02-06T22:24:27.536+01:00","dg-note-properties":{"MOC":null,"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-02-06","aliases":null}}
 ---
 
 ## La note 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Raconter une histoire à travers le chara design/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:20.568+01:00","mtime":"2026-04-24T17:43:18.947+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/CHARA DESIGN]]"],"source":["[[3_GARDEN/Notes littéraires/1er cours concept art Esma 3d2a]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-09-30","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Raconter une histoire à travers le chara design/","tags":["note_permanente"],"ctime":"2026-04-06T00:01:00.000+02:00","mtime":"2026-04-24T17:43:18.947+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/CHARA DESIGN]]"],"source":["[[3_GARDEN/Notes littéraires/1er cours concept art Esma 3d2a]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-09-30","aliases":null}}
 ---
 
 
