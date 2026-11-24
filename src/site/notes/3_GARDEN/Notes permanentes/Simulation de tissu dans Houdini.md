@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Simulation de tissu dans Houdini/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:34.184+01:00","mtime":"2026-02-17T19:47:53.654+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["[[3_GARDEN/Notes littéraires/1er cours CFX]]"],"Projets":null,"tags":["note_permanente"],"creation date":202511071718,"aliases":["Vellum Solver","Cloth simulation Houdini"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Simulation de tissu dans Houdini/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.695+01:00","mtime":"2026-02-17T19:47:53.654+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["[[3_GARDEN/Notes littéraires/1er cours CFX]]"],"Projets":null,"tags":["note_permanente"],"creation date":202511071718,"aliases":["Vellum Solver","Cloth simulation Houdini"]}}
 ---
 
 ## La note 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Requête HTTP/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:45.670+01:00","mtime":"2025-09-02T10:33:36.581+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/IA]]","[[3_GARDEN/MOCs/N8N]]"],"source":["Perplexity"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-08-13","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Requête HTTP/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.567+01:00","mtime":"2025-09-02T10:33:36.581+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/IA]]","[[3_GARDEN/MOCs/N8N]]"],"source":["Perplexity"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-08-13","aliases":null}}
 ---
 
 ## La note 

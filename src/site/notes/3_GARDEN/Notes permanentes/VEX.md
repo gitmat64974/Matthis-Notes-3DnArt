@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/VEX/","tags":["note_permanente","en_cours"],"ctime":"2026-03-21T20:44:26.967+01:00","mtime":"2026-11-15T00:33:08.661+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/INFORMATIQUE]]","[[3_GARDEN/MOCs/PROGRAMMATION INFORMATIQUE]]"],"source":["https://tokeru.com/cgwiki/JoyOfVex.html"],"Projets":null,"tags":["note_permanente","en_cours"],"creation date":"2025-12-11","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/VEX/","tags":["note_permanente","en_cours"],"ctime":"2026-03-22T12:15:23.953+01:00","mtime":"2026-11-15T00:33:08.661+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/INFORMATIQUE]]","[[3_GARDEN/MOCs/PROGRAMMATION INFORMATIQUE]]"],"source":["https://tokeru.com/cgwiki/JoyOfVex.html"],"Projets":null,"tags":["note_permanente","en_cours"],"creation date":"2025-12-11","aliases":null}}
 ---
 
 ## La note 

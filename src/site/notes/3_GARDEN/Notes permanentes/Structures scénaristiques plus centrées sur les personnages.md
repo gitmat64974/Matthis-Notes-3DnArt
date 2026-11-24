@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Structures scénaristiques plus centrées sur les personnages/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:25.003+01:00","mtime":"2026-04-24T17:43:18.992+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/12e cours de scénario esma 3D2, Structurer son récit]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-04-23","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Structures scénaristiques plus centrées sur les personnages/","tags":["note_permanente"],"ctime":"2026-04-06T00:00:33.000+02:00","mtime":"2026-04-24T17:43:18.992+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/12e cours de scénario esma 3D2, Structurer son récit]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-04-23","aliases":null}}
 ---
 
 

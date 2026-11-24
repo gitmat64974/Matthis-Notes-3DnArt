@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/UDIM's/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:53.957+01:00","mtime":"2026-04-24T17:43:19.020+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/UV]]"],"source":["#video [How To Master UDIM's Workflow with MAYA & SUBSTANCE PAINTER - YouTube](https://www.youtube.com/watch?v=c01S8gp0_yw) / [What are UDIMS? Full Tutorial and Workflow - YouTube](https://www.youtube.com/watch?v=-7_EIwMrRuM)"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-09-29","aliases":["Udim's workflow"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/UDIM's/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.908+01:00","mtime":"2026-04-24T17:43:19.020+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/UV]]"],"source":["#video [How To Master UDIM's Workflow with MAYA & SUBSTANCE PAINTER - YouTube](https://www.youtube.com/watch?v=c01S8gp0_yw) / [What are UDIMS? Full Tutorial and Workflow - YouTube](https://www.youtube.com/watch?v=-7_EIwMrRuM)"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-09-29","aliases":["Udim's workflow"]}}
 ---
 
 
