@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Fonctions du dialogue (dramaturgie)/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:36.836+01:00","mtime":"2026-04-24T17:43:18.706+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/18e cours scénario, les dialogues]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-04-24","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Fonctions du dialogue (dramaturgie)/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.217+01:00","mtime":"2026-04-24T17:43:18.706+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/18e cours scénario, les dialogues]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-04-24","aliases":null}}
 ---
 
 

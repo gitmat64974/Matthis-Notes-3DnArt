@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/GuideCurves (Groom)/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:47.727+01:00","mtime":"2026-04-24T17:43:18.718+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/GROOM]]","[[3_GARDEN/MOCs/3D|CG]]"],"source":["#cours [[Groom, cours lighting 3D2A]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-01-29","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/GuideCurves (Groom)/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.285+01:00","mtime":"2026-04-24T17:43:18.718+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/GROOM]]","[[3_GARDEN/MOCs/3D|CG]]"],"source":["#cours [[Groom, cours lighting 3D2A]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-01-29","aliases":null}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Formatage du scénario/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:33.588+01:00","mtime":"2026-04-24T17:43:18.707+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/16e cours de scénario, Le scénario]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-04-24","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Formatage du scénario/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.222+01:00","mtime":"2026-04-24T17:43:18.707+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/16e cours de scénario, Le scénario]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-04-24","aliases":null}}
 ---
 
 

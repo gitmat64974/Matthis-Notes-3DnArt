@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Hors champ/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:27.711+01:00","mtime":"2026-04-24T17:43:18.728+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SEMIOLOGIE]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":null,"aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Hors champ/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.346+01:00","mtime":"2026-04-24T17:43:18.728+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SEMIOLOGIE]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":null,"aliases":null}}
 ---
 
 

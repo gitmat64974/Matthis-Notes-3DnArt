@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Histoire de la sémiologie/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:19.627+01:00","mtime":"2026-09-22T16:42:40.904+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SEMIOLOGIE]]"],"source":["[[3_GARDEN/Notes littéraires/1er cours de sémiologie esma 3d1a]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2023-10-03","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Histoire de la sémiologie/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.325+01:00","mtime":"2026-09-22T16:42:40.904+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SEMIOLOGIE]]"],"source":["[[3_GARDEN/Notes littéraires/1er cours de sémiologie esma 3d1a]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2023-10-03","aliases":null}}
 ---
 
 

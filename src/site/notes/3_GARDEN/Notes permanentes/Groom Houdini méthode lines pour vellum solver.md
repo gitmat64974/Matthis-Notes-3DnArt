@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Groom Houdini méthode lines pour vellum solver/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:38.615+01:00","mtime":"2026-04-06T00:01:03.000+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/GROOM]]"],"source":["[[3_GARDEN/Notes littéraires/6e cours CFX]]","[[3_GARDEN/Notes littéraires/5e cours CFX]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-11-28","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Groom Houdini méthode lines pour vellum solver/","tags":["note_permanente"],"ctime":"2026-04-06T00:01:03.000+02:00","mtime":"2026-04-06T00:01:03.000+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/GROOM]]"],"source":["[[3_GARDEN/Notes littéraires/6e cours CFX]]","[[3_GARDEN/Notes littéraires/5e cours CFX]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-11-28","aliases":null}}
 ---
 
 ## La note 

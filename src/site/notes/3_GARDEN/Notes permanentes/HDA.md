@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/HDA/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:47.541+01:00","mtime":"2026-10-28T16:51:51.085+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["[[3_GARDEN/Notes littéraires/4e cours CFX]]"],"Projets":null,"tags":["note_permanente"],"creation date":202511071715,"aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/HDA/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.306+01:00","mtime":"2026-10-28T16:51:51.085+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["[[3_GARDEN/Notes littéraires/4e cours CFX]]"],"Projets":null,"tags":["note_permanente"],"creation date":202511071715,"aliases":null}}
 ---
 
 ## La note 

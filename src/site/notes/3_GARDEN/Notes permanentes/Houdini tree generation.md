@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Houdini tree generation/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:46.295+01:00","mtime":"2026-01-19T00:22:41.368+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/3D ENVIRONNEMENT ART]]"],"source":["[[3_GARDEN/Notes littéraires/Cours houdini ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-05","aliases":["Generation d'arbres dans houdini"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Houdini tree generation/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.354+01:00","mtime":"2026-01-19T00:22:41.368+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/3D ENVIRONNEMENT ART]]"],"source":["[[3_GARDEN/Notes littéraires/Cours houdini ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-05","aliases":["Generation d'arbres dans houdini"]}}
 ---
 
 ## La note 

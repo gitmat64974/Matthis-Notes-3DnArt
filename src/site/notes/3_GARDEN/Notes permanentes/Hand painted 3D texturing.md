@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Hand painted 3D texturing/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:24.071+01:00","mtime":"2026-10-03T11:14:03.678+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SHADING TEXTURING]]","[[3_GARDEN/MOCs/LIGHTING]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-31","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Hand painted 3D texturing/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.302+01:00","mtime":"2026-10-03T11:14:03.678+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SHADING TEXTURING]]","[[3_GARDEN/MOCs/LIGHTING]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-31","aliases":null}}
 ---
 
 ## La note 
