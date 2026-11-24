@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Séquence/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:35.838+01:00","mtime":"2026-04-24T17:43:19.000+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ANALYSE FILMIQUE]]"],"source":["[[3_GARDEN/Notes littéraires/1er et 2e cours analyse filmique esma 3d2]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-11-03","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Séquence/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.794+01:00","mtime":"2026-04-24T17:43:19.000+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ANALYSE FILMIQUE]]"],"source":["[[3_GARDEN/Notes littéraires/1er et 2e cours analyse filmique esma 3d2]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-11-03","aliases":null}}
 ---
 
 

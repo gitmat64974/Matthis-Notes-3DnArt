@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/USD Render ROP Node/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:42.167+01:00","mtime":"2026-01-25T22:30:35.411+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-25","aliases":["no UI feedback usd render ROP"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/USD Render ROP Node/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.914+01:00","mtime":"2026-01-25T22:30:35.411+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-25","aliases":["no UI feedback usd render ROP"]}}
 ---
 
 ## La note 

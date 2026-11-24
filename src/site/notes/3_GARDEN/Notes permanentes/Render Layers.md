@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Render Layers/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:22.356+01:00","mtime":"2026-11-05T23:07:31.618+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/LIGHTING]]","[[3_GARDEN/MOCs/LIGHTING]]","[[3_GARDEN/MOCs/COMPOSITING]]"],"source":["#cours [[Cours de lighting rendu ESMA]] -> [[Outlines avec Renderman et Nuke]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-04-28","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Render Layers/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.554+01:00","mtime":"2026-11-05T23:07:31.618+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/LIGHTING]]","[[3_GARDEN/MOCs/LIGHTING]]","[[3_GARDEN/MOCs/COMPOSITING]]"],"source":["#cours [[Cours de lighting rendu ESMA]] -> [[Outlines avec Renderman et Nuke]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-04-28","aliases":null}}
 ---
 
 

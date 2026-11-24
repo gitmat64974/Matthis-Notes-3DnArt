@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Vanilla walk/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:55.818+01:00","mtime":"2026-04-24T17:43:19.025+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ANIMATION]]"],"source":["[[3_GARDEN/Notes littéraires/Cours anim marche]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-08-19","aliases":["Animer une marche","cycle de marche"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Vanilla walk/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.936+01:00","mtime":"2026-04-24T17:43:19.025+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ANIMATION]]"],"source":["[[3_GARDEN/Notes littéraires/Cours anim marche]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-08-19","aliases":["Animer une marche","cycle de marche"]}}
 ---
 
 

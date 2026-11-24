@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Skin texturing MARI/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:56.262+01:00","mtime":"2026-05-26T11:02:29.133+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/MARI]]","[[3_GARDEN/MOCs/SHADING TEXTURING]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2025-10-24","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Skin texturing MARI/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.699+01:00","mtime":"2026-05-26T11:02:29.133+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/MARI]]","[[3_GARDEN/MOCs/SHADING TEXTURING]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2025-10-24","aliases":null}}
 ---
 
 ## La note 

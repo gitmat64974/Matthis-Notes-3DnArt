@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Traitement thématique d'une histoire/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:35.356+01:00","mtime":"2026-05-08T12:38:42.221+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/6e cours scénario esma 3d2a]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-12-05","aliases":["Question thématique","ligne thématique"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Traitement thématique d'une histoire/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.884+01:00","mtime":"2026-05-08T12:38:42.221+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/6e cours scénario esma 3d2a]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-12-05","aliases":["Question thématique","ligne thématique"]}}
 ---
 
 

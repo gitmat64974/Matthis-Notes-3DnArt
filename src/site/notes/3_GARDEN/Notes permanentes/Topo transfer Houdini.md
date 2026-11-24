@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Topo transfer Houdini/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:26.356+01:00","mtime":"2026-01-10T13:11:18.885+01:00","dg-note-properties":{"MOC":null,"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-10","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Topo transfer Houdini/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.869+01:00","mtime":"2026-01-10T13:11:18.885+01:00","dg-note-properties":{"MOC":null,"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-10","aliases":null}}
 ---
 
 ## La note 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Shading Groom/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:44.845+01:00","mtime":"2026-06-01T12:03:18.780+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/GROOM]]"],"source":["#cours [[Cours de lighting rendu ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-03-05","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Shading Groom/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.676+01:00","mtime":"2026-06-01T12:03:18.780+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/GROOM]]"],"source":["#cours [[Cours de lighting rendu ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-03-05","aliases":null}}
 ---
 
 

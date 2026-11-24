@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Signes iconiques/","tags":["note_permanente","graine"],"ctime":"2026-03-21T20:44:34.848+01:00","mtime":"2026-09-22T16:48:16.733+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SEMIOLOGIE]]"],"source":["#cours [[2e cours de sémiologie esma 3d1a]]"],"Projets":null,"tags":["note_permanente","graine"],"creation date":"2023-10-23","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Signes iconiques/","tags":["note_permanente","graine"],"ctime":"2026-03-22T12:15:23.688+01:00","mtime":"2026-09-22T16:48:16.733+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SEMIOLOGIE]]"],"source":["#cours [[2e cours de sémiologie esma 3d1a]]"],"Projets":null,"tags":["note_permanente","graine"],"creation date":"2023-10-23","aliases":null}}
 ---
 
 

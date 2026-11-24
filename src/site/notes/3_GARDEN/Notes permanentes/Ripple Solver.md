@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Ripple Solver/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:41.737+01:00","mtime":"2026-02-21T21:26:58.444+01:00","dg-note-properties":{"MOC":null,"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-02-21","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Ripple Solver/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.583+01:00","mtime":"2026-02-21T21:26:58.444+01:00","dg-note-properties":{"MOC":null,"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-02-21","aliases":null}}
 ---
 
 ## La note 

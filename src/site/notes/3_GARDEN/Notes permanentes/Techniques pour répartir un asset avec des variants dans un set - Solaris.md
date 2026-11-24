@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Techniques pour répartir un asset avec des variants dans un set - Solaris/","tags":["note_permanente"],"ctime":"2026-11-03T21:23:27.082+01:00","mtime":"2026-11-05T21:36:18.250+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/SOLARIS|Solaris]]","[[3_GARDEN/MOCs/USD]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-03","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Techniques pour répartir un asset avec des variants dans un set - Solaris/","tags":["note_permanente"],"ctime":"2026-11-03T23:49:25.935+01:00","mtime":"2026-11-05T21:36:18.250+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/SOLARIS|Solaris]]","[[3_GARDEN/MOCs/USD]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-03","aliases":null}}
 ---
 
 ## La note 

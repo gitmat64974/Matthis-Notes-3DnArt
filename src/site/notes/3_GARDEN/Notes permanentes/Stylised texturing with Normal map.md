@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Stylised texturing with Normal map/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:31.288+01:00","mtime":"2026-05-26T11:39:58.248+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/SHADING TEXTURING]]"],"source":["#video [Making 3D animation look painterly (it's easier than you think) - YouTube](https://youtu.be/s8N00rjil_4?si=zmUky4ErijvZ4FYJ)"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-02-07","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Stylised texturing with Normal map/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.762+01:00","mtime":"2026-05-26T11:39:58.248+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/SHADING TEXTURING]]"],"source":["#video [Making 3D animation look painterly (it's easier than you think) - YouTube](https://youtu.be/s8N00rjil_4?si=zmUky4ErijvZ4FYJ)"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-02-07","aliases":null}}
 ---
 
 

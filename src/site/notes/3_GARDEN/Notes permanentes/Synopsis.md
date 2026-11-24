@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Synopsis/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:30.123+01:00","mtime":"2025-12-11T22:04:40.838+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/Cours de scénario ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-10-13","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Synopsis/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.781+01:00","mtime":"2025-12-11T22:04:40.838+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/Cours de scénario ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-10-13","aliases":null}}
 ---
 
 
