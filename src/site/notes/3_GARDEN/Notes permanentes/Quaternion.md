@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Quaternion/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:21.737+01:00","mtime":"2026-04-04T12:57:57.479+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/MATHEMATIQUES]]","[[3_GARDEN/MOCs/3D]]"],"source":["Perplexity"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-10-13","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Quaternion/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.492+01:00","mtime":"2026-04-04T12:57:57.479+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/MATHEMATIQUES]]","[[3_GARDEN/MOCs/3D]]"],"source":["Perplexity"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-10-13","aliases":null}}
 ---
 
 ## La note 

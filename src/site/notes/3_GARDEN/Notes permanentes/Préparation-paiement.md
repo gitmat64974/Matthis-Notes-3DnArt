@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Préparation-paiement/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:43.620+01:00","mtime":"2026-05-13T23:21:09.840+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/19e cours scénario, L'exposition]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-04-27","aliases":["fusil de Tchekhov"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Préparation-paiement/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.448+01:00","mtime":"2026-05-13T23:21:09.840+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/19e cours scénario, L'exposition]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-04-27","aliases":["fusil de Tchekhov"]}}
 ---
 
 

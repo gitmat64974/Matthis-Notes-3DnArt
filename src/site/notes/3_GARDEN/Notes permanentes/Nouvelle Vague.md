@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Nouvelle Vague/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:24.054+01:00","mtime":"2026-04-24T17:43:18.884+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HISTOIRE DU CINEMA]]"],"source":["[[3_GARDEN/Notes littéraires/6e cours d'histoire du cinéma esma 3d1a]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2023-11-12","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Nouvelle Vague/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.148+01:00","mtime":"2026-04-24T17:43:18.884+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HISTOIRE DU CINEMA]]"],"source":["[[3_GARDEN/Notes littéraires/6e cours d'histoire du cinéma esma 3d1a]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2023-11-12","aliases":null}}
 ---
 
 

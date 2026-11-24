@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Node graph Nuke/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:27.748+01:00","mtime":"2026-04-24T17:43:18.879+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITING]]"],"source":["[[3_GARDEN/Notes littéraires/2e cours compositing esma 3d2a]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-05-12","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Node graph Nuke/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.120+01:00","mtime":"2026-04-24T17:43:18.879+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITING]]"],"source":["[[3_GARDEN/Notes littéraires/2e cours compositing esma 3d2a]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-05-12","aliases":null}}
 ---
 
 

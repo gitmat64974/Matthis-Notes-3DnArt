@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Oeil en CG/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:36.511+01:00","mtime":"2026-03-30T20:32:07.621+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SHADING TEXTURING]]","[[3_GARDEN/MOCs/LIGHTING]]"],"source":["[[3_GARDEN/Notes littéraires/2e cours lighting 3D4]]","https://www.artstation.com/blogs/hasenjager/ARXj/the-human-eye"],"Projets":["[[ESMA project skin texturing intro MARI]]"],"tags":["note_permanente"],"creation date":"2025-11-06","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Oeil en CG/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.166+01:00","mtime":"2026-03-30T20:32:07.621+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SHADING TEXTURING]]","[[3_GARDEN/MOCs/LIGHTING]]"],"source":["[[3_GARDEN/Notes littéraires/2e cours lighting 3D4]]","https://www.artstation.com/blogs/hasenjager/ARXj/the-human-eye"],"Projets":["[[ESMA project skin texturing intro MARI]]"],"tags":["note_permanente"],"creation date":"2025-11-06","aliases":null}}
 ---
 
 ## La note 

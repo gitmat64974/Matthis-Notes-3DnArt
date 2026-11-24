@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Quantisation/","tags":["note_permanente","plante"],"ctime":"2026-09-15T15:48:40.434+02:00","mtime":"2026-09-15T15:58:30.628+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/MATHEMATIQUES]]","[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/3D|CG]]"],"source":["joy of vex"],"Projets":null,"tags":["note_permanente","plante"],"creation date":"2026-09-15","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Quantisation/","tags":["note_permanente","plante"],"ctime":"2026-09-15T17:15:28.875+02:00","mtime":"2026-09-15T15:58:30.628+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/MATHEMATIQUES]]","[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/3D|CG]]"],"source":["joy of vex"],"Projets":null,"tags":["note_permanente","plante"],"creation date":"2026-09-15","aliases":null}}
 ---
 
 ## La note 

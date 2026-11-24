@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Position pass/","tags":["note_permanente"],"ctime":"2026-11-11T11:48:46.110+01:00","mtime":"2026-11-11T22:20:40.294+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITING]]"],"source":["https://youtu.be/n4YyanHkHEs"],"Projets":["[[1_PROJETS/FFE/02_PROD/RND/Recherches - Stylised rendering - FFE]]"],"tags":["note_permanente"],"creation date":"2026-11-11","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Position pass/","tags":["note_permanente"],"ctime":"2026-11-11T22:27:45.288+01:00","mtime":"2026-11-11T22:20:40.294+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITING]]"],"source":["https://youtu.be/n4YyanHkHEs"],"Projets":["[[1_PROJETS/FFE/02_PROD/RND/Recherches - Stylised rendering - FFE]]"],"tags":["note_permanente"],"creation date":"2026-11-11","aliases":null}}
 ---
 
 ## La note 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Process des UV/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:18.817+01:00","mtime":"2026-04-24T17:43:18.929+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/MODELISATION]]","[[3_GARDEN/MOCs/LIGHTING]]"],"source":["[[4e cours de lighting esma 3d1a]] / [[Cours lighting UV, esma 3d1a, Monsieur Rongeart]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2023-10-27","aliases":["De bons UVs"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Process des UV/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.413+01:00","mtime":"2026-04-24T17:43:18.929+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/MODELISATION]]","[[3_GARDEN/MOCs/LIGHTING]]"],"source":["[[4e cours de lighting esma 3d1a]] / [[Cours lighting UV, esma 3d1a, Monsieur Rongeart]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2023-10-27","aliases":["De bons UVs"]}}
 ---
 
 
