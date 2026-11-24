@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Cascadeur IA/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:55.929+01:00","mtime":"2025-10-04T14:17:07.779+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ANIMATION]]","[[3_GARDEN/MOCs/3D]]"],"source":["Chaine YT Cascadeur","Site cascadeur"],"Projets":["[[6_ARCHIVES/Projets/3D3/Edna and Maurice projet MIKE]]"],"tags":["note_permanente"],"creation date":"2025-09-29","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Cascadeur IA/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:21.744+01:00","mtime":"2025-10-04T14:17:07.779+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ANIMATION]]","[[3_GARDEN/MOCs/3D]]"],"source":["Chaine YT Cascadeur","Site cascadeur"],"Projets":["[[6_ARCHIVES/Projets/3D3/Edna and Maurice projet MIKE]]"],"tags":["note_permanente"],"creation date":"2025-09-29","aliases":null}}
 ---
 
 ---

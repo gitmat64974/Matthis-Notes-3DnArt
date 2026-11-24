@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Architecture de Claude Code/","tags":["note_permanente","architecture","claude_code","système"],"ctime":"2026-04-05T11:32:31.295+02:00","mtime":"2026-10-29T18:42:50.514+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/INFORMATIQUE]]"],"source":["Documentation officielle Claude Code","Analyse du répertoire ~/.claude/","Configuration personnelle de Matthis"],"Projets":null,"tags":["note_permanente","architecture","claude_code","système"],"creation date":20260404,"aliases":["Claude Code Architecture","Claude Code Internals","Claude Code Configuration","Claude Code System"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Architecture de Claude Code/","tags":["note_permanente","architecture","claude_code","système"],"ctime":"2026-04-04T23:14:25.918+02:00","mtime":"2026-10-29T18:42:50.514+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/INFORMATIQUE]]"],"source":["Documentation officielle Claude Code","Analyse du répertoire ~/.claude/","Configuration personnelle de Matthis"],"Projets":null,"tags":["note_permanente","architecture","claude_code","système"],"creation date":20260404,"aliases":["Claude Code Architecture","Claude Code Internals","Claude Code Configuration","Claude Code System"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Analyser les éléments de la narration/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:51.366+01:00","mtime":"2026-05-09T17:36:08.056+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ANALYSE FILMIQUE]]"],"source":["[[3_GARDEN/Notes littéraires/6e et 7e cours analyse filmique]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-12-07","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Analyser les éléments de la narration/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:21.537+01:00","mtime":"2026-05-09T17:36:08.056+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ANALYSE FILMIQUE]]"],"source":["[[3_GARDEN/Notes littéraires/6e et 7e cours analyse filmique]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-12-07","aliases":null}}
 ---
 
 

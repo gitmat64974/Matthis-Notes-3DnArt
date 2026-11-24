@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Code VEX pour créer une curve smooth à partir de 2 points/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:39.530+01:00","mtime":"2026-04-06T00:00:37.000+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/MODELISATION]]"],"source":["Prof FX","Perplexity"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-03-10","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Code VEX pour créer une curve smooth à partir de 2 points/","tags":["note_permanente"],"ctime":"2026-04-06T00:00:37.000+02:00","mtime":"2026-04-06T00:00:37.000+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/MODELISATION]]"],"source":["Prof FX","Perplexity"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-03-10","aliases":null}}
 ---
 
 

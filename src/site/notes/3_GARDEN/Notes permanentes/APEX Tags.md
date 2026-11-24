@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/APEX Tags/","tags":["note_permanente"],"ctime":"2026-09-29T18:30:52.087+02:00","mtime":"2026-10-24T14:21:51.858+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/RIG HOUDINI]]","[[3_GARDEN/MOCs/RIG]]"],"source":["[[3_GARDEN/Notes littéraires/RIG & ANIMATE A STYLIZED CRAB - Houdini learning course - APEX]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-09-29","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/APEX Tags/","tags":["note_permanente"],"ctime":"2026-09-29T16:20:14.392+02:00","mtime":"2026-10-24T14:21:51.858+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/RIG HOUDINI]]","[[3_GARDEN/MOCs/RIG]]"],"source":["[[3_GARDEN/Notes littéraires/RIG & ANIMATE A STYLIZED CRAB - Houdini learning course - APEX]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-09-29","aliases":null}}
 ---
 
 ## La note 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/AOVs Utilitaires/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:32.096+01:00","mtime":"2026-03-30T20:32:03.908+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITING]]","[[3_GARDEN/MOCs/LIGHTING]]"],"source":["[[3_GARDEN/Notes littéraires/8e, 10e cours compositing]]"],"Projets":null,"tags":["note_permanente"],"creation date":202510070007,"aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/AOVs Utilitaires/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:21.576+01:00","mtime":"2026-03-30T20:32:03.908+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITING]]","[[3_GARDEN/MOCs/LIGHTING]]"],"source":["[[3_GARDEN/Notes littéraires/8e, 10e cours compositing]]"],"Projets":null,"tags":["note_permanente"],"creation date":202510070007,"aliases":null}}
 ---
 
 ## La note 

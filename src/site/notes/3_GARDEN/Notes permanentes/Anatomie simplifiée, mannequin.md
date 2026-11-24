@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Anatomie simplifiée, mannequin/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:52.215+01:00","mtime":"2026-04-24T17:43:18.601+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ANATOMIE ARTISTIQUE]]","[[3_GARDEN/MOCs/DESSIN]]"],"source":["[[3_GARDEN/Notes littéraires/Proko, figure drawings fundamentals]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-10-02","aliases":["Robot bean"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Anatomie simplifiée, mannequin/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:21.549+01:00","mtime":"2026-04-24T17:43:18.601+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ANATOMIE ARTISTIQUE]]","[[3_GARDEN/MOCs/DESSIN]]"],"source":["[[3_GARDEN/Notes littéraires/Proko, figure drawings fundamentals]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-10-02","aliases":["Robot bean"]}}
 ---
 
 
