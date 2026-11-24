@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/SOLARIS/","tags":["note_permanente","MOC"],"ctime":"2026-03-21T20:44:32.867+01:00","mtime":"2026-11-23T23:41:00.397+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["Houdini learning"],"Projets":null,"tags":["note_permanente","MOC"],"creation date":"2026-11-05","aliases":["Solaris"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/SOLARIS/","tags":["note_permanente","MOC"],"ctime":"2026-11-06T12:41:57.054+01:00","mtime":"2026-11-23T23:41:00.397+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["Houdini learning"],"Projets":null,"tags":["note_permanente","MOC"],"creation date":"2026-11-05","aliases":["Solaris"]}}
 ---
 
 # Définition

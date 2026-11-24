@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/HISTOIRE DU CINEMA/","tags":["MOC"],"ctime":"2026-05-02T16:25:52.834+02:00","mtime":"2026-07-31T10:56:38.515+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/Notes permanentes/CINEMA]]","[[3_GARDEN/MOCs/HISTOIRE]]"],"tags":["MOC"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/HISTOIRE DU CINEMA/","tags":["MOC"],"ctime":"2026-04-25T23:16:42.358+02:00","mtime":"2026-07-31T10:56:38.515+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/Notes permanentes/CINEMA]]","[[3_GARDEN/MOCs/HISTOIRE]]"],"tags":["MOC"]}}
 ---
 
 ---

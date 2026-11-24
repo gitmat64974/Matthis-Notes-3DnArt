@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/Arts-théorie - Note littéraire Raindrop/","tags":["note_litteraire","en_cours"],"ctime":"2026-11-15T21:46:48.750+01:00","mtime":"2026-11-15T21:47:28.462+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HISTOIRE DE L'ART]]","[[3_GARDEN/MOCs/ART]]","[[3_GARDEN/MOCs/CINEMA D'ANIMATION]]","[[3_GARDEN/MOCs/CREATIVITE]]"],"source":["Raindrop — collection « Arts-théorie » (23 bookmarks, save du 14/04/2023 au 10/11/2023)"],"Projets":null,"tags":["note_litteraire","en_cours"],"creation date":"2026-11-15"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/Arts-théorie - Note littéraire Raindrop/","tags":["note_litteraire","en_cours"],"ctime":"2026-11-16T09:27:17.642+01:00","mtime":"2026-11-15T21:47:28.462+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HISTOIRE DE L'ART]]","[[3_GARDEN/MOCs/ART]]","[[3_GARDEN/MOCs/CINEMA D'ANIMATION]]","[[3_GARDEN/MOCs/CREATIVITE]]"],"source":["Raindrop — collection « Arts-théorie » (23 bookmarks, save du 14/04/2023 au 10/11/2023)"],"Projets":null,"tags":["note_litteraire","en_cours"],"creation date":"2026-11-15"}}
 ---
 
 

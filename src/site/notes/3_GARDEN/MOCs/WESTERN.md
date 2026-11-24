@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/WESTERN/","tags":["MOC"],"ctime":"2026-03-21T20:44:11.437+01:00","mtime":"2026-04-06T00:01:09.000+02:00","dg-note-properties":{"aliases":["Western"],"tags":["MOC"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/WESTERN/","tags":["MOC"],"ctime":"2026-04-25T23:16:42.575+02:00","mtime":"2026-04-06T00:01:09.000+02:00","dg-note-properties":{"aliases":["Western"],"tags":["MOC"]}}
 ---
 
 # Définition

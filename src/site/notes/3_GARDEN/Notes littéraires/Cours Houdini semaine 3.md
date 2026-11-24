@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/Cours Houdini semaine 3/","tags":["note_litteraire","cours"],"ctime":"2026-03-21T20:44:16.016+01:00","mtime":"2026-11-23T23:29:06.281+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["[[3_GARDEN/Notes littéraires/Cours houdini ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2025-10-06","cssclasses":["clean-embeds"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/Cours Houdini semaine 3/","tags":["note_litteraire","cours"],"ctime":"2026-03-22T12:15:21.190+01:00","mtime":"2026-11-23T23:29:06.281+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["[[3_GARDEN/Notes littéraires/Cours houdini ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2025-10-06","cssclasses":["clean-embeds"]}}
 ---
 
 
@@ -165,7 +165,9 @@ Dans le cas de l'extension `.usd`, le format est enregistré en Binaire (« Crat
 #### Importation d'éléments dans Solaris
 
 [[3_GARDEN/Notes permanentes/Importation dans Solaris\|Importation dans Solaris]] 
+- [[3_GARDEN/Notes permanentes/Geometry subset\|Geometry subset]]
 
+Les données plus profondes contenues dans l'USD : [[3_GARDEN/Notes permanentes/USD Schemas and Primvars\|USD Schemas and Primvars]]
 #### USD Asset Creation
 
 - [[3_GARDEN/Notes permanentes/Component Builder\|Asset USD]]
@@ -178,7 +180,9 @@ Dans le cas de l'extension `.usd`, le format est enregistré en Binaire (« Crat
 #### Annexes
 
 Règles de sélections : [[3_GARDEN/Notes permanentes/Collections & Règles de Sélection en USD\|Collections & Règles de Sélection en USD]]
+Node Solaris pour gérer le stage entier : [[3_GARDEN/Notes permanentes/Stage Manager LOP\|Stage Manager LOP]]
 
+Importer dans SOP des éléments du LOP : [[3_GARDEN/Notes permanentes/LOPs to SOPs\|LOPs to SOPs]] 
 
 ---
 

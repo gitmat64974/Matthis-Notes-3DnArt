@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/COMPOSITION PICTURALE/","tags":["MOC"],"ctime":"2026-03-21T20:44:11.742+01:00","mtime":"2026-11-13T01:12:39.856+01:00","dg-note-properties":{"tags":["MOC"],"MOC":["[[3_GARDEN/MOCs/ART]]","[[3_GARDEN/Notes permanentes/CINEMA]]"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/COMPOSITION PICTURALE/","tags":["MOC"],"ctime":"2026-03-22T12:15:20.735+01:00","mtime":"2026-11-13T01:12:39.856+01:00","dg-note-properties":{"tags":["MOC"],"MOC":["[[3_GARDEN/MOCs/ART]]","[[3_GARDEN/Notes permanentes/CINEMA]]"]}}
 ---
 
 
@@ -91,7 +91,7 @@ Et plus compliqué le [[3_GARDEN/Notes permanentes/Rythme d'une composition pict
 [[3_GARDEN/Notes permanentes/L’équilibre des masses (composition picturale)\|L’équilibre des masses (composition picturale)]]
 A noter que les couleurs et les valeurs sont dans une image des formes 2D, des masses, et qu'elles font donc parti de la composition : [[3_GARDEN/Notes permanentes/Couleur en composition picturale\|Couleur en composition picturale]]. Voir donc et prendre en compte la [[3_GARDEN/MOCs/COULEUR\|3_GARDEN/MOCs/COULEUR]] et le [[3_GARDEN/MOCs/LIGHTING\|3_GARDEN/MOCs/LIGHTING]] dans la composition 
 
-Le contrôle des transitions entre ces masses de valeurs : [[3_GARDEN/Notes permanentes/Travail des edges en peinture\|Travail des edges en peinture]] (dur → attirer l'œil · doux → ombres, surfaces qui tournent, fonds · perdu → formes qui se fondent).
+Le contrôle des transitions entre ces masses de valeurs : [[3_GARDEN/Notes permanentes/travail des edges en peinture\|Travail des edges en peinture]] (dur → attirer l'œil · doux → ombres, surfaces qui tournent, fonds · perdu → formes qui se fondent).
 
 [[3_GARDEN/Notes permanentes/Poids visuel de l'image\|Poids visuel de l'image]]
 

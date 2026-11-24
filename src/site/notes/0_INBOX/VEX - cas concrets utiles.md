@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0_INBOX/VEX - cas concrets utiles/","ctime":"2026-09-14T17:13:47.578+02:00","mtime":"2026-09-30T22:08:59.005+02:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/0_INBOX/VEX - cas concrets utiles/","ctime":"2026-09-15T00:06:24.116+02:00","mtime":"2026-09-30T22:08:59.005+02:00","dg-note-properties":{}}
 ---
 
 

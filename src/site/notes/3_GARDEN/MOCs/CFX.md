@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/CFX/","tags":["MOC"],"ctime":"2026-05-02T16:25:58.628+02:00","mtime":"2026-04-25T08:47:36.848+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/3D]]"],"source":["[[3_GARDEN/Notes littéraires/Cours CFX ESMA]]"],"Projets":null,"tags":["MOC"],"creation date":"2025-11-21","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/CFX/","tags":["MOC"],"ctime":"2026-04-25T23:16:41.796+02:00","mtime":"2026-04-25T08:47:36.848+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/3D]]"],"source":["[[3_GARDEN/Notes littéraires/Cours CFX ESMA]]"],"Projets":null,"tags":["MOC"],"creation date":"2025-11-21","aliases":null}}
 ---
 
 ---

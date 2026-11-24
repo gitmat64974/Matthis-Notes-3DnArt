@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/INDE/","tags":["MOC"],"ctime":"2026-04-11T11:51:27.386+02:00","mtime":"2026-04-29T00:40:34.178+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HISTOIRE]]","[[3_GARDEN/MOCs/ART]]"],"source":null,"Projets":null,"tags":["MOC"],"creation date":"2025-11-29","aliases":null,"banner":"India"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/INDE/","tags":["MOC"],"ctime":"2026-04-29T00:40:34.177+02:00","mtime":"2026-04-29T00:40:34.178+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HISTOIRE]]","[[3_GARDEN/MOCs/ART]]"],"source":null,"Projets":null,"tags":["MOC"],"creation date":"2025-11-29","aliases":null,"banner":"India"}}
 ---
 
 # Définition

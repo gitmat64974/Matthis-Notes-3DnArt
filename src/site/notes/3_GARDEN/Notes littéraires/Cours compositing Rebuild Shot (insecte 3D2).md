@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/Cours compositing Rebuild Shot (insecte 3D2)/","tags":["note_litteraire"],"ctime":"2026-03-21T20:44:16.888+01:00","mtime":"2026-04-24T17:43:19.073+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/COMPOSITING]]"],"source":["#cours [[Cours de compositing ESMA]]"],"Projets":null,"tags":["note_litteraire"],"creation date":"2025-04-30"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/Cours compositing Rebuild Shot (insecte 3D2)/","tags":["note_litteraire"],"ctime":"2026-04-06T00:01:10.000+02:00","mtime":"2026-04-24T17:43:19.073+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/COMPOSITING]]"],"source":["#cours [[Cours de compositing ESMA]]"],"Projets":null,"tags":["note_litteraire"],"creation date":"2025-04-30"}}
 ---
 
 

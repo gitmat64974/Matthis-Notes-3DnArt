@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/Marketing - Note littéraire Raindrop/","tags":["note_litteraire","essence_video","en_cours"],"ctime":"2026-11-15T22:19:44.672+01:00","mtime":"2026-11-15T22:20:06.560+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/MARKETING]]"],"source":["Raindrop — collection « Marketing » (33 liens, save du 29/04/2026 au 10/11/2026)"],"Projets":null,"tags":["note_litteraire","essence_video","en_cours"],"creation date":"2026-11-15"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/Marketing - Note littéraire Raindrop/","tags":["note_litteraire","essence_video","en_cours"],"ctime":"2026-11-16T09:27:17.602+01:00","mtime":"2026-11-15T22:20:06.560+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/MARKETING]]"],"source":["Raindrop — collection « Marketing » (33 liens, save du 29/04/2026 au 10/11/2026)"],"Projets":null,"tags":["note_litteraire","essence_video","en_cours"],"creation date":"2026-11-15"}}
 ---
 
 

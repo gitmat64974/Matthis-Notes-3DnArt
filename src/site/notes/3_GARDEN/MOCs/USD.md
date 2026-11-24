@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/USD/","tags":["note_permanente","MOC"],"ctime":"2026-03-21T20:44:54.918+01:00","mtime":"2026-11-24T00:06:17.079+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/SOLARIS|Solaris]]"],"source":["[[3_GARDEN/Notes littéraires/Cours Houdini semaine 3]]"],"Projets":null,"tags":["note_permanente","MOC"],"creation date":"2026-10-26","aliases":null,"banner":"https://images.unsplash.com/photo-1580477667929-3ef27c684b7a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/USD/","tags":["note_permanente","MOC"],"ctime":"2026-11-03T23:49:26.111+01:00","mtime":"2026-11-24T15:03:55.295+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/SOLARIS|Solaris]]"],"source":["[[3_GARDEN/Notes littéraires/Cours Houdini semaine 3]]"],"Projets":null,"tags":["note_permanente","MOC"],"creation date":"2026-10-26","aliases":null,"banner":"https://images.unsplash.com/photo-1580477667929-3ef27c684b7a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"}}
 ---
 
 # Définition
@@ -57,7 +57,9 @@ Dans le cas de l'extension `.usd`, le format est enregistré en Binaire (« Crat
 #### Importation d'éléments dans Solaris
 
 [[3_GARDEN/Notes permanentes/Importation dans Solaris\|Importation dans Solaris]] 
+- [[3_GARDEN/Notes permanentes/Geometry subset\|Geometry subset]]
 
+Les données plus profondes contenues dans l'USD : [[3_GARDEN/Notes permanentes/USD Schemas and Primvars\|USD Schemas and Primvars]]
 #### USD Asset Creation
 
 - [[3_GARDEN/Notes permanentes/Component Builder\|Asset USD]]
@@ -70,7 +72,9 @@ Dans le cas de l'extension `.usd`, le format est enregistré en Binaire (« Crat
 #### Annexes
 
 Règles de sélections : [[3_GARDEN/Notes permanentes/Collections & Règles de Sélection en USD\|Collections & Règles de Sélection en USD]]
+Node Solaris pour gérer le stage entier : [[3_GARDEN/Notes permanentes/Stage Manager LOP\|Stage Manager LOP]]
 
+Importer dans SOP des éléments du LOP : [[3_GARDEN/Notes permanentes/LOPs to SOPs\|LOPs to SOPs]] 
 
 ---
 

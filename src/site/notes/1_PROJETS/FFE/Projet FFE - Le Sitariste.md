@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1_PROJETS/FFE/Projet FFE - Le Sitariste/","tags":["projet"],"ctime":"2026-05-09T14:44:14.045+02:00","mtime":"2026-09-23T17:44:13.777+02:00","dg-note-properties":{"MOC":["[[1_PROJETS.base]]"],"tags":["projet"],"status":"En cours","weight":10,"type":null,"creation date":"2026-05-09","Startdate":null,"endDate":null,"tn_and_checkbox_tasks":0,"tn_and_checkbox_tasks_completed":0,"banner":"![[Pièces jointes/plan_final.png]]","décomposé ":true}}
+{"dg-publish":true,"permalink":"/1_PROJETS/FFE/Projet FFE - Le Sitariste/","tags":["projet"],"ctime":"2026-05-09T14:42:53.281+02:00","mtime":"2026-09-23T17:44:13.777+02:00","dg-note-properties":{"MOC":["[[1_PROJETS.base]]"],"tags":["projet"],"status":"En cours","weight":10,"type":null,"creation date":"2026-05-09","Startdate":null,"endDate":null,"tn_and_checkbox_tasks":0,"tn_and_checkbox_tasks_completed":0,"banner":"![[Pièces jointes/plan_final.png]]","décomposé ":true}}
 ---
 
 # Liens 
