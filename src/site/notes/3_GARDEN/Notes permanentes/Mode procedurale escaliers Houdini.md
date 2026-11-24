@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Mode procedurale escaliers Houdini/","tags":["note_permanente"],"ctime":"2026-08-26T15:22:58.242+02:00","mtime":"2026-08-26T16:20:04.461+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/PROCEDURAL MODELING]]"],"source":["moi","#video YT"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-08-26","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Mode procedurale escaliers Houdini/","tags":["note_permanente"],"ctime":"2026-08-27T19:08:59.868+02:00","mtime":"2026-08-26T16:20:04.461+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/PROCEDURAL MODELING]]"],"source":["moi","#video YT"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-08-26","aliases":null}}
 ---
 
 ## La note 

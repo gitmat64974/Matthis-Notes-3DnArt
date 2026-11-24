@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Muscles faciaux/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:21.411+01:00","mtime":"2026-04-24T17:43:18.863+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ANATOMIE ARTISTIQUE]]"],"source":["[[3_GARDEN/Notes littéraires/2e cours d'anatomie esma 3d2a, crane et tête]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-10-13","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Muscles faciaux/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.048+01:00","mtime":"2026-04-24T17:43:18.863+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ANATOMIE ARTISTIQUE]]"],"source":["[[3_GARDEN/Notes littéraires/2e cours d'anatomie esma 3d2a, crane et tête]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-10-13","aliases":null}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Motifs et répétitions/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:51.290+01:00","mtime":"2026-08-11T18:36:36.224+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITION PICTURALE]]"],"source":["[[3_GARDEN/Notes littéraires/Photographic composition, Part1 and2]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-01-30","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Motifs et répétitions/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.030+01:00","mtime":"2026-08-11T18:36:36.224+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITION PICTURALE]]"],"source":["[[3_GARDEN/Notes littéraires/Photographic composition, Part1 and2]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-01-30","aliases":null}}
 ---
 
 

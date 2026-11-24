@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Light Filters Solaris/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:30.103+01:00","mtime":"2026-11-06T08:30:08.777+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/LIGHTING]]","[[3_GARDEN/MOCs/SOLARIS]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-21","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Light Filters Solaris/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.871+01:00","mtime":"2026-11-06T08:30:08.777+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/LIGHTING]]","[[3_GARDEN/MOCs/SOLARIS]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-21","aliases":null}}
 ---
 
 ## La note 

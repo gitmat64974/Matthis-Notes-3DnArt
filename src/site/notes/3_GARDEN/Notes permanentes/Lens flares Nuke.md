@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Lens flares Nuke/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:49.120+01:00","mtime":"2026-04-24T17:43:18.813+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITING]]"],"source":["#video [This Unreal 5 + Nuke Workflow is Actually Insane - YouTube](https://youtu.be/hFM_jGd46as?si=UgaxkK6rWeXQcR4S)"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-02-16","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Lens flares Nuke/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.794+01:00","mtime":"2026-04-24T17:43:18.813+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITING]]"],"source":["#video [This Unreal 5 + Nuke Workflow is Actually Insane - YouTube](https://youtu.be/hFM_jGd46as?si=UgaxkK6rWeXQcR4S)"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-02-16","aliases":null}}
 ---
 
 

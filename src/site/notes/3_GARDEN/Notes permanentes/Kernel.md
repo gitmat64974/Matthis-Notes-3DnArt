@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Kernel/","tags":["note_permanente"],"ctime":"2026-11-11T11:29:49.769+01:00","mtime":"2026-11-11T11:29:35.498+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SOLARIS]]","[[3_GARDEN/MOCs/HOUDINI]]"],"source":["Recherche agent du 2026-11-11 — doc SideFX : [Karma XPU pre-compiling (H21)](https://www.sidefx.com/docs/houdini/solaris/support/karma_precompile.html)"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-11","aliases":["Karma XPU kernels","Precompile Karma XPU Render Kernels"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Kernel/","tags":["note_permanente"],"ctime":"2026-11-11T22:27:45.311+01:00","mtime":"2026-11-11T11:29:35.498+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SOLARIS]]","[[3_GARDEN/MOCs/HOUDINI]]"],"source":["Recherche agent du 2026-11-11 — doc SideFX : [Karma XPU pre-compiling (H21)](https://www.sidefx.com/docs/houdini/solaris/support/karma_precompile.html)"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-11","aliases":["Karma XPU kernels","Precompile Karma XPU Render Kernels"]}}
 ---
 
 
