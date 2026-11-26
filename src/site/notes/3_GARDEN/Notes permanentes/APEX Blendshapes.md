@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/APEX Blendshapes/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:21.687+01:00","mtime":"2026-09-29T19:17:45.722+02:00","dg-note-properties":{"MOC":null,"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-02-28","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/APEX Blendshapes/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:54.154+01:00","mtime":"2026-09-29T19:17:45.722+02:00","dg-note-properties":{"MOC":null,"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-02-28","aliases":null}}
 ---
 
 ## La note 

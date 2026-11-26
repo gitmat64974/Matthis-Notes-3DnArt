@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Collections & Règles de Sélection en USD/","tags":["note_permanente"],"ctime":"2026-11-24T08:32:51.173+01:00","mtime":"2026-11-23T23:20:45.407+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/USD]]"],"source":["[[3_GARDEN/Notes littéraires/USD - SideFX Course]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-23","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Collections & Règles de Sélection en USD/","tags":["note_permanente"],"ctime":"2026-11-23T23:12:52.315+01:00","mtime":"2026-11-23T23:20:45.407+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/USD]]"],"source":["[[3_GARDEN/Notes littéraires/USD - SideFX Course]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-23","aliases":null}}
 ---
 
 ## La note 

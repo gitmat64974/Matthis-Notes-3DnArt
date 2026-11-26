@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Compositing brush stylisation with Copernicus/","tags":["note_permanente"],"ctime":"2026-11-11T22:27:45.215+01:00","mtime":"2026-11-11T21:53:20.605+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/LIGHTING]]","[[3_GARDEN/MOCs/SOLARIS]]","[[3_GARDEN/Notes permanentes/Copernicus (Houdini)]]"],"source":null,"Projets":["[[1_PROJETS/FFE/02_PROD/RND/Recherches - Stylised rendering - FFE]]"],"tags":["note_permanente"],"creation date":"2026-01-22","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Compositing brush stylisation with Copernicus/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:53.714+01:00","mtime":"2026-11-11T21:53:20.605+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/LIGHTING]]","[[3_GARDEN/MOCs/SOLARIS]]","[[3_GARDEN/Notes permanentes/Copernicus (Houdini)]]"],"source":null,"Projets":["[[1_PROJETS/FFE/02_PROD/RND/Recherches - Stylised rendering - FFE]]"],"tags":["note_permanente"],"creation date":"2026-01-22","aliases":null}}
 ---
 
 ## La note 

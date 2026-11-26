@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Appliquer une simu Houdini sur un mesh High poly (avec épaisseur etc)/","tags":["note_permanente"],"ctime":"2026-04-06T00:00:21.000+02:00","mtime":"2026-04-06T00:00:21.000+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2025-11-28","aliases":["Node point deform pour Appliquer une simu Houdini sur un mesh High poly","Setup de simulation Houdini proxy to high poly","Workflow simu houdini sim mesh to final mesh","Process simulation de vêtement Houdini"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Appliquer une simu Houdini sur un mesh High poly (avec épaisseur etc)/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:26.621+01:00","mtime":"2026-04-06T00:00:21.000+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2025-11-28","aliases":["Node point deform pour Appliquer une simu Houdini sur un mesh High poly","Setup de simulation Houdini proxy to high poly","Workflow simu houdini sim mesh to final mesh","Process simulation de vêtement Houdini"]}}
 ---
 
 ## La note 

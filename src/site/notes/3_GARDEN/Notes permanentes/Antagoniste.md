@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Antagoniste/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:21.570+01:00","mtime":"2026-04-24T17:43:18.604+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/11e cours scénario, le personnage]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-03-11","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Antagoniste/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:48.805+01:00","mtime":"2026-04-24T17:43:18.604+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/11e cours scénario, le personnage]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-03-11","aliases":null}}
 ---
 
 

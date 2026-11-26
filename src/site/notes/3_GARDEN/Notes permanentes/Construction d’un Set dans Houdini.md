@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Construction d’un Set dans Houdini/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:21.870+01:00","mtime":"2025-10-13T22:35:30.853+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["[[3_GARDEN/Notes littéraires/Cours Houdini semaine 4]]"],"Projets":null,"tags":["note_permanente"],"creation date":202510132235,"aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Construction d’un Set dans Houdini/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:51.187+01:00","mtime":"2025-10-13T22:35:30.853+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["[[3_GARDEN/Notes littéraires/Cours Houdini semaine 4]]"],"Projets":null,"tags":["note_permanente"],"creation date":202510132235,"aliases":null}}
 ---
 
 ## La note 

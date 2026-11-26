@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Alfred Hitchcock/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:21.512+01:00","mtime":"2026-04-24T17:43:18.594+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ANALYSE FILMIQUE]]","[[3_GARDEN/Notes permanentes/CINEMA]]"],"source":["[[3_GARDEN/Notes littéraires/9-16e cours analyse filmique ESMA 3d2]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-05-18","aliases":["Hitchcock"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Alfred Hitchcock/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:53.481+01:00","mtime":"2026-04-24T17:43:18.594+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ANALYSE FILMIQUE]]","[[3_GARDEN/Notes permanentes/CINEMA]]"],"source":["[[3_GARDEN/Notes littéraires/9-16e cours analyse filmique ESMA 3d2]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-05-18","aliases":["Hitchcock"]}}
 ---
 
 

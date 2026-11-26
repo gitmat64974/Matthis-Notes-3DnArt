@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Bases d'utilisation de Maya/","tags":["note_permanente","plante"],"ctime":"2026-03-22T12:15:21.651+01:00","mtime":"2026-11-08T18:09:22.256+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/MODELISATION]]"],"source":["#cours [[Cours de modélisation ESMA]]"],"Projets":null,"tags":["note_permanente","plante"],"creation date":"2023-10-01","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Bases d'utilisation de Maya/","tags":["note_permanente","plante"],"ctime":"2026-03-21T20:44:27.490+01:00","mtime":"2026-11-08T18:09:22.256+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/MODELISATION]]"],"source":["#cours [[Cours de modélisation ESMA]]"],"Projets":null,"tags":["note_permanente","plante"],"creation date":"2023-10-01","aliases":null}}
 ---
 
 

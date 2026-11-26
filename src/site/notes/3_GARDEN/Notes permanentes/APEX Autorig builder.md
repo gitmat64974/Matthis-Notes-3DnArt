@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/APEX Autorig builder/","tags":["note_permanente"],"ctime":"2026-09-28T09:15:41.375+02:00","mtime":"2026-11-19T23:39:40.193+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["https://youtube.com/playlist?list=PLXNFA1EysfYlkJDYq1tukRbUW02AkQrkF&si=QgL8x2Z15G_z4i6_"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-11-28","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/APEX Autorig builder/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:41.959+01:00","mtime":"2026-11-19T23:39:40.193+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["https://youtube.com/playlist?list=PLXNFA1EysfYlkJDYq1tukRbUW02AkQrkF&si=QgL8x2Z15G_z4i6_"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-11-28","aliases":null}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Concept 2D vers modélisation 3D/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:21.848+01:00","mtime":"2026-04-24T17:43:18.646+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/CHARA DESIGN]]","[[3_GARDEN/MOCs/MODELISATION]]"],"source":["#cours [[Cours d'illustration ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-12-05","aliases":["Passage de la 2D à la 3D"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Concept 2D vers modélisation 3D/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:27.245+01:00","mtime":"2026-04-24T17:43:18.646+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/CHARA DESIGN]]","[[3_GARDEN/MOCs/MODELISATION]]"],"source":["#cours [[Cours d'illustration ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-12-05","aliases":["Passage de la 2D à la 3D"]}}
 ---
 
 

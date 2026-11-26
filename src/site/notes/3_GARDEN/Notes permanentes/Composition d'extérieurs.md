@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Composition d'extérieurs/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:21.846+01:00","mtime":"2026-02-03T17:45:57.199+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITION PICTURALE]]"],"source":["[[Media_DB/Books/Composition of Outdoor Painting]]"],"Projets":null,"tags":["note_permanente"],"creation date":202510062155,"aliases":["landscape composition","environnement composition"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Composition d'extérieurs/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:19.025+01:00","mtime":"2026-02-03T17:45:57.199+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITION PICTURALE]]"],"source":["[[Media_DB/Books/Composition of Outdoor Painting]]"],"Projets":null,"tags":["note_permanente"],"creation date":202510062155,"aliases":["landscape composition","environnement composition"]}}
 ---
 
 ## La note 

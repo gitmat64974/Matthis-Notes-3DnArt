@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Adjacency Copernicus/","tags":["note_permanente"],"ctime":"2026-09-22T09:47:09.057+02:00","mtime":"2026-09-21T23:20:03.148+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/Notes permanentes/Copernicus (Houdini)]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-09-21","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Adjacency Copernicus/","tags":["note_permanente"],"ctime":"2026-09-21T21:37:37.728+02:00","mtime":"2026-09-21T23:20:03.148+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/Notes permanentes/Copernicus (Houdini)]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-09-21","aliases":null}}
 ---
 
 ## La note 

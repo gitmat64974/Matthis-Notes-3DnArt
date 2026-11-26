@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Caricature/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:21.740+01:00","mtime":"2026-04-24T17:43:18.629+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SEMIOLOGIE]]","[[3_GARDEN/MOCs/ART]]","[[3_GARDEN/MOCs/CHARA DESIGN]]"],"source":["[[7e cours de sémiologie esma 3d1a (cours sur l’image)]] / [[Cours sur la caricature, concept art ESMA 3D2]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2023-12-10","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Caricature/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:21.107+01:00","mtime":"2026-04-24T17:43:18.629+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SEMIOLOGIE]]","[[3_GARDEN/MOCs/ART]]","[[3_GARDEN/MOCs/CHARA DESIGN]]"],"source":["[[7e cours de sémiologie esma 3d1a (cours sur l’image)]] / [[Cours sur la caricature, concept art ESMA 3D2]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2023-12-10","aliases":null}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Component Builder/","tags":["note_permanente"],"ctime":"2026-11-03T23:49:26.107+01:00","mtime":"2026-11-25T23:23:27.494+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/SOLARIS|Solaris]]","[[3_GARDEN/MOCs/USD]]"],"source":["[[3_GARDEN/Notes littéraires/Cours Houdini semaine 3]]","[[3_GARDEN/Notes littéraires/USD - SideFX Course]]"],"Projets":null,"tags":["note_permanente"],"creation date":202510132311,"aliases":["Asset USD"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Component Builder/","tags":["note_permanente"],"ctime":"2026-11-03T20:08:01.964+01:00","mtime":"2026-11-26T21:54:08.610+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/SOLARIS|Solaris]]","[[3_GARDEN/MOCs/USD]]"],"source":["[[3_GARDEN/Notes littéraires/Cours Houdini semaine 3]]","[[3_GARDEN/Notes littéraires/USD - SideFX Course]]"],"Projets":null,"tags":["note_permanente"],"creation date":202510132311,"aliases":["Asset USD"]}}
 ---
 
 ## La note 
@@ -24,8 +24,6 @@ La hiérarchie des fichiers exportés par le component builder :
 - **Internal SOP** : Entrer à l'intérieur pour setup la geo de render, et si on veut la geo proxy et la geo simproxy. ->*Le mode préférable*. Voir -> [[3_GARDEN/Notes permanentes/Setup une géo pour l'USD avec Solaris\|Setup une géo pour l'USD avec Solaris]]
 - **File** : fichier référencé
 - **External SOP** : chemin dans un SOPNet externe
-
-La géo va être nommée en fonction du nom qu'on donne au node 
 
 On va donc avoir la possibilité de setup 3 "versions" de la géo en mode internal SOP (*le plus simple est d'entrer à l'intérieur du node*) : 
 - **default / render** (*Obligatoire*) : Geo de rendu

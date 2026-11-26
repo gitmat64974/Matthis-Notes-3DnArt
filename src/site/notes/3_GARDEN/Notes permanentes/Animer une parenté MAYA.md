@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Animer une parenté MAYA/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:21.569+01:00","mtime":"2026-04-24T17:43:18.604+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ANIMATION]]","[[3_GARDEN/MOCs/3D|CG]]"],"source":["#cours [[Cours d'animation ESMA]] / Pdf Hugo"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-02-02","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Animer une parenté MAYA/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:35.174+01:00","mtime":"2026-04-24T17:43:18.604+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ANIMATION]]","[[3_GARDEN/MOCs/3D|CG]]"],"source":["#cours [[Cours d'animation ESMA]] / Pdf Hugo"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-02-02","aliases":null}}
 ---
 
 

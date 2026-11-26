@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Contraintes (3D)/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:21.874+01:00","mtime":"2026-04-24T17:43:18.650+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ANIMATION]]","[[3_GARDEN/MOCs/MODELISATION]]"],"source":["[[19e cours d'animation esma 3d1a]] / [[Notes de cours de rigging d'élèves au dessus, traité par ChatGPT]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-09-08","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Contraintes (3D)/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:27.069+01:00","mtime":"2026-04-24T17:43:18.650+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ANIMATION]]","[[3_GARDEN/MOCs/MODELISATION]]"],"source":["[[19e cours d'animation esma 3d1a]] / [[Notes de cours de rigging d'élèves au dessus, traité par ChatGPT]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-09-08","aliases":null}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Boolean Houdini/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:21.695+01:00","mtime":"2026-01-23T09:08:59.346+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["[[3_GARDEN/Notes littéraires/Cours Houdini semaine 14]]"],"Projets":null,"tags":["note_permanente"],"creation date":202601230907,"aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Boolean Houdini/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:53.424+01:00","mtime":"2026-11-26T11:33:32.605+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["[[3_GARDEN/Notes littéraires/Cours Houdini semaine 14]]"],"Projets":null,"tags":["note_permanente"],"creation date":202601230907,"aliases":null}}
 ---
 
 ## La note 
@@ -19,6 +19,10 @@ On peut utiliser un foreach pour traiter chaque primitive séparément
 ##### Node connectivity : 
 
 Il vient créer un attribut class de type entier qui prendra des valeurs (0,1,2 etc) pour chaque geometrie connectée
+
+
+*A noter qu'on peut faire des booleans en mode seam pour extraire uniquement une curve de l'intersection des géométries*
+
 
 ---
 

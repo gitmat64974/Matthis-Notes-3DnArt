@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Cloth simulation maya/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:21.799+01:00","mtime":"2026-04-24T17:43:18.638+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/MODELISATION]]"],"source":["#cours [[Cours de modélisation ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-08-19","aliases":["nCloth"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Cloth simulation maya/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:45.441+01:00","mtime":"2026-04-24T17:43:18.638+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/MODELISATION]]"],"source":["#cours [[Cours de modélisation ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-08-19","aliases":["nCloth"]}}
 ---
 
 

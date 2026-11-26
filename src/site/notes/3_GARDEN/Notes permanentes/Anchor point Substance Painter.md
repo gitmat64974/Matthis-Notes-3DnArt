@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Anchor point Substance Painter/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:21.552+01:00","mtime":"2026-04-24T17:43:18.601+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SUBSTANCE PAINTER]]"],"source":["#video [Anchor Point Magic 01 - Double Layer Setup in Substance 3D Painter | Adobe Substance 3D - YouTube](https://youtu.be/Ix4eknncFU0?si=xHg_uMWlBPnlYAgI)"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-02-20","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Anchor point Substance Painter/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:30.563+01:00","mtime":"2026-04-24T17:43:18.601+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SUBSTANCE PAINTER]]"],"source":["#video [Anchor Point Magic 01 - Double Layer Setup in Substance 3D Painter | Adobe Substance 3D - YouTube](https://youtu.be/Ix4eknncFU0?si=xHg_uMWlBPnlYAgI)"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-02-20","aliases":null}}
 ---
 
 

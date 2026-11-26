@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/CINEMA/","tags":["cinema"],"ctime":"2026-04-26T15:16:59.364+02:00","mtime":"2026-08-18T13:28:44.606+02:00","dg-note-properties":{"aliases":["cinéma","Cinéma"],"banner":"cinema","tags":["cinema"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/CINEMA/","tags":["cinema"],"ctime":"2026-08-23T11:42:12.814+02:00","mtime":"2026-08-18T13:28:44.606+02:00","dg-note-properties":{"aliases":["cinéma","Cinéma"],"banner":"cinema","tags":["cinema"]}}
 ---
 
 

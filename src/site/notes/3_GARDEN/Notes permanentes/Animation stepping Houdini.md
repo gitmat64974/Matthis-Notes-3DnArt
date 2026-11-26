@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Animation stepping Houdini/","tags":["note_permanente"],"ctime":"2026-09-29T16:52:23.263+02:00","mtime":"2026-10-27T21:06:20.043+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ANIMATION]]","[[3_GARDEN/MOCs/HOUDINI]]"],"source":["[[3_GARDEN/Notes littéraires/RIG & ANIMATE A STYLIZED CRAB - Houdini learning course - APEX]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-09-29","aliases":["Framerate manager Houdini","24 to 12 fps Houdini"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Animation stepping Houdini/","tags":["note_permanente"],"ctime":"2026-09-29T18:30:52.103+02:00","mtime":"2026-10-27T21:06:20.043+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ANIMATION]]","[[3_GARDEN/MOCs/HOUDINI]]"],"source":["[[3_GARDEN/Notes littéraires/RIG & ANIMATE A STYLIZED CRAB - Houdini learning course - APEX]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-09-29","aliases":["Framerate manager Houdini","24 to 12 fps Houdini"]}}
 ---
 
 ## La note 

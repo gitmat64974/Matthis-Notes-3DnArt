@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Choix de DA pour un film d'animation 3D/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:21.771+01:00","mtime":"2025-12-01T22:28:55.993+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/CONCEPT ART]]","[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/CHARA DESIGN]]"],"source":["[[3_GARDEN/Notes littéraires/6e cours concept art]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-11-06","aliases":["DA"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Choix de DA pour un film d'animation 3D/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:41.978+01:00","mtime":"2025-12-01T22:28:55.993+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/CONCEPT ART]]","[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/CHARA DESIGN]]"],"source":["[[3_GARDEN/Notes littéraires/6e cours concept art]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-11-06","aliases":["DA"]}}
 ---
 
 

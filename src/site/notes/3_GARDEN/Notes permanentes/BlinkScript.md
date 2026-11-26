@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/BlinkScript/","tags":["note_permanente"],"ctime":"2026-11-19T10:20:28.789+01:00","mtime":"2026-11-18T21:07:29.078+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITING]]"],"source":["https://learn.foundry.com/nuke/Content/comp_environment/blinkscript/image_processing_blink.html","https://learn.foundry.com/nuke/developers/17.1/BlinkUserGuide/BlinkKernelAPIReference.html","https://beforesandafters.com/2020/02/20/a-visual-history-of-nuke/"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-18","aliases":["Blink","Blink Script","Kernel Blink"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/BlinkScript/","tags":["note_permanente"],"ctime":"2026-11-18T18:43:41.251+01:00","mtime":"2026-11-18T21:07:29.078+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITING]]"],"source":["https://learn.foundry.com/nuke/Content/comp_environment/blinkscript/image_processing_blink.html","https://learn.foundry.com/nuke/developers/17.1/BlinkUserGuide/BlinkKernelAPIReference.html","https://beforesandafters.com/2020/02/20/a-visual-history-of-nuke/"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-18","aliases":["Blink","Blink Script","Kernel Blink"]}}
 ---
 
 

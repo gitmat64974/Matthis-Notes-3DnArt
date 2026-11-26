@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Alembic/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:21.511+01:00","mtime":"2025-11-28T14:47:49.746+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/3D]]"],"source":["[[3_GARDEN/Notes littéraires/Cours CFX ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-11-28","aliases":[".abc"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Alembic/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:24.482+01:00","mtime":"2025-11-28T14:47:49.746+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/3D]]"],"source":["[[3_GARDEN/Notes littéraires/Cours CFX ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-11-28","aliases":[".abc"]}}
 ---
 
 ## La note 

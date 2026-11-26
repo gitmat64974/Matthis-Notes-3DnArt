@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Cleanup dans Maya/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:21.797+01:00","mtime":"2026-04-24T17:43:18.637+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/MODELISATION]]"],"source":["[[3_GARDEN/Notes littéraires/13e cours de modélisation esma 3d1a]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-01-22","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Cleanup dans Maya/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:28.178+01:00","mtime":"2026-04-24T17:43:18.637+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/MODELISATION]]"],"source":["[[3_GARDEN/Notes littéraires/13e cours de modélisation esma 3d1a]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-01-22","aliases":null}}
 ---
 
 
