@@ -50,7 +50,7 @@ Le setup de simu de flèches :
 
 Ensuite on se sert de ces flèches comme trigger d'anim de mort par exemple
 
--> Voir [[3_GARDEN/Notes permanentes/Crowd Houdini\|Crowd Houdini]]
+-> Voir [[3_GARDEN/MOCs/Crowd Houdini\|Crowd Houdini]]
 
 
 

@@ -7,7 +7,7 @@
 ## Crowd
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/3_GARDEN/Notes permanentes/Crowd/#la-note" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -53,7 +53,7 @@ Souvent on switch entre anim et sim ragdoll dans les crowds
 
 ---
 
-Dans Houdini : [[3_GARDEN/Notes permanentes/Crowd Houdini\|Crowd Houdini]]
+Dans Houdini : [[3_GARDEN/MOCs/Crowd Houdini\|Crowd Houdini]]
 
 
 ---
@@ -66,13 +66,18 @@ Dans Houdini : [[3_GARDEN/Notes permanentes/Crowd Houdini\|Crowd Houdini]]
 ## Crowd Houdini
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/3_GARDEN/Notes permanentes/Crowd Houdini/#la-note" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/3_GARDEN/MOCs/Crowd Houdini/#la-note" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-## La note 
 
-Le setup de crowd de base complet est décrit ici
+# Définition
+
+Le setup de [[3_GARDEN/Notes permanentes/Crowd\|crowd]] de base complet est décrit ici
+
+
+# Structure
+
 
 #### Agent
 
@@ -210,6 +215,11 @@ On va venir exporter en alembic les différentes couches grace à l'attribut nam
 
 Par exemple : unpack -> split -> rop alembic
 
+---
+
+
+
+# Ressources
 
 
 
