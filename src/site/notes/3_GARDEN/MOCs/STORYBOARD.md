@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/STORYBOARD/","tags":["MOC"],"ctime":"2026-04-25T23:16:42.212+02:00","mtime":"2026-04-06T00:00:36.000+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/Notes permanentes/CINEMA]]"],"source":["[[3_GARDEN/Notes littéraires/Les techniques du storyboard ou scénarimage]]"],"creation date":"2024-08-28","tags":["MOC"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/STORYBOARD/","tags":["MOC"],"ctime":"2026-03-21T20:44:16.250+01:00","mtime":"2026-04-06T00:00:36.000+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/Notes permanentes/CINEMA]]"],"source":["[[3_GARDEN/Notes littéraires/Les techniques du storyboard ou scénarimage]]"],"creation date":"2024-08-28","tags":["MOC"]}}
 ---
 
 ---

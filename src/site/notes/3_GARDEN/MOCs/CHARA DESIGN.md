@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/CHARA DESIGN/","tags":["MOC"],"ctime":"2026-04-06T00:00:53.000+02:00","mtime":"2026-04-06T00:00:53.000+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ART]]","[[3_GARDEN/Notes permanentes/CINEMA]]","[[3_GARDEN/MOCs/CINEMA D'ANIMATION]]"],"source":["[[Media_DB/Books/Livre fundamentals of character design by 3d total]]"],"Projets":null,"tags":["MOC"],"creation date":"2024-09-17"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/CHARA DESIGN/","tags":["MOC"],"ctime":"2026-03-21T20:44:18.161+01:00","mtime":"2026-04-06T00:00:53.000+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ART]]","[[3_GARDEN/Notes permanentes/CINEMA]]","[[3_GARDEN/MOCs/CINEMA D'ANIMATION]]"],"source":["[[Media_DB/Books/Livre fundamentals of character design by 3d total]]"],"Projets":null,"tags":["MOC"],"creation date":"2024-09-17"}}
 ---
 
 ---

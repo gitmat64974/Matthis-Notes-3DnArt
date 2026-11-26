@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/CINEMA D'ANIMATION/","tags":["MOC"],"ctime":"2026-04-26T15:19:44.488+02:00","mtime":"2026-04-26T15:19:00.930+02:00","dg-note-properties":{"tags":["MOC"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/CINEMA D'ANIMATION/","tags":["MOC"],"ctime":"2026-05-02T16:26:00.921+02:00","mtime":"2026-04-26T15:19:00.930+02:00","dg-note-properties":{"tags":["MOC"]}}
 ---
 
 ---

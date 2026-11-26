@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/GROOM/","tags":["MOC"],"ctime":"2026-05-02T23:07:40.755+02:00","mtime":"2026-11-05T21:40:53.899+01:00","dg-note-properties":{"tags":["MOC"],"banner":"tiger"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/GROOM/","tags":["MOC"],"ctime":"2026-05-02T23:07:41.688+02:00","mtime":"2026-11-05T21:40:53.899+01:00","dg-note-properties":{"tags":["MOC"],"banner":"tiger"}}
 ---
 
 

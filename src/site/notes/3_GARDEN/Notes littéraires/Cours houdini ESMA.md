@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/Cours houdini ESMA/","tags":["note_litteraire"],"ctime":"2026-03-22T12:15:21.180+01:00","mtime":"2026-01-25T16:52:51.399+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COURS ESMA]]"],"source":["[[3_GARDEN/MOCs/COURS ESMA]]","Yann PANNETIER"],"Projets":null,"tags":["note_litteraire"],"creation date":"2025-09-23"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/Cours houdini ESMA/","tags":["note_litteraire"],"ctime":"2026-03-21T20:44:17.718+01:00","mtime":"2026-01-25T16:52:51.399+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COURS ESMA]]"],"source":["[[3_GARDEN/MOCs/COURS ESMA]]","Yann PANNETIER"],"Projets":null,"tags":["note_litteraire"],"creation date":"2025-09-23"}}
 ---
 
 

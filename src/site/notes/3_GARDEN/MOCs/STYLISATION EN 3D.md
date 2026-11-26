@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/STYLISATION EN 3D/","tags":["MOC","en_cours"],"ctime":"2026-03-22T12:15:20.879+01:00","mtime":"2026-10-03T11:36:27.136+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/LIGHTING]]","[[3_GARDEN/MOCs/SHADING TEXTURING]]","[[3_GARDEN/MOCs/MODELISATION]]","[[3_GARDEN/MOCs/ART]]","[[3_GARDEN/MOCs/CONCEPT ART]]"],"source":null,"Projets":null,"tags":["MOC","en_cours"],"creation date":"2025-09-28","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/STYLISATION EN 3D/","tags":["MOC","en_cours"],"ctime":"2026-03-21T20:44:18.356+01:00","mtime":"2026-10-03T11:36:27.136+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/LIGHTING]]","[[3_GARDEN/MOCs/SHADING TEXTURING]]","[[3_GARDEN/MOCs/MODELISATION]]","[[3_GARDEN/MOCs/ART]]","[[3_GARDEN/MOCs/CONCEPT ART]]"],"source":null,"Projets":null,"tags":["MOC","en_cours"],"creation date":"2025-09-28","aliases":null}}
 ---
 
 # Définition

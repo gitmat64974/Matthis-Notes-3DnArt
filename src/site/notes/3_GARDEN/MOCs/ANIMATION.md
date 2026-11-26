@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/ANIMATION/","tags":["MOC"],"ctime":"2026-05-02T23:06:27.831+02:00","mtime":"2026-09-22T08:05:57.260+02:00","dg-note-properties":{"aliases":["animation","Animation"],"tags":["MOC"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/ANIMATION/","tags":["MOC"],"ctime":"2026-05-02T23:06:29.026+02:00","mtime":"2026-09-22T08:05:57.260+02:00","dg-note-properties":{"aliases":["animation","Animation"],"tags":["MOC"]}}
 ---
 
 # Définition

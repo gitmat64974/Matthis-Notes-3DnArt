@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/3e cours scénario 3D4/","tags":["note_litteraire","cours"],"ctime":"2026-03-22T12:15:21.025+01:00","mtime":"2025-10-15T11:56:09.175+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/Cours de scénario ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2025-10-13"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/3e cours scénario 3D4/","tags":["note_litteraire","cours"],"ctime":"2026-03-21T20:44:11.496+01:00","mtime":"2025-10-15T11:56:09.175+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/Cours de scénario ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2025-10-13"}}
 ---
 
 

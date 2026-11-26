@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/DRAMATURGIE/","tags":["MOC"],"ctime":"2026-04-12T23:17:49.258+02:00","mtime":"2026-11-08T17:38:22.165+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/Notes permanentes/CINEMA]]","[[3_GARDEN/MOCs/ART]]"],"aliases":["Scenario","Narratologie"],"banner":"https://images.unsplash.com/photo-1529251333259-d36cccaf22ea?q=80&w=1720&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","banner-height":330,"banner-fade":-50,"source":["[[3_GARDEN/Notes littéraires/5e cours scénario ESMA 3D2A]]"],"tags":["MOC"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/DRAMATURGIE/","tags":["MOC"],"ctime":"2026-04-12T21:45:43.904+02:00","mtime":"2026-11-08T17:38:22.165+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/Notes permanentes/CINEMA]]","[[3_GARDEN/MOCs/ART]]"],"aliases":["Scenario","Narratologie"],"banner":"https://images.unsplash.com/photo-1529251333259-d36cccaf22ea?q=80&w=1720&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","banner-height":330,"banner-fade":-50,"source":["[[3_GARDEN/Notes littéraires/5e cours scénario ESMA 3D2A]]"],"tags":["MOC"]}}
 ---
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/19e cours scénario, L'exposition/","tags":["note_litteraire"],"ctime":"2026-03-22T12:15:20.959+01:00","mtime":"2026-04-24T17:43:19.048+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["#cours [[Cours de scénario ESMA]]"],"Projets":null,"tags":["note_litteraire"],"creation date":"2025-04-25"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/19e cours scénario, L'exposition/","tags":["note_litteraire"],"ctime":"2026-03-21T20:44:16.500+01:00","mtime":"2026-04-24T17:43:19.048+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["#cours [[Cours de scénario ESMA]]"],"Projets":null,"tags":["note_litteraire"],"creation date":"2025-04-25"}}
 ---
 
 

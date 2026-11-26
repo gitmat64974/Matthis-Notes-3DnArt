@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/3e cours lighting 3D4/","tags":["note_litteraire","cours"],"ctime":"2026-03-22T12:15:21.024+01:00","mtime":"2026-07-17T16:40:18.579+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/LIGHTING]]","[[3_GARDEN/MOCs/MARI]]"],"source":["[[3_GARDEN/Notes littéraires/Cours de lighting rendu ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2025-10-10"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/3e cours lighting 3D4/","tags":["note_litteraire","cours"],"ctime":"2026-03-21T20:44:13.832+01:00","mtime":"2026-07-17T16:40:18.579+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/LIGHTING]]","[[3_GARDEN/MOCs/MARI]]"],"source":["[[3_GARDEN/Notes littéraires/Cours de lighting rendu ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2025-10-10"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/GENRES DU CINEMA/","tags":["note_permanente","MOC"],"ctime":"2026-04-12T19:02:55.367+02:00","mtime":"2026-04-25T08:47:39.435+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/Notes permanentes/CINEMA]]","[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[Media_DB/Books/L'Anatomie des histoires]]"],"Projets":null,"tags":["note_permanente","MOC"],"creation date":"2026-04-12","aliases":null,"banner":"cinema"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/GENRES DU CINEMA/","tags":["note_permanente","MOC"],"ctime":"2026-03-21T20:44:39.854+01:00","mtime":"2026-04-25T08:47:39.435+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/Notes permanentes/CINEMA]]","[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[Media_DB/Books/L'Anatomie des histoires]]"],"Projets":null,"tags":["note_permanente","MOC"],"creation date":"2026-04-12","aliases":null,"banner":"cinema"}}
 ---
 
 # Cartographie

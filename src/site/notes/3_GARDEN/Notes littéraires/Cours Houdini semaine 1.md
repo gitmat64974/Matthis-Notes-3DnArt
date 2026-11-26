@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/Cours Houdini semaine 1/","tags":["note_litteraire","A_traiter","#cours"],"ctime":"2026-03-22T12:15:21.181+01:00","mtime":"2026-07-17T17:05:06.673+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["[[3_GARDEN/Notes littéraires/Cours houdini ESMA]]"],"Projets":null,"tags":["note_litteraire","A_traiter","#cours"],"creation date":"2025-09-22"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/Cours Houdini semaine 1/","tags":["note_litteraire","A_traiter","#cours"],"ctime":"2026-03-21T20:44:15.729+01:00","mtime":"2026-07-17T17:05:06.673+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["[[3_GARDEN/Notes littéraires/Cours houdini ESMA]]"],"Projets":null,"tags":["note_litteraire","A_traiter","#cours"],"creation date":"2025-09-22"}}
 ---
 
 

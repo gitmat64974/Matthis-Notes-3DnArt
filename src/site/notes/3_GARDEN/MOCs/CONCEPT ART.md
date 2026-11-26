@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/CONCEPT ART/","tags":["MOC"],"ctime":"2026-04-06T00:00:56.000+02:00","mtime":"2026-05-10T16:41:37.899+02:00","dg-note-properties":{"tags":["MOC"],"MOC":["[[3_GARDEN/MOCs/ART]]","[[3_GARDEN/MOCs/ANIMATION]]","[[3_GARDEN/MOCs/DESSIN]]","[[3_GARDEN/MOCs/ILLUSTRATION]]"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/CONCEPT ART/","tags":["MOC"],"ctime":"2026-03-21T20:44:16.964+01:00","mtime":"2026-05-10T16:41:37.899+02:00","dg-note-properties":{"tags":["MOC"],"MOC":["[[3_GARDEN/MOCs/ART]]","[[3_GARDEN/MOCs/ANIMATION]]","[[3_GARDEN/MOCs/DESSIN]]","[[3_GARDEN/MOCs/ILLUSTRATION]]"]}}
 ---
 
 

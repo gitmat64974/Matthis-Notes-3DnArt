@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/12 règles d'or de l'animation selon Yoann Bomal/","tags":["note_permanente"],"ctime":"2026-04-06T00:00:59.000+02:00","mtime":"2026-04-24T17:43:18.581+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ANIMATION]]"],"source":["#cours [[Cours d'animation ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-05-06","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/12 règles d'or de l'animation selon Yoann Bomal/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:47.013+01:00","mtime":"2026-04-24T17:43:18.581+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ANIMATION]]"],"source":["#cours [[Cours d'animation ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-05-06","aliases":null}}
 ---
 
 

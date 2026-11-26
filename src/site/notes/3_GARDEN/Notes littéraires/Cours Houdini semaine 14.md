@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/Cours Houdini semaine 14/","tags":["note_litteraire","cours"],"ctime":"2026-03-22T12:15:21.187+01:00","mtime":"2026-01-23T09:07:54.173+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["[[3_GARDEN/Notes littéraires/Cours houdini ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2026-01-23"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/Cours Houdini semaine 14/","tags":["note_litteraire","cours"],"ctime":"2026-03-21T20:44:13.136+01:00","mtime":"2026-01-23T09:07:54.173+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["[[3_GARDEN/Notes littéraires/Cours houdini ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2026-01-23"}}
 ---
 
 
@@ -54,6 +54,10 @@ On peut utiliser un foreach pour traiter chaque primitive séparément
 ##### Node connectivity : 
 
 Il vient créer un attribut class de type entier qui prendra des valeurs (0,1,2 etc) pour chaque geometrie connectée
+
+
+*A noter qu'on peut faire des booleans en mode seam pour extraire uniquement une curve de l'intersection des géométries*
+
 
 ---
 

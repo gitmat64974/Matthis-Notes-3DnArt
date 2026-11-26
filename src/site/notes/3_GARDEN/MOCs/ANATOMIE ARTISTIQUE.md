@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/ANATOMIE ARTISTIQUE/","tags":["MOC"],"ctime":"2026-04-25T23:16:42.642+02:00","mtime":"2026-04-26T15:18:29.678+02:00","dg-note-properties":{"tags":["MOC"],"aliases":["ARTISTIC ANATOMY"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/ANATOMIE ARTISTIQUE/","tags":["MOC"],"ctime":"2026-05-02T16:25:58.524+02:00","mtime":"2026-04-26T15:18:29.678+02:00","dg-note-properties":{"tags":["MOC"],"aliases":["ARTISTIC ANATOMY"]}}
 ---
 
 ---

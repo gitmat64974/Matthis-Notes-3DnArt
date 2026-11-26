@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/11e cours CFX/","tags":["note_litteraire","cours"],"ctime":"2026-03-22T12:15:20.941+01:00","mtime":"2026-01-25T00:58:54.645+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["[[3_GARDEN/Notes littéraires/Cours CFX ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2026-01-23"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/11e cours CFX/","tags":["note_litteraire","cours"],"ctime":"2026-03-21T20:44:16.309+01:00","mtime":"2026-01-25T00:58:54.645+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["[[3_GARDEN/Notes littéraires/Cours CFX ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2026-01-23"}}
 ---
 
 

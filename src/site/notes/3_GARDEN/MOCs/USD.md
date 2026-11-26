@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/USD/","tags":["note_permanente","MOC"],"ctime":"2026-11-03T23:49:26.111+01:00","mtime":"2026-11-26T11:13:24.094+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/SOLARIS|Solaris]]"],"source":["[[3_GARDEN/Notes littéraires/Cours Houdini semaine 3]]"],"Projets":null,"tags":["note_permanente","MOC"],"creation date":"2026-10-26","aliases":null,"banner":"https://i.imgur.com/3k4TDUs.jpeg"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/USD/","tags":["note_permanente","MOC"],"ctime":"2026-03-21T20:44:54.918+01:00","mtime":"2026-11-26T21:53:26.052+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/SOLARIS|Solaris]]"],"source":["[[3_GARDEN/Notes littéraires/Cours Houdini semaine 3]]"],"Projets":null,"tags":["note_permanente","MOC"],"creation date":"2026-10-26","aliases":null,"banner":"https://i.imgur.com/3k4TDUs.jpeg"}}
 ---
 
 # Définition
@@ -74,6 +74,7 @@ Les données plus profondes contenues dans l'USD : [[3_GARDEN/Notes permanentes/
 	- [[3_GARDEN/Notes permanentes/LOD\|LOD]] 
 
 *Pour aller plus loin :* 
+- [[3_GARDEN/Notes permanentes/Setup une géo pour l'USD avec Solaris\|Setup une géo pour l'USD avec Solaris]]
 - *[[3_GARDEN/Notes permanentes/USD Variants\|USD Variants]]* 
 - *[[3_GARDEN/Notes permanentes/USD Purpose\|USD Purpose]]* 
 - *[[3_GARDEN/Notes permanentes/ASWF\|ASWF]]*

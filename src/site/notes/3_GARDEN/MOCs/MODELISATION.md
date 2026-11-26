@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/MODELISATION/","tags":["MOC"],"ctime":"2026-04-25T23:16:42.141+02:00","mtime":"2026-11-08T17:56:08.341+01:00","dg-note-properties":{"aliases":["modélisation 3D","Modélisation"],"tags":["MOC"],"MOC":["[[3_GARDEN/MOCs/SCIENCES]]","[[3_GARDEN/MOCs/3D]]"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/MODELISATION/","tags":["MOC"],"ctime":"2026-03-21T20:44:12.887+01:00","mtime":"2026-11-08T17:56:08.341+01:00","dg-note-properties":{"aliases":["modélisation 3D","Modélisation"],"tags":["MOC"],"MOC":["[[3_GARDEN/MOCs/SCIENCES]]","[[3_GARDEN/MOCs/3D]]"]}}
 ---
 
 # Définition

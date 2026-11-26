@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/MARI/","tags":["MOC"],"ctime":"2026-04-25T23:16:41.949+02:00","mtime":"2026-07-17T16:40:03.186+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/SHADING TEXTURING]]"],"source":null,"Projets":null,"tags":["MOC"],"creation date":"2025-10-24","aliases":null,"banner":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcgworld.jp%2Fflashnews%2Fassets_c%2F2024%2F12%2FMari71-01-thumb-1280x720-63627.jpg&f=1&nofb=1&ipt=3f292c2714a0717554e78b55d6a2a5db7c9d30883c50c3f2297e7575b59d95bf"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/MARI/","tags":["MOC"],"ctime":"2026-03-21T20:44:17.687+01:00","mtime":"2026-07-17T16:40:03.186+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/SHADING TEXTURING]]"],"source":null,"Projets":null,"tags":["MOC"],"creation date":"2025-10-24","aliases":null,"banner":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcgworld.jp%2Fflashnews%2Fassets_c%2F2024%2F12%2FMari71-01-thumb-1280x720-63627.jpg&f=1&nofb=1&ipt=3f292c2714a0717554e78b55d6a2a5db7c9d30883c50c3f2297e7575b59d95bf"}}
 ---
 
 # Définition

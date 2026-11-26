@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/PROCEDURAL MODELING/","tags":["note_permanente","MOC"],"ctime":"2026-06-07T15:51:44.028+02:00","mtime":"2026-11-26T11:30:39.987+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["Houdini doc","Houdini learning"],"Projets":null,"tags":["note_permanente","MOC"],"creation date":"2026-06-06","aliases":["MODELISATION PROCEDURALE"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/PROCEDURAL MODELING/","tags":["note_permanente","MOC"],"ctime":"2026-03-21T20:44:39.347+01:00","mtime":"2026-11-26T11:34:58.128+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["Houdini doc","Houdini learning"],"Projets":null,"tags":["note_permanente","MOC"],"creation date":"2026-06-06","aliases":["MODELISATION PROCEDURALE"]}}
 ---
 
 # Définition
@@ -22,23 +22,170 @@
 > - [[3_GARDEN/Notes permanentes/Différence point et vertex\|Différence point et vertex]]
 
 
+## Transformations procédurales
 
+
+### Match size
+
+Modifier les transformation d'un objet par rapport à sa propre bounding box ou par rapport à un autre objet
+
+
+## Gestion des rotations
+
+[[3_GARDEN/Notes permanentes/Gestion des rotations - Houdini\|Gestion des rotations - Houdini]]
+
+### Node orient along curve
+
+Permet d'automatiquement aligner les normals d'une curve selon sa direction
+
+## Rotation de normales
+
+Node transform avec dans attributes N au lieu de * permet de rotate uniquement les normales
+
+## Gestion des normales
+
+Node polyframe permet de définir les attributs de repères de coordonnées (normales, tangent etc)
+
+
+# Opérations géométriques de base
+
+### PolyBevel
+
+Créer des bevels
+
+A noter qu'on peut contrôler les bevels avec un ramp (super pour ajouter du détail facilement)
+
+### Node Bend
+
+Permet de faire plusieurs déformations basiques de manière procedurales : 
+- Bend
+- Twist
+- Lenght Scale (peut etre utilisé pour du squash and stretch)
+- Taper
+
+### Split 
+
+Points split : permet de séparer les faces d'une géo
+
+### Lattice 
+
+[[3_GARDEN/Notes permanentes/Lattice - Houdini\|Lattice - Houdini]]
+### Clip
+
+Permet de cut une géo 
+
+Pour qu'il cut en fonction d'un pourcentage de la bounding box : 
+Expression suivante dans le origin Y(ici ça cut à 70%) : ``bbox(0, D_YMIN) + (bbox(0, D_YSIZE) * 0.7)``
+
+#### Sub D modeling specific
+
+##### Crease node
+
+Permet de crease les edges selectionnées ou le group sélectionné
+
+# Création de masks
+
+Créer des masks selon : 
+- une direction -> node mask by feature
+- ambiant occlusion -> node mask by feature
+- Curvature : node measure
+- shadows -> node mask by feature
+
+## Node group
+
+[[3_GARDEN/Notes permanentes/Node group Houdini\|Node group Houdini]]
+
+Permet de créer des groups selon divers paramètres : 
+- nom précis des éléments
+- bounding box
+- normals
+- edges
+- random
+
+[[3_GARDEN/Notes permanentes/Récupérer les hard edges dans Houdini\|Récupérer les hard edges dans Houdini]]
+
+## Node Group by range
+
+Super utile
+Permet de sélectionner 1 sur 2 ou sur 3 ou sur 4 etc éléments
+
+## Suppressions
+
+Le node delete (a globalement les même paramètres que le node group)
+Le node blast (pour garder que des edges par exemple)
+
+## Autres nodes
+
+- [[3_GARDEN/Notes permanentes/Distance from geometry Houdini\|Distance from geometry Houdini]]
+- [[3_GARDEN/Notes permanentes/Node Sort\|Node Sort]]
+
+# Manipulation de curves
+
+
+## Carve node
+
+Permet de "cut" une curve pour n'en garder qu'un bout
+
+## Resample
+
+Changer le nombre de points de la curve
+
+paramètres : 
+- by polygon edge : le resample se fait en fonction de chaque edge et pas en fonction de la curve globalement
+
+## Add node
+
+Permet de créer une curve à partir de points
+
+## Sweep node
+
+Permet de générer des surfaces le long d'une ou plusieurs curves 
+
+Paramètres importants : 
+- Surface shape : La forme de la surface
+- Surface type : Le type de surface générée (triangle, quads, curves avec le mode column etc)
+- Scale along curve : gérer l'épaisseur le long de la curve avec un ramp
+
+La deuxième entrée permet de gérer le profil avec une geo custom 
+
+# Scattering
+
+## Gestion des orientations
+
+[[3_GARDEN/Notes permanentes/Gestion des rotations - Houdini\|Gestion des rotations - Houdini]]
+[[3_GARDEN/Notes permanentes/Up Vector Houdini\|Up Vector Houdini]]
+## Extract centroid
+
+Node qui permet d'extraire un point à partir du centre de quelque chose
+Par exemple un point à partir du centre de l'objet ou plusieurs points à partir de chaque face de l'objet
+
+## Chain node
+
+Permet de faire répéter une géométrie le long d'une curve en gérant l'espacement, la taille, l'orientation, la rotation, le scale along curve etc
+
+
+# Booleans
 
 [[3_GARDEN/Notes permanentes/Boolean Houdini\|Boolean Houdini]]
 
 
 
-[[3_GARDEN/Notes permanentes/Up Vector Houdini\|Up Vector Houdini]]
 
 
 
 
 
-#### UVs
+## UVs
 
 [[3_GARDEN/Notes permanentes/UV - Houdini\|UV - Houdini]]
 
-### Quelques applicatifs 
+## Outils TD
+
+[[3_GARDEN/Notes permanentes/HDA\|HDA]]
+
+---
+
+## Quelques applicatifs 
 
 [[3_GARDEN/Notes permanentes/Mode corde procedurale Houdini\|Mode corde procedurale Houdini]]
 [[3_GARDEN/Notes permanentes/Mode chaine procedurale Houdini\|Mode chaine procedurale Houdini]] 
@@ -54,9 +201,6 @@
 
 
 
-## Outils TD
-
-[[3_GARDEN/Notes permanentes/HDA\|HDA]]
 
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/RIG/","tags":["MOC"],"ctime":"2026-05-02T23:05:56.262+02:00","mtime":"2026-10-24T13:08:15.377+02:00","dg-note-properties":{"aliases":["RIGGING"],"MOC":["[[3_GARDEN/MOCs/RIG]]","[[3_GARDEN/MOCs/3D]]"],"tags":["MOC"],"Source":["[[3_GARDEN/Notes littéraires/Notes de cours de rigging d'élèves au dessus, traité par ChatGPT]]"],"creation date":"2024-09-30"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/RIG/","tags":["MOC"],"ctime":"2026-05-02T23:05:57.301+02:00","mtime":"2026-10-24T13:08:15.377+02:00","dg-note-properties":{"aliases":["RIGGING"],"MOC":["[[3_GARDEN/MOCs/RIG]]","[[3_GARDEN/MOCs/3D]]"],"tags":["MOC"],"Source":["[[3_GARDEN/Notes littéraires/Notes de cours de rigging d'élèves au dessus, traité par ChatGPT]]"],"creation date":"2024-09-30"}}
 ---
 
 ![](https://cdn.fastpixel.io/fp/ret_img+v_948d+q_lossy+to_webp/aaagameartstudio.com%2Fwp-content%2Fuploads%2F2023%2F08%2Frigging-in-3d-animation-character-rigging.jpg)

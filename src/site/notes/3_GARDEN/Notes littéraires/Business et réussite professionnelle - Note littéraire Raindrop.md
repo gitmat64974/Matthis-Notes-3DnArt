@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/Business et réussite professionnelle - Note littéraire Raindrop/","tags":["note_litteraire","en_cours"],"ctime":"2026-11-16T09:27:17.670+01:00","mtime":"2026-11-15T21:22:36.645+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/BUSINESS PERSO]]"],"source":["Raindrop — collection « Business et réussite professionnelle » (22 vidéos, save du 11/09/2026 au 14/11/2026)"],"Projets":null,"tags":["note_litteraire","en_cours"],"creation date":"2026-11-15"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/Business et réussite professionnelle - Note littéraire Raindrop/","tags":["note_litteraire","en_cours"],"ctime":"2026-11-15T17:09:25.096+01:00","mtime":"2026-11-15T21:22:36.645+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/BUSINESS PERSO]]"],"source":["Raindrop — collection « Business et réussite professionnelle » (22 vidéos, save du 11/09/2026 au 14/11/2026)"],"Projets":null,"tags":["note_litteraire","en_cours"],"creation date":"2026-11-15"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/SUBSTANCE PAINTER/","tags":["MOC"],"ctime":"2026-04-25T23:16:41.890+02:00","mtime":"2026-04-06T00:00:44.000+02:00","dg-note-properties":{"tags":["MOC"],"MOC":["[[3_GARDEN/MOCs/SHADING TEXTURING]]","[[3_GARDEN/MOCs/3D]]"],"source":["Perplexity"],"banner":"https://i.ytimg.com/vi/s1X6Kfk3EtY/maxresdefault.jpg"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/SUBSTANCE PAINTER/","tags":["MOC"],"ctime":"2026-03-21T20:44:15.692+01:00","mtime":"2026-04-06T00:00:44.000+02:00","dg-note-properties":{"tags":["MOC"],"MOC":["[[3_GARDEN/MOCs/SHADING TEXTURING]]","[[3_GARDEN/MOCs/3D]]"],"source":["Perplexity"],"banner":"https://i.ytimg.com/vi/s1X6Kfk3EtY/maxresdefault.jpg"}}
 ---
 
 <img src ="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_3fff7057ee29b2a97e038bc3e2abea4c/adobe-substance-3d-painter.png" width = 20% left>

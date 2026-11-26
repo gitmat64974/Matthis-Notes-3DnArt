@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/ANALYSE FILMIQUE/","tags":["MOC"],"ctime":"2026-04-25T23:16:42.279+02:00","mtime":"2026-11-24T00:03:06.064+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/Notes permanentes/CINEMA]]"],"tags":["MOC"],"source":["[[3_GARDEN/Notes littéraires/1er et 2e cours analyse filmique esma 3d2]]","https://cafedesimages.fr/education-a-limage/lyceens-au-cinema/analyse-filmique-cours/"],"creation date":"2024-09-30"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/ANALYSE FILMIQUE/","tags":["MOC"],"ctime":"2026-03-21T20:44:14.160+01:00","mtime":"2026-11-24T00:03:06.064+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/Notes permanentes/CINEMA]]"],"tags":["MOC"],"source":["[[3_GARDEN/Notes littéraires/1er et 2e cours analyse filmique esma 3d2]]","https://cafedesimages.fr/education-a-limage/lyceens-au-cinema/analyse-filmique-cours/"],"creation date":"2024-09-30"}}
 ---
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0_INBOX/Procedural modeling notes/","ctime":"2026-09-18T10:17:49.306+02:00","mtime":"2026-11-26T11:28:36.332+01:00","dg-note-properties":{"aliases":["notes modelisation procedural"]}}
+{"dg-publish":true,"permalink":"/0_INBOX/Procedural modeling notes/","ctime":"2026-07-17T16:25:19.336+02:00","mtime":"2026-11-26T11:34:12.402+01:00","dg-note-properties":{"aliases":["notes modelisation procedural"]}}
 ---
 
 
@@ -21,6 +21,8 @@ Modifier les transformation d'un objet par rapport à sa propre bounding box ou 
 
 # Gestion des rotations
 
+[[3_GARDEN/Notes permanentes/Gestion des rotations - Houdini\|Gestion des rotations - Houdini]]
+
 ## Node orient along curve
 
 Permet d'automatiquement aligner les normals d'une curve selon sa direction
@@ -32,6 +34,7 @@ Node transform avec dans attributes N au lieu de * permet de rotate uniquement l
 ## Gestion des normales
 
 Node polyframe permet de définir les attributs de repères de coordonnées (normales, tangent etc)
+
 
 # Opérations géométriques de base
 
@@ -136,6 +139,10 @@ La deuxième entrée permet de gérer le profil avec une geo custom
 
 # Scattering
 
+## Gestion des orientations
+
+[[3_GARDEN/Notes permanentes/Gestion des rotations - Houdini\|Gestion des rotations - Houdini]]
+[[3_GARDEN/Notes permanentes/Up Vector Houdini\|Up Vector Houdini]]
 ## Extract centroid
 
 Node qui permet d'extraire un point à partir du centre de quelque chose
@@ -145,14 +152,9 @@ Par exemple un point à partir du centre de l'objet ou plusieurs points à parti
 
 Permet de faire répéter une géométrie le long d'une curve en gérant l'espacement, la taille, l'orientation, la rotation, le scale along curve etc
 
+
 # Booleans
 
-A noter qu'on peut faire des booleans en mode seam pour extraire uniquement une curve de l'intersection des géométries
+[[3_GARDEN/Notes permanentes/Boolean Houdini\|Boolean Houdini]]
 
-
----
-
-
-
-# Tips plus advanced
 

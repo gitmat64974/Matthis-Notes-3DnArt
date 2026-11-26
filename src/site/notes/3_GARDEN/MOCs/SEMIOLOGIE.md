@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/SEMIOLOGIE/","tags":["MOC"],"ctime":"2026-04-25T23:16:42.339+02:00","mtime":"2026-09-22T16:48:00.070+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ART]]","[[3_GARDEN/Notes permanentes/CINEMA]]","[[3_GARDEN/MOCs/SOCIOLOGIE|SOCIOLOGIE]]","[[3_GARDEN/MOCs/PSYCHOLOGIE]]"],"source":["[[3_GARDEN/Notes littéraires/Cours de sémiologie ESMA]]"],"Projets":null,"tags":["MOC"],"creation date":"2024-11-25","aliases":["Semiologie"],"banner":"beautiful landscape"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/SEMIOLOGIE/","tags":["MOC"],"ctime":"2026-03-21T20:44:16.686+01:00","mtime":"2026-09-22T16:48:00.070+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ART]]","[[3_GARDEN/Notes permanentes/CINEMA]]","[[3_GARDEN/MOCs/SOCIOLOGIE|SOCIOLOGIE]]","[[3_GARDEN/MOCs/PSYCHOLOGIE]]"],"source":["[[3_GARDEN/Notes littéraires/Cours de sémiologie ESMA]]"],"Projets":null,"tags":["MOC"],"creation date":"2024-11-25","aliases":["Semiologie"],"banner":"beautiful landscape"}}
 ---
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/Cours Houdini semaine 3/","tags":["note_litteraire","cours"],"ctime":"2026-03-22T12:15:21.190+01:00","mtime":"2026-11-23T23:29:06.281+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["[[3_GARDEN/Notes littéraires/Cours houdini ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2025-10-06","cssclasses":["clean-embeds"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/Cours Houdini semaine 3/","tags":["note_litteraire","cours"],"ctime":"2026-03-21T20:44:16.016+01:00","mtime":"2026-11-23T23:29:06.281+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["[[3_GARDEN/Notes littéraires/Cours houdini ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2025-10-06","cssclasses":["clean-embeds"]}}
 ---
 
 
@@ -182,6 +182,7 @@ Les données plus profondes contenues dans l'USD : [[3_GARDEN/Notes permanentes/
 	- [[3_GARDEN/Notes permanentes/LOD\|LOD]] 
 
 *Pour aller plus loin :* 
+- [[3_GARDEN/Notes permanentes/Setup une géo pour l'USD avec Solaris\|Setup une géo pour l'USD avec Solaris]]
 - *[[3_GARDEN/Notes permanentes/USD Variants\|USD Variants]]* 
 - *[[3_GARDEN/Notes permanentes/USD Purpose\|USD Purpose]]* 
 - *[[3_GARDEN/Notes permanentes/ASWF\|ASWF]]*
@@ -254,8 +255,6 @@ La hiérarchie des fichiers exportés par le component builder :
 - **Internal SOP** : Entrer à l'intérieur pour setup la geo de render, et si on veut la geo proxy et la geo simproxy. ->*Le mode préférable*. Voir -> [[3_GARDEN/Notes permanentes/Setup une géo pour l'USD avec Solaris\|Setup une géo pour l'USD avec Solaris]]
 - **File** : fichier référencé
 - **External SOP** : chemin dans un SOPNet externe
-
-La géo va être nommée en fonction du nom qu'on donne au node 
 
 On va donc avoir la possibilité de setup 3 "versions" de la géo en mode internal SOP (*le plus simple est d'entrer à l'intérieur du node*) : 
 - **default / render** (*Obligatoire*) : Geo de rendu

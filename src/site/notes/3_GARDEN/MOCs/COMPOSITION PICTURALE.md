@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/COMPOSITION PICTURALE/","tags":["MOC"],"ctime":"2026-03-22T12:15:20.735+01:00","mtime":"2026-11-13T01:12:39.856+01:00","dg-note-properties":{"tags":["MOC"],"MOC":["[[3_GARDEN/MOCs/ART]]","[[3_GARDEN/Notes permanentes/CINEMA]]"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/COMPOSITION PICTURALE/","tags":["MOC"],"ctime":"2026-03-21T20:44:11.742+01:00","mtime":"2026-11-13T01:12:39.856+01:00","dg-note-properties":{"tags":["MOC"],"MOC":["[[3_GARDEN/MOCs/ART]]","[[3_GARDEN/Notes permanentes/CINEMA]]"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/22 règles de storytelling de pixar/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:21.448+01:00","mtime":"2026-04-24T17:43:18.582+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/22e cours scenario esma 3d2]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-05-18","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/22 règles de storytelling de pixar/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:52.511+01:00","mtime":"2026-04-24T17:43:18.582+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/22e cours scenario esma 3d2]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-05-18","aliases":null}}
 ---
 
 

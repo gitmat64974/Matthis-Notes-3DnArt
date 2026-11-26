@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/SOLARIS/","tags":["note_permanente","MOC"],"ctime":"2026-11-06T12:41:57.054+01:00","mtime":"2026-11-26T11:16:55.298+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["Houdini learning"],"Projets":null,"tags":["note_permanente","MOC"],"creation date":"2026-11-05","aliases":["Solaris"],"banner":"https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/SOLARIS/","tags":["note_permanente","MOC"],"ctime":"2026-03-21T20:44:32.867+01:00","mtime":"2026-11-26T11:16:55.298+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["Houdini learning"],"Projets":null,"tags":["note_permanente","MOC"],"creation date":"2026-11-05","aliases":["Solaris"],"banner":"https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"}}
 ---
 
 # Définition
