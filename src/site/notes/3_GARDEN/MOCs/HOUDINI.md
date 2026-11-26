@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/HOUDINI/","tags":["MOC"],"ctime":"2026-05-02T23:07:40.739+02:00","mtime":"2026-11-26T11:21:07.998+01:00","dg-note-properties":{"tags":["MOC"],"MOC":["[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/MODELISATION]]","[[3_GARDEN/MOCs/ART]]"],"Source":null,"creation date":"2025-02-02","banner":"https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/HOUDINI/","tags":["MOC"],"ctime":"2026-05-02T23:07:40.739+02:00","mtime":"2026-11-26T11:22:38.770+01:00","dg-note-properties":{"tags":["MOC"],"MOC":["[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/MODELISATION]]","[[3_GARDEN/MOCs/ART]]"],"Source":null,"creation date":"2025-02-02","banner":"https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"}}
 ---
 
 
@@ -74,13 +74,6 @@ utile : *[[3_GARDEN/Notes permanentes/Raccourcis Houdini les plus utiles\|Raccou
 > - **$JOB** : Un Dossier défini spécifiquement. C'est généralement le dossier général de production (*Par exemple le dossier de prod du film FFE*)
 > 
 > Ces deux variables permettent de venir référencer dynamiquement tout type de fichier sans avoir à rentrer manuellement le chemin absolu à chaque fois
-
-
-
-#### Attributs
-
-[[3_GARDEN/Notes permanentes/Attributs Houdini\|Attributs Houdini]]
-- [[3_GARDEN/Notes permanentes/Attribut Curveu\|Attribut Curveu]]
 
 
 

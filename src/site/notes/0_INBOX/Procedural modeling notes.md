@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0_INBOX/Procedural modeling notes/","ctime":"2026-09-18T10:17:49.306+02:00","mtime":"2026-10-20T22:49:40.194+02:00","dg-note-properties":{"aliases":["notes modelisation procedural"]}}
+{"dg-publish":true,"permalink":"/0_INBOX/Procedural modeling notes/","ctime":"2026-09-18T10:17:49.306+02:00","mtime":"2026-11-26T11:28:36.332+01:00","dg-note-properties":{"aliases":["notes modelisation procedural"]}}
 ---
 
 
@@ -53,6 +53,9 @@ Permet de faire plusieurs déformations basiques de manière procedurales :
 
 Points split : permet de séparer les faces d'une géo
 
+### Lattice 
+
+[[3_GARDEN/Notes permanentes/Lattice - Houdini\|Lattice - Houdini]]
 ### Clip
 
 Permet de cut une géo 
@@ -76,12 +79,16 @@ Créer des masks selon :
 
 ## Node group
 
+[[3_GARDEN/Notes permanentes/Node group Houdini\|Node group Houdini]]
+
 Permet de créer des groups selon divers paramètres : 
 - nom précis des éléments
 - bounding box
 - normals
 - edges
 - random
+
+[[3_GARDEN/Notes permanentes/Récupérer les hard edges dans Houdini\|Récupérer les hard edges dans Houdini]]
 
 ## Node Group by range
 
@@ -93,6 +100,10 @@ Permet de sélectionner 1 sur 2 ou sur 3 ou sur 4 etc éléments
 Le node delete (a globalement les même paramètres que le node group)
 Le node blast (pour garder que des edges par exemple)
 
+## Autres nodes
+
+- [[3_GARDEN/Notes permanentes/Distance from geometry Houdini\|Distance from geometry Houdini]]
+- [[3_GARDEN/Notes permanentes/Node Sort\|Node Sort]]
 
 # Manipulation de curves
 

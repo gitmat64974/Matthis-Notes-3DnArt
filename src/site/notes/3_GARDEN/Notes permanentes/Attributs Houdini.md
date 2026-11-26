@@ -1,8 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Attributs Houdini/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:21.621+01:00","mtime":"2026-11-26T11:22:05.092+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-10","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Attributs Houdini/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:21.621+01:00","mtime":"2026-11-26T11:30:08.978+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-10","aliases":null}}
 ---
 
 ## La note 
+
+
+> [!success]+ Comment penser Houdini
+> Il ne faut pas penser en termes de nodes, c’est le plus gros moyen d’être perdu
+> 
+> Houdini c'est de la **Géométrie** et des **Données** associées à cette géométrie (*où cette géométrie est dans l'espace, est ce qu'elle a une direction, une vitesse, comment est elle orientée etc etc*) 
+> Tout le principe d'Houdini c'est de venir transformer de la géométrie en fonction de certaines données
+> Il ne faut pas se demander de quels nodes j’ai besoin mais plutôt de quelles données j’ai besoin et comment je dois les transformer
+> 
+> Ces fameuses données dans Houdini ce sont les Attributs
 
 Les attributs sont donc les données stockées sur la géométrie (*points, vertices, primitives, ou detail*) qui peuvent être utilisées par les nœuds suivant pour effectuer une opération
 
