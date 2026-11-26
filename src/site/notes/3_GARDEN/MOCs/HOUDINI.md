@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/HOUDINI/","tags":["MOC"],"ctime":"2026-05-02T23:07:41.691+02:00","mtime":"2026-11-26T22:27:18.161+01:00","dg-note-properties":{"tags":["MOC"],"MOC":["[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/MODELISATION]]","[[3_GARDEN/MOCs/ART]]"],"Source":null,"creation date":"2025-02-02","banner":"https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/HOUDINI/","tags":["MOC"],"ctime":"2026-05-02T23:07:41.691+02:00","mtime":"2026-11-26T22:28:38.765+01:00","dg-note-properties":{"tags":["MOC"],"MOC":["[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/MODELISATION]]","[[3_GARDEN/MOCs/ART]]"],"Source":null,"creation date":"2025-02-02","banner":"https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"}}
 ---
 
 
@@ -43,6 +43,7 @@ Houdini est très utilisé par les grands studios d'effets spéciaux comme Walt 
 > #### Rendering avec renderman dans solaris
 > [meshmenstudi](https://youtube.com/@meshmenstudio?si=QeGUB7sUuXzYuHFQ)
 
+---
 ---
 ## Interface et compréhension générale du logiciel
 
@@ -93,7 +94,7 @@ $$Rig-Animation$$
 
 ---
 
-## Dynamiques et simulations
+$$FX$$
 
 
 | [[3_GARDEN/Notes permanentes/POP Network\|PARTICLE SIMULATION HOUDINI]]             | [[3_GARDEN/MOCs/FIRE SIMULATIONS HOUDINI\|FIRE SIMULATIONS HOUDINI]]            |
@@ -104,7 +105,7 @@ $$Rig-Animation$$
 
 ---
 
-## Grooming
+$$Groom$$
 
 |     | [[3_GARDEN/MOCs/GROOM\|GROOM]] |     |
 | --- | --------- | --- |
@@ -112,12 +113,12 @@ $$Rig-Animation$$
 
 
 ---
-## Environnements
+#### $$Environnements$$
 
 
 ---
 
-## Crowd
+$$Crowd$$
 
 [[3_GARDEN/MOCs/Crowd Houdini\|Crowd Houdini]]
 
