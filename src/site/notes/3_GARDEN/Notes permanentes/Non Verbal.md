@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Non Verbal/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.129+01:00","mtime":"2026-04-24T17:43:18.880+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/18e cours scénario, les dialogues]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-04-24","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Non Verbal/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:25.238+01:00","mtime":"2026-04-24T17:43:18.880+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/18e cours scénario, les dialogues]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-04-24","aliases":null}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/MYTHE/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.052+01:00","mtime":"2026-08-18T13:30:36.731+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/GENRES DU CINEMA]]","[[3_GARDEN/Notes permanentes/CINEMA]]","[[3_GARDEN/MOCs/LITTÉRATURE]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":null,"aliases":null,"Source":["[[3_GARDEN/Notes littéraires/Truby - L'anatomie des histoires - note litt]]","[[Media_DB/Books/L'Anatomie des histoires]]"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/MYTHE/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:30.229+01:00","mtime":"2026-08-18T13:30:36.731+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/GENRES DU CINEMA]]","[[3_GARDEN/Notes permanentes/CINEMA]]","[[3_GARDEN/MOCs/LITTÉRATURE]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":null,"aliases":null,"Source":["[[3_GARDEN/Notes littéraires/Truby - L'anatomie des histoires - note litt]]","[[Media_DB/Books/L'Anatomie des histoires]]"]}}
 ---
 
 

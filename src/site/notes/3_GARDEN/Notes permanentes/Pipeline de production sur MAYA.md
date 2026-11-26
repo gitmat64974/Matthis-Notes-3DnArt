@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Pipeline de production sur MAYA/","tags":["note_permanente","en_cours"],"ctime":"2026-03-22T12:15:22.255+01:00","mtime":"2026-11-08T22:09:09.739+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/3D]]"],"source":"https://docs.google.com/document/d/1koZEXPR5BPJyV1j_J2mAHfWtscxvrqUK-6UkjUEcAm0/edit?tab=t.0","Projets":["[[6_ARCHIVES/Projets/3D4/Projet fil rouge]]"],"tags":["note_permanente","en_cours"],"creation date":"2026-02-10","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Pipeline de production sur MAYA/","tags":["note_permanente","en_cours"],"ctime":"2026-03-21T20:44:20.748+01:00","mtime":"2026-11-08T22:09:09.739+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/3D]]"],"source":"https://docs.google.com/document/d/1koZEXPR5BPJyV1j_J2mAHfWtscxvrqUK-6UkjUEcAm0/edit?tab=t.0","Projets":["[[6_ARCHIVES/Projets/3D4/Projet fil rouge]]"],"tags":["note_permanente","en_cours"],"creation date":"2026-02-10","aliases":null}}
 ---
 
 ## La note 

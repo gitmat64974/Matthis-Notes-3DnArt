@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Profondeur de champ/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.425+01:00","mtime":"2026-03-30T20:32:08.534+02:00","dg-note-properties":{"source":["[[3_GARDEN/Notes littéraires/Le rendu, google doc début d'année du prof de lighting 3D2]]"],"MOC":["[[3_GARDEN/MOCs/LIGHTING]]","[[3_GARDEN/MOCs/LIGHTING]]","[[3_GARDEN/MOCs/SHADING TEXTURING]]","[[3_GARDEN/MOCs/ANALYSE FILMIQUE]]","[[3_GARDEN/Notes permanentes/CINEMA]]"],"tags":["note_permanente"],"creation date":"2024-11-26"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Profondeur de champ/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:44.460+01:00","mtime":"2026-03-30T20:32:08.534+02:00","dg-note-properties":{"source":["[[3_GARDEN/Notes littéraires/Le rendu, google doc début d'année du prof de lighting 3D2]]"],"MOC":["[[3_GARDEN/MOCs/LIGHTING]]","[[3_GARDEN/MOCs/LIGHTING]]","[[3_GARDEN/MOCs/SHADING TEXTURING]]","[[3_GARDEN/MOCs/ANALYSE FILMIQUE]]","[[3_GARDEN/Notes permanentes/CINEMA]]"],"tags":["note_permanente"],"creation date":"2024-11-26"}}
 ---
 
 ## La note

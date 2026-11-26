@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Node Paint MARI/","tags":["note_permanente"],"ctime":"2026-07-18T11:08:04.282+02:00","mtime":"2026-07-17T16:39:43.622+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/MARI]]"],"source":["[[3_GARDEN/Notes littéraires/3e cours lighting 3D4]]"],"Projets":null,"tags":["note_permanente"],"creation date":202607171637,"aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Node Paint MARI/","tags":["note_permanente"],"ctime":"2026-07-17T16:37:54.619+02:00","mtime":"2026-07-17T16:39:43.622+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/MARI]]"],"source":["[[3_GARDEN/Notes littéraires/3e cours lighting 3D4]]"],"Projets":null,"tags":["note_permanente"],"creation date":202607171637,"aliases":null}}
 ---
 
 ## La note 

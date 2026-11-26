@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Projection dans Mari/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.426+01:00","mtime":"2026-03-30T20:32:08.613+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/LIGHTING]]","[[3_GARDEN/MOCs/SHADING TEXTURING]]","[[3_GARDEN/MOCs/MARI]]"],"source":["[[3_GARDEN/Notes littéraires/3e cours lighting 3D4]]","[[3_GARDEN/Notes littéraires/4e cours lighting 3D4]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-11-06","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Projection dans Mari/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:34.462+01:00","mtime":"2026-03-30T20:32:08.613+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/LIGHTING]]","[[3_GARDEN/MOCs/SHADING TEXTURING]]","[[3_GARDEN/MOCs/MARI]]"],"source":["[[3_GARDEN/Notes littéraires/3e cours lighting 3D4]]","[[3_GARDEN/Notes littéraires/4e cours lighting 3D4]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-11-06","aliases":null}}
 ---
 
 ## La note 
