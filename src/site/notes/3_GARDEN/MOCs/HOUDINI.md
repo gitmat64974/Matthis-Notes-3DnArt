@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/HOUDINI/","tags":["MOC"],"ctime":"2026-05-02T23:07:41.691+02:00","mtime":"2026-11-26T22:07:56.538+01:00","dg-note-properties":{"tags":["MOC"],"MOC":["[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/MODELISATION]]","[[3_GARDEN/MOCs/ART]]"],"Source":null,"creation date":"2025-02-02","banner":"https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/HOUDINI/","tags":["MOC"],"ctime":"2026-05-02T23:07:41.691+02:00","mtime":"2026-11-26T22:16:51.123+01:00","dg-note-properties":{"tags":["MOC"],"MOC":["[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/MODELISATION]]","[[3_GARDEN/MOCs/ART]]"],"Source":null,"creation date":"2025-02-02","banner":"https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"}}
 ---
-
-
-# Le logiciel
 
 
 Le logiciel Houdini est un outil d'animation 3D très puissant développé par la société SideFX, reconnu principalement pour sa capacité à créer des effets visuels complexes pour le cinéma, la télévision, les jeux vidéo, la réalité virtuelle et l'architecture. Sa particularité réside dans son système procédural nodal : chaque action dans la création est stockée dans un nœud (node) et ces nœuds sont connectés entre eux pour former des réseaux modifiables à tout moment, permettant ainsi un contrôle extraordinaire et une grande flexibilité dans la création d'effets visuels, d'animations, et de simulations dynamiques (fluide, fumée, feu, destruction, etc.)
 
 Houdini est très utilisé par les grands studios d'effets spéciaux comme Walt Disney, Pixar, DreamWorks, ILM, Framestore, ou Sony Pictures Imageworks. Le logiciel excelle notamment dans la simulation de phénomènes physiques réalistes comme les explosions, métamorphoses, créations d'environnements dynamiques, ou encore des simulations d'interactions dans la réalité virtuelle et augmentée. Il est aussi employé dans l'architecture et l'ingénierie pour visualiser et simuler des projets complexes avec précision
 
----
 
 > [!example]- Ressources
 > #### General
@@ -99,34 +95,11 @@ $$Modelisation$$
 
 ## Dynamiques et simulations
 
-[[3_GARDEN/Notes permanentes/Solver\|Solver]]
-[[3_GARDEN/Notes permanentes/DOP Houdini\|DOP Houdini]]
-- [[3_GARDEN/Notes permanentes/POP Network\|POP Network]]
 
-[[3_GARDEN/Notes permanentes/Structure projets Houdini pour grosses simus\|Structure projets Houdini pour grosses simus]]
-
-### Pyro Simulations
-
-[[3_GARDEN/MOCs/FIRE SIMULATIONS HOUDINI\|FIRE SIMULATIONS HOUDINI]]
-- [[3_GARDEN/Notes permanentes/Pyro Simulation Houdini\|Pyro Simulation Houdini]]
-
-### Rigid body simulations (RBD)
-
-[[3_GARDEN/Notes permanentes/RBD Simulation Houdini\|RBD Simulation Houdini]]
-- [[3_GARDEN/Notes permanentes/RBD, Régler les comportements des éléments\|RBD, Régler les comportements des éléments]]
-	- [[3_GARDEN/Notes permanentes/RBD configure\|RBD configure]]
-- [[3_GARDEN/Notes permanentes/RBD Cluster\|RBD Cluster]]
-- [[3_GARDEN/Notes permanentes/RBD Bullet Solver\|RBD Bullet Solver]]
-- [[3_GARDEN/Notes permanentes/Explosion en RBD\|Explosion en RBD]]
-
-[[3_GARDEN/Notes permanentes/Preventing jitter RBD Houdini\|Preventing jitter RBD Houdini]]
-
-### Flip simulations
-
-[[3_GARDEN/MOCs/FLUID SIMULATIONS HOUDINI\|FLUID SIMULATIONS HOUDINI]]
-- [[3_GARDEN/Notes permanentes/SOP flip simulation\|SOP flip simulation]]
-- [[3_GARDEN/Notes permanentes/DOP flip simulation\|DOP flip simulation]]
-- [[3_GARDEN/Notes permanentes/Rain dans houdini\|Rain dans houdini]]
+| [[3_GARDEN/Notes permanentes/POP Network\|PARTICLE SIMULATION HOUDINI]]       | [[3_GARDEN/MOCs/FIRE SIMULATIONS HOUDINI\|FIRE SIMULATIONS HOUDINI]]  |
+| -------------------------------------------------- | ----------------------------- |
+| [[3_GARDEN/MOCs/RBD Simulation Houdini\|RBD SIMULATION HOUDINI]] | [[3_GARDEN/MOCs/FLUID SIMULATIONS HOUDINI\|FLUID SIMULATIONS HOUDINI]] |
+|                                                    |                               |
 
 ### Muscle simulations
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Explosion en RBD/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:54.315+01:00","mtime":"2026-10-20T14:42:38.506+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/Notes permanentes/RBD Simulation Houdini]]","[[3_GARDEN/MOCs/HOUDINI]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-26","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Explosion en RBD/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:54.315+01:00","mtime":"2026-10-20T14:42:38.506+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/RBD Simulation Houdini]]","[[3_GARDEN/MOCs/HOUDINI]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-26","aliases":null}}
 ---
 
 ## La note 

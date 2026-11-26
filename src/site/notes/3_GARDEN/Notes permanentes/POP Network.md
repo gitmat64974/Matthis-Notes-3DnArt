@@ -1,13 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/POP Network/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:44.374+01:00","mtime":"2026-10-11T20:48:10.840+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["Houdini doc","[[3_GARDEN/Notes littéraires/Cours houdini ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-27","aliases":["Popnet"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/POP Network/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:44.374+01:00","mtime":"2026-11-26T22:10:09.792+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["Houdini doc","[[3_GARDEN/Notes littéraires/Cours houdini ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-27","aliases":["Popnet"]}}
 ---
 
 ## La note 
 
 Le POP Network est une sorte de script pour créer la structure initiale nécessaire à la simulation de particule dans un [[3_GARDEN/Notes permanentes/DOP Houdini\|DOP Network]] 
-
-
-
 
 > [!tip]+ 2 méthodes de génération des particules : impulse et constant
 > - **Impulse** : nombre de particules générées toutes les frames
