@@ -1,15 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/RIG HOUDINI/","tags":["MOC"],"ctime":"2026-03-21T20:44:45.397+01:00","mtime":"2026-11-23T18:45:37.871+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/RIG]]"],"source":["Houdini doc"],"tags":["MOC"],"creation date":"2026-09-26","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/RIG HOUDINI/","tags":["MOC"],"ctime":"2026-03-21T20:44:45.397+01:00","mtime":"2026-11-26T22:45:04.030+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/RIG]]"],"source":["Houdini doc"],"tags":["MOC"],"creation date":"2026-09-26","aliases":null}}
 ---
 
 
-# Cartographie
-
-
-# Définition
-
-
----
 *La page de présentation de sidefx : [Rigging \| SideFX](https://www.sidefx.com/products/whats-new-in-h21/rigging/)*
 *Guide de transition depuis MAYA : [Maya™ transition guide for character and animation](https://www.sidefx.com/docs/houdini/character/kinefx/mayatransitionguide.html)*
 
