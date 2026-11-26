@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/HOUDINI/","tags":["MOC"],"ctime":"2026-05-02T23:07:41.691+02:00","mtime":"2026-11-26T22:20:14.399+01:00","dg-note-properties":{"tags":["MOC"],"MOC":["[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/MODELISATION]]","[[3_GARDEN/MOCs/ART]]"],"Source":null,"creation date":"2025-02-02","banner":"https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/HOUDINI/","tags":["MOC"],"ctime":"2026-05-02T23:07:41.691+02:00","mtime":"2026-11-26T22:22:03.617+01:00","dg-note-properties":{"tags":["MOC"],"MOC":["[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/MODELISATION]]","[[3_GARDEN/MOCs/ART]]"],"Source":null,"creation date":"2025-02-02","banner":"https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"}}
 ---
 
 
@@ -84,7 +84,7 @@ $$Modelisation$$
 
 ---
 
-## Rig et Animation
+$$Rig-Animation$$
 
 
 | [[3_GARDEN/MOCs/RIG HOUDINI\|RIG APEX]] | [[3_GARDEN/Notes permanentes/APEX - Animation - Houdini\|ANIMATION APEX]] |
@@ -113,18 +113,6 @@ $$Modelisation$$
 
 ---
 ## Environnements
-
-[[3_GARDEN/Notes permanentes/Houdini Heighfields\|Houdini Heighfields]]
-- [[3_GARDEN/Notes permanentes/Terrain texturing\|Terrain texturing]]
-[[3_GARDEN/Notes permanentes/Houdini labs biome scattering\|Houdini labs biome scattering]]
-
-[[3_GARDEN/Notes permanentes/Houdini tree generation\|Houdini tree generation]]
-
-[[3_GARDEN/Notes permanentes/Procedural environnement asset\|Procedural environnement asset]]
-
-Scatterring : [[3_GARDEN/Notes permanentes/Scattering Houdini\|Scattering Houdini]]
-
-[[3_GARDEN/Notes permanentes/Physical placement Solaris\|Physical placement Solaris]]
 
 
 ---
