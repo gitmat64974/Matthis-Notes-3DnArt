@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/APEX - Animation - Houdini/","tags":["note_permanente","en_cours"],"ctime":"2026-03-22T12:15:21.565+01:00","mtime":"2026-11-23T18:46:14.148+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/ANIMATION]]"],"source":null,"Projets":null,"tags":["note_permanente","en_cours"],"creation date":"2026-02-12","aliases":["APEX Animation Houdini"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/APEX - Animation - Houdini/","tags":["note_permanente","en_cours"],"ctime":"2026-03-22T12:15:21.565+01:00","mtime":"2026-11-24T21:40:26.169+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/ANIMATION]]"],"source":null,"Projets":null,"tags":["note_permanente","en_cours"],"creation date":"2026-02-12","aliases":["APEX Animation Houdini"]}}
 ---
 
 ## La note 
@@ -87,6 +87,7 @@ Là on peut voir le motion path du controleur sélectionné et bouger n'importe 
 ---
 
 ### Pose Tools
+
 
 Apex dispose de plusieurs modes de poses et d'anim qui permettent différents traitement en fonction des besoins
 Par défaut, on est sur le mode de base, le mode animate

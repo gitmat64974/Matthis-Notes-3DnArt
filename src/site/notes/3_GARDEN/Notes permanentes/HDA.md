@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/HDA/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:47.541+01:00","mtime":"2026-10-28T16:51:51.085+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["[[3_GARDEN/Notes littéraires/4e cours CFX]]"],"Projets":null,"tags":["note_permanente"],"creation date":202511071715,"aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/HDA/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.306+01:00","mtime":"2026-11-26T00:41:09.245+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["[[3_GARDEN/Notes littéraires/4e cours CFX]]"],"Projets":null,"tags":["note_permanente"],"creation date":202511071715,"aliases":null}}
 ---
 
 ## La note 
@@ -12,6 +12,10 @@ Houdini digital asset : groupe de node qu'on peut grouper et export / importer c
 ### Installer un HDA
 Asset -> install asset library : pour importer un hda (digital asset)
 
+Installer en manuel : 
+Mettre le fichier HDA dans le dossier `C:\Users\Utilisateur\Documents\houdini<version>\otls` 
+
+(*si le dossier otls n'existe pas, c'est qu'il n'y a pas encore eu d'HDA customs, il faut donc le créer*)
 #### Modification HDA
 
 Attention à bien modifier le layout des paramètres dans la fenetre type properties et pas dans edit parameter interface
@@ -72,6 +76,21 @@ Si vous avez plusieurs paramètres liés à l'Option 1 (comme des sliders de tai
 **Alternative : Disable When**
 
 Si vous préférez que les paramètres restent visibles mais soient grisés (non modifiables) lorsque l'Option 2 est active, placez simplement la même expression `{ choix_mode == 1 }` dans le champ **Disable When** au lieu de _Hide When_.
+
+#### Créer une couleur permanente pour l'HDA
+
+1. Faites un clic droit sur votre nœud HDA dans le **Network Editor** et choisissez **Type Properties...**
+2. Allez dans l'onglet **Scripts**.
+3. Dans le menu déroulant **Event Handler**, sélectionnez **On Created**.
+4. Assurez-vous que le langage est réglé sur **Python**, puis collez le code suivant :
+
+```python
+import hou
+
+node = kwargs["node"]
+color = hou.Color((0.6, 0.3, 0.7))  # Valeurs RGB entre 0.0 et 1.0
+node.setColor(color)
+```
 
 ## Références
 

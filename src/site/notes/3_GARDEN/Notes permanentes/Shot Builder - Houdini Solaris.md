@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Shot Builder - Houdini Solaris/","tags":["note_permanente"],"ctime":"2026-11-03T01:28:01.744+01:00","mtime":"2026-11-10T16:37:53.278+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/USD]]","[[3_GARDEN/MOCs/SOLARIS|Solaris]]","[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/LIGHTING]]"],"source":["https://youtu.be/xE0M6a7mJKc"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-02","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Shot Builder - Houdini Solaris/","tags":["note_permanente"],"ctime":"2026-11-03T01:28:01.744+01:00","mtime":"2026-11-25T14:48:39.772+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/USD]]","[[3_GARDEN/MOCs/SOLARIS|Solaris]]","[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/LIGHTING]]"],"source":["https://youtu.be/xE0M6a7mJKc"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-02","aliases":null}}
 ---
 
 ## La note 
@@ -13,7 +13,7 @@ En utilisant le shot Builder, on édite des layers USD ([[3_GARDEN/Notes permane
 > - [[3_GARDEN/Notes permanentes/USD Layers\|USD Layers]]
 > - Unité (unit) : le bloc de base de la hiérarchie. Souvent un shot (un plan du film), mais ça peut être un asset, un environnement… Chaque type d'unité contient son propre paquet de couches.
 > - project.json : le petit fichier « plan du projet ». Il déclare les types d'unités et les layers de chacune. Toute la structure de dossiers et de fichiers en est déduite.
-> - HPR Resolver : l'asset resolver intégré de SideFX. Une resolver est une boîte noire qui gère les chemins de fichiers : où ranger les exports, quelle version (v1, v2, v3) charger — toujours la plus récente, sauf si vous l'épinglez.
+> - [[3_GARDEN/Notes permanentes/HPR\|HPR Resolver]] : l'asset resolver intégré de SideFX. Une resolver est une boîte noire qui gère les chemins de fichiers : où ranger les exports, quelle version (v1, v2, v3) charger — toujours la plus récente, sauf si vous l'épinglez.
 > - 4 nodes essentiels : Shot Load (charger le shot courant), Shot Layer Edit (éditer un layer), Shot Switch, Shot Output (publier les données / rendre les images).
 
 ### Utilisation Studio et bénéfices

@@ -164,7 +164,8 @@ Dans le cas de l'extension `.usd`, le format est enregistré en Binaire (« Crat
 
 #### Importation d'éléments dans Solaris
 
-[[3_GARDEN/Notes permanentes/Importation dans Solaris\|Importation dans Solaris]] 
+[[3_GARDEN/Notes permanentes/Importation dans Solaris\|Importation dans Solaris]]
+- (*[[3_GARDEN/Notes permanentes/MAYA USD Export\|MAYA USD Export]]*)
 - [[3_GARDEN/Notes permanentes/Geometry subset\|Geometry subset]]
 
 Les données plus profondes contenues dans l'USD : [[3_GARDEN/Notes permanentes/USD Schemas and Primvars\|USD Schemas and Primvars]]
@@ -176,6 +177,8 @@ Les données plus profondes contenues dans l'USD : [[3_GARDEN/Notes permanentes/
 #### USD set dress et layout
 
 Une notion extrêmement importante : [[3_GARDEN/Notes permanentes/USD Layers\|USD Layers]]
+- Force des layers les uns par rapport aux autres : [[3_GARDEN/Notes permanentes/USD Opinions and strength\|USD Opinions and strength]]
+
 [[3_GARDEN/Notes permanentes/Techniques pour répartir un asset avec des variants dans un set - Solaris\|Techniques pour répartir un asset avec des variants dans un set - Solaris]]
 
 #### Annexes
@@ -229,7 +232,7 @@ La hiérarchie des fichiers exportés par le component builder :
 #### Component geometry
 
 3 modes pour importer la géo : 
-- **Internal SOP** : Entrer à l'intérieur pour setup la geo de render, et si on veut la geo proxy et la geo simproxy. ->*Le mode préférable*
+- **Internal SOP** : Entrer à l'intérieur pour setup la geo de render, et si on veut la geo proxy et la geo simproxy. ->*Le mode préférable*. Voir -> [[3_GARDEN/Notes permanentes/Setup une géo pour l'USD avec Solaris\|Setup une géo pour l'USD avec Solaris]]
 - **File** : fichier référencé
 - **External SOP** : chemin dans un SOPNet externe
 
