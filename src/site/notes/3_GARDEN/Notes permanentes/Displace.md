@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Displace/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.022+01:00","mtime":"2026-04-24T17:43:18.670+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/LIGHTING]]","[[3_GARDEN/MOCs/LIGHTING]]","[[3_GARDEN/MOCs/SHADING TEXTURING]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2024-11-26","aliases":["Displacement","DispRGB","Scalar displacement"],"Source":["[[3_GARDEN/Notes littéraires/Le rendu, google doc début d'année du prof de lighting 3D2]]","[[3_GARDEN/Notes littéraires/Cours de lighting rendu ESMA]]"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Displace/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:25.055+01:00","mtime":"2026-04-24T17:43:18.670+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/LIGHTING]]","[[3_GARDEN/MOCs/LIGHTING]]","[[3_GARDEN/MOCs/SHADING TEXTURING]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2024-11-26","aliases":["Displacement","DispRGB","Scalar displacement"],"Source":["[[3_GARDEN/Notes littéraires/Le rendu, google doc début d'année du prof de lighting 3D2]]","[[3_GARDEN/Notes littéraires/Cours de lighting rendu ESMA]]"]}}
 ---
 
 

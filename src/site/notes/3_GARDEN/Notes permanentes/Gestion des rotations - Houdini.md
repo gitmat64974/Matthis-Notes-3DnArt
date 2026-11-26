@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Gestion des rotations - Houdini/","tags":["note_permanente"],"ctime":"2026-09-22T09:47:08.635+02:00","mtime":"2026-09-23T17:59:11.521+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/MODELISATION]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-09-22","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Gestion des rotations - Houdini/","tags":["note_permanente"],"ctime":"2026-09-22T07:50:15.323+02:00","mtime":"2026-09-23T17:59:11.521+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/MODELISATION]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-09-22","aliases":null}}
 ---
 
 ## La note 

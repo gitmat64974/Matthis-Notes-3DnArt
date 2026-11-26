@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Diagramme CIE XYZ/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:21.996+01:00","mtime":"2026-04-04T12:57:39.499+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/LIGHTING]]","[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/COULEUR]]"],"source":["[[3_GARDEN/Notes littéraires/Chris Brejon, CG Cinematography book chapter 1, note litt]]"],"Projets":null,"tags":["note_permanente"],"creation date":202510041727,"aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Diagramme CIE XYZ/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:31.505+01:00","mtime":"2026-04-04T12:57:39.499+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/LIGHTING]]","[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/COULEUR]]"],"source":["[[3_GARDEN/Notes littéraires/Chris Brejon, CG Cinematography book chapter 1, note litt]]"],"Projets":null,"tags":["note_permanente"],"creation date":202510041727,"aliases":null}}
 ---
 
 ## La note 

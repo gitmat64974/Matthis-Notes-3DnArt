@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Flashback/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.204+01:00","mtime":"2026-04-24T17:43:18.703+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/19e cours scénario, L'exposition]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-04-27","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Flashback/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:52.098+01:00","mtime":"2026-04-24T17:43:18.703+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/19e cours scénario, L'exposition]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-04-27","aliases":null}}
 ---
 
 

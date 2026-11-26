@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Flair for Maya/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.202+01:00","mtime":"2025-10-03T17:20:01.031+02:00","dg-note-properties":{"MOC":null,"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2025-06-27","aliases":null,"banner":"https://cdn.prod.website-files.com/62601097610537943c391d85/64a3f97da25bdfc447e4624e_pony-flair.jpg"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Flair for Maya/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:23.921+01:00","mtime":"2025-10-03T17:20:01.031+02:00","dg-note-properties":{"MOC":null,"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2025-06-27","aliases":null,"banner":"https://cdn.prod.website-files.com/62601097610537943c391d85/64a3f97da25bdfc447e4624e_pony-flair.jpg"}}
 ---
 
 ## La note 

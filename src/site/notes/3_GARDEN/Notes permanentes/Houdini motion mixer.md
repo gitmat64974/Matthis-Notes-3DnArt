@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Houdini motion mixer/","tags":["note_permanente"],"ctime":"2026-09-29T16:30:56.097+02:00","mtime":"2026-09-29T16:32:14.315+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/RIG]]","[[3_GARDEN/MOCs/RIG HOUDINI]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-09-29","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Houdini motion mixer/","tags":["note_permanente"],"ctime":"2026-09-29T18:30:52.086+02:00","mtime":"2026-09-29T16:32:14.315+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/RIG]]","[[3_GARDEN/MOCs/RIG HOUDINI]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-09-29","aliases":null}}
 ---
 
 ## La note 

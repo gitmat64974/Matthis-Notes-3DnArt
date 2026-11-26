@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Defocus Nuke/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:21.967+01:00","mtime":"2026-04-24T17:43:18.662+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITING]]"],"source":["#video[This Unreal 5 + Nuke Workflow is Actually Insane - YouTube](https://youtu.be/hFM_jGd46as?si=WZ1aR26kPI3pZrAe)"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-02-16","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Defocus Nuke/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:26.093+01:00","mtime":"2026-04-24T17:43:18.662+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITING]]"],"source":["#video[This Unreal 5 + Nuke Workflow is Actually Insane - YouTube](https://youtu.be/hFM_jGd46as?si=WZ1aR26kPI3pZrAe)"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-02-16","aliases":null}}
 ---
 
 

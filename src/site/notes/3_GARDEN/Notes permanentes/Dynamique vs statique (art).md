@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Dynamique vs statique (art)/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.050+01:00","mtime":"2026-04-24T17:43:18.674+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ART]]","[[3_GARDEN/MOCs/ILLUSTRATION]]","[[3_GARDEN/MOCs/CONCEPT ART]]","[[3_GARDEN/MOCs/CHARA DESIGN]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2024-09-27","aliases":["Contraste et intérêt (art)"],"Source":["https://www.youtube.com/watch?v=8YA2-_A56dw"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Dynamique vs statique (art)/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:20.812+01:00","mtime":"2026-04-24T17:43:18.674+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ART]]","[[3_GARDEN/MOCs/ILLUSTRATION]]","[[3_GARDEN/MOCs/CONCEPT ART]]","[[3_GARDEN/MOCs/CHARA DESIGN]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2024-09-27","aliases":["Contraste et intérêt (art)"],"Source":["https://www.youtube.com/watch?v=8YA2-_A56dw"]}}
 ---
 
 

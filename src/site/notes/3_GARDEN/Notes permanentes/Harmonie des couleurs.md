@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Harmonie des couleurs/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.303+01:00","mtime":"2026-04-24T17:43:18.722+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ILLUSTRATION]]"],"source":["[[1er cours d'illustration esma 3d1a]] / [[3e et 4e cours compositing esma 3d2]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2023-10-03","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Harmonie des couleurs/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:53.694+01:00","mtime":"2026-04-24T17:43:18.722+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ILLUSTRATION]]"],"source":["[[1er cours d'illustration esma 3d1a]] / [[3e et 4e cours compositing esma 3d2]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2023-10-03","aliases":null}}
 ---
 
 

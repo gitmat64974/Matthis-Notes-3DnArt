@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/DOP Houdini/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.043+01:00","mtime":"2026-07-20T13:39:31.947+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["CG Weeky"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-22","aliases":["DOP Network"],"banner":"https://forums.odforce.net/uploads/monthly_2020_01/DOP_Velocity.jpg.849809f525017834350ab23d9f1be3b6.jpg"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/DOP Houdini/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:21.929+01:00","mtime":"2026-07-20T13:39:31.947+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["CG Weeky"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-22","aliases":["DOP Network"],"banner":"https://forums.odforce.net/uploads/monthly_2020_01/DOP_Velocity.jpg.849809f525017834350ab23d9f1be3b6.jpg"}}
 ---
 
 ## La note 

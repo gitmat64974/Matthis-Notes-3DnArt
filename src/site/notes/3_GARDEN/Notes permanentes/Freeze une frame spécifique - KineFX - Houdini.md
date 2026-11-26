@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Freeze une frame spécifique - KineFX - Houdini/","tags":["note_permanente"],"ctime":"2026-11-13T12:50:11.462+01:00","mtime":"2026-11-13T12:51:23.308+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/Notes permanentes/KineFX]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-13","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Freeze une frame spécifique - KineFX - Houdini/","tags":["note_permanente"],"ctime":"2026-11-13T18:47:40.226+01:00","mtime":"2026-11-13T12:51:23.308+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/Notes permanentes/KineFX]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-13","aliases":null}}
 ---
 
 ## La note 

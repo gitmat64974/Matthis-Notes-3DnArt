@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Houdini muscle simulation/","tags":["note_permanente","en_cours"],"ctime":"2026-03-22T12:15:22.351+01:00","mtime":"2026-10-12T20:17:55.468+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["Houdini learning","Houdini doc"],"Projets":null,"tags":["note_permanente","en_cours"],"creation date":"2025-11-18","aliases":["Simulation de muscle dans Houdini"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Houdini muscle simulation/","tags":["note_permanente","en_cours"],"ctime":"2026-03-21T20:44:55.907+01:00","mtime":"2026-10-12T20:17:55.468+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["Houdini learning","Houdini doc"],"Projets":null,"tags":["note_permanente","en_cours"],"creation date":"2025-11-18","aliases":["Simulation de muscle dans Houdini"]}}
 ---
 
 ## La note 

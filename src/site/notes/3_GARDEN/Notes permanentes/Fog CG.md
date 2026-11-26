@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Fog CG/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.211+01:00","mtime":"2026-11-11T15:17:19.190+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/3D|CG]]","[[3_GARDEN/MOCs/COMPOSITING]]"],"source":["[[Kickstart your VFX Career pdf]] / [[Cours 2, 4, 5 et 6 de Gael Bourdeu, remplaçant prof Lighting 3D2]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-02-27","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Fog CG/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:21.832+01:00","mtime":"2026-11-11T15:17:19.190+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/3D|CG]]","[[3_GARDEN/MOCs/COMPOSITING]]"],"source":["[[Kickstart your VFX Career pdf]] / [[Cours 2, 4, 5 et 6 de Gael Bourdeu, remplaçant prof Lighting 3D2]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-02-27","aliases":null}}
 ---
 
 

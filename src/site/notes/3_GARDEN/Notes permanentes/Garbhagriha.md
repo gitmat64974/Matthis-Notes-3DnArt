@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Garbhagriha/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.247+01:00","mtime":"2026-05-21T14:25:39.490+02:00","dg-note-properties":{"MOC":null,"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2025-12-02","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Garbhagriha/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:51.451+01:00","mtime":"2026-05-21T14:25:39.490+02:00","dg-note-properties":{"MOC":null,"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2025-12-02","aliases":null}}
 ---
 
 ## La note 
