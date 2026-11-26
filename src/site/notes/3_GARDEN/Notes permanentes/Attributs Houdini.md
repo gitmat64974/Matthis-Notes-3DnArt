@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Attributs Houdini/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:21.621+01:00","mtime":"2026-10-02T21:58:29.614+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-10","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Attributs Houdini/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:21.621+01:00","mtime":"2026-11-26T11:22:05.092+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-10","aliases":null}}
 ---
 
 ## La note 
@@ -78,6 +78,11 @@ et plein d'autres...
 
 
 ## Références
+
+- [[3_GARDEN/Notes permanentes/Attribute paint\|Attribute paint]]
+- [[3_GARDEN/Notes permanentes/Attribut Curveu\|Attribut Curveu]]
+
+#### Ressources
 
 [Geometry attributes](https://www.sidefx.com/docs/houdini/model/attributes.html)
 
