@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/HOUDINI/","tags":["MOC"],"ctime":"2026-05-02T23:07:41.691+02:00","mtime":"2026-11-26T11:22:38.770+01:00","dg-note-properties":{"tags":["MOC"],"MOC":["[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/MODELISATION]]","[[3_GARDEN/MOCs/ART]]"],"Source":null,"creation date":"2025-02-02","banner":"https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/HOUDINI/","tags":["MOC"],"ctime":"2026-05-02T23:07:41.691+02:00","mtime":"2026-11-26T22:06:00.333+01:00","dg-note-properties":{"tags":["MOC"],"MOC":["[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/MODELISATION]]","[[3_GARDEN/MOCs/ART]]"],"Source":null,"creation date":"2025-02-02","banner":"https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"}}
 ---
 
 
@@ -78,46 +78,15 @@ utile : *[[3_GARDEN/Notes permanentes/Raccourcis Houdini les plus utiles\|Raccou
 
 
 ---
-
-## Modélisation manuelle
-
-[[3_GARDEN/Notes permanentes/Interactive modeling - Houdini\|Interactive modeling - Houdini]]
-
-## Modélisation procédurale 
-
-[[3_GARDEN/Notes permanentes/Différence point et vertex\|Différence point et vertex]]
+# DOMAINES
 
 
-[[3_GARDEN/Notes permanentes/Boolean Houdini\|Boolean Houdini]]
-[[3_GARDEN/Notes permanentes/Récupérer les hard edges dans Houdini\|Récupérer les hard edges dans Houdini]]
+$$Modelisation$$
 
-[[3_GARDEN/Notes permanentes/Node Sort\|Node Sort]]
-[[3_GARDEN/Notes permanentes/Up Vector Houdini\|Up Vector Houdini]]
+| [[3_GARDEN/Notes permanentes/Interactive modeling - Houdini\|INTERACTIVE MODELING]] | [[3_GARDEN/MOCs/PROCEDURAL MODELING\|PROCEDURAL MODELING]] |
+| -------------------------------------------------------- | ----------------------- |
 
-[[3_GARDEN/Notes permanentes/Node group Houdini\|Node group Houdini]]
-[[3_GARDEN/Notes permanentes/HDA\|HDA]]
 
-[[3_GARDEN/Notes permanentes/Distance from geometry Houdini\|Distance from geometry Houdini]]
-
-[[3_GARDEN/Notes permanentes/Lattice - Houdini\|Lattice - Houdini]]
-#### UVs
-
-[[3_GARDEN/Notes permanentes/UV - Houdini\|UV - Houdini]]
-
-#### Applicatifs 
-
-[[3_GARDEN/Notes permanentes/Mode corde procedurale Houdini\|Mode corde procedurale Houdini]]
-[[3_GARDEN/Notes permanentes/Mode chaine procedurale Houdini\|Mode chaine procedurale Houdini]] 
-[[3_GARDEN/Notes permanentes/Procedural plants and flowers Houdini\|Procedural plants and flowers Houdini]]
-[[3_GARDEN/Notes permanentes/Mode procedurale escaliers Houdini\|Mode procedurale escaliers Houdini]]
-
-[[3_GARDEN/Notes permanentes/Stone wall modeling Houdini\|Stone wall modeling Houdini]]
-
-#### Végétation
-
-[[3_GARDEN/Notes permanentes/Ivy generator Houdini\|Ivy generator Houdini]]
-
----
 
 ## Dynamiques et simulations
 

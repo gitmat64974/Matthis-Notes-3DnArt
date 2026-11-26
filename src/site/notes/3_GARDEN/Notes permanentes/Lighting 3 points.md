@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Lighting 3 points/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.875+01:00","mtime":"2026-03-30T20:32:06.751+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/LIGHTING]]"],"source":["https://www.studiobinder.com/blog/three-point-lighting-setup/?pStoreID=techsoup/1000%27%27[0]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-09-15","aliases":["3 point lighting"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Lighting 3 points/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:54.941+01:00","mtime":"2026-03-30T20:32:06.751+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/LIGHTING]]"],"source":["https://www.studiobinder.com/blog/three-point-lighting-setup/?pStoreID=techsoup/1000%27%27[0]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-09-15","aliases":["3 point lighting"]}}
 ---
 
 ## La note 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Machine learning dans Houdini/","tags":["note_permanente","en_cours"],"ctime":"2026-10-09T17:36:50.126+02:00","mtime":"2026-10-11T00:05:16.083+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/IA]]"],"source":["Houdini Hive"],"Projets":null,"tags":["note_permanente","en_cours"],"creation date":"2026-10-09","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Machine learning dans Houdini/","tags":["note_permanente","en_cours"],"ctime":"2026-10-09T18:21:16.997+02:00","mtime":"2026-10-11T00:05:16.083+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/IA]]"],"source":["Houdini Hive"],"Projets":null,"tags":["note_permanente","en_cours"],"creation date":"2026-10-09","aliases":null}}
 ---
 
 ## La note 

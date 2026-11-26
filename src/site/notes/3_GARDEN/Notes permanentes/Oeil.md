@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Oeil/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.168+01:00","mtime":"2026-04-24T17:43:18.888+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITING]]","[[3_GARDEN/MOCs/LIGHTING]]"],"source":["[[3e et 4e cours compositing esma 3d2]] / [[Chris Brejon, CG Cinematography book chapter 1, note litt]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-05-12","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Oeil/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:42.989+01:00","mtime":"2026-04-24T17:43:18.888+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITING]]","[[3_GARDEN/MOCs/LIGHTING]]"],"source":["[[3e et 4e cours compositing esma 3d2]] / [[Chris Brejon, CG Cinematography book chapter 1, note litt]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-05-12","aliases":null}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Michal Sawtyruk/","tags":["note_permanente","#concept_artist"],"ctime":"2026-03-22T12:15:22.994+01:00","mtime":"2025-11-26T23:39:48.624+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/CONCEPT ART]]"],"source":["https://characterdesignreferences.com/artists-of-the-week/michal-sawtyruk"],"Projets":null,"tags":["note_permanente","#concept_artist"],"creation date":"2025-11-26","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Michal Sawtyruk/","tags":["note_permanente","#concept_artist"],"ctime":"2026-03-21T20:44:50.805+01:00","mtime":"2025-11-26T23:39:48.624+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/CONCEPT ART]]"],"source":["https://characterdesignreferences.com/artists-of-the-week/michal-sawtyruk"],"Projets":null,"tags":["note_permanente","#concept_artist"],"creation date":"2025-11-26","aliases":null}}
 ---
 
 

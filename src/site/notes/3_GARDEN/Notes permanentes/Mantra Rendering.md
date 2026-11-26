@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Mantra Rendering/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.957+01:00","mtime":"2026-03-30T20:32:07.373+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/LIGHTING]]"],"source":["https://irendering.net/render-quality-and-speed-in-houdini-with-mantra-renderer/","https://www.sidefx.com/docs/houdini/render/render.html"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-12-22","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Mantra Rendering/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:37.912+01:00","mtime":"2026-03-30T20:32:07.373+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/LIGHTING]]"],"source":["https://irendering.net/render-quality-and-speed-in-houdini-with-mantra-renderer/","https://www.sidefx.com/docs/houdini/render/render.html"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-12-22","aliases":null}}
 ---
 
 

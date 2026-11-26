@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Préparer skeleton et geo pour APEX/","tags":["note_permanente"],"ctime":"2026-09-29T16:22:18.097+02:00","mtime":"2026-09-29T16:24:15.866+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/RIG]]","[[3_GARDEN/MOCs/RIG HOUDINI]]","[[3_GARDEN/MOCs/HOUDINI]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-09-29","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Préparer skeleton et geo pour APEX/","tags":["note_permanente"],"ctime":"2026-09-29T18:30:52.094+02:00","mtime":"2026-09-29T16:24:15.866+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/RIG]]","[[3_GARDEN/MOCs/RIG HOUDINI]]","[[3_GARDEN/MOCs/HOUDINI]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-09-29","aliases":null}}
 ---
 
 ## La note 

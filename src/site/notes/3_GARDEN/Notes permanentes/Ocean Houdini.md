@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Ocean Houdini/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.165+01:00","mtime":"2025-11-25T11:21:27.245+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["https://youtu.be/3PRzFfCIuqE?si=jgZYF0WfjrSs0kiw"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-11-24","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Ocean Houdini/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:29.212+01:00","mtime":"2025-11-25T11:21:27.245+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["https://youtu.be/3PRzFfCIuqE?si=jgZYF0WfjrSs0kiw"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-11-24","aliases":null}}
 ---
 
 ## La note 

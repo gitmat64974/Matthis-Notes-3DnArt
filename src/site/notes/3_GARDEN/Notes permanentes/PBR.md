@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/PBR/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.235+01:00","mtime":"2025-12-23T00:02:55.665+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/3D]]"],"source":["Perplexity"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-12-22","aliases":["différence entre raytracing et path tracing","PBR et path tracing"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/PBR/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:34.744+01:00","mtime":"2025-12-23T00:02:55.665+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/3D]]"],"source":["Perplexity"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-12-22","aliases":["différence entre raytracing et path tracing","PBR et path tracing"]}}
 ---
 
 ## La note 

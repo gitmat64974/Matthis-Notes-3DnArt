@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Mode chaine procedurale Houdini/","tags":["note_permanente"],"ctime":"2026-08-23T22:44:37.753+02:00","mtime":"2026-08-23T20:04:30.004+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/PROCEDURAL MODELING]]","[[3_GARDEN/MOCs/HOUDINI]]"],"source":["Moi"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-08-23","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Mode chaine procedurale Houdini/","tags":["note_permanente"],"ctime":"2026-08-23T20:02:55.601+02:00","mtime":"2026-08-23T20:04:30.004+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/PROCEDURAL MODELING]]","[[3_GARDEN/MOCs/HOUDINI]]"],"source":["Moi"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-08-23","aliases":null}}
 ---
 
 ## La note 

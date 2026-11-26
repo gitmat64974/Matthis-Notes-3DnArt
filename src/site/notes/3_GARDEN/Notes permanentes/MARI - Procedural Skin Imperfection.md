@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/MARI - Procedural Skin Imperfection/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.958+01:00","mtime":"2026-03-30T20:32:07.282+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/LIGHTING]]","[[3_GARDEN/MOCs/SHADING TEXTURING]]","[[3_GARDEN/MOCs/MARI]]"],"source":["[[3_GARDEN/Notes littéraires/Cours de lighting rendu ESMA]]","https://youtu.be/LbKCVhkQRfs?si=zRsLGidEM2z3LV0A"],"Projets":["[[ESMA project skin texturing intro MARI]]"],"tags":["note_permanente"],"creation date":"2025-10-31","aliases":["Mari, Blood texturing","Mari, Scar texturing"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/MARI - Procedural Skin Imperfection/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:29.107+01:00","mtime":"2026-03-30T20:32:07.282+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/LIGHTING]]","[[3_GARDEN/MOCs/SHADING TEXTURING]]","[[3_GARDEN/MOCs/MARI]]"],"source":["[[3_GARDEN/Notes littéraires/Cours de lighting rendu ESMA]]","https://youtu.be/LbKCVhkQRfs?si=zRsLGidEM2z3LV0A"],"Projets":["[[ESMA project skin texturing intro MARI]]"],"tags":["note_permanente"],"creation date":"2025-10-31","aliases":["Mari, Blood texturing","Mari, Scar texturing"]}}
 ---
 
 ## La note 

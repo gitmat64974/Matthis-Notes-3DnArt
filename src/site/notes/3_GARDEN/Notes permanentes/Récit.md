@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Récit/","tags":["note_permanente","graine"],"ctime":"2026-03-22T12:15:23.607+01:00","mtime":"2026-04-24T17:43:18.965+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["#cours [[Cours de sémiologie ESMA]]"],"Projets":null,"tags":["note_permanente","graine"],"creation date":"2023-10-02","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Récit/","tags":["note_permanente","graine"],"ctime":"2026-03-21T20:44:46.415+01:00","mtime":"2026-04-24T17:43:18.965+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["#cours [[Cours de sémiologie ESMA]]"],"Projets":null,"tags":["note_permanente","graine"],"creation date":"2023-10-02","aliases":null}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Principe du rendering CG/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.387+01:00","mtime":"2026-04-24T17:43:18.926+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/LIGHTING]]"],"source":["[[3_GARDEN/Notes littéraires/2e cours de lighting esma 3d1a]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2023-10-14","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Principe du rendering CG/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:19.389+01:00","mtime":"2026-04-24T17:43:18.926+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/LIGHTING]]"],"source":["[[3_GARDEN/Notes littéraires/2e cours de lighting esma 3d1a]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2023-10-14","aliases":null}}
 ---
 
 

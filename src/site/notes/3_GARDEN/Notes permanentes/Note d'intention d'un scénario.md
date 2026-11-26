@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Note d'intention d'un scénario/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.134+01:00","mtime":"2025-12-01T10:27:49.950+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/Cours de scénario ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-10-11","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Note d'intention d'un scénario/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:21.851+01:00","mtime":"2025-12-01T10:27:49.950+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/Cours de scénario ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-10-11","aliases":null}}
 ---
 
 ## La note 

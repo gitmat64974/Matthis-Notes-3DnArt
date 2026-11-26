@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Projection Zbrush/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.429+01:00","mtime":"2026-02-27T21:33:59.908+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ZBRUSH]]"],"source":["https://youtu.be/Zp07GW3rND0?si=C483HLU9-rcH_2Yw"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-02-27","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Projection Zbrush/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:51.311+01:00","mtime":"2026-02-27T21:33:59.908+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ZBRUSH]]"],"source":["https://youtu.be/Zp07GW3rND0?si=C483HLU9-rcH_2Yw"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-02-27","aliases":null}}
 ---
 
 ## La note 

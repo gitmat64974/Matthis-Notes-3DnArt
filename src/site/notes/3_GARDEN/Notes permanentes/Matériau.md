@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Matériau/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.982+01:00","mtime":"2026-04-24T17:43:18.850+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/MODELISATION]]","[[3_GARDEN/MOCs/SHADING TEXTURING]]"],"source":["[[3e cours de lighting esma 3d1a]] / [[Secrets of photorealism, Blender guru]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-09-13","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Matériau/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:42.130+01:00","mtime":"2026-04-24T17:43:18.850+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/MODELISATION]]","[[3_GARDEN/MOCs/SHADING TEXTURING]]"],"source":["[[3e cours de lighting esma 3d1a]] / [[Secrets of photorealism, Blender guru]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-09-13","aliases":null}}
 ---
 
 

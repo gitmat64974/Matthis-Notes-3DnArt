@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Règle des Six de Walter Murch/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.599+01:00","mtime":"2026-04-24T17:43:18.964+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]","[[3_GARDEN/Notes permanentes/Montage (cinéma)]]"],"source":["[[3_GARDEN/Notes littéraires/19e cours scénario, workshop premiere pro]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-05-18","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Règle des Six de Walter Murch/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:24.879+01:00","mtime":"2026-04-24T17:43:18.964+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]","[[3_GARDEN/Notes permanentes/Montage (cinéma)]]"],"source":["[[3_GARDEN/Notes littéraires/19e cours scénario, workshop premiere pro]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-05-18","aliases":null}}
 ---
 
 
