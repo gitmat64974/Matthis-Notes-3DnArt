@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Zremesher/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:24.018+01:00","mtime":"2025-08-12T15:13:42.754+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ZBRUSH]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2025-08-12","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Zremesher/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:47.663+01:00","mtime":"2025-08-12T15:13:42.754+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ZBRUSH]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2025-08-12","aliases":null}}
 ---
 
 ## La note 

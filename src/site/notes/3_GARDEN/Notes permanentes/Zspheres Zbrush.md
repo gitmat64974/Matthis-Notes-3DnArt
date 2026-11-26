@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Zspheres Zbrush/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:24.020+01:00","mtime":"2025-12-10T20:59:52.827+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ZBRUSH]]"],"source":["https://youtu.be/hEybOH5TzYU?si=GduTevYBdAjWXjKm"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-12-10","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Zspheres Zbrush/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:25.617+01:00","mtime":"2025-12-10T20:59:52.827+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ZBRUSH]]"],"source":["https://youtu.be/hEybOH5TzYU?si=GduTevYBdAjWXjKm"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-12-10","aliases":null}}
 ---
 
 ## La note 
