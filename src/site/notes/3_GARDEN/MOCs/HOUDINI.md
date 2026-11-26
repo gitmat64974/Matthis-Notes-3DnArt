@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/HOUDINI/","tags":["MOC"],"ctime":"2026-05-02T23:07:41.691+02:00","mtime":"2026-11-26T22:28:38.765+01:00","dg-note-properties":{"tags":["MOC"],"MOC":["[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/MODELISATION]]","[[3_GARDEN/MOCs/ART]]"],"Source":null,"creation date":"2025-02-02","banner":"https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/HOUDINI/","tags":["MOC"],"ctime":"2026-05-02T23:07:41.691+02:00","mtime":"2026-11-26T22:31:54.651+01:00","dg-note-properties":{"tags":["MOC"],"MOC":["[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/MODELISATION]]","[[3_GARDEN/MOCs/ART]]"],"Source":null,"creation date":"2025-02-02","banner":"https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"}}
 ---
 
 
@@ -113,8 +113,8 @@ $$Groom$$
 
 
 ---
-#### $$Environnements$$
-
+$$Environnements$$
+[[3_GARDEN/MOCs/3D ENVIRONNEMENT CREATION\|3D ENVIRONNEMENT CREATION]]
 
 ---
 
@@ -126,41 +126,12 @@ $$Crowd$$
 
 ---
 
-## Rendering dans Solaris
+$$Rendering$$
 
-Solaris c'est tout le système de rendu d'Houdini basé sur l'USD
-Pour y accéder, le plus simple est d'aller dans le context stage
 
-#### L'USD
 
--> [[3_GARDEN/MOCs/USD\|USD]]
-
-- [[3_GARDEN/Notes permanentes/Component Builder\|Component Builder]]
-
-#### Set dressing
-
-- [[3_GARDEN/Notes permanentes/Construction d’un Set dans Houdini\|Construction d’un Set dans Houdini]]
-- [[3_GARDEN/Notes permanentes/Layout Node Solaris\|Layout Node Solaris]]
-
-#### Shading
-
-[[3_GARDEN/Notes permanentes/Auto assign materials Solaris\|Auto assign materials Solaris]]
-
-#### Généralités
-
-[[3_GARDEN/Notes permanentes/Kernel\|Kernel]]
-
-[[3_GARDEN/Notes permanentes/TOPs Rendering - Solaris\|TOPs Rendering - Solaris]]
-
-[[3_GARDEN/Notes permanentes/USD Render ROP Node\|USD Render ROP Node]]
-
-[[3_GARDEN/Notes permanentes/ACES Dans Houdini\|ACES Dans Houdini]]
-
-[[3_GARDEN/Notes permanentes/Light Filters Solaris\|Light Filters Solaris]] 
-
-[[3_GARDEN/Notes permanentes/Render threads optimization Karma\|Render threads optimization Karma]]
-
-[[3_GARDEN/Notes permanentes/Export camera Houdini\|Export camera Houdini]]
+| [[3_GARDEN/MOCs/SOLARIS\|SOLARIS]] | [[3_GARDEN/MOCs/USD\|USD]] |
+| ----------- | ------- |
 
 
 
@@ -177,9 +148,3 @@ Pour y accéder, le plus simple est d'aller dans le context stage
 
 - [[3_GARDEN/Notes permanentes/Flipbook Houdini\|Flipbook Houdini]]
 
-[[3_GARDEN/Notes permanentes/Ocean Houdini\|Ocean Houdini]]
-
-[[3_GARDEN/Notes permanentes/Rain dans houdini\|Rain dans houdini]]
-
-
----
