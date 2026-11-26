@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/HOUDINI/","tags":["MOC"],"ctime":"2026-05-02T23:07:41.691+02:00","mtime":"2026-11-26T22:06:00.333+01:00","dg-note-properties":{"tags":["MOC"],"MOC":["[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/MODELISATION]]","[[3_GARDEN/MOCs/ART]]"],"Source":null,"creation date":"2025-02-02","banner":"https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/HOUDINI/","tags":["MOC"],"ctime":"2026-05-02T23:07:41.691+02:00","mtime":"2026-11-26T22:07:56.538+01:00","dg-note-properties":{"tags":["MOC"],"MOC":["[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/MODELISATION]]","[[3_GARDEN/MOCs/ART]]"],"Source":null,"creation date":"2025-02-02","banner":"https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"}}
 ---
 
 
@@ -86,6 +86,15 @@ $$Modelisation$$
 | [[3_GARDEN/Notes permanentes/Interactive modeling - Houdini\|INTERACTIVE MODELING]] | [[3_GARDEN/MOCs/PROCEDURAL MODELING\|PROCEDURAL MODELING]] |
 | -------------------------------------------------------- | ----------------------- |
 
+---
+
+## Rig et Animation
+
+
+| [[3_GARDEN/MOCs/RIG HOUDINI\|RIG APEX]] | [[3_GARDEN/Notes permanentes/APEX - Animation - Houdini\|ANIMATION APEX]] |
+| ------------------------- | ---------------------------------------------- |
+
+
 
 
 ## Dynamiques et simulations
@@ -148,23 +157,6 @@ Scatterring : [[3_GARDEN/Notes permanentes/Scattering Houdini\|Scattering Houdin
 
 [[3_GARDEN/Notes permanentes/Physical placement Solaris\|Physical placement Solaris]]
 
----
-
-## Rig et Animation
-
-<u><font color="#b2a2c7">Rig</font> :</u>
-
-[[3_GARDEN/MOCs/RIG HOUDINI\|RIG HOUDINI]]
-- [[3_GARDEN/Notes permanentes/APEX Autorig builder\|APEX Autorig builder]]
-- [[3_GARDEN/Notes permanentes/Skinning KineFX\|Skinning KineFX]]
-
-[[3_GARDEN/Notes permanentes/KineFX x Simulations\|KineFX x Simulations]]
-
-<u><font color="#f79646">Animation</font> :</u>
-
-[[3_GARDEN/Notes permanentes/APEX - Animation - Houdini\|APEX - Animation - Houdini]]
-- [[3_GARDEN/Notes permanentes/Houdini Apex Selection Sets\|Houdini Apex Selection Sets]]
-- [[3_GARDEN/Notes permanentes/Houdini Apex animation layers\|Houdini Apex animation layers]]
 
 ---
 
