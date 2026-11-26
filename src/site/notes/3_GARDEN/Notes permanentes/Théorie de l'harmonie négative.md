@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Théorie de l'harmonie négative/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.840+01:00","mtime":"2026-04-24T17:43:19.009+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/MUSIQUE]]"],"source":["#perplexity / Gemini"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-05-15","aliases":null,"banner":"harmony"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Théorie de l'harmonie négative/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:41.561+01:00","mtime":"2026-04-24T17:43:19.009+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/MUSIQUE]]"],"source":["#perplexity / Gemini"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-05-15","aliases":null,"banner":"harmony"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Topology edge flow/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.870+01:00","mtime":"2026-04-24T17:43:19.013+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/MODELISATION]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2023-12-15","aliases":null,"Source":["[[3_GARDEN/Notes littéraires/Remédiation modélisation vacances hiver 3d1]]"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Topology edge flow/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:24.436+01:00","mtime":"2026-04-24T17:43:19.013+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/MODELISATION]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2023-12-15","aliases":null,"Source":["[[3_GARDEN/Notes littéraires/Remédiation modélisation vacances hiver 3d1]]"]}}
 ---
 
 

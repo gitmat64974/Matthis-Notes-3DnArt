@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Spacing/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.732+01:00","mtime":"2026-04-24T17:43:18.987+02:00","dg-note-properties":{"MOC":null,"source":null,"Projets":null,"tags":["note_permanente"],"creation date":null,"aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Spacing/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:38.968+01:00","mtime":"2026-04-24T17:43:18.987+02:00","dg-note-properties":{"MOC":null,"source":null,"Projets":null,"tags":["note_permanente"],"creation date":null,"aliases":null}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/USD Opinions and strength/","tags":["note_permanente"],"ctime":"2026-11-24T15:10:34.364+01:00","mtime":"2026-11-24T15:11:10.187+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/USD]]"],"source":["[[3_GARDEN/Notes littéraires/USD - SideFX Course]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-24","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/USD Opinions and strength/","tags":["note_permanente"],"ctime":"2026-11-24T18:39:26.489+01:00","mtime":"2026-11-24T15:11:10.187+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/USD]]"],"source":["[[3_GARDEN/Notes littéraires/USD - SideFX Course]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-24","aliases":null}}
 ---
 
 ## La note 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/SOP flip simulation/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.723+01:00","mtime":"2026-03-15T18:29:00.241+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/FLUID SIMULATIONS HOUDINI]]"],"source":["https://youtu.be/86nbP2Q7BKA?si=nU0CD7k1KOKzd89b"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-06","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/SOP flip simulation/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:19.182+01:00","mtime":"2026-03-15T18:29:00.241+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/FLUID SIMULATIONS HOUDINI]]"],"source":["https://youtu.be/86nbP2Q7BKA?si=nU0CD7k1KOKzd89b"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-06","aliases":null}}
 ---
 
 ## La note 

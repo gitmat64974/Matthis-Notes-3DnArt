@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Renderman render passes - Houdini Solaris/","tags":["note_permanente","plante"],"ctime":"2026-11-09T00:06:36.700+01:00","mtime":"2026-11-19T12:38:59.914+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SOLARIS]]","[[3_GARDEN/MOCs/LIGHTING]]"],"source":null,"Projets":null,"tags":["note_permanente","plante"],"creation date":"2026-11-08","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Renderman render passes - Houdini Solaris/","tags":["note_permanente","plante"],"ctime":"2026-11-08T18:21:59.279+01:00","mtime":"2026-11-19T12:38:59.914+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SOLARIS]]","[[3_GARDEN/MOCs/LIGHTING]]"],"source":null,"Projets":null,"tags":["note_permanente","plante"],"creation date":"2026-11-08","aliases":null}}
 ---
 
 ## La note 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Rotoscopie/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.585+01:00","mtime":"2026-10-28T11:13:10.294+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITING]]"],"source":["[[3_GARDEN/Notes littéraires/3e et 4e cours compositing esma 3d2]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-05-12","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Rotoscopie/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:42.015+01:00","mtime":"2026-10-28T11:13:10.294+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITING]]"],"source":["[[3_GARDEN/Notes littéraires/3e et 4e cours compositing esma 3d2]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-05-12","aliases":null}}
 ---
 
 

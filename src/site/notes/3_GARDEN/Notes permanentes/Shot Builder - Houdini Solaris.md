@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Shot Builder - Houdini Solaris/","tags":["note_permanente"],"ctime":"2026-11-03T01:28:01.744+01:00","mtime":"2026-11-25T14:48:39.772+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/USD]]","[[3_GARDEN/MOCs/SOLARIS|Solaris]]","[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/LIGHTING]]"],"source":["https://youtu.be/xE0M6a7mJKc"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-02","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Shot Builder - Houdini Solaris/","tags":["note_permanente"],"ctime":"2026-11-02T23:40:09.854+01:00","mtime":"2026-11-25T14:48:39.772+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/USD]]","[[3_GARDEN/MOCs/SOLARIS|Solaris]]","[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/LIGHTING]]"],"source":["https://youtu.be/xE0M6a7mJKc"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-02","aliases":null}}
 ---
 
 ## La note 

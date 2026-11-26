@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Stylisation surfaces irrégulières et facettées/","tags":["note_permanente"],"ctime":"2026-04-06T00:01:05.000+02:00","mtime":"2026-10-20T22:48:47.386+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SHADING TEXTURING]]"],"source":["#cours [[Cours de lighting rendu ESMA]], remplacement 3d2 de Mr Bultingaire par Gaël Bourdeu"],"Projets":["[[6_ARCHIVES/Projets/3D3/Projet cabane esma 3d2]]"],"tags":["note_permanente"],"creation date":"2025-03-19","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Stylisation surfaces irrégulières et facettées/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:32.234+01:00","mtime":"2026-10-20T22:48:47.386+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SHADING TEXTURING]]"],"source":["#cours [[Cours de lighting rendu ESMA]], remplacement 3d2 de Mr Bultingaire par Gaël Bourdeu"],"Projets":["[[6_ARCHIVES/Projets/3D3/Projet cabane esma 3d2]]"],"tags":["note_permanente"],"creation date":"2025-03-19","aliases":null}}
 ---
 
 

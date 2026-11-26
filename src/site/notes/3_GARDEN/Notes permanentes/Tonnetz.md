@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Tonnetz/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.867+01:00","mtime":"2026-04-24T17:43:19.012+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/MUSIQUE]]"],"source":["Perplexity / #video [Instagram](https://www.instagram.com/reel/DJkUfkURad1/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) / [Using Tonnetz Tone Mesh To Understand Jazz Harmony](https://jazz-library.com/articles/tonnetz/)"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-05-15","aliases":null,"banner":"music"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Tonnetz/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:54.849+01:00","mtime":"2026-04-24T17:43:19.012+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/MUSIQUE]]"],"source":["Perplexity / #video [Instagram](https://www.instagram.com/reel/DJkUfkURad1/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) / [Using Tonnetz Tone Mesh To Understand Jazz Harmony](https://jazz-library.com/articles/tonnetz/)"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-05-15","aliases":null,"banner":"music"}}
 ---
 
 
