@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Importer une caméra - Houdini/","tags":["note_permanente"],"ctime":"2026-11-03T23:49:26.071+01:00","mtime":"2026-11-10T21:12:10.194+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/SOLARIS|Solaris]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-03","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Importer une caméra - Houdini/","tags":["note_permanente"],"ctime":"2026-11-03T18:29:29.836+01:00","mtime":"2026-11-10T21:12:10.194+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/SOLARIS|Solaris]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-03","aliases":null}}
 ---
 
 ## La note 

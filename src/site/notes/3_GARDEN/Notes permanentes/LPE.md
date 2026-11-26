@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/LPE/","tags":["note_permanente","en_cours"],"ctime":"2026-03-22T12:15:22.911+01:00","mtime":"2026-11-08T20:16:01.233+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITING]]"],"source":["#cours [[Cours de compositing ESMA]] : [loucasrongeart.notion.site/PRMan-Course-ID-0010-LightPathExpressions](https://loucasrongeart.notion.site/RENDERMAN-COURSES-LightPathExpressions-LPEs-c7a445d6b13348649854a5f5a7628718)"],"Projets":null,"tags":["note_permanente","en_cours"],"creation date":"2025-05-15","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/LPE/","tags":["note_permanente","en_cours"],"ctime":"2026-03-21T20:44:45.954+01:00","mtime":"2026-11-08T20:16:01.233+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITING]]"],"source":["#cours [[Cours de compositing ESMA]] : [loucasrongeart.notion.site/PRMan-Course-ID-0010-LightPathExpressions](https://loucasrongeart.notion.site/RENDERMAN-COURSES-LightPathExpressions-LPEs-c7a445d6b13348649854a5f5a7628718)"],"Projets":null,"tags":["note_permanente","en_cours"],"creation date":"2025-05-15","aliases":null}}
 ---
 
 

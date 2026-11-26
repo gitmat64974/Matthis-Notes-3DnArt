@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Les 3 temps du conflit dramatique/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.806+01:00","mtime":"2026-05-04T21:45:39.771+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/10e cours scénario, obstacles et conflits]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-03-11","aliases":["structure d'une scène"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Les 3 temps du conflit dramatique/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:55.776+01:00","mtime":"2026-05-04T21:45:39.771+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/10e cours scénario, obstacles et conflits]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-03-11","aliases":["structure d'une scène"]}}
 ---
 
 

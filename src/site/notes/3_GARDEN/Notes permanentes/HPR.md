@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/HPR/","tags":["note_permanente"],"ctime":"2026-11-25T15:37:45.221+01:00","mtime":"2026-11-25T17:23:27.746+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/USD]]","[[3_GARDEN/MOCs/SOLARIS|Solaris]]","[[3_GARDEN/MOCs/HOUDINI]]"],"source":["https://www.sidefx.com/docs/houdini/solaris/shotbuilder.html"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-25","aliases":["Houdini Path Resolver","HPR Asset Resolver","HPR Resolver"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/HPR/","tags":["note_permanente"],"ctime":"2026-11-25T18:20:55.268+01:00","mtime":"2026-11-25T17:23:27.746+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/USD]]","[[3_GARDEN/MOCs/SOLARIS|Solaris]]","[[3_GARDEN/MOCs/HOUDINI]]"],"source":["https://www.sidefx.com/docs/houdini/solaris/shotbuilder.html"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-25","aliases":["Houdini Path Resolver","HPR Asset Resolver","HPR Resolver"]}}
 ---
 
 ## La note 

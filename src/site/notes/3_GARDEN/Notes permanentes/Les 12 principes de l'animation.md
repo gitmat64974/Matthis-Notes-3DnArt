@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Les 12 principes de l'animation/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.798+01:00","mtime":"2026-04-24T17:43:18.815+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ANIMATION]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":null,"aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Les 12 principes de l'animation/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:46.252+01:00","mtime":"2026-04-24T17:43:18.815+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ANIMATION]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":null,"aliases":null}}
 ---
 
 

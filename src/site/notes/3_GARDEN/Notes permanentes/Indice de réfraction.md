@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Indice de réfraction/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.398+01:00","mtime":"2026-04-04T12:57:58.332+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SCIENCES]]","[[3_GARDEN/MOCs/SHADING TEXTURING]]"],"source":["wikipedia "],"Projets":null,"tags":["note_permanente"],"creation date":"2025-10-03","aliases":["IOR"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Indice de réfraction/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:21.633+01:00","mtime":"2026-04-04T12:57:58.332+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SCIENCES]]","[[3_GARDEN/MOCs/SHADING TEXTURING]]"],"source":["wikipedia "],"Projets":null,"tags":["note_permanente"],"creation date":"2025-10-03","aliases":["IOR"]}}
 ---
 
 ---

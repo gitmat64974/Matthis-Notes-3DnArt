@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/L'avènement de la 3D au cinéma/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:21.455+01:00","mtime":"2026-07-31T10:56:18.381+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/Notes permanentes/CINEMA]]","[[3_GARDEN/MOCs/HISTOIRE DU CINEMA]]"],"source":["[[3_GARDEN/Notes littéraires/7e cours d'histoire du cinéma esma 3d1a]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2023-11-24","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/L'avènement de la 3D au cinéma/","tags":["note_permanente"],"ctime":"2026-08-23T11:42:12.681+02:00","mtime":"2026-07-31T10:56:18.381+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/Notes permanentes/CINEMA]]","[[3_GARDEN/MOCs/HISTOIRE DU CINEMA]]"],"source":["[[3_GARDEN/Notes littéraires/7e cours d'histoire du cinéma esma 3d1a]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2023-11-24","aliases":null}}
 ---
 
 

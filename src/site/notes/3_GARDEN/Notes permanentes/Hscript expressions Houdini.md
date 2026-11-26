@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Hscript expressions Houdini/","tags":["note_permanente"],"ctime":"2026-09-05T09:37:39.791+02:00","mtime":"2026-10-05T18:39:47.829+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-09-04","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Hscript expressions Houdini/","tags":["note_permanente"],"ctime":"2026-09-04T23:19:21.382+02:00","mtime":"2026-10-05T18:39:47.829+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-09-04","aliases":null}}
 ---
 
 ## La note 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/L-Systems/","tags":["note_permanente","plante"],"ctime":"2026-06-07T15:51:43.944+02:00","mtime":"2026-06-06T17:48:32.235+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/PROCEDURAL MODELING]]"],"source":null,"Projets":null,"tags":["note_permanente","plante"],"creation date":"2026-06-06","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/L-Systems/","tags":["note_permanente","plante"],"ctime":"2026-06-06T15:58:55.205+02:00","mtime":"2026-06-06T17:48:32.235+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/PROCEDURAL MODELING]]"],"source":null,"Projets":null,"tags":["note_permanente","plante"],"creation date":"2026-06-06","aliases":null}}
 ---
 
 ## La note 

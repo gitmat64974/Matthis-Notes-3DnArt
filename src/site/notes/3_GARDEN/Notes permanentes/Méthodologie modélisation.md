@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Méthodologie modélisation/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.081+01:00","mtime":"2026-04-24T17:43:18.871+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/MODELISATION]]"],"source":["#cours [[Cours de modélisation ESMA]] 3D1A, Mr Caleb Choune"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-08-23","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Méthodologie modélisation/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:33.664+01:00","mtime":"2026-04-24T17:43:18.871+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/MODELISATION]]"],"source":["#cours [[Cours de modélisation ESMA]] 3D1A, Mr Caleb Choune"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-08-23","aliases":null}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/L'avant conflit/","tags":["note_permanente"],"ctime":"2026-05-04T22:45:27.842+02:00","mtime":"2026-05-13T23:22:40.902+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/9e cours scénario, protagoniste, objectif]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-05-04","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/L'avant conflit/","tags":["note_permanente"],"ctime":"2026-05-04T21:44:53.396+02:00","mtime":"2026-05-13T23:22:40.902+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/9e cours scénario, protagoniste, objectif]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-05-04","aliases":null}}
 ---
 
 ## La note 

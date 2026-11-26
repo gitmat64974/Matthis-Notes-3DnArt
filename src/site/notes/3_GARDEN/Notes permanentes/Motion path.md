@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Motion path/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.034+01:00","mtime":"2026-04-24T17:43:18.859+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/MODELISATION]]","[[3_GARDEN/MOCs/ANIMATION]]"],"source":["[[13e cours de modélisation esma 3d1a]] /  [[19e cours d'animation esma 3d1a]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-01-22","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Motion path/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:24.970+01:00","mtime":"2026-04-24T17:43:18.859+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/MODELISATION]]","[[3_GARDEN/MOCs/ANIMATION]]"],"source":["[[13e cours de modélisation esma 3d1a]] /  [[19e cours d'animation esma 3d1a]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-01-22","aliases":null}}
 ---
 
 

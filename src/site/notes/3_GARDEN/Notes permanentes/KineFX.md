@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/KineFX/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.451+01:00","mtime":"2026-10-11T00:01:42.889+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/RIG]]","[[3_GARDEN/MOCs/ANIMATION]]"],"source":["https://youtu.be/k9i_PqjnQds?si=vm_PH3Fd1EsnKoZ4)"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-03-08","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/KineFX/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:27.208+01:00","mtime":"2026-10-11T00:01:42.889+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/RIG]]","[[3_GARDEN/MOCs/ANIMATION]]"],"source":["https://youtu.be/k9i_PqjnQds?si=vm_PH3Fd1EsnKoZ4)"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-03-08","aliases":null}}
 ---
 
 ## La note 

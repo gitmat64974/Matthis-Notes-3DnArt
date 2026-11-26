@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Lois de la Gestaltthéorie/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.906+01:00","mtime":"2026-04-24T17:43:18.837+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SEMIOLOGIE]]","[[3_GARDEN/MOCs/PSYCHOLOGIE|PSYCHOLOGIE]]"],"source":["[[3_GARDEN/Notes littéraires/8e cours de sémiologie esma 3d1a (perception de l'image)]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2023-12-10","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Lois de la Gestaltthéorie/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:47.941+01:00","mtime":"2026-04-24T17:43:18.837+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SEMIOLOGIE]]","[[3_GARDEN/MOCs/PSYCHOLOGIE|PSYCHOLOGIE]]"],"source":["[[3_GARDEN/Notes littéraires/8e cours de sémiologie esma 3d1a (perception de l'image)]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2023-12-10","aliases":null}}
 ---
 
 

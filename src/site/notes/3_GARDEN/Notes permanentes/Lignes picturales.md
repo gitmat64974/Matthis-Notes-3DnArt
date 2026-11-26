@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Lignes picturales/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.881+01:00","mtime":"2026-04-24T17:43:18.832+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SEMIOLOGIE]]","[[3_GARDEN/MOCs/COMPOSITION PICTURALE]]"],"source":["[[4e cours de sémiologie esma 3d1a]] / [[Photographic Composition]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2023-10-23","aliases":["Lignes directrices"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Lignes picturales/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:25.430+01:00","mtime":"2026-04-24T17:43:18.832+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SEMIOLOGIE]]","[[3_GARDEN/MOCs/COMPOSITION PICTURALE]]"],"source":["[[4e cours de sémiologie esma 3d1a]] / [[Photographic Composition]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2023-10-23","aliases":["Lignes directrices"]}}
 ---
 
 

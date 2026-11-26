@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Light Fall off/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.870+01:00","mtime":"2026-04-24T17:43:18.830+02:00","dg-note-properties":{"MOC":null,"source":null,"Projets":null,"tags":["note_permanente"],"creation date":null,"aliases":["Light decay","loi de l'inverse du carré de la distance"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Light Fall off/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:47.236+01:00","mtime":"2026-04-24T17:43:18.830+02:00","dg-note-properties":{"MOC":null,"source":null,"Projets":null,"tags":["note_permanente"],"creation date":null,"aliases":["Light decay","loi de l'inverse du carré de la distance"]}}
 ---
 
 
