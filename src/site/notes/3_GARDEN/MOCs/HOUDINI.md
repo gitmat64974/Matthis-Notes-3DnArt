@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/HOUDINI/","tags":["MOC"],"ctime":"2026-05-02T23:07:41.691+02:00","mtime":"2026-11-26T22:36:22.129+01:00","dg-note-properties":{"tags":["MOC"],"MOC":["[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/MODELISATION]]","[[3_GARDEN/MOCs/ART]]"],"Source":null,"creation date":"2025-02-02","banner":"https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/HOUDINI/","tags":["MOC"],"ctime":"2026-05-02T23:07:41.691+02:00","mtime":"2026-11-26T22:39:31.170+01:00","dg-note-properties":{"tags":["MOC"],"MOC":["[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/MODELISATION]]","[[3_GARDEN/MOCs/ART]]"],"Source":null,"creation date":"2025-02-02","banner":"https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"}}
 ---
 
 
@@ -62,7 +62,7 @@ Quelques vidéos utiles :
 > Ces fameuses données dans Houdini ce sont les [[3_GARDEN/Notes permanentes/Attributs Houdini\|attributs]]
 
 utile : *[[3_GARDEN/Notes permanentes/Raccourcis Houdini les plus utiles\|Raccourcis Houdini les plus utiles]]*
-
+[[3_GARDEN/Notes permanentes/Flipbook Houdini\|Flipbook Houdini]]
 
 > [!tip]+ Variables d'environnement Houdini
 > Houdini possède des variables d'environnements qui permettent très facilement de travailler en chemin relatif
@@ -73,7 +73,7 @@ utile : *[[3_GARDEN/Notes permanentes/Raccourcis Houdini les plus utiles\|Raccou
 > Ces deux variables permettent de venir référencer dynamiquement tout type de fichier sans avoir à rentrer manuellement le chemin absolu à chaque fois
 
 ---
----
+
 ---
 # DOMAINES
 
@@ -107,30 +107,8 @@ $$FX$$
 $$CFX$$
 
 
-| [[3_GARDEN/MOCs/CLOTH SIMULATION\|CLOTH SIMULATION]] | [[3_GARDEN/MOCs/GROOM\|GROOM]] |
-| -------------------- | --------- |
-
-
-
----
-
-$$Groom$$
-
-|     | [[3_GARDEN/MOCs/GROOM\|GROOM]] |     |
-| --- | --------- | --- |
-
-
-
----
-$$Environnements$$
-[[3_GARDEN/MOCs/3D ENVIRONNEMENT CREATION\|3D ENVIRONNEMENT CREATION]]
-
----
-
-$$Crowd$$
-
-[[3_GARDEN/MOCs/Crowd Houdini\|Crowd Houdini]]
-
+| [[3_GARDEN/MOCs/CLOTH SIMULATION\|CLOTH SIMULATION]] | [[3_GARDEN/MOCs/GROOM\|GROOM]] | [[3_GARDEN/MOCs/CROWD HOUDINI\|CROWD HOUDINI]] |
+| -------------------- | --------- | ----------------- |
 
 
 ---
@@ -139,21 +117,17 @@ $$Rendering$$
 
 
 
-| [[3_GARDEN/MOCs/SOLARIS\|SOLARIS]] | [[3_GARDEN/MOCs/USD\|USD]] |
-| ----------- | ------- |
+| [[3_GARDEN/MOCs/3D ENVIRONNEMENT CREATION\|3D ENVIRONNEMENT CREATION]] | [[3_GARDEN/MOCs/SOLARIS\|SOLARIS]] | [[3_GARDEN/MOCs/USD\|USD]] |
+| ----------------------------- | ----------- | ------- |
 
 
 
 ---
 
-## Code et expression
+$$Code-Expressions$$
 
 [[3_GARDEN/Notes permanentes/VEX\|VEX]]
 [[3_GARDEN/Notes permanentes/Hscript expressions Houdini\|Hscript expressions Houdini]]
 
 ---
-
-## Autres 
-
-- [[3_GARDEN/Notes permanentes/Flipbook Houdini\|Flipbook Houdini]]
 
