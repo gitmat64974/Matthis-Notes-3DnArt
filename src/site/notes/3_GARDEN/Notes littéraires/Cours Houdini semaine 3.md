@@ -158,22 +158,35 @@ Dans le cas de l'extension `.usd`, le format est enregistré en Binaire (« Crat
 
 # Structure
 
+#### Généralités
 
 [[3_GARDEN/Notes permanentes/Primitive USD\|Primitive USD]] : comment les éléments de l'usd sont classés et organisés
 [[3_GARDEN/MOCs/SOLARIS\|SOLARIS]] : L'espace où on gère tout ce qui est relatif à l'USD dans Houdini
 
+---
 #### Importation d'éléments dans Solaris
 
 [[3_GARDEN/Notes permanentes/Importation dans Solaris\|Importation dans Solaris]]
 - (*[[3_GARDEN/Notes permanentes/MAYA USD Export\|MAYA USD Export]]*)
 - [[3_GARDEN/Notes permanentes/Geometry subset\|Geometry subset]]
 
+[[3_GARDEN/Notes permanentes/Créer et gérer des USD animés\|Créer et gérer des USD animés]]
+
 Les données plus profondes contenues dans l'USD : [[3_GARDEN/Notes permanentes/USD Schemas and Primvars\|USD Schemas and Primvars]]
+
+---
 #### USD Asset Creation
 
 - [[3_GARDEN/Notes permanentes/Component Builder\|Asset USD]]
 	- [[3_GARDEN/Notes permanentes/Créer des variants avec le component builder\|Créer des variants avec le component builder]]
+	- [[3_GARDEN/Notes permanentes/LOD\|LOD]] 
 
+*Pour aller plus loin :* 
+- *[[3_GARDEN/Notes permanentes/USD Variants\|USD Variants]]* 
+- *[[3_GARDEN/Notes permanentes/USD Purpose\|USD Purpose]]* 
+- *[[3_GARDEN/Notes permanentes/ASWF\|ASWF]]*
+
+---
 #### USD set dress et layout
 
 Une notion extrêmement importante : [[3_GARDEN/Notes permanentes/USD Layers\|USD Layers]]
@@ -181,6 +194,12 @@ Une notion extrêmement importante : [[3_GARDEN/Notes permanentes/USD Layers\|US
 
 [[3_GARDEN/Notes permanentes/Techniques pour répartir un asset avec des variants dans un set - Solaris\|Techniques pour répartir un asset avec des variants dans un set - Solaris]]
 
+Les différents nodes pour construire un set dans [[3_GARDEN/MOCs/SOLARIS\|SOLARIS]] : 
+- [[3_GARDEN/Notes permanentes/Merge LOP\|Merge LOP]] 
+- [[3_GARDEN/Notes permanentes/Duplicate LOP\|Duplicate LOP]]
+- [[3_GARDEN/Notes permanentes/Instancer LOP\|Instancer LOP]] 
+
+---
 #### Annexes
 
 Règles de sélections : [[3_GARDEN/Notes permanentes/Collections & Règles de Sélection en USD\|Collections & Règles de Sélection en USD]]

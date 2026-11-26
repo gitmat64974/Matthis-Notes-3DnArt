@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/USD/","tags":["note_permanente","MOC"],"ctime":"2026-11-03T23:49:26.111+01:00","mtime":"2026-11-25T23:22:25.118+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/SOLARIS|Solaris]]"],"source":["[[3_GARDEN/Notes littéraires/Cours Houdini semaine 3]]"],"Projets":null,"tags":["note_permanente","MOC"],"creation date":"2026-10-26","aliases":null,"banner":"https://images.unsplash.com/photo-1580477667929-3ef27c684b7a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/USD/","tags":["note_permanente","MOC"],"ctime":"2026-11-03T23:49:26.111+01:00","mtime":"2026-11-26T11:04:30.032+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/SOLARIS|Solaris]]"],"source":["[[3_GARDEN/Notes littéraires/Cours Houdini semaine 3]]"],"Projets":null,"tags":["note_permanente","MOC"],"creation date":"2026-10-26","aliases":null,"banner":"https://images.unsplash.com/photo-1580477667929-3ef27c684b7a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"}}
 ---
 
 # Définition
@@ -50,22 +50,35 @@ Dans le cas de l'extension `.usd`, le format est enregistré en Binaire (« Crat
 
 # Structure
 
+#### Généralités
 
 [[3_GARDEN/Notes permanentes/Primitive USD\|Primitive USD]] : comment les éléments de l'usd sont classés et organisés
 [[3_GARDEN/MOCs/SOLARIS\|SOLARIS]] : L'espace où on gère tout ce qui est relatif à l'USD dans Houdini
 
+---
 #### Importation d'éléments dans Solaris
 
 [[3_GARDEN/Notes permanentes/Importation dans Solaris\|Importation dans Solaris]]
 - (*[[3_GARDEN/Notes permanentes/MAYA USD Export\|MAYA USD Export]]*)
 - [[3_GARDEN/Notes permanentes/Geometry subset\|Geometry subset]]
 
+[[3_GARDEN/Notes permanentes/Créer et gérer des USD animés\|Créer et gérer des USD animés]]
+
 Les données plus profondes contenues dans l'USD : [[3_GARDEN/Notes permanentes/USD Schemas and Primvars\|USD Schemas and Primvars]]
+
+---
 #### USD Asset Creation
 
 - [[3_GARDEN/Notes permanentes/Component Builder\|Asset USD]]
 	- [[3_GARDEN/Notes permanentes/Créer des variants avec le component builder\|Créer des variants avec le component builder]]
+	- [[3_GARDEN/Notes permanentes/LOD\|LOD]] 
 
+*Pour aller plus loin :* 
+- *[[3_GARDEN/Notes permanentes/USD Variants\|USD Variants]]* 
+- *[[3_GARDEN/Notes permanentes/USD Purpose\|USD Purpose]]* 
+- *[[3_GARDEN/Notes permanentes/ASWF\|ASWF]]*
+
+---
 #### USD set dress et layout
 
 Une notion extrêmement importante : [[3_GARDEN/Notes permanentes/USD Layers\|USD Layers]]
@@ -73,6 +86,12 @@ Une notion extrêmement importante : [[3_GARDEN/Notes permanentes/USD Layers\|US
 
 [[3_GARDEN/Notes permanentes/Techniques pour répartir un asset avec des variants dans un set - Solaris\|Techniques pour répartir un asset avec des variants dans un set - Solaris]]
 
+Les différents nodes pour construire un set dans [[3_GARDEN/MOCs/SOLARIS\|SOLARIS]] : 
+- [[3_GARDEN/Notes permanentes/Merge LOP\|Merge LOP]] 
+- [[3_GARDEN/Notes permanentes/Duplicate LOP\|Duplicate LOP]]
+- [[3_GARDEN/Notes permanentes/Instancer LOP\|Instancer LOP]] 
+
+---
 #### Annexes
 
 Règles de sélections : [[3_GARDEN/Notes permanentes/Collections & Règles de Sélection en USD\|Collections & Règles de Sélection en USD]]

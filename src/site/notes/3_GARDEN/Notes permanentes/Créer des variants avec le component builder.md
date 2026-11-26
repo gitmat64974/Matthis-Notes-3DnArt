@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Créer des variants avec le component builder/","tags":["note_permanente"],"ctime":"2026-11-03T23:49:26.086+01:00","mtime":"2026-11-23T23:19:59.007+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SOLARIS|Solaris]]","[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/USD]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-03","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Créer des variants avec le component builder/","tags":["note_permanente"],"ctime":"2026-11-03T23:49:26.086+01:00","mtime":"2026-11-26T10:54:17.931+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SOLARIS|Solaris]]","[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/USD]]"],"source":["[[3_GARDEN/Notes littéraires/USD - SideFX Course]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-03","aliases":null}}
 ---
 
 ## La note 
 
+
+Pour plus de détail sur les variants en général : [[3_GARDEN/Notes permanentes/USD Variants\|USD Variants]]
 ### Geo Variants
 
 > [!tip]+ 
