@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Relighting NUKE/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.547+01:00","mtime":"2026-11-17T22:29:05.290+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITING]]"],"source":["https://youtu.be/848YxZXEbKI?si=1xkEIm3PoodXYRtm"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-10-07","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Relighting NUKE/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:33.175+01:00","mtime":"2026-11-17T22:29:05.290+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITING]]"],"source":["https://youtu.be/848YxZXEbKI?si=1xkEIm3PoodXYRtm"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-10-07","aliases":null}}
 ---
 
 ## La note 

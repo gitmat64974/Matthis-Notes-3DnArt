@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Setup une géo pour l'USD avec Solaris/","tags":["note_permanente"],"ctime":"2026-11-26T01:27:32.645+01:00","mtime":"2026-11-25T23:36:03.728+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/USD]]","[[3_GARDEN/MOCs/SOLARIS]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-25","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Setup une géo pour l'USD avec Solaris/","tags":["note_permanente"],"ctime":"2026-11-25T23:23:29.039+01:00","mtime":"2026-11-25T23:36:03.728+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/USD]]","[[3_GARDEN/MOCs/SOLARIS]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-25","aliases":null}}
 ---
 
 ## La note 

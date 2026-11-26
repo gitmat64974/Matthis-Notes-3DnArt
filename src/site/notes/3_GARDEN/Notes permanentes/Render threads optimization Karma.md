@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Render threads optimization Karma/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.556+01:00","mtime":"2026-03-30T20:32:09.116+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/LIGHTING]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-21","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Render threads optimization Karma/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:19.573+01:00","mtime":"2026-03-30T20:32:09.116+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/LIGHTING]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-21","aliases":null}}
 ---
 
 ## La note 

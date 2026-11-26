@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Rig builder Houdini/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.580+01:00","mtime":"2025-11-28T22:18:55.632+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["https://youtube.com/playlist?list=PLXNFA1EysfYlkJDYq1tukRbUW02AkQrkF&si=QgL8x2Z15G_z4i6_"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-11-28","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Rig builder Houdini/","tags":["note_permanente"],"ctime":"2026-03-21T23:25:21.763+01:00","mtime":"2025-11-28T22:18:55.632+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["https://youtube.com/playlist?list=PLXNFA1EysfYlkJDYq1tukRbUW02AkQrkF&si=QgL8x2Z15G_z4i6_"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-11-28","aliases":null}}
 ---
 
 ## La note 

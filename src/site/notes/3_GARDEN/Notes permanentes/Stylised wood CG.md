@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Stylised wood CG/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.763+01:00","mtime":"2026-04-24T17:43:18.993+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SHADING TEXTURING]]"],"source":["#video [SCULPTING STYLISED WOOD -- Tutorial -- Zbrush -- - YouTube](https://youtu.be/rnKyPkpVBl0?si=KAlKFz19o3GI6KZq)"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-03-20","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Stylised wood CG/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:53.404+01:00","mtime":"2026-04-24T17:43:18.993+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SHADING TEXTURING]]"],"source":["#video [SCULPTING STYLISED WOOD -- Tutorial -- Zbrush -- - YouTube](https://youtu.be/rnKyPkpVBl0?si=KAlKFz19o3GI6KZq)"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-03-20","aliases":null}}
 ---
 
 

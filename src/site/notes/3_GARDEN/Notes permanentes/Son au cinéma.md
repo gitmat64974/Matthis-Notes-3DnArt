@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Son au cinéma/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.722+01:00","mtime":"2026-04-24T17:43:18.985+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ANALYSE FILMIQUE]]"],"source":["#article [Analyse filmique : cours d'initiation](https://cafedesimages.fr/education-a-limage/lyceens-au-cinema/analyse-filmique-cours/)"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-11-03","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Son au cinéma/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:51.695+01:00","mtime":"2026-04-24T17:43:18.985+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ANALYSE FILMIQUE]]"],"source":["#article [Analyse filmique : cours d'initiation](https://cafedesimages.fr/education-a-limage/lyceens-au-cinema/analyse-filmique-cours/)"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-11-03","aliases":null}}
 ---
 
 

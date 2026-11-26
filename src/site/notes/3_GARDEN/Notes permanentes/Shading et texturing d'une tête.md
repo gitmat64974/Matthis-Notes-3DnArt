@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Shading et texturing d'une tête/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.675+01:00","mtime":"2026-02-09T01:05:35.584+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SHADING TEXTURING]]","[[3_GARDEN/MOCs/ZBRUSH]]","[[3_GARDEN/MOCs/MARI]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-13","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Shading et texturing d'une tête/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:20.398+01:00","mtime":"2026-02-09T01:05:35.584+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SHADING TEXTURING]]","[[3_GARDEN/MOCs/ZBRUSH]]","[[3_GARDEN/MOCs/MARI]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-13","aliases":null}}
 ---
 
 ## La note 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Structure en 3 actes/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.754+01:00","mtime":"2026-04-24T17:43:18.992+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/Notes permanentes/CINEMA]]","[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[An introduction to screenwriting]] / [[12e cours de scénario esma 3D2, Structurer son récit]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-11-13","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Structure en 3 actes/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:47.998+01:00","mtime":"2026-04-24T17:43:18.992+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/Notes permanentes/CINEMA]]","[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[An introduction to screenwriting]] / [[12e cours de scénario esma 3D2, Structurer son récit]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-11-13","aliases":null}}
 ---
 
 
