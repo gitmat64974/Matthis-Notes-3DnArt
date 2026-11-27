@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/La pyramide de Maslow/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:25.391+01:00","mtime":"2025-10-14T10:49:56.173+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/PSYCHOLOGIE]]"],"source":["[[3_GARDEN/Notes littéraires/Histoire de la psychologie, les principaux courants et penseurs, video YT Coursitout]]"],"Projets":null,"tags":["note_permanente"],"creation date":202510141049,"aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/La pyramide de Maslow/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.656+01:00","mtime":"2025-10-14T10:49:56.173+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/PSYCHOLOGIE]]"],"source":["[[3_GARDEN/Notes littéraires/Histoire de la psychologie, les principaux courants et penseurs, video YT Coursitout]]"],"Projets":null,"tags":["note_permanente"],"creation date":202510141049,"aliases":null}}
 ---
 
 ## La note 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Moebius/","tags":["note_permanente","#fern"],"ctime":"2026-03-21T20:44:27.769+01:00","mtime":"2026-04-12T14:29:35.589+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/BD]]","[[3_GARDEN/MOCs/DESSIN]]","[[3_GARDEN/MOCs/SCIENCE-FICTION]]","[[3_GARDEN/MOCs/ART]]","[[3_GARDEN/MOCs/CONCEPT ART]]","[[3_GARDEN/MOCs/CHARA DESIGN]]","[[3_GARDEN/MOCs/HISTOIRE DE L'ART]]","[[3_GARDEN/Notes permanentes/CINEMA]]"],"source":["Perplexity"],"Projets":["[[6_ARCHIVES/Projets/3D4/Projet concept art, Voyageur spatial]]"],"tags":["note_permanente","#fern"],"creation date":"2025-09-27","aliases":["Jean Giraud"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Moebius/","tags":["note_permanente","#fern"],"ctime":"2026-03-22T12:15:23.022+01:00","mtime":"2026-04-12T14:29:35.589+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/BD]]","[[3_GARDEN/MOCs/DESSIN]]","[[3_GARDEN/MOCs/SCIENCE-FICTION]]","[[3_GARDEN/MOCs/ART]]","[[3_GARDEN/MOCs/CONCEPT ART]]","[[3_GARDEN/MOCs/CHARA DESIGN]]","[[3_GARDEN/MOCs/HISTOIRE DE L'ART]]","[[3_GARDEN/Notes permanentes/CINEMA]]"],"source":["Perplexity"],"Projets":["[[6_ARCHIVES/Projets/3D4/Projet concept art, Voyageur spatial]]"],"tags":["note_permanente","#fern"],"creation date":"2025-09-27","aliases":["Jean Giraud"]}}
 ---
 
 ## La note 

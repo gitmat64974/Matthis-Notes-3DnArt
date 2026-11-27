@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Méthodologie pour dessiner toutes les textures/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:19.473+01:00","mtime":"2026-04-24T17:43:18.871+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DESSIN]]"],"source":["[[3_GARDEN/Notes littéraires/8e cous de dessin esma 3d1a]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-09-04","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Méthodologie pour dessiner toutes les textures/","tags":["note_permanente"],"ctime":"2026-04-06T00:01:04.000+02:00","mtime":"2026-04-24T17:43:18.871+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DESSIN]]"],"source":["[[3_GARDEN/Notes littéraires/8e cous de dessin esma 3d1a]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-09-04","aliases":null}}
 ---
 
 

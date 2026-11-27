@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Import export clean Houdini/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:54.737+01:00","mtime":"2025-11-28T17:19:18.913+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/Notes permanentes/Alembic]]","[[3_GARDEN/MOCs/CFX]]"],"source":["[[3_GARDEN/Notes littéraires/5e cours CFX]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-11-28","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Import export clean Houdini/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.394+01:00","mtime":"2026-11-26T22:35:25.494+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/Notes permanentes/Alembic]]","[[3_GARDEN/MOCs/CFX]]"],"source":["[[3_GARDEN/Notes littéraires/5e cours CFX]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-11-28","aliases":null}}
 ---
 
 ---
@@ -9,7 +9,7 @@
 
 ### Import
 
-On cherche ici à importer correctement une geometrie pour le [[3_GARDEN/Notes permanentes/Appliquer une simu Houdini sur un mesh High poly (avec épaisseur etc)\|Setup de simulation Houdini proxy to high poly]]
+On cherche ici à importer correctement une geometrie pour le [[3_GARDEN/MOCs/CLOTH SIMULATION\|Setup de simulation Houdini proxy to high poly]]
 
 
 #### Import alembic

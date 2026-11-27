@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Méthodologie grooming xgen interactive/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:20.085+01:00","mtime":"2026-10-29T13:44:39.160+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/GROOM]]","[[3_GARDEN/MOCs/SHADING TEXTURING]]"],"source":["[[3_GARDEN/Notes littéraires/Groom, cours lighting 3D2A]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-01-06","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Méthodologie grooming xgen interactive/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.077+01:00","mtime":"2026-10-29T13:44:39.160+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/GROOM]]","[[3_GARDEN/MOCs/SHADING TEXTURING]]"],"source":["[[3_GARDEN/Notes littéraires/Groom, cours lighting 3D2A]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-01-06","aliases":null}}
 ---
 
 

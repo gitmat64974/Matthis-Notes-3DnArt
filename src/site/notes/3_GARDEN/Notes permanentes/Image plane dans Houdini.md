@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Image plane dans Houdini/","tags":["note_permanente"],"ctime":"2026-10-29T15:21:18.282+01:00","mtime":"2026-10-29T15:20:32.254+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/MODELISATION]]"],"source":["https://youtu.be/YB_ZL75Skm0?is=ZZEw6lKXf2xcyTdk"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-10-29","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Image plane dans Houdini/","tags":["note_permanente"],"ctime":"2026-10-30T11:14:43.848+01:00","mtime":"2026-10-29T15:20:32.254+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/MODELISATION]]"],"source":["https://youtu.be/YB_ZL75Skm0?is=ZZEw6lKXf2xcyTdk"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-10-29","aliases":null}}
 ---
 
 ## La note 
