@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/SHADING TEXTURING/","tags":["MOC"],"ctime":"2026-03-21T20:44:15.942+01:00","mtime":"2026-04-06T00:00:41.000+02:00","dg-note-properties":{"tags":["MOC"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/SHADING TEXTURING/","tags":["MOC"],"ctime":"2026-04-25T23:16:42.658+02:00","mtime":"2026-04-06T00:00:41.000+02:00","dg-note-properties":{"tags":["MOC"]}}
 ---
 
 

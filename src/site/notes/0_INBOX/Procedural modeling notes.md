@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0_INBOX/Procedural modeling notes/","ctime":"2026-07-17T16:25:19.336+02:00","mtime":"2026-11-26T11:34:12.402+01:00","dg-note-properties":{"aliases":["notes modelisation procedural"]}}
+{"dg-publish":true,"permalink":"/0_INBOX/Procedural modeling notes/","ctime":"2026-09-18T10:17:49.306+02:00","mtime":"2026-11-26T11:34:12.402+01:00","dg-note-properties":{"aliases":["notes modelisation procedural"]}}
 ---
 
 

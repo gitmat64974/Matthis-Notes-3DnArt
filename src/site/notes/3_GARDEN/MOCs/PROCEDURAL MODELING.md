@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/PROCEDURAL MODELING/","tags":["note_permanente","MOC"],"ctime":"2026-03-21T20:44:39.347+01:00","mtime":"2026-11-26T22:03:58.142+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["Houdini doc","Houdini learning"],"Projets":null,"tags":["note_permanente","MOC"],"creation date":"2026-06-06","aliases":["MODELISATION PROCEDURALE"],"banner":"https://images.unsplash.com/photo-1682846133858-c0599bc99874?q=80&w=2098&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/PROCEDURAL MODELING/","tags":["note_permanente","MOC"],"ctime":"2026-06-07T15:51:44.028+02:00","mtime":"2026-11-26T22:03:58.142+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["Houdini doc","Houdini learning"],"Projets":null,"tags":["note_permanente","MOC"],"creation date":"2026-06-06","aliases":["MODELISATION PROCEDURALE"],"banner":"https://images.unsplash.com/photo-1682846133858-c0599bc99874?q=80&w=2098&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"}}
 ---
 
 # Définition

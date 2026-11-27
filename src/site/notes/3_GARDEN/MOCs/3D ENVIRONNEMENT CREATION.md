@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/3D ENVIRONNEMENT CREATION/","tags":["MOC"],"ctime":"2026-03-21T20:44:14.443+01:00","mtime":"2026-11-26T22:24:47.184+01:00","dg-note-properties":{"tags":["MOC"],"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/SOLARIS]]"],"source":null,"Projets":null,"creation date":"2026-11-26","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/3D ENVIRONNEMENT CREATION/","tags":["MOC"],"ctime":"2026-11-27T09:21:12.868+01:00","mtime":"2026-11-26T22:24:47.184+01:00","dg-note-properties":{"tags":["MOC"],"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/SOLARIS]]"],"source":null,"Projets":null,"creation date":"2026-11-26","aliases":null}}
 ---
 
 

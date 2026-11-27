@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/Comfyui video playlist 3d war, la 3d facil/","tags":["note_litteraire"],"ctime":"2026-03-21T20:44:12.218+01:00","mtime":"2026-02-09T15:28:41.265+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/Notes permanentes/ComfyUI]]","[[3_GARDEN/MOCs/IA]]","[[3_GARDEN/MOCs/3D]]"],"source":["https://youtube.com/playlist?list=PLqGABQyVhJJqv3lxSYBYqYh8vQ6_yxZ_g&si=54MBC2lBKA-yVeiu"],"Projets":null,"tags":["note_litteraire"],"creation date":"2025-08-02"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/Comfyui video playlist 3d war, la 3d facil/","tags":["note_litteraire"],"ctime":"2026-03-22T12:15:21.130+01:00","mtime":"2026-02-09T15:28:41.265+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/Notes permanentes/ComfyUI]]","[[3_GARDEN/MOCs/IA]]","[[3_GARDEN/MOCs/3D]]"],"source":["https://youtube.com/playlist?list=PLqGABQyVhJJqv3lxSYBYqYh8vQ6_yxZ_g&si=54MBC2lBKA-yVeiu"],"Projets":null,"tags":["note_litteraire"],"creation date":"2025-08-02"}}
 ---
 
 

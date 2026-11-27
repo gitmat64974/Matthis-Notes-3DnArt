@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/COMPOSITING/","tags":["MOC"],"ctime":"2026-03-21T20:44:17.961+01:00","mtime":"2026-04-06T00:00:58.000+02:00","dg-note-properties":{"aliases":["Compositing"],"banner":"https://images.unsplash.com/photo-1597423244036-ef5020e83f3c?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","tags":["MOC"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/COMPOSITING/","tags":["MOC"],"ctime":"2026-04-25T23:16:42.405+02:00","mtime":"2026-04-06T00:00:58.000+02:00","dg-note-properties":{"aliases":["Compositing"],"banner":"https://images.unsplash.com/photo-1597423244036-ef5020e83f3c?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","tags":["MOC"]}}
 ---
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/RIG HOUDINI/","tags":["MOC"],"ctime":"2026-03-21T20:44:45.397+01:00","mtime":"2026-11-26T22:45:04.030+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/RIG]]"],"source":["Houdini doc"],"tags":["MOC"],"creation date":"2026-09-26","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/RIG HOUDINI/","tags":["MOC"],"ctime":"2026-09-28T09:15:41.405+02:00","mtime":"2026-11-26T22:45:33.910+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/RIG]]"],"source":["Houdini doc"],"tags":["MOC"],"creation date":"2026-09-26","aliases":null}}
 ---
 
 
@@ -15,7 +15,7 @@
 - <font color="#b2a2c7">Controleurs</font>
 
 <u>Il y a plusieurs manières de construire un rig dans APEX :</u> 
-On peut construire les joints à la main avec les nodes skeleton puis skinner la geo avec (voir [[3_GARDEN/Notes permanentes/Skinning KineFX\|Skinning KineFX]]) pour ensuite "rentrer" dans APEX et construire tout le système de controleurs
+On peut construire les joints à la main avec le node skeleton puis skinner la geo avec (voir [[3_GARDEN/Notes permanentes/Skinning KineFX\|Skinning KineFX]]) pour ensuite "rentrer" dans APEX et construire tout le système de controleurs
 On peut aussi "entrer" directement dans APEX avec seulement une geo et créer les joints dans APEX
 
 ---

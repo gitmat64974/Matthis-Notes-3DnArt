@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/ZBRUSH/","tags":["MOC"],"ctime":"2026-05-02T23:08:53.863+02:00","mtime":"2026-07-17T16:38:19.321+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/MODELISATION]]","[[3_GARDEN/MOCs/SHADING TEXTURING]]"],"source":null,"Projets":null,"tags":["MOC"],"creation date":"2025-08-12","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/ZBRUSH/","tags":["MOC"],"ctime":"2026-05-02T23:08:52.855+02:00","mtime":"2026-07-17T16:38:19.321+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/MODELISATION]]","[[3_GARDEN/MOCs/SHADING TEXTURING]]"],"source":null,"Projets":null,"tags":["MOC"],"creation date":"2025-08-12","aliases":null}}
 ---
 
 # Définition

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/RBD Simulation Houdini/","tags":["note_permanente","MOC"],"ctime":"2026-03-21T20:44:25.486+01:00","mtime":"2026-11-26T22:16:14.081+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["Houdini doc"],"Projets":null,"tags":["note_permanente","MOC"],"creation date":"2026-11-26","aliases":["Simulation RBD Houdini","Simulation destruction Houdini"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/RBD Simulation Houdini/","tags":["note_permanente","MOC"],"ctime":"2026-11-27T09:21:12.860+01:00","mtime":"2026-11-26T22:16:14.081+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["Houdini doc"],"Projets":null,"tags":["note_permanente","MOC"],"creation date":"2026-11-26","aliases":["Simulation RBD Houdini","Simulation destruction Houdini"]}}
 ---
 
 # Définition

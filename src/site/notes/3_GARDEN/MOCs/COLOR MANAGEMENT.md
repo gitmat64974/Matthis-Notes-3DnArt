@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/COLOR MANAGEMENT/","tags":["MOC"],"ctime":"2026-03-21T20:44:17.635+01:00","mtime":"2026-04-06T00:00:44.000+02:00","dg-note-properties":{"MOC":null,"source":null,"Projets":null,"tags":["MOC"],"creation date":"2025-10-04","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/COLOR MANAGEMENT/","tags":["MOC"],"ctime":"2026-04-25T23:16:41.956+02:00","mtime":"2026-04-06T00:00:44.000+02:00","dg-note-properties":{"MOC":null,"source":null,"Projets":null,"tags":["MOC"],"creation date":"2025-10-04","aliases":null}}
 ---
 
 # Définition

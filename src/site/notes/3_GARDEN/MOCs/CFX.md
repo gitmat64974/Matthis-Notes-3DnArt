@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/CFX/","tags":["MOC"],"ctime":"2026-05-02T16:25:58.628+02:00","mtime":"2026-04-25T08:47:36.848+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/3D]]"],"source":["[[3_GARDEN/Notes littéraires/Cours CFX ESMA]]"],"Projets":null,"tags":["MOC"],"creation date":"2025-11-21","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/CFX/","tags":["MOC"],"ctime":"2026-04-25T23:16:41.796+02:00","mtime":"2026-11-26T22:36:53.687+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/3D]]"],"source":["[[3_GARDEN/Notes littéraires/Cours CFX ESMA]]"],"Projets":null,"tags":["MOC"],"creation date":"2025-11-21","aliases":null}}
 ---
 
 ---
@@ -41,7 +41,7 @@
 
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/3_GARDEN/Notes permanentes/Appliquer une simu Houdini sur un mesh High poly (avec épaisseur etc)/#la-note" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/3_GARDEN/MOCs/CLOTH SIMULATION/#la-note" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -50,13 +50,17 @@
 </div>
 
 
-## La note 
+
+
+# Définition
 
 Pour simuler notamment du cloth dans Houdini, on ne doit pas avoir d'épaisseur, on doit avoir un maillage en triangles, pas d'UVs etc (voir notamment : [[3_GARDEN/Notes permanentes/Import export clean Houdini\|Import export clean Houdini]])
 
 On simule donc sur un proxy puis on vient réappliquer la déformation sur le mesh d'origine
 
----
+
+# Structure
+
 #### 1. Création du proxy et simulation
 
 1. Importation et préparation du proxy : [[3_GARDEN/Notes permanentes/Import export clean Houdini\|Import export clean Houdini]]
@@ -101,6 +105,12 @@ On simule donc sur un proxy puis on vient réappliquer la déformation sur le me
 
 
 
+
+
+# Ressources
+
+
+
 </div></div>
 
 
@@ -126,4 +136,5 @@ Voir : [[3_GARDEN/MOCs/GROOM\|GROOM]]
 ## Crowd
 
 [[3_GARDEN/Notes permanentes/Crowd\|Crowd]]
-[[3_GARDEN/MOCs/Crowd Houdini\|Crowd Houdini]]
+[[3_GARDEN/MOCs/CROWD HOUDINI\|CROWD HOUDINI]]
+

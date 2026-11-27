@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/CLOTH SIMULATION/","tags":["note_permanente","MOC"],"ctime":"2026-03-21T20:44:26.621+01:00","mtime":"2026-11-26T22:36:08.752+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/CFX]]"],"source":null,"Projets":null,"tags":["note_permanente","MOC"],"creation date":"2026-11-26","aliases":["Node point deform pour Appliquer une simu Houdini sur un mesh High poly","Setup de simulation Houdini proxy to high poly","Workflow simu houdini sim mesh to final mesh","Process simulation de vêtement Houdini"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/CLOTH SIMULATION/","tags":["note_permanente","MOC"],"ctime":"2026-11-27T09:21:11.865+01:00","mtime":"2026-11-26T22:36:08.752+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/CFX]]"],"source":null,"Projets":null,"tags":["note_permanente","MOC"],"creation date":"2026-11-26","aliases":["Node point deform pour Appliquer une simu Houdini sur un mesh High poly","Setup de simulation Houdini proxy to high poly","Workflow simu houdini sim mesh to final mesh","Process simulation de vêtement Houdini"]}}
 ---
 
 

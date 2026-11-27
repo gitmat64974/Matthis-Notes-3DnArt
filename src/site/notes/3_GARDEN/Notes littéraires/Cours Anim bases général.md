@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/Cours Anim bases général/","tags":["note_litteraire"],"ctime":"2026-03-21T20:44:11.681+01:00","mtime":"2026-04-24T17:43:19.072+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ANIMATION]]"],"source":["#cours [[Cours d'animation ESMA]] 3D1"],"Projets":null,"tags":["note_litteraire"],"creation date":"2024-09-15"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/Cours Anim bases général/","tags":["note_litteraire"],"ctime":"2026-03-22T12:15:21.148+01:00","mtime":"2026-04-24T17:43:19.072+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ANIMATION]]"],"source":["#cours [[Cours d'animation ESMA]] 3D1"],"Projets":null,"tags":["note_litteraire"],"creation date":"2024-09-15"}}
 ---
 
 

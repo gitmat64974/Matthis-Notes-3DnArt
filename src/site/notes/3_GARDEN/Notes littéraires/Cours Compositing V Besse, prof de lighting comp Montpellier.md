@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/Cours Compositing V Besse, prof de lighting comp Montpellier/","tags":["note_litteraire","en_cours"],"ctime":"2026-03-21T20:44:12.859+01:00","mtime":"2026-09-30T23:07:52.773+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITING]]"],"source":null,"Projets":null,"tags":["note_litteraire","en_cours"],"creation date":"2026-01-30"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/Cours Compositing V Besse, prof de lighting comp Montpellier/","tags":["note_litteraire","en_cours"],"ctime":"2026-04-06T00:00:31.000+02:00","mtime":"2026-09-30T23:07:52.773+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITING]]"],"source":null,"Projets":null,"tags":["note_litteraire","en_cours"],"creation date":"2026-01-30"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/AFFINITY/","tags":["MOC"],"ctime":"2026-03-21T20:44:15.265+01:00","mtime":"2026-04-06T00:00:39.000+02:00","dg-note-properties":{"tags":["MOC"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/AFFINITY/","tags":["MOC"],"ctime":"2026-04-06T00:00:39.000+02:00","mtime":"2026-04-06T00:00:39.000+02:00","dg-note-properties":{"tags":["MOC"]}}
 ---
 
 ---

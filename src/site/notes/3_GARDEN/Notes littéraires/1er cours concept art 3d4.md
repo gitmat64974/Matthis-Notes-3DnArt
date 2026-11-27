@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/1er cours concept art 3d4/","tags":["note_litteraire","A_traiter","#cours"],"ctime":"2026-03-21T20:44:13.345+01:00","mtime":"2025-10-23T14:54:51.294+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/CONCEPT ART]]"],"source":["[[3_GARDEN/Notes littéraires/Cours de concept art ESMA]]"],"Projets":null,"tags":["note_litteraire","A_traiter","#cours"],"creation date":"2025-09-24"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/1er cours concept art 3d4/","tags":["note_litteraire","A_traiter","#cours"],"ctime":"2026-03-22T12:15:20.964+01:00","mtime":"2025-10-23T14:54:51.294+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/CONCEPT ART]]"],"source":["[[3_GARDEN/Notes littéraires/Cours de concept art ESMA]]"],"Projets":null,"tags":["note_litteraire","A_traiter","#cours"],"creation date":"2025-09-24"}}
 ---
 
 

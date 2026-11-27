@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/5e cours CFX/","tags":["note_litteraire","cours"],"ctime":"2026-03-21T20:44:12.566+01:00","mtime":"2025-12-12T17:45:05.159+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/CFX]]"],"source":["[[3_GARDEN/Notes littéraires/Cours CFX ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2025-11-28"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes littéraires/5e cours CFX/","tags":["note_litteraire","cours"],"ctime":"2026-03-22T12:15:21.042+01:00","mtime":"2026-11-26T22:35:25.478+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/CFX]]"],"source":["[[3_GARDEN/Notes littéraires/Cours CFX ESMA]]"],"Projets":null,"tags":["note_litteraire","cours"],"creation date":"2025-11-28"}}
 ---
 
 
@@ -14,7 +14,7 @@
 
 ### Import
 
-On cherche ici à importer correctement une geometrie pour le [[3_GARDEN/Notes permanentes/Appliquer une simu Houdini sur un mesh High poly (avec épaisseur etc)\|Setup de simulation Houdini proxy to high poly]]
+On cherche ici à importer correctement une geometrie pour le [[3_GARDEN/MOCs/CLOTH SIMULATION\|Setup de simulation Houdini proxy to high poly]]
 
 
 #### Import alembic
@@ -142,17 +142,21 @@ Après avoir bien préparé les curves pour la simu (voir plus haut, surtout le 
 ## Proxy to HIGH POLY
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/3_GARDEN/Notes permanentes/Appliquer une simu Houdini sur un mesh High poly (avec épaisseur etc)/#la-note" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/3_GARDEN/MOCs/CLOTH SIMULATION/#la-note" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
-## La note 
+
+
+# Définition
 
 Pour simuler notamment du cloth dans Houdini, on ne doit pas avoir d'épaisseur, on doit avoir un maillage en triangles, pas d'UVs etc (voir notamment : [[3_GARDEN/Notes permanentes/Import export clean Houdini\|Import export clean Houdini]])
 
 On simule donc sur un proxy puis on vient réappliquer la déformation sur le mesh d'origine
 
----
+
+# Structure
+
 #### 1. Création du proxy et simulation
 
 1. Importation et préparation du proxy : [[3_GARDEN/Notes permanentes/Import export clean Houdini\|Import export clean Houdini]]
@@ -194,6 +198,12 @@ On simule donc sur un proxy puis on vient réappliquer la déformation sur le me
 > 
 
 
+
+
+
+
+
+# Ressources
 
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/BD/","tags":["MOC"],"ctime":"2026-03-21T20:44:13.167+01:00","mtime":"2026-04-06T00:01:06.000+02:00","dg-note-properties":{"tags":["MOC"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/MOCs/BD/","tags":["MOC"],"ctime":"2026-04-25T23:16:41.760+02:00","mtime":"2026-04-06T00:01:06.000+02:00","dg-note-properties":{"tags":["MOC"]}}
 ---
 
 # Définition 
