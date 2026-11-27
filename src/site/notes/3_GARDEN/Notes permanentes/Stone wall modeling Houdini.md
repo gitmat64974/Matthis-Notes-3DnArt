@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Stone wall modeling Houdini/","tags":["note_permanente"],"ctime":"2026-11-26T13:18:27.659+01:00","mtime":"2026-11-26T10:32:47.082+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/PROCEDURAL MODELING]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-26","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Stone wall modeling Houdini/","tags":["note_permanente"],"ctime":"2026-11-26T10:26:36.223+01:00","mtime":"2026-11-26T10:32:47.082+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/PROCEDURAL MODELING]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-26","aliases":null}}
 ---
 
 ## La note 

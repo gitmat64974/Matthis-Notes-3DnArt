@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Stylisation dans Nuke/","tags":["note_permanente"],"ctime":"2026-10-03T11:36:27.789+02:00","mtime":"2026-10-03T11:58:14.519+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITING]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-10-03","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Stylisation dans Nuke/","tags":["note_permanente"],"ctime":"2026-10-06T14:49:10.571+02:00","mtime":"2026-10-03T11:58:14.519+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITING]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-10-03","aliases":null}}
 ---
 
 ## La note 

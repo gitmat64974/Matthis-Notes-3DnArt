@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/TOPs Rendering - Solaris/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:47.883+01:00","mtime":"2026-11-20T21:49:54.141+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["https://youtu.be/qg3OFz4JZs4?si=cYVfmzxMe7woh0qC"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-11-30","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/TOPs Rendering - Solaris/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.352+01:00","mtime":"2026-11-20T21:49:54.141+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["https://youtu.be/qg3OFz4JZs4?si=cYVfmzxMe7woh0qC"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-11-30","aliases":null}}
 ---
 
 ## La note 

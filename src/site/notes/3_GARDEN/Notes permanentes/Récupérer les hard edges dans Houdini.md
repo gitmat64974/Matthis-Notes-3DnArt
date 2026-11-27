@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Récupérer les hard edges dans Houdini/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:20.999+01:00","mtime":"2026-01-23T09:09:32.413+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["[[3_GARDEN/Notes littéraires/Cours Houdini semaine 14]]"],"Projets":null,"tags":["note_permanente"],"creation date":202601230907,"aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Récupérer les hard edges dans Houdini/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.608+01:00","mtime":"2026-01-23T09:09:32.413+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["[[3_GARDEN/Notes littéraires/Cours Houdini semaine 14]]"],"Projets":null,"tags":["note_permanente"],"creation date":202601230907,"aliases":null}}
 ---
 
 ## La note 

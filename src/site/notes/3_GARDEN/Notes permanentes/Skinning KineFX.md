@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Skinning KineFX/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:27.732+01:00","mtime":"2026-11-19T08:38:22.176+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/RIG]]"],"source":["Houdini doc"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-17","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Skinning KineFX/","tags":["note_permanente"],"ctime":"2026-09-28T09:15:41.397+02:00","mtime":"2026-11-26T23:10:09.048+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/RIG]]"],"source":["Houdini doc"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-17","aliases":null}}
 ---
 
 ## La note 
@@ -57,6 +57,12 @@ Puis on skin les parties dures avec le `capturepackedgeo` et les parties molles 
 |---|---|
 |[Attach Joint Geometry SOP](https://www.sidefx.com/docs/houdini/nodes/sop/kinefx--attachjointgeo.html "Creates control geometry for SOP-based KineFX rigs.")|Attaches geometry to joints, with the geometry influencing the capture result.|
 |Joint Capture Paint SOP|Allows you to interactively paint capture weights on geometry that have existing weights.|
+
+#### Transférer procéduralement des weight peintes
+
+Tout simplement avec un attribute transfer de l'attribut bone capture
+
+*Penser à souvent save un cache ou un export de la géo qu'on est en train de skinner à la main dans ce cas*
 
 ---
 

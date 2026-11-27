@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/ST Map/","tags":["note_permanente"],"ctime":"2026-03-25T20:35:18.931+01:00","mtime":"2026-03-25T20:38:37.520+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITING]]"],"source":["[[3_GARDEN/Notes permanentes/AOVs Utilitaires]]"],"Projets":null,"tags":["note_permanente"],"creation date":202503250000,"aliases":["UV Map Nuke","STmap Nuke"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/ST Map/","tags":["note_permanente"],"ctime":"2026-03-25T20:36:26.430+01:00","mtime":"2026-03-25T20:38:37.520+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITING]]"],"source":["[[3_GARDEN/Notes permanentes/AOVs Utilitaires]]"],"Projets":null,"tags":["note_permanente"],"creation date":202503250000,"aliases":["UV Map Nuke","STmap Nuke"]}}
 ---
 
 ## La note

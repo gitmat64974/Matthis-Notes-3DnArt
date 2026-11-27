@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Sculpt (3D)/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:39.549+01:00","mtime":"2026-04-24T17:43:18.976+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SHADING TEXTURING]]"],"source":["[[3_GARDEN/Notes littéraires/2e cours de rendu ESMA 3D2A]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-01-06","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Sculpt (3D)/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.658+01:00","mtime":"2026-04-24T17:43:18.976+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SHADING TEXTURING]]"],"source":["[[3_GARDEN/Notes littéraires/2e cours de rendu ESMA 3D2A]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-01-06","aliases":null}}
 ---
 
 
