@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Western classique/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:33.228+01:00","mtime":"2026-04-24T17:43:19.034+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/Notes permanentes/WESTERN]]","[[3_GARDEN/Notes permanentes/CINEMA]]"],"source":["[[3_GARDEN/Notes littéraires/Sujet le saloon, note litt cours de sémiologie]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-09-17","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Western classique/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.990+01:00","mtime":"2026-04-24T17:43:19.034+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/Notes permanentes/WESTERN]]","[[3_GARDEN/Notes permanentes/CINEMA]]"],"source":["[[3_GARDEN/Notes littéraires/Sujet le saloon, note litt cours de sémiologie]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-09-17","aliases":null}}
 ---
 
 

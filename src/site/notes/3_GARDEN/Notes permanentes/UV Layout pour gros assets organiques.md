@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/UV Layout pour gros assets organiques/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:45.932+01:00","mtime":"2025-11-14T14:00:51.402+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/UV]]","[[3_GARDEN/MOCs/3D]]"],"source":["[[3_GARDEN/Notes littéraires/Cours de lighting rendu ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-11-14","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/UV Layout pour gros assets organiques/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.927+01:00","mtime":"2025-11-14T14:00:51.402+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/UV]]","[[3_GARDEN/MOCs/3D]]"],"source":["[[3_GARDEN/Notes littéraires/Cours de lighting rendu ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-11-14","aliases":null}}
 ---
 
 ## La note 

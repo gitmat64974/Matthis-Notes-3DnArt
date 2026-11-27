@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Zbrush PolyPaint/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:44.967+01:00","mtime":"2025-08-12T15:12:52.450+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ZBRUSH]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2025-08-12","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Zbrush PolyPaint/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:24.013+01:00","mtime":"2025-08-12T15:12:52.450+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ZBRUSH]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2025-08-12","aliases":null}}
 ---
 
 ## La note 

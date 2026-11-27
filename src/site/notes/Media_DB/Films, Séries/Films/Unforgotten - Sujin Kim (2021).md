@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Media_DB/Films, Séries/Films/Unforgotten - Sujin Kim (2021)/","title":"Unforgotten - Sujin Kim (2021)","tags":["film","court_métrage"],"ctime":"2025-10-09T11:33:55.614+02:00","mtime":"2026-02-08T12:49:04.092+01:00","dg-note-properties":{"cover":null,"title":"Unforgotten - Sujin Kim (2021)","réalisateur":["Sujin Kim"],"acteurs":null,"studio":null,"genre":["Animation","Court_métrage"],"date de sortie":2021,"durée":"8 mn","pays d'origine":["États Unis"],"évaluation":"+++++","statut":"vu","tags":["film","court_métrage"],"creation date":"2025-10-09"}}
+{"dg-publish":true,"permalink":"/Media_DB/Films, Séries/Films/Unforgotten - Sujin Kim (2021)/","title":"Unforgotten - Sujin Kim (2021)","tags":["film","court_métrage"],"ctime":"2026-03-22T12:15:25.487+01:00","mtime":"2026-02-08T12:49:04.092+01:00","dg-note-properties":{"cover":null,"title":"Unforgotten - Sujin Kim (2021)","réalisateur":["Sujin Kim"],"acteurs":null,"studio":null,"genre":["Animation","Court_métrage"],"date de sortie":2021,"durée":"8 mn","pays d'origine":["États Unis"],"évaluation":"+++++","statut":"vu","tags":["film","court_métrage"],"creation date":"2025-10-09"}}
 ---
 
 

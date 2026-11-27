@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Zbrush, isoler un partie d'un mesh/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:34.905+01:00","mtime":"2026-02-01T14:47:47.613+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ZBRUSH]]"],"source":["https://youtu.be/Mm0VeFOFKtU?si=yLH9fK4GCbvDd0hJ"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-02-01","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Zbrush, isoler un partie d'un mesh/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:24.014+01:00","mtime":"2026-02-01T14:47:47.613+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ZBRUSH]]"],"source":["https://youtu.be/Mm0VeFOFKtU?si=yLH9fK4GCbvDd0hJ"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-02-01","aliases":null}}
 ---
 
 ## La note 
