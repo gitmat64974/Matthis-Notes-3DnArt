@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Animate Fur Xgen/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:33.483+01:00","mtime":"2025-09-13T23:16:49.764+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/GROOM]]","https://youtu.be/7IS_tnkO_oU?si=EOOO_jAPudF1GEDW"],"source":null,"tags":["note_permanente"],"creation date":"2025-02-07"}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Animate Fur Xgen/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:21.557+01:00","mtime":"2025-09-13T23:16:49.764+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/GROOM]]","https://youtu.be/7IS_tnkO_oU?si=EOOO_jAPudF1GEDW"],"source":null,"tags":["note_permanente"],"creation date":"2025-02-07"}}
 ---
 
 ## La note 

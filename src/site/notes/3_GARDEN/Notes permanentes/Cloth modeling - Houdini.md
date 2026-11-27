@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Cloth modeling - Houdini/","tags":["note_permanente"],"ctime":"2026-10-12T23:22:17.471+02:00","mtime":"2026-10-13T00:01:48.405+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/CFX]]","[[3_GARDEN/MOCs/HOUDINI]]"],"source":["https://youtu.be/Z9eqknbHjJY?si=tO1PlugE-xehJ7mJ"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-10-12","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Cloth modeling - Houdini/","tags":["note_permanente"],"ctime":"2026-10-13T07:43:39.508+02:00","mtime":"2026-10-13T00:01:48.405+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/CFX]]","[[3_GARDEN/MOCs/HOUDINI]]"],"source":["https://youtu.be/Z9eqknbHjJY?si=tO1PlugE-xehJ7mJ"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-10-12","aliases":null}}
 ---
 
 ## La note 

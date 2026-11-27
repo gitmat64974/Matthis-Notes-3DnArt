@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Attribute paint/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:26.075+01:00","mtime":"2025-12-17T12:32:08.300+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/CFX]]"],"source":["[[3_GARDEN/Notes littéraires/Cours houdini ESMA]]","[[3_GARDEN/Notes littéraires/Cours CFX ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-12-12","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Attribute paint/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:21.619+01:00","mtime":"2026-11-26T23:03:59.600+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/CFX]]"],"source":["[[3_GARDEN/Notes littéraires/Cours houdini ESMA]]","[[3_GARDEN/Notes littéraires/Cours CFX ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-12-12","aliases":null}}
 ---
 
 ## La note 
@@ -30,6 +30,9 @@ Chaque coup de pinceau change la valeur de l’attribut sur les points touchés,
 > - Activer la symétrie
 
 
+#### Récupérer le paint sur une autre géo
+
+A savoir que si la géo change, le paint n'est absolument pas perdu, il suffit de faire *recache -> recache strokes* et le paint sera reprojeté sur la nouvelle géo
 
 
 ## Références

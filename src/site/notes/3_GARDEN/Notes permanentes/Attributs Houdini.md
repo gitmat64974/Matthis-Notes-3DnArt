@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Attributs Houdini/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:41.084+01:00","mtime":"2026-11-26T11:30:08.978+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-10","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Attributs Houdini/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:21.621+01:00","mtime":"2026-11-26T11:30:08.978+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-10","aliases":null}}
 ---
 
 ## La note 

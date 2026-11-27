@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/ACTION/","tags":["note_permanente"],"ctime":"2026-04-12T14:28:16.872+02:00","mtime":"2026-08-18T13:29:23.754+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/Truby - L'anatomie des histoires - note litt]]"],"Projets":null,"tags":["note_permanente"],"creation date":202604121428,"aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/ACTION/","tags":["note_permanente"],"ctime":"2026-04-12T19:02:55.380+02:00","mtime":"2026-08-18T13:29:23.754+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/Truby - L'anatomie des histoires - note litt]]"],"Projets":null,"tags":["note_permanente"],"creation date":202604121428,"aliases":null}}
 ---
 
 ## La note 

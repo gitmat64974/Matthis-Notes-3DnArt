@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Animation Methodology, Hugo Falaize/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:54.802+01:00","mtime":"2025-11-15T18:25:15.893+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/ANIMATION]]"],"source":["prof d'animation ESMA Hugo Falaize","[[3_GARDEN/Notes littéraires/Cours d'animation ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-11-15","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Animation Methodology, Hugo Falaize/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:21.560+01:00","mtime":"2025-11-15T18:25:15.893+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/ANIMATION]]"],"source":["prof d'animation ESMA Hugo Falaize","[[3_GARDEN/Notes littéraires/Cours d'animation ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-11-15","aliases":null}}
 ---
 
 

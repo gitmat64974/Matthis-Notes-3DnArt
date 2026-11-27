@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Angles de prises de vue/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:40.149+01:00","mtime":"2026-04-24T17:43:18.601+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SEMIOLOGIE]]","[[3_GARDEN/MOCs/DESSIN]]","[[3_GARDEN/Notes permanentes/CINEMA]]"],"source":["[[3e cours de sémiologie esma 3d1a]] / [[L'art de la composition et du cadrage]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2023-10-16","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Angles de prises de vue/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:21.554+01:00","mtime":"2026-04-24T17:43:18.601+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/SEMIOLOGIE]]","[[3_GARDEN/MOCs/DESSIN]]","[[3_GARDEN/Notes permanentes/CINEMA]]"],"source":["[[3e cours de sémiologie esma 3d1a]] / [[L'art de la composition et du cadrage]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2023-10-16","aliases":null}}
 ---
 
 
