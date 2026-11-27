@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Point focal/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:26.109+01:00","mtime":"2026-04-24T17:43:18.917+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITION PICTURALE]]","[[3_GARDEN/MOCs/LIGHTING]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2024-09-08","aliases":null,"Source":["[[3_GARDEN/Notes littéraires/8e cours d'illustration esma 3d1a]]"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Point focal/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.331+01:00","mtime":"2026-04-24T17:43:18.917+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITION PICTURALE]]","[[3_GARDEN/MOCs/LIGHTING]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2024-09-08","aliases":null,"Source":["[[3_GARDEN/Notes littéraires/8e cours d'illustration esma 3d1a]]"]}}
 ---
 
 

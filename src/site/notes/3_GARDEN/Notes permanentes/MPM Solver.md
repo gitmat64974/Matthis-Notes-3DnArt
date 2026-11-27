@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/MPM Solver/","tags":["note_permanente"],"ctime":"2026-09-17T18:41:12.360+02:00","mtime":"2026-11-26T22:17:06.443+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-09-17","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/MPM Solver/","tags":["note_permanente"],"ctime":"2026-09-18T10:17:49.788+02:00","mtime":"2026-11-26T22:17:06.443+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-09-17","aliases":null}}
 ---
 
 ## La note 

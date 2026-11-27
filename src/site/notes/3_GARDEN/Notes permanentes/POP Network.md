@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/POP Network/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:44.374+01:00","mtime":"2026-11-26T22:10:09.792+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["Houdini doc","[[3_GARDEN/Notes littéraires/Cours houdini ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-27","aliases":["Popnet"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/POP Network/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:23.339+01:00","mtime":"2026-11-26T22:10:09.792+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]"],"source":["Houdini doc","[[3_GARDEN/Notes littéraires/Cours houdini ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2026-01-27","aliases":["Popnet"]}}
 ---
 
 ## La note 
