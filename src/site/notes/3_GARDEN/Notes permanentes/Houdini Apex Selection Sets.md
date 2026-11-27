@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Houdini Apex Selection Sets/","tags":["note_permanente"],"ctime":"2026-11-22T22:08:13.607+01:00","mtime":"2026-11-23T00:58:10.018+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/Notes permanentes/APEX - Animation - Houdini]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-22","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Houdini Apex Selection Sets/","tags":["note_permanente"],"ctime":"2026-11-24T08:32:51.084+01:00","mtime":"2026-11-23T00:58:10.018+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/Notes permanentes/APEX - Animation - Houdini]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-11-22","aliases":null}}
 ---
 
 ## La note 

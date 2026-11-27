@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Dessin de geste/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:35.228+01:00","mtime":"2026-04-24T17:43:18.663+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DESSIN]]","[[3_GARDEN/MOCs/ILLUSTRATION]]","[[3_GARDEN/MOCs/CHARA DESIGN]]","[[3_GARDEN/MOCs/ANATOMIE ARTISTIQUE]]"],"source":["#cours [[Cours d'illustration ESMA]] / [[Proko, figure drawings fundamentals]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-09-29","aliases":["Gesture drawing"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Dessin de geste/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:21.977+01:00","mtime":"2026-04-24T17:43:18.663+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DESSIN]]","[[3_GARDEN/MOCs/ILLUSTRATION]]","[[3_GARDEN/MOCs/CHARA DESIGN]]","[[3_GARDEN/MOCs/ANATOMIE ARTISTIQUE]]"],"source":["#cours [[Cours d'illustration ESMA]] / [[Proko, figure drawings fundamentals]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-09-29","aliases":["Gesture drawing"]}}
 ---
 
 

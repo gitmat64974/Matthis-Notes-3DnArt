@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/DRAME/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:28.782+01:00","mtime":"2026-05-13T23:20:15.264+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/5e cours scénario ESMA 3D2A]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-12-05","aliases":null,"Source":["[[Media_DB/Books/L'Anatomie des histoires]]","[[3_GARDEN/Notes littéraires/Truby - L'anatomie des histoires - note litt]]"]}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/DRAME/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.046+01:00","mtime":"2026-05-13T23:20:15.264+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/DRAMATURGIE]]"],"source":["[[3_GARDEN/Notes littéraires/5e cours scénario ESMA 3D2A]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-12-05","aliases":null,"Source":["[[Media_DB/Books/L'Anatomie des histoires]]","[[3_GARDEN/Notes littéraires/Truby - L'anatomie des histoires - note litt]]"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Couleur en composition picturale/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:28.999+01:00","mtime":"2026-04-24T17:43:18.652+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITION PICTURALE]]"],"source":["[[3_GARDEN/Notes littéraires/Picture This - Molly Bang note litt]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-02-02","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Couleur en composition picturale/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:21.893+01:00","mtime":"2026-04-24T17:43:18.652+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITION PICTURALE]]"],"source":["[[3_GARDEN/Notes littéraires/Picture This - Molly Bang note litt]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-02-02","aliases":null}}
 ---
 
 

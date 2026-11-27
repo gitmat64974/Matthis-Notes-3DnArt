@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Copernicus (Houdini)/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:50.966+01:00","mtime":"2026-11-11T19:35:53.738+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/COMPOSITING]]","[[3_GARDEN/MOCs/SHADING TEXTURING]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-02-20","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Copernicus (Houdini)/","tags":["note_permanente"],"ctime":"2026-09-22T09:47:09.061+02:00","mtime":"2026-11-11T19:35:53.738+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/COMPOSITING]]","[[3_GARDEN/MOCs/SHADING TEXTURING]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":"2026-02-20","aliases":null}}
 ---
 
 ## La note 

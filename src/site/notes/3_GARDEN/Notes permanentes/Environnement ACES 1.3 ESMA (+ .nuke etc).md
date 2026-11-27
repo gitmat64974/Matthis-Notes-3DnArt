@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Environnement ACES 1.3 ESMA (+ .nuke etc)/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:53.303+01:00","mtime":"2025-11-07T17:28:05.970+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITING]]","[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/MARI]]"],"source":["https://loucasrongeart.notion.site/NUKE-INTRO-001-NUKE-INSTALLATION-cb175e3fc68d44088777ecd4857c233d"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-11-06","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Environnement ACES 1.3 ESMA (+ .nuke etc)/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.116+01:00","mtime":"2025-11-07T17:28:05.970+01:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/COMPOSITING]]","[[3_GARDEN/MOCs/3D]]","[[3_GARDEN/MOCs/MARI]]"],"source":["https://loucasrongeart.notion.site/NUKE-INTRO-001-NUKE-INSTALLATION-cb175e3fc68d44088777ecd4857c233d"],"Projets":null,"tags":["note_permanente"],"creation date":"2025-11-06","aliases":null}}
 ---
 
 ## La note 

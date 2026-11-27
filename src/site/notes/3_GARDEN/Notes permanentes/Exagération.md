@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Exagération/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:41.333+01:00","mtime":"2026-04-24T17:43:18.694+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ILLUSTRATION]]","[[3_GARDEN/MOCs/CHARA DESIGN]]"],"source":["#cours [[Cours d'illustration ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-09-29","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Exagération/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.145+01:00","mtime":"2026-04-24T17:43:18.694+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ILLUSTRATION]]","[[3_GARDEN/MOCs/CHARA DESIGN]]"],"source":["#cours [[Cours d'illustration ESMA]]"],"Projets":null,"tags":["note_permanente"],"creation date":"2024-09-29","aliases":null}}
 ---
 
 

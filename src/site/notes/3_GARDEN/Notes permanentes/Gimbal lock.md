@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Gimbal lock/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:54.016+01:00","mtime":"2026-09-22T08:06:20.702+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/MODELISATION]]","[[3_GARDEN/MOCs/ANIMATION]]","[[3_GARDEN/MOCs/RIG]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":null,"aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Gimbal lock/","tags":["note_permanente"],"ctime":"2026-09-22T09:47:09.047+02:00","mtime":"2026-09-22T08:06:20.702+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/HOUDINI]]","[[3_GARDEN/MOCs/MODELISATION]]","[[3_GARDEN/MOCs/ANIMATION]]","[[3_GARDEN/MOCs/RIG]]"],"source":null,"Projets":null,"tags":["note_permanente"],"creation date":null,"aliases":null}}
 ---
 
 

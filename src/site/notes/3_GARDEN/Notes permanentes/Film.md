@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Film/","tags":["note_permanente"],"ctime":"2026-03-21T20:44:39.757+01:00","mtime":"2025-09-20T17:33:50.887+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ANALYSE FILMIQUE]]"],"source":["[[3_GARDEN/Notes littéraires/1er et 2e cours analyse filmique esma 3d2]]","Perplexity"],"tags":["note_permanente"],"Projets":null,"creation date":"2024-11-03","aliases":null}}
+{"dg-publish":true,"permalink":"/3_GARDEN/Notes permanentes/Film/","tags":["note_permanente"],"ctime":"2026-03-22T12:15:22.194+01:00","mtime":"2025-09-20T17:33:50.887+02:00","dg-note-properties":{"MOC":["[[3_GARDEN/MOCs/ANALYSE FILMIQUE]]"],"source":["[[3_GARDEN/Notes littéraires/1er et 2e cours analyse filmique esma 3d2]]","Perplexity"],"tags":["note_permanente"],"Projets":null,"creation date":"2024-11-03","aliases":null}}
 ---
 
 ## La note
